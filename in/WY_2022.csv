@@ -1,0 +1,286 @@
+BURN ID,Burn Name,CONTACT AGENCY/COMPANY,Burn Type,BURN LOCATION LAT,BURN LOCATION LONG,Total Acres,Total Pile Volume,Burned?,Date1,Date2,Date3,Date4,Date5,Date6,Date7,PERMITTED_ACRES,PILE_VOLUME
+2022-07,Copper Mountain Piles - 2022,Bureau of Land Management,SMP II,43.407,-108.029,,"85,500",Burned,2/23/2022,,,,,,,,"85,500"
+2022-08,Green Mountain Piles - 2022,Bureau of Land Management,SMP II,42.33,-107.707,,"25,500",Burned,11/21/2022,11/22/2022,12/7/2022,,,,,,"25,500"
+2022-09,Hadsell Watershed Prescribed Burn - 2022,Bureau of Land Management,SMP II,42.327,-107.731,500,,Burned,4/20/2022,4/21/2022,,,,,,500,
+2022-10,Long Creek Mountain Piles - 2022,Bureau of Land Management,SMP II,42.659,108.015,,"25,600",Burned,2/2/2022,,,,,,,,"25,600"
+2022-100,T-09,Bridger Teton NF,SMP I,43.497,-110.924,,48000,,,,,,,,,,48000
+2022-101,Patton Creek Slash Piles #2,Camp Guernsey Fire Department,SMP I,42.44906,-104.75344,,680,,,,,,,,,,680
+2022-102,Patton Creek Slash Piles #3,Camp Guernsey Fire Department,SMP I,42.44945,-104.74222,,2550,,,,,,,,,,2550
+2022-103,Elk Creek,Shoshone National Forest,SMP II,44.73722,109.4561,130,,,,,,,,,,130,
+2022-104,Horse Pasture,BLM,SMP I,44.11062,-107.88358,Less than 20,,Burned,3/31/2022,,,,,,,20,
+2022-105,PF-30 Taylor Mountain Rx Unit 2,"Jackson Ranger District, Bridger-Teton N.F.",SMP II,43.38534,-111,300,,,,,,,,,,300,
+2022-106,Cottonwood Admin Piles,USFS,SMP I,43.2632,110.7966,,883.57,Burned,4/14/2022,,,,,,,,883.57
+2022-107,Westside Rx,National Park Service,SMP II,44.592,-104.728,155,,Burned,10/19/2022,,,,,,,155,
+2022-108,Mosquito Creek North,USDA-BTNF-North Zone,SMP II,43.45667,-110.91909,,,Burned,5/16/2022,,,,,,,,
+2022-109,Beartrap Prescibed Burns,BLM Buffalo Field Office,SMP II,44.716845,-105.516899,506,,Burned,10/19/2022,,,,,,,506,
+2022-11,Ocean Lake Prescribed Burn - 2022,Bureau of Land Management,SMP II,43.195,-108.538,50-150,,,,,,,,,,100,
+2022-110,Beaver Creek South,USDA Forest Service,SMP II,44.647,-107.6837,2342,,,,,,,,,,2342,
+2022-111,Tensleep Canyon - South Willow Unit,USFS,SMP II,44.13361,-107.26333,892,,,,,,,,,,892,
+2022-112,"BMW - Units 1, 4, & 5",USFS,SMP II,44.29664,-106.92176,878,,,,,,,,,,878,
+2022-113,Wildcat,United States Forest Service,SMP II,42.25,-105,616 total. 308 per burn block,,,,,,,,,,616,
+2022-114,Pinnacle Heights E&W Community Pile,USFS- Shoshone National Forest,SMP I,43.71814,109.982,,1178.1,Burned,12/8/2022,,,,,,,,1178.1
+2022-115,JHMR 2022,Jackson Hole Mountain Resort,SMP I,43.60037,-110.83256,,"40,000",Burned,10/26/2022,10/27/2022,,,,,,,"40,000"
+2022-116,Sherwood,BLM Newcastle,SMP II,43.89459,104.09341,80,,,,,,,,,,80,
+2022-117,Upper Gros Ventre RX,US Forest Service,SMP II,43.635,-110.391,557,,,,,,,,,,557,
+2022-118,Alpine/Palisades,Alpine Fire District,SMP II,43.16585,-111.04059,,,Burned,10/24/2022,,,,,,,,
+2022-119,"Washakie Piles - PIne Creek 14,20,25,36,27",USFS/Washakie Ranger District,SMP II,42.49801,-108.93173,,"85,366.82",,,,,,,,,,"85,366.82"
+2022-12,Philp Prescribed Burn - 2022,Bureau of Land Management,SMP II,43.463,107.82,200-500,,Burned,4/7/2022,4/8/2022,,,,,,250,
+2022-120,Washakie Piles - Loop Road 84,USFS/Washakie Ranger District,SMP II,42.55682,-108.75261,,"106,708.52",,,,,,,,,,"106,708.52"
+2022-121,Washakie Piles - Loop Road 28,USFS/Washakie Ranger District,SMP II,42.53117,-108.77843,,"85,366.82",,,,,,,,,,"85,366.82"
+2022-122,Washakie Piles - Loop Road 84,USFS/Washakie Ranger District,SMP II,42.55706,-108.76617,,"106,708.52",Burned,12/8/2022,12/9/2022,12/16/2022,12/19/2022,12/20/2022,,,,"106,708.52"
+2022-123,Washakie Piles,USFS/Washakie Ranger District,SMP I,42.58545,-108.85039,,"5,966.68",Burned,12/7/2022,,,,,,,,"5,966.68"
+2022-124,Washakie Piles - Pass Creek Community Pile,USFS/Washakie Ranger District,SMP I,42.61231,-108.75362,,423.32,Burned,12/16/2022,,,,,,,,423.32
+2022-125,Washakie Piles - Louis Lake Admin Pile,USFS/Washakie Ranger District,SMP I,42.59078,-108.85241,,423.32,Burned,12/12/2022,,,,,,,,423.32
+2022-126,Washakie Piles - Dickinson Park Admin Pile,USFS/Washakie,SMP I,42.85513,-109.05753,,423.32,,,,,,,,,,423.32
+2022-127,Washakie Piles - Diamond 4 Pile,USFS/Washakie,SMP I,42.86114,-109.04366,,"1,506.17",,,,,,,,,,"1,506.17"
+2022-128,Washakie Piles - Youth Park Pile,USFS/Washakie Ranger District,SMP I,42.70285,-108.9096,,423.32,,,,,,,,,,423.32
+2022-129,Middle Fork F10,USFS/Washakie Ranger District,SMP II,42.62944,-108.81439,950,,,,,,,,,,950,
+2022-13,Bear Trap,BLM,SMP I,43.90016,107,,,,,,,,,,,,
+2022-130,Washakie Aspen Unit 17,USFS/Washakie Ranger District,SMP II,42.67408,-108.87205,16,,,,,,,,,,16,
+2022-131,Devils Tower West,National Park Service Fire Management,SMP II,44.353,-104.43,113,,,,,,,,,,113,
+2022-132,Philips Bench Unit 5 (T-06),,SMP I,43,110,,,,,,,,,,,,
+2022-133,Philips Bench Unit 5 (T-06),U.S. Forest Service Bridger Teton National Forest,SMP I,43,110,,,,,,,,,,,,
+2022-134,Alpine Fuels Pile Burn,USFS - Caribou-Targhee National Forest,SMP II,43.17919,-111.01502,,268000,,,,,,,,,,268000
+2022-135,Teton to Snake Philips Bench Unit 5 (T-06),U.S. Forest Service Bridger-Teton National Forest Jackson Ranger District,SMP I,43.3,-110.53,,,Burned,11/3/2022,,,,,,,,
+2022-136,Miner's Delight Piles,Bureau of Land Management,SMP I,42.533,-108.68,,"1,710",,,,,,,,,,"1,710"
+2022-137,Beaver Creek Burn Piles 2022,National Park Service Grand Teton National Park,SMP I,43.68725,-110.73848,,"3,036.78	 ft³",Burned,11/2/2022,,,,,,,,"3,036.78"
+2022-138,Monument Ridge RX,USDA Forest Service,SMP II,43.21721,-110.45652,2150,,,,,,,,,,2150,
+2022-139,White Pine Piles,USFS,SMP I,42.97516,-109.74819,,,Burned,11/8/2022,11/9/2022,11/10/2022,11/11/2022,11/12/2022,11/13/2022,11/17/2022,,
+2022-14,Billy Creek Public Pile,BLM,SMP I,44.11667,106.3866759,,"6,000",Burned,1/5/2022,,,,,,,,"6,000"
+2022-140,Pinedale Field Office Piles,BLM,SMP I,43.073,-109.984,,,Burned,11/15/2022,,,,,,,,
+2022-141,Dry Muddy,WSFD,SMP II,43.152261,-106.856253,,483295,Burned,1/24/2023,1/25/2023,,,,,,,483295
+2022-142,Red Top (T-36),USFS Bridger-Teton National Forest Jackson Ranger District,SMP I,43.36697,-110.84581,,"71,471.23",Burned,11/9/2022,,,,,,,,"71,471.23"
+2022-143,Toppings Lake RD.,USFS Bridger-Teton National Forest Jackson Ranger District,SMP I,43.76382,-110.549,,,Burned,11/8/2022,,,,,,,,
+2022-144,EK Mountain,BLM,SMP I,43.79813,106.8359,,,Burned,12/14/2022,12/15/2022,2/1/2023,3/7/2023,3/8/2023,,,,
+2022-145,EK Mountain,BLM,SMP I,44.0919,106.83163,,,Burned,1/11/2023,1/12/2023,1/18/2023,1/19/2023,1/20/2023,1/24/2023,1/25/2023,,
+2022-146,Sky Ranch RX,Grand Teton National Park,SMP I,-110.765,43.6568,,"11,133.02",Burned,11/9/2022,11/10/2022,11/15/2022,,,,,,"11,133.02"
+2022-147,Camp Guernsey Impact Area Burn,Camp Guernsey Fire Department,SMP I,42.37077,-104.8518,100,,Burned,11/8/2022,,,,,,,100,
+2022-148,Rattlesnake Mtn piles,BLM,SMP II,4435.082,10916.928,,600,,,,,,,,,,600
+2022-149,Monument Ridge Piles,USFS,SMP I,43.17139,-113,,,Burned,11/13/2022,11/14/2022,11/15/2022,11/16/2022,,,,,
+2022-15,Dull Knife Mahogany,BLM,SMP I,43.7457,106.85764,,,,,,,,,,,,
+2022-150,WSFD-FCP Woodlot,Wyoming State Forestry Division,SMP I,43.87458,-104.19061,,"14,000",Burned,1/27/2023,,,,,,,,"14,000"
+2022-151,WSFD-FCP LAK State Section Hand Piles,Wyoming State Forestry Division,SMP I,43.84623,-104.1182,,"45,000",Burned,12/19/2022,12/20/2022,1/3/2023,1/4/2023,1/5/2023,1/27/2023,2/6/2023,,"45,000"
+2022-152,Crater Ridge,Forest Serivce,SMP II,44.92171,-107.82705,,"282,015,274",,,,,,,,,,"282,015,274"
+2022-153,Quill Landing Piles,Forest Service,SMP II,44.8244,-107.83831,,"5,734,000",,,,,,,,,,"5,734,000"
+2022-154,wilderness Ranches pile,Forest Service,SMP I,43.84255,-110.44752,,"3,059.78",Burned,11/17/2022,,,,,,,,"3,059.78"
+2022-155,Ferris Mountain Douglas Fir Understory pile burn,Bureau of Land Management,SMP I,4214.742,-10724.996,,"68,613.52",Burned,12/7/2022,,,,,,,,"68,613.52"
+2022-156,Rome Hill,,,,,,,,,,,,,,,,
+2022-157,Patton Creek Slash Piles,Camp Guernsey Fire Department,SMP I,42.4516,-104.74308,,"1,053.00",,,,,,,,,,"1,053.00"
+2022-158,Cold Springs,USFS,SMP I,44,-107,,"29,909.64",,,,,,,,,,"29,909.64"
+2022-159,Masonic,USFS/USDA,SMP I,44.56351,107.55816,,"1,733.94",,,,,,,,,,"1,733.94"
+2022-16,Pyrenees Timber Sale,BLM,SMP I,43.95022,107.05023,,,Burned,1/6/2022,,,,,,,,
+2022-160,Boulder Ridge Slash Pile Rx burn,Bureau of Land Management,SMP II,4059.906,-10538.762,,2192932.42,,,,,,,,,,2192932.42
+2022-161,Kelly Pit Slash,Grand Teton National Park,SMP I,43.37,-110.38,,"10,000 Cu ft",,,,,,,,,,"10,000"
+2022-162,Box Elder Trust,Spearfish Forest Products,SMP I,44.4475,-104.558,,"1,570,796",Burned,1/3/2023,1/4/2023,1/5/2023,1/9/2023,1/10/2023,1/11/2023,,,"1,570,796"
+2022-163,Klevin,Spearfish Forest Products,SMP I,44.62956,-104.07404,,1500000,,,,,,,,,,1500000
+2022-164,Stateline Piles 2022,BLM Newcastle,SMP I,43.86951,-104.09014,,122000,,,,,,,,,,122000
+2022-165,Blacktail Pile Burn,WSFD,SMP II,44.6254,-104.499,,561873,Burned,2/7/2023,2/8/2023,2/9/2023,2/10/2023,,,,,561873
+2022-166,WolfSkill Pile Burn,WSFD,SMP I,44.6635,-104.785,,290369,Burned,1/13/2023,1/16/2023,,,,,,,290369
+2022-167,West Beaver Pile Burn,WSFD,SMP I,43.9484,-104.126,,387811,Burned,4/27/2023,1/30/2023,1/31/2023,,,,,,387811
+2022-168,Oshoto Pile Burn,WSFD,SMP I,44.5801,-104.914,,310999,,,,,,,,,,310999
+2022-169,Ground Hog Pile Burn,WSFD,SMP I,44.3792,-104.51,,"50,231",Burned,1/18/2023,,,,,,,,"50,231"
+2022-17,Sawmill Creek,BLM,SMP I,43.83345,107.06671,,,,,,,,,,,,
+2022-170,Cummings Pile Burn,WSFD,SMP I,44.4904,-104.549,,"449,466",,,,,,,,,,"449,466"
+2022-171,WSFD-FCP HWY 16 PILES (UPTON),Wyoming State Forestry Division,SMP I,44.07799,-104.58062,,"35,000",Burned,1/4/2023,1/5/2023,1/6/2023,1/26/2023,1/27/2023,,,,"35,000"
+2022-172,WSFD-FCP Office Section Machine Piles,Wyoming State Forestry Division,SMP I,43.87568,-104.19268,,"56,548",Burned,1/26/2023,,,,,,,,"56,548"
+2022-173,WSFD-FCP Bings Corner State Section,Wyoming State Forestry Division,SMP I,43.92467,-104.36251,,"18,849",Burned,1/5/2023,,,,,,,,"18,849"
+2022-174,Bear River SFA Pile RX,Bureau of Land Management,SMP II,41.70583,111.01972,,"648,586",,,,,,,,,,"648,586"
+2022-175,Commissary Ranches,Bureau of Land Management,SMP II,42.00933,-110.5522,,"97,600",,,,,,,,,,"97,600"
+2022-18,Trough Springs,BLM,SMP I,43.79587,106.86552,,,Burned,1/19/2022,,,,,,,,
+2022-19,Weston Hills,BLM,SMP I,44.62399,105.38312,,,,,,,,,,,,
+2022-20,Nugent Rx - Hams Fork Unit 2,USFS / Bridger-Teton NF,SMP II,-110.804,42.176,68,,,,,,,,,,68,
+2022-21,Little Hornet / Packsaddle,USFS / BTNF,SMP II,42.364,-110.555,400,,,,,,,,,,400,
+2022-22,LOOP ROAD 28,USFS,SMP II,42.51855,108.77956,,938.26,Burned,1/10/2022,,,,,,,,938.26
+2022-23,LOOP ROAD 7,USFS,SMP I,42.58509,108.85203,,1492.26,Burned,1/11/2022,,,,,,,,1492.26
+2022-24,Commissary Ranches,Government BLM Kemmerer Field Office,SMP II,42.00933,-110.5522,,"97,600",,,,,,,,,,"97,600"
+2022-25,LOUIS LAKE ADMINISTRATIVE PILES,USFS,SMP I,42.59256,108.85379,,807.26,,,,,,,,,,807.26
+2022-26,Bear River RX,Government BLM Kemmerer Field Office,SMP II,111.42216,111.01115,,"648,586",,,,,,,,,,"648,586"
+2022-27,PASS CREEK COMMUNITY PILE,USFS,SMP I,42.611,108.75591,,807.26,Burned,1/5/2022,,,,,,,,807.26
+2022-28,MIDDLE FORK F10,USFS,SMP II,42.63318,108.80603,"1,107",,,,,,,,,,"1,107",
+2022-29,"WASHAKIE ASPEN 2,3, 5-18",USFS,SMP II,42.67786,108.8718,312 ACRES,,,,,,,,,,312,
+2022-30,Strawberry,USFS,SMP II,42.902,-110.808,2554,,Burned,10/19/2022,10/20/2022,,,,,,2554,
+2022-31,West Zone Piles,,SMP II,42,-110.778,,2000,Burned,11/15/2022,,,,,,,,2000
+2022-32,Hams Fork Aspen / Basin Creek,USFS,SMP II,42.251,-110.774,27,,,,,,,,,,27,
+2022-33,Star Valley Front Unit 3,USFS,SMP II,42.789,-110,100,,Burned,3/24/2022,4/3/2022,,,,,,100,
+2022-34,West Beaver,Wyoming State Forestry Division,SMP II,43.954,104.125,,"750,000",,,,,,,,,,"750,000"
+2022-35,Oshoto,Wyoming State Forestry Division,SMP II,44.577,-105,,"300,000",,,,,,,,,,"300,000"
+2022-36,Ista,Wyoming State Forestry Division,SMP II,44.757,-104.666,,"150,000",,,,,,,,,,"150,000"
+2022-37,Blacktail,Wyoming State Forestry Division,SMP II,44.627,-104.483,,"900,000",,,,,,,,,,"900,000"
+2022-38,Moskee,Wyoming State Forestry Division,SMP I,44.314,-104.186,,"43,200",,,,,,,,,,"43,200"
+2022-39,Horse Creek Guard Station,USFS/Shoshone National Forest,SMP I,43.67275,109.6395,,"2,094.40",Burned,1/20/2022,,,,,,,,"2,094.40"
+2022-40,Long Creek Roadside,USFS/Shoshone National Forest,SMP I,43.67275,109.6395,,"107,233.03",Burned,1/18/2022,1/19/2022,,,,,,,"107,233.03"
+2022-41,LWT-39,USFS/Shoshone National Forest,SMP I,43.5525,109.8661,,601.87,,,,,,,,,,601.87
+2022-42,Cook Lake,USFS,SMP II,4435.407,10421.383,,"15,708",,,,,,,,,,"15,708"
+2022-43,Sheridan Creek,USFS/Shoshone National Forest,SMP I,43.63714,109.9323,,"12,566.37",Burned,12/8/2022,,,,,,,,"12,566.37"
+2022-44,Tie Camp,USFS/Shoshone National Forest,SMP I,43.52358,109.7599,,"58,978.17",Burned,2/3/2022,12/7/2022,,,,,,,"58,978.17"
+2022-45,Union Pass Community,USFS/Shoshone National Forest,SMP I,43.57111,109.8358,,"3,304.58",Burned,12/9/2022,,,,,,,,"3,304.58"
+2022-46,Vista,USFS/Shoshone National Forest,SMP I,43.71537,109.9762,,7068.58,Burned,12/8/2022,,,,,,,,7068.58
+2022-47,North Bearlodge,USFS,SMP II,4444.712,10422.725,,"15,708",Burned,2/22/2022,,,,,,,,"15,708"
+2022-48,Warm Springs CG,USFS/Shoshone National Forest,SMP I,43.56761,109.8433,,16755.16,Burned,1/20/2022,,,,,,,,16755.16
+2022-49,Herman,USFS,SMP II,4433.838,10429.208,,"15,708",Burned,2/21/2022,,,,,,,,"15,708"
+2022-50,T-11,USFS/Shoshone National Forest,SMP I,43.66411,109.9622,,"226,194.67",Burned,1/24/2022,1/25/2022,1/26/2022,1/27/2022,,,,,"226,194.67"
+2022-51,Coil Tornado,USFS,SMP II,4421.292,10409.33,,"15,708",Burned,1/25/2022,,,,,,,,"15,708"
+2022-52,Fish Mountain Hand Piles,USFS,SMP II,4418.532,10416.708,,,Burned,2/1/2022,,,,,,,,
+2022-53,Buttes,USFS,SMP II,4418.532,10416.708,747,,,,,,,,,,747,
+2022-54,Moskee,USFS,SMP II,4415.6,10406.79,5875,,,,,,,,,,5875,
+2022-55,Teton Basin Pile Burning,USDA Forest Service,SMP II,43.67493,-110.99359,,54,Burned,5/20/2022,,,,,,,,54
+2022-56,Teton Canyon Pile Burn,USDA Forest Service,SMP II,43.75496,-110.97176,,"567,000",Burned,11/2/2022,11/3/2022,,,,,,,"567,000"
+2022-57,Hill Creek Prescribed Fire,USDA Forest Service,SMP II,43.69167,-111.00833,1714,,,,,,,,,,1714,
+2022-58,Teton Canyon Broadcast RX Unit 1,USDA Forest Service,SMP II,43.76247,-110.97017,206,,Burned,10/15/2022,,,,,,,206,
+2022-59,Teton Canyon Broadcast RX Unit 2,USDA Forest Service,SMP II,43.76247,-110.97017,316,,Burned,10/18/2022,10/19/2022,,,,,,316,
+2022-60,Chief Joseph,USFS,SMP II,44.47,1092544.76,,"100,000",,,,,,,,,,"100,000"
+2022-61,Meeteetse,USFS,SMP II,44.01,109542.31,,"200,000",,,,,,,,,,"200,000"
+2022-62,North Fork,USFS,SMP II,442746.03,1094113.24,,"100,000",,,,,,,,,,"100,000"
+2022-63,South Fork,USFS,SMP II,441012.16,109366.23,,"100,000",,,,,,,,,,"100,000"
+2022-64,Timber Creek,USFS,SMP II,44249.23,1091045.94,1684,,,,,,,,,,1684,
+2022-65,Sugarloaf,USFS,SMP II,445014.1,1092948.13,277,,,,,,,,,,277,
+2022-66,Cottonwood,USFS,SMP II,435254.7,10914.21,2306,,,,,,,,,,2306,
+2022-67,Bald Ridge,USFS,SMP II,445513.63,1094346.41,660,,,,,,,,,,660,
+2022-68,Upper Clarks Fork,USFS,SMP II,445513.63,1094346.41,1913,,,,,,,,,,1913,
+2022-69,Wood River,USFS,SMP II,435551.74,1091054.39,2156,,,,,,,,,,2156,
+2022-70,Sunlight,USFS,SMP II,44459.8,109313.58,4236,,Burned,4/15/2022,,,,,,,4236,
+2022-71,"Camp Comfort, Unit 18, 19, 20",USFS,SMP II,44.315,-106.883,,,,,,,,,,,,
+2022-72,Dullknife,USFS,SMP II,44.04,-107.043,,"71,500",Burned,1/26/2022,,,,,,,,"71,500"
+2022-73,"Grommund Creek, Unit 5",USFS,SMP II,44.278,-106.867,,,,,,,,,,,,
+2022-74,"2021 WUI Unit 19, Hunter Cabins",USFS,SMP II,44.317,-106.962,,,Burned,2/15/2022,2/16/2022,,,,,,,
+2022-75,MBRTB Programmatic Pile Burn,USFS,SMP II,41.07417,106.13111,,,Burned,11/30/2022,,,,,,,,
+2022-76,MBRTB Programmatic Pile Burn - Brush Creek/Hayden RD,USDA USFS,SMP II,41.23571,107.08268,,"1,636,246.17",Burned,12/7/2022,,,,,,,,"1,636,246.17"
+2022-77,West Slope Big Horns/Sand Draw,Bureau of Land Management Wind River/Bighorn Basin District,SMP II,44.05075,107.34442,,7747,Burned,11/17/2022,,,,,,,,7747
+2022-78,Telephone Canyon,,SMP I,41.26579,-106.47699,,5000,,,,,,,,,,5000
+2022-79,Cedar Knoll,USDA Forest Service,SMP II,4408.442,-10429.607,,,,,,,,,,,,
+2022-80,Devils Pass,USDA Forest Service,SMP II,4222.11,-10539.992,,,,,,,,,,,,
+2022-81,Clay Spur Llama Unit,USDA Forest Service,SMP II,4401.717,-10428.15,,,,,,,,,,,,
+2022-82,Wildcat Unit 13,USDA Forest Service,SMP II,4222.11,-10539.992,,,,,,,,,,,,
+2022-83,East Double Eight Timber Sale Slash Piles,Bureau of Land Management,SMP I,4131.645,-10621.76,,1720.02,,,,,,,,,,1720.02
+2022-84,Seminoe WUI Morgan Creek Slash Piles Rx,Bureau of Land Management,SMP I,4210.607,-10657.687,,"6,018.73",,,,,,,,,,"6,018.73"
+2022-85,Upper Pastures,Wind River Bighorn Basin District BLM,SMP II,43.81495,108.90347,4990,,,,,,,,,,4990,
+2022-86,Noon Point,Wind River Bighorn Basin District BLM,SMP II,43.9415,109.05,3935,,,,,,,,,,3935,
+2022-87,Medicine Lodge,Wind River Bighorn Basin District BLM,SMP II,44.38969,107.47117,300,,,,,,,,,,300,
+2022-89,Hooligan Springs,Wind River Bighorn Basin District BLM,SMP II,44.18022,107.37267,200,,Burned,5/6/2022,,,,,,,200,
+2022-90,Markham Draw,Wind River Bighorn Basin District BLM,SMP II,44.17192,107.34947,,7747,Burned,11/15/2022,,,,,,,,7747
+2022-91,Beaver Creek Piles,Wind River/Bighorn Basin District,SMP II,-44.70639,107.73472,,"136,500",Burned,1/21/2022,,,,,,,,"136,500"
+2022-92,RFO Campgrounds Slash Pile Burns - Encampment River Campground Unit,Bureau of Land Management,SMP I,41.109,-10647.641,,,Burned,2/1/2022,2/2/2022,,,,,,,
+2022-93,RFO Campgrounds Slash Pile Burns - Pryor Flats Campground Unit,Bureau of Land Management,SMP I,4114.512,-10635.74,,85465.96,,,,,,,,,,85465.96
+2022-94,Oak Patch TSI PIle,WSFD,SMP I,,,,,Burned,1/10/2022,1/11/2022,,,,,,,
+2022-95,South Corral Creek Slash Piles,Bureau of Land Management,SMP I,4115.123,-10632.412,,"129,925",Burned,1/25/2022,1/26/2022,,,,,,,"129,925"
+2022-96,Cow Camp Timber Sale,Bureau of Land Management,SMP II,417.762,-10649.344,,60328,,,,,,,,,,60328
+2022-97,Pole Mtn. Vegetation Project,USDA US Forest Service,SMP II,41.25138,105.35526,"1,000",,Burned,5/17/2022,,,,,,,"1,000",
+2022-98,Devils Canyon Prescribed Fire,Wind River/Bighorn Basin District BLM,SMP II,-44.88556,-44.88556,3000 acres total for all units but most likely wouldnt get all of these in 1 year,,Burned,3/26/2022,3/27/2022,,,,,,3000,
+2022-99,Patton Creek Slash Piles,Camp Guernsey Fire Department,SMP I,42.44982,-104.75207,,680,,,,,,,,,,680
+2023 -180,Cook Lake,Forest Service,SMP II,44.59694,-104.39164,,"15,000",,,,,,,,,,"15,000"
+2023-176,Pine Ridge Pile Burn,WSFD,SMP I,44.2822,-104.727,,293,,,,,,,,,,293
+2023-177,Wildcat,USFS,SMP II,4222.11,-10539.922,,,Burned,1/4/2023,1/5/2023,1/9/2023,1/10/2023,,,,,
+2023-178,Clay Spur,USFS,SMP II,4401.717,-10428.15,,,Burned,1/30/2023,2/28/2023,,,,,,,
+2023-179,North Bearlodge,Forest Service,SMP II,44.75286,-104.3824,,"15,000",Burned,2/2/2023,2/7/2023,2/8/2023,2/9/2023,2/14/2023,2/15/2023,,,"15,000"
+2023-181,Coil,Forest Service,SMP II,44.36292,-104.14865,,"15,000",Burned,1/31/2023,,,,,,,,"15,000"
+2023-182,Fish,Forest Service,SMP II,44.30501,-104.24312,,500,Burned,1/4/2023,1/5/2023,1/30/2023,3/20/2023,3/21/2023,3/22/2023,,,500
+2023-183,Addition Country,Forest Service,SMP II,44.46586,-104.52583,,"15,000",Burned,4/11/2023,,,,,,,,"15,000"
+2023-184,Stateline,Forest Service,SMP II,44.4281,-104.07653,,"15,000",Burned,3/10/2023,3/13/2023,3/14/2023,,,,,,"15,000"
+2023-185,Stateline Piles 2022,BLM Newcastle,SMP I,1044.157,43.53082,,"122,000",,,,,,,,,,"122,000"
+2023-186,Philp Prescribed Burn - 2023,Bureau of Land Management,SMP II,43.457,-107.867,Approx. 1000 acres,,,,,,,,,,1000,
+2023-187,Hadsell Prescribed Burn - 2023,Bureau of Land Management,SMP II,42.327,-107.729,Approx. 200-1000 acres depending on conditions,,,,,,,,,,600,
+2023-188,Ocean Lake Prescribed Burn - 2023,Bureau of Land Management,SMP II,43.199,-108.55,100,,,,,,,,,,100,
+2023-189,Green Mountain Piles - Willow Creek,Bureau of Land Management,SMP II,42.343,-107.606,,"256,585",,,,,,,,,,"256,585"
+2023-190,Green Mountain Piles - Jost Creek,Bureau of Land Management,SMP I,42.331,-107.707,,"42,764",,,,,,,,,,"42,764"
+2023-191,Miner's Delight Piles,Bureau of Land Management,SMP I,42.533,-108.68,,"1,710",Burned,2/1/2023,,,,,,,,"1,710"
+2023-192,Long Creek/Tin Cup Piles - 2023,Bureau of Land Management,SMP I,42.637,-107.958,,"102,634",,,,,,,,,,"102,634"
+2023-193,"Camp Comfort Unit 18, 19, 20",USFS,SMP II,44.315,-106.88333,,,Burned,1/5/2023,1/6/2023,,,,,,,
+2023-194,"Grommund Creek, Unit 5",USFS,SMP II,44.27833,-106.86666,,,Burned,1/18/2023,1/19/2023,1/20/2023,,,,,,
+2023-195,Snowy Range,Medicine Bow National Forest,SMP I,41.29013,-106.27154,,"300,000",,,,,,,,,,"300,000"
+2023-196,Sierra Madre Range,Medicine Bow National Forest,SMP I,41.5471,-106.9808,,"300,000",,,,,,,,,,"300,000"
+2023-197,Pole Mountain,Medicine Bow National Forest,SMP I,41.23816,-105.39274,,"5,400",,,,,,,,,,"5,400"
+2023-199,Dull Knife Mahogany,BLM,SMP I,44.7457,106.85764,,,,,,,,,,,,
+2023-200,EK Mountain,BLM,SMP I,43.79813,-106.8359,,,,,,,,,,,,
+2023-201,Sawmill Creek,BLM,SMP I,43.88847,-106,,,,,,,,,,,,
+2023-202,Billy Creek Public Pile,BLM,SMP I,44.11661,-106.87217,,,Burned,1/18/2023,,,,,,,,
+2023-203,Billy Creek TSI,BLM,SMP I,44.11661,-106.83179,,,Burned,1/11/2023,1/12/2023,1/18/2023,1/19/2023,1/20/2023,1/24/2023,1/25/2023,,
+2023-204,Weston Hills,BLM,SMP I,44.62399,-105.38312,,,,,,,,,,,,
+2023-205,Noon Point,BLM,SMP II,43.9415,-109.04997,250,,,,,,,,,,250,
+2023-206,Medicine Lodge,BLM,SMP II,44.35,-107.51667,250,,,,,,,,,,250,
+2023-207,Hooligan Springs,BLM,SMP II,44.18022,-107.37267,100,,,,,,,,,,100,
+2023-208,Markham Draw,BLM,SMP II,44.17192,-107.34947,,"7,747",,,,,,,,,,"7,747"
+2023-209,Sand Draw,BLM,SMP II,44.05075,-107,,"7,747",,,,,,,,,,"7,747"
+2023-210,Rattlesnake Butte,BLM,SMP II,44.11054,-107.885,,"6,000",,,,,,,,,,"6,000"
+2023-211,Boulder Ridge Slash Pile Rx burn,Bureau of Land Management,SMP II,4059.906,-10538.762,,2192932.42,,,,,,,,,,2192932.42
+2023-212,Lawler Croell,Spearfish Forest Products,SMP I,44.41969,-104.64694,,"198,803",Burned,1/16/2023,1/17/2023,1/18/2023,1/19/2023,1/20/2023,1/23/2023,1/24/2023,,"198,803"
+2023-213,Foot Creek Units 1 & 2,USFS,SMP II,44.32815,-106.91285,,,Burned,1/10/2023,,,,,,,,
+2023-214,Pinedale Field Office Programmatic Piles (FY23),Pinedale Field Office BLM,SMP I,42.3535,-110.39447,,"4,998.93",Burned,1/13/2023,,,,,,,,"4,998.93"
+2023-215,Quill Landing Piles,U.S.D.A./ Forest Service,SMP II,44.8259,-107.843,,"5,734,000",Burned,1/5/2023,,,,,,,,"5,734,000"
+2023-216,NZSHF- Meeteetse (Piles),USFS- Shoshone National Forest,SMP II,43.97984,-109.1169,,160000,Burned,1/19/2023,,,,,,,,160000
+2023-217,"Pine Creek 14, 20,25, 36, 27",USFS,SMP II,42.49313,-108.944922,,"50,893.80",Burned,3/13/2023,3/14/2023,,,,,,,"50,893.80"
+2023-218,Loop Road 28,USFS,SMP II,42.52736,-108.77657,,"25,658.50",,,,,,,,,,"25,658.50"
+2023-219,Loop Road 84,USFS,SMP I,42.55727,-108.7666,,"1,696.46",,,,,,,,,,"1,696.46"
+2023-220,Pass Creek,USFS,SMP I,42.61099,-108.75575,,"1,570.80",,,,,,,,,,"1,570.80"
+2023-221,Diamond 4/Dickinson Park,USFS,SMP I,42.85722,-109.05101,,"3,141.59",,,,,,,,,,"3,141.59"
+2023-222,Jackpot Piles,BLM Newcastle,SMP I,44.29282,-104.48538,,"122,000.00",,,,,,,,,,"122,000.00"
+2023-223,Eagle Ridge,Bureau of Land Management,SMP I,42.6977,-106.429,,"154,955",,,,,,,,,,"154,955"
+2023-224,RSFO Iron Mountain Fuels Treatments Pile Rx,BLM WY HDD,SMP I,41.00896,-109.46059,,"160,000",Burned,2/1/2023,,,,,,,,"160,000"
+2023-225,Patten Creek Slash Piles,Camp Guernsey Fire Department,SMP I,42.44933,-104.74501,,"1,072",Burned,1/13/2023,,,,,,,,"1,072"
+2023-226,Sunlight RX,USFS,SMP II,44.73966,-109.52374,4236,,Burned,4/29/2023,4/30/2023,,,,,,4236,
+2023-227,Little Hornet / Packsaddle,,SMP II,42.418,-110.559,1417,,,,,,,,,,1417,
+2023-228,Hams Fork - Nugent (Unit 2),USFS - BTNF,SMP II,42.176,-110.805,68,,,,,,,,,,68,
+2023-229,Hams Fork - Basin RX (Unit 5),USFS - BTNF,SMP II,42.259,-110.767,27,,,,,,,,,,27,
+2023-230,Hams Fork - Unit 6 and Unit 8,USFS - BTNF,SMP II,42.303,-110.751,200,,,,,,,,,,200,
+2023-231,Star valley Front - Strawberry Rx (Unit 9),USFS -BTNF,SMP II,42.881,-110.807,947,,,,,,,,,,947,
+2023-232,Star Valley Front - Unit 2A,,SMP II,42.759,-110.904,3483,,,,,,,,,,3483,
+2023-233,Star Valley Front - Unit 2,,SMP II,42.759,-110.904,5000,,,,,,,,,,5000,
+2023-234,Rodger Croell,Spearfish Forest Products,SMP I,44.3882,-104.5858,,"88,357",Burned,1/24/2023,1/25/2023,2/13/2023,,,,,,"88,357"
+2023-235,Boulder Ridge Pile BUrn,Wyoming State Forestry,SMP I,2,2,,,,,,,,,,,,
+2023-236,Stateline IGO,BLM Newcastle,SMP I,43.83554,-104.06485,,"122,000",,,,,,,,,,"122,000"
+2023-237,Bates Creek Juniper Slash Pile Burn,WY State Forestry Division,SMP I,42.641,-106.392,,"2,000",Burned,1/19/2023,,,,,,,,"2,000"
+2023-238,Billie Jean Sale Piles,USFS,SMP II,44.15099,-106.9241,,,,,,,,,,,,
+2023-239,Caribou Sale,USFS,SMP II,44.21228,-106.90199,,,,,,,,,,,,
+2023-240,Snyder Sale,USFS,SMP II,44.22968,-106.98332,,,,,,,,,,,,
+2023-241,Wood River RX,USFS- Shoshone NF,SMP II,43.9168,-109.1113,2965,,,,,,,,,,2965,
+2023-242,Boulder Ridge Pile BUrn,Wyoming State Forestry,SMP I,1,1,,,,,,,,,,,,
+2023-243,Yellowtail,BLM,SMP II,44.87154,-108.29557,65,,,,,,,,,,65,
+2023-244,Mill Creek Slash Pile Burn,WY State Forestry Division,SMP I,42.40792,-105.43929,,"3,460",Burned,1/24/2023,1/25/2023,,,,,,,"3,460"
+2023-245,Goldie Divide,BLM Newcastle,SMP I,44.81897,-104.75684,,"175,000",,,,,,,,,,"175,000"
+2023-246,Newcastle Fire Defense Zone,BLM Newcastle,SMP I,43.8766,-104.22882,,"140,000",,,,,,,,,,"140,000"
+2023-247,McDonald,Spearfish Forest Products,SMP I,44.72598,-104.32087,,"3,927",Burned,1/31/2023,,,,,,,,"3,927"
+2023-248,Lincoln,Spearfish Forest Products,SMP I,44.19724,-104.40475,,"9,425",Burned,2/1/2023,,,,,,,,"9,425"
+2023-249,Boulder Ridge slash pile burn,Wyoming state forestry division,SMP I,1,1,,,,,,,,,,,,
+2023-250,Timber Creek,Shoshone National Forest,SMP II,44.04091,-109.18326,1684,,Burned,4/17/2023,,,,,,,1684,
+2023-251,Cottonwood/Gooseberry RX,Shoshone National Forest,SMP II,43.8997,-109.0463,2722,,,,,,,,,,2722,
+2023-252,Bald Ridge II,Shoshone Nat. Forest,SMP II,44.7448,-109.3765,660,,,,,,,,,,660,
+2023-253,Skull Creek,BLM Newcastle,SMP I,44.13729,-104,,"122,000",,,,,,,,,,"122,000"
+2023-254,Upper Twin Creek,Wyoming State Forestry Division,SMP II,42.57434,-108.66383,,"70,000",,,,,,,,,,"70,000"
+2023-255,Davidson,Spearfish Forest Products,SMP I,44.78219,-104.63745,,"5,655",,,,,,,,,,"5,655"
+2023-256,Pine Creek,Wyoming State Forestry Division,SMP I,42.48508,-108.904,,"47,000",,,,,,,,,,"47,000"
+2023-257,Pine Creek,Wyoming State Forestry Division,SMP I,42.48508,-108.904,,"47,000",,,,,,,,,,"47,000"
+2023-258,Elk Creek,Shoshone National Forest,SMP II,44.73722,-109.4561,138,,Burned,4/29/2023,,,,,,,138,
+2023-259,Gray Rocks TSI Slash Pile Burn,WY State Forestry Division,SMP I,42.41846,-105.44004,,"4,500",Burned,2/10/2023,2/13/2023,,,,,,,"4,500"
+2023-260,CLC,Spearfish Forest Products,SMP I,44.43088,-104.50949,,"167,551",,,,,,,,,,"167,551"
+2023-262,Teton Canyon Piles,USFS,SMP II,43.75927,-110.98333,,"19,500",,,,,,,,,,"19,500"
+2023-263,Teton Basin Piles,USFS,SMP II,43.6736,-110.99528,,"1,500",,,,,,,,,,"1,500"
+2023-264,Hill Creek Prescribed Fire,USFS,SMP II,43.69623,-111.01508,1714,,,,,,,,,,1714,
+2023-265,Alpine Prescribed Fire,USFS,SMP II,43.18361,-111.01172,72,,,,,,,,,,72,
+2023-266,Alpine Piles,USFS,SMP II,43.18361,-111.01172,,"13,000",,,,,,,,,,"13,000"
+2023-267,Rapid Creek Prescribed Fire,USFS,SMP II,43.7169,-111.02617,40,,,,,,,,,,40,
+2023-268,Clay Spur RX,USDA Forest Service,SMP II,44.03754,-104.41342,327,,Burned,3/29/2023,,,,,,,327,
+2023-269,Devil's Canyon,BLM,SMP II,44.94393,-108.14987,500,,,,,,,,,,500,
+2023-270,Short Fork,BLM,SMP II,44.23091,-109.10413,500,,Burned,5/30/2023,,,,,,,500,
+2023-271,Long Creek,Wyoming State Forestry Division,SMP I,43,-109.82425,,"20,420",,,,,,,,,,"20,420"
+2023-272,Heald Road,Wyoming State Forestry Division - District 5,SMP II,44.702,-105.219,,"107,824",,,,,,,,,,"107,824"
+2023-273,Rome Hill Rd,Wyoming State Forestry Division - District 5,SMP II,43.967,-107.105,,"84,580",Burned,2/1/2023,,,,,,,,"84,580"
+2023-274,Upper Clarks Fork RX,USFS- Shoshone National Forest,SMP II,44.95361,109.75361,4246,,,,,,,,,,4246,
+2023-275,Twin Pine Bison Ranch,Twin Pine Bison Ranch,SMP II,42.3128,-105.247,,"80,000",,,,,,,,,,"80,000"
+2023-276,Pole Mountain RX,US Forest Service,SMP II,41.113971,-105.194599,1000,,,,,,,,,,1000,
+2023-277,Moskee,USFS,SMP II,44.23395,-104.07622,2500,,,,,,,,,,2500,
+2023-278,Loop Road 4,USFS/Washak ie Ranger District,SMP I,42.54567,-108.77795,,"17,105.67",,,,,,,,,,"17,105.67"
+2023-279,Loop Road 56,USFS/Washak ie Ranger District,SMP I,42.5386,-108.77919,,"21,382.08",,,,,,,,,,"21,382.08"
+2023-280,Loop Road 22,USFS/Washak ie Ranger District,SMP I,42.5386,-108.77613,,"25,658.50",,,,,,,,,,"25,658.50"
+2023-281,Loop Road 73,USFS/Washak ie Ranger District,SMP I,42.69595,-108.9094,,"8,522.83",,,,,,,,,,"8,522.83"
+2023-282,Loop Road 70B,USFS/Washak ie Ranger District,SMP I,42.69914,-108.90316,,"34,211.33",,,,,,,,,,"34,211.33"
+2023-283,Loop Road 36B,USFS/Washak ie Ranger District,SMP I,42.69694,-108.92409,,"6,414.62",,,,,,,,,,"6,414.62"
+2023-284,Loop Road 40,USFS/Washak ie Ranger District,SMP I,42.69914,-108.91035,,"14,967.46",,,,,,,,,,"14,967.46"
+2023-285,Loop Road 13,USFS/Washak ie Ranger District,SMP I,42.67786,-108.87257,,"34,211.33",,,,,,,,,,"34,211.33"
+2023-286,Blackrock Admin Piles,USDA Forest Service -Bridger-Teton NF,SMP I,43.82955,-110.34488,,"1,250.00",Burned,4/18/2023,,,,,,,,"1,250.00"
+2023-287,Beaver Creek Slope,BLM,SMP I,43.70172,-106.9771,,,,,,,,,,,,
+2023-288,Casper Mountain Slash Pile Burn 2022,Casper Mountain Fire Dept.,SMP II,42.73,-106.32,,"150,000.00",Burned,4/29/2023,,,,,,,,"150,000.00"
+2023-289,Bucket Drop 2023,Camp Guernsey Fire Department,SMP I,42.42454,-104.8046,100,,Burned,4/28/2023,,,,,,,100,
+2023-290,JHMR 2023,Jackson Hole Mountain Resort,SMP I,43.6,-110.832,,"20,000.00",,,,,,,,,,"20,000.00"
+2023-291,Coal Creek,USFS,SMP II,42.54257,-110.51023,,"125,663.71",,,,,,,,,,"125,663.71"
+2023-292,Kelly Pit Slash,Grand Teton National Park,SMP I,43.62167,110.63519,,"10,000.00",,,,,,,,,,"10,000.00"
+2023-293,Porcupine,True companies,SMP II,43.62494,-105.49439,TBD,,,,,,,,,,,
+2023-294,Torrey Rim,Shoshone National Forest,SMP II,43.43659,-109,1978,,,,,,,,,,1978,

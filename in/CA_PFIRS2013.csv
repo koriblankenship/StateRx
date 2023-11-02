@@ -1,0 +1,525 @@
+Burn Date,Air District,County,Air Basin,Acres Requested,Acres Burned,Latitude,Longitude,Legal Location,Agency,Burn Unit,Burn Type,Fuel Type,Total Tons
+1/3/2013,Placer County APCD,Placer,Sacramento Valley,9.5,9.5,39.015,-121.136,UNK,Bella Wildfire & Forestry Services,HBRP 1,Hand Pile,Natural,UNK
+1/4/2013,Great Basin Unified APCD,Alpine,Great Basin Valleys,3,1,38.416,-119.493,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+1/7/2013,Great Basin Unified APCD,Alpine,Great Basin Valleys,2,2,38.416,-119.493,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+1/8/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,2,2,36.869,-118.159,T14n R7e S36,County of Inyo,Lower Owens River Project,UNK,UNK,UNK
+1/8/2013,Great Basin Unified APCD,Alpine,Great Basin Valleys,2,5,38.416,-119.493,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+1/9/2013,Northern Sierra AQMD,Plumas,Mountain Counties,10,0.5,39.937,-120.86,UNK,US Forest Service,American Valley,Hand Pile,Mixed Conifer,UNK
+1/9/2013,Great Basin Unified APCD,Alpine,Great Basin Valleys,6,6,38.699,-119.826,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+1/10/2013,Butte County AQMD,Butte,Sacramento Valley,UNK,32,39.837,-121.585,UNK,US Forest Service,Concow Green Pile Burn,UNK,UNK,UNK
+1/10/2013,El Dorado County AQMD,El Dorado,Mountain Counties,3,2,38.704,-120.497,"T10E R24N S8, 9, 16",US Forest Service,Marshall Mine,Machine Pile,Slash,UNK
+1/10/2013,Placer County APCD,Placer,Mountain Counties,0.5,0.5,39.28,-120.121,UNK,Northstar Fire Department,SMP not found,UNK,UNK,UNK
+1/11/2013,Placer County APCD,Placer,Mountain Counties,0.5,0.5,39.28,-120.121,UNK,Northstar Fire Department,SMP not found,UNK,UNK,UNK
+1/14/2013,El Dorado County AQMD,El Dorado,Mountain Counties,5,2,38.771,-120.635,"T10E R24N S8, 9, 16",US Forest Service,Badger Hill,Hand Pile,Brush,10
+1/14/2013,El Dorado County AQMD,El Dorado,Mountain Counties,2,1,38.711,-120.594,UNK,US Forest Service,Marshall Mine--Sly Park,Broadcast,Natural,UNK
+1/22/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,48,48,37.704,-118.924,UNK,US Forest Service,27A,Hand Pile,Slash,UNK
+1/23/2013,Northern Sierra AQMD,Plumas,Mountain Counties,5,1,39.937,-120.86,UNK,US Forest Service,American Valley,Hand Pile,Mixed Conifer,UNK
+1/23/2013,Placer County APCD,Placer,Sacramento Valley,20,5,39.015,-121.136,"T10N R13E S18, 19",Bella Wildfire & Forestry Services,HBRP 1,Hand Pile,Natural,UNK
+1/23/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,4,4,36.869,-118.159,T9N R13E S34,County of Inyo,Lower Owens River Project,Broadcast,UNK,UNK
+1/23/2013,Glenn County APCD,Glenn,Sacramento Valley,135,135,39.686,-122.709,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+1/23/2013,Great Basin Unified APCD,Alpine,Great Basin Valleys,8,7,38.416,-119.493,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+1/24/2013,Placer County APCD,Placer,Sacramento Valley,10,5,39.015,-121.136,T9N R13E S34,Bella Wildfire & Forestry Services,HBRP 1,Hand Pile,Natural,UNK
+1/24/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,2,2,36.869,-118.159,"T10E R24N S8, 9, 16",County of Inyo,Lower Owens River Project,UNK,UNK,UNK
+1/24/2013,Tehama County APCD,Tehama,Sacramento Valley,1,1,39.924,-122.889,UNK,US Forest Service,Tehama County Pile Burning,Hand Pile,Slash,UNK
+1/25/2013,Placer County APCD,Placer,Sacramento Valley,10,5,39.015,-121.136,T9N R13E S34,Bella Wildfire & Forestry Services,HBRP 1,Hand Pile,Natural,UNK
+1/25/2013,Placer County APCD,Placer,Mountain Counties,0.25,0.1,39.28,-120.121,UNK,Northstar Fire Department,SMP not found,UNK,UNK,UNK
+1/28/2013,Placer County APCD,Placer,Mountain Counties,0.25,0.25,39.28,-120.121,UNK,Northstar Fire Department,SMP not found,UNK,UNK,UNK
+1/29/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,44,44,37.638,-118.931,"T23-25 R6,8,10 S21,4,28,3,2,10,11,19,27,28,33,29,22,",US Forest Service,4A,Hand Pile,Slash,UNK
+1/29/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,3,1.5,38.951,-120.109,"T23-25 R6,8,10 S21,4,28,3,2,10,11,19,27,28,33,29,22,",California State Parks,Emerald Bay / So. Bliss burn piles,Hand Pile,Slash,UNK
+1/30/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,3,3,36.869,-118.159,"T13N R17E S15, 21, 22, 28",County of Inyo,Lower Owens River Project,UNK,UNK,UNK
+1/31/2013,Butte County AQMD,Butte,Sacramento Valley,UNK,2,39.646,-121.969,UNK,US Fish and Wildlife Services,Dead Mans Reach Piles,Machine Pile,Natural,UNK
+1/31/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,3,3,36.869,-118.159,UNK,County of Inyo,Lower Owens River Project,UNK,UNK,UNK
+2/1/2013,Butte County AQMD,Butte,Sacramento Valley,UNK,3,39.936,-121.659,UNK,Sierra Pacific Industries,SMP not found,UNK,UNK,UNK
+2/1/2013,Butte County AQMD,Butte,Sacramento Valley,21.356,21.356,39.883,-121.513,UNK,Sierra Pacific Industries,SMP not found,UNK,UNK,UNK
+2/4/2013,Shasta County AQMD,Shasta,Sacramento Valley,27,27,40.791,-122.565,"T13N R17E S15, 21, 22, 28",Bureau of Land Management,AA,Broadcast,Natural,UNK
+2/4/2013,Shasta County AQMD,Shasta,Sacramento Valley,UNK,18,40.775,-122.349,TNA RNA SNA,US Forest Service,Northwoods Deuce - Block E,Broadcast,Natural,UNK
+2/4/2013,Butte County AQMD,Butte,Sacramento Valley,21.356,21.356,39.883,-121.513,UNK,Sierra Pacific Industries,SMP not found,UNK,UNK,UNK
+2/5/2013,Shasta County AQMD,Shasta,Sacramento Valley,9,9,40.791,-122.565,"T13N R17E S15, 21, 22, 28",Bureau of Land Management,BB,Broadcast,Natural,UNK
+2/5/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,1.5,1.5,38.951,-120.109,TNA RNA SNA,California State Parks,Emerald Bay / So. Bliss burn piles,Hand Pile,Slash,UNK
+2/5/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,17,17,36.599,-118.214,TNA RNA SNA,US Forest Service,Hogback,Broadcast,Natural,UNK
+2/5/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,2,2,36.869,-118.159,TNA RNA SNA,County of Inyo,Lower Owens River Project,UNK,UNK,UNK
+2/5/2013,Shasta County AQMD,Shasta,Sacramento Valley,UNK,100,40.775,-122.349,UNK,US Forest Service,Northwoods Deuce - Block E,Broadcast,Natural,UNK
+2/5/2013,Tehama County APCD,Tehama,Sacramento Valley,19.615,19.615,40.197,-121.595,UNK,Sierra Pacific Industries,SMP not found,UNK,UNK,UNK
+2/5/2013,Tehama County APCD,Tehama,Sacramento Valley,20.449,20.449,40.191,-121.577,UNK,Sierra Pacific Industries,SMP not found,UNK,UNK,UNK
+2/5/2013,Tehama County APCD,Tehama,Sacramento Valley,22.04,22.04,40.19,-121.598,UNK,Sierra Pacific Industries,SMP not found,UNK,UNK,UNK
+2/5/2013,Shasta County AQMD,Shasta,Sacramento Valley,9,9,40.791,-122.565,"T13N R17E S15, 21, 22, 28",Bureau of Land Management,X,Broadcast,Natural,UNK
+2/6/2013,Tehama County APCD,Tehama,Sacramento Valley,20.085,20.085,40.179,-121.59,UNK,Sierra Pacific Industries,SMP not found,UNK,UNK,UNK
+2/6/2013,Shasta County AQMD,Shasta,Sacramento Valley,17,17,40.791,-122.565,"T13N R17E S15, 21, 22, 28",Bureau of Land Management,Y,Broadcast,Natural,UNK
+2/7/2013,Northern Sierra AQMD,Plumas,Mountain Counties,2,2,39.937,-120.86,UNK,US Forest Service,American Valley,Hand Pile,Mixed Conifer,UNK
+2/7/2013,Placer County APCD,Placer,Mountain Counties,0.25,0.25,39.28,-120.121,UNK,Northstar Fire Department,SMP not found,UNK,UNK,UNK
+2/8/2013,Placer County APCD,Placer,Mountain Counties,1,1.5,39.066,-120.971,UNK,Cal Fire,Mt Howell Burn,UNK,UNK,UNK
+2/8/2013,Placer County APCD,Placer,Mountain Counties,0.25,0.25,39.28,-120.121,UNK,Northstar Fire Department,SMP not found,UNK,UNK,UNK
+2/8/2013,Placer County APCD,Placer,Sacramento Valley,2,2.5,38.857,-121.069,UNK,Cal Fire,Unit A,Hand Pile,Brush,UNK
+2/11/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,2,2,37.561,-118.75,UNK,US Forest Service,Crowley Communities Piles Unit 8,Hand Pile,Slash,UNK
+2/11/2013,Placer County APCD,Placer,Mountain Counties,1.5,1.5,39.066,-120.971,UNK,Cal Fire,Mt Howell Burn,UNK,UNK,UNK
+2/11/2013,Great Basin Unified APCD,Alpine,Great Basin Valleys,1,1,38.416,-119.493,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+2/11/2013,Placer County APCD,Placer,Sacramento Valley,1.5,1.5,38.857,-121.069,UNK,Cal Fire,Unit A,Hand Pile,Brush,UNK
+2/12/2013,El Dorado County AQMD,El Dorado,Mountain Counties,7,2,38.771,-120.635,T4 South R29 East S34 & 35,US Forest Service,Badger Hill,Hand Pile,Brush,10
+2/12/2013,Tuolumne County APCD,Tuolumne,Mountain Counties,UNK,25,37.812,-120.241,UNK,Bureau of Land Management,Cobbs Creek,Hand Pile,Brush,UNK
+2/12/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,3,3,37.561,-118.75,T12N R8E S27,US Forest Service,Crowley Communities Piles Unit 8,Hand Pile,Slash,UNK
+2/12/2013,Placer County APCD,Placer,Sacramento Valley,4,2,39.015,-121.136,UNK,Bella Wildfire & Forestry Services,HBRP 1,Hand Pile,Natural,UNK
+2/12/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,2,2,36.869,-118.159,T12N R8E S27,County of Inyo,Lower Owens River Project,UNK,UNK,UNK
+2/12/2013,Placer County APCD,Placer,Mountain Counties,1,1,39.066,-120.971,UNK,Cal Fire,Mt Howell Burn,UNK,UNK,UNK
+2/12/2013,Placer County APCD,Placer,Lake Tahoe,1,0.5,39.237,-120.131,T12N R8E S27,US Forest Service,"North Shore Units 1A, 1B, 1C",Hand Pile,Slash,UNK
+2/12/2013,Great Basin Unified APCD,Alpine,Great Basin Valleys,12,12,38.727,-119.788,UNK,Bureau of Land Management,SMP not found,UNK,UNK,UNK
+2/12/2013,Placer County APCD,Placer,Sacramento Valley,1,1,38.853,-121.068,UNK,Cal Fire,Unit B,Hand Pile,Brush,UNK
+2/12/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,UNK,5,0,0,T 15 S. R 34 E. SEC. 35 AND 36,US Forest Service,Whitney Portal Project Piles,Hand Pile,UNK,25
+2/13/2013,El Dorado County AQMD,El Dorado,Mountain Counties,5,3,38.771,-120.635,UNK,US Forest Service,Badger Hill,Hand Pile,Brush,15
+2/13/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,3,3,37.561,-118.75,T11N R12E S27,US Forest Service,Crowley Communities Piles Unit 8,Hand Pile,Slash,UNK
+2/13/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,2,2,38.951,-120.109,UNK,California State Parks,Emerald Bay / So. Bliss burn piles,Hand Pile,Slash,UNK
+2/13/2013,Placer County APCD,Placer,Sacramento Valley,2,2,39.015,-121.136,UNK,Bella Wildfire & Forestry Services,HBRP 1,Hand Pile,Natural,UNK
+2/13/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,2,1,36.869,-118.159,T11N R12E S27,County of Inyo,Lower Owens River Project,Hand Pile,UNK,5
+2/13/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,UNK,5,0,0,T 15 S. R 34 E. SEC. 35 AND 36,US Forest Service,Whitney Portal Project Piles,Machine Pile,UNK,150
+2/14/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,3,3,37.561,-118.75,"T13N R17E S15, 21, 22, 28",US Forest Service,Crowley Communities Piles Unit 8,Hand Pile,Slash,UNK
+2/14/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,2,2,38.951,-120.109,T 15 S. R 34 E. SEC. 35 AND 36,California State Parks,Emerald Bay / So. Bliss burn piles,Hand Pile,Slash,UNK
+2/14/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,UNK,10,0,0,T 15 S. R 34 E. SEC. 35 AND 36,US Forest Service,Whitney Portal Project Piles,Hand Pile,UNK,UNK
+2/18/2013,El Dorado County AQMD,El Dorado,Mountain Counties,6,5,38.735,-120.499,T9N R13E S27,Sierra Pacific Industries,Empirical West,Machine Pile,Slash,UNK
+2/18/2013,Butte County AQMD,Butte,Sacramento Valley,15,15,39.962,-121.652,UNK,Sierra Pacific Industries,SMP not found,UNK,UNK,UNK
+2/19/2013,El Dorado County AQMD,El Dorado,Mountain Counties,5,4,38.658,-120.528,T9N R13E S27,Sierra Pacific Industries,AKLAK,Machine Pile,Slash,UNK
+2/19/2013,El Dorado County AQMD,El Dorado,Mountain Counties,65,19,38.963,-120.758,T9N R13E S27,Sierra Pacific Industries,COOL,Machine Pile,Slash,UNK
+2/19/2013,Placer County APCD,Placer,Mountain Counties,2,2,39.28,-120.121,UNK,Northstar Fire Department,SMP not found,UNK,UNK,UNK
+2/19/2013,Placer County APCD,Placer,Sacramento Valley,1,1,38.857,-121.069,T9N R13E S27,Cal Fire,Unit A,Hand Pile,Brush,UNK
+2/20/2013,Placer County APCD,Placer,Mountain Counties,1,1,39.066,-120.971,UNK,Cal Fire,Mt Howell Burn,UNK,UNK,UNK
+2/20/2013,Placer County APCD,Placer,Mountain Counties,2,2,39.28,-120.121,UNK,Northstar Fire Department,SMP not found,UNK,UNK,UNK
+2/20/2013,Placer County APCD,Placer,Sacramento Valley,1,1,38.853,-121.068,UNK,Cal Fire,Unit B,Hand Pile,Brush,UNK
+2/20/2013,Placer County APCD,Placer,Lake Tahoe,7,2,39.22,-120.092,T9N R13E S27,Cal Fire,Vedanta Society,Hand Pile,Slash,UNK
+2/21/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,3,3,37.561,-118.75,UNK,US Forest Service,Crowley Communities Piles Unit 8,Hand Pile,Slash,UNK
+2/26/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,2,1,38.989,-120.1,T4 South R29 East S34 & 35,California State Parks,DL Bliss State Park burn piles,Hand Pile,Slash,UNK
+2/26/2013,Placer County APCD,Placer,Sacramento Valley,5,5,39.015,-121.136,T4 South R29 East S34 & 35,Bella Wildfire & Forestry Services,HBRP 1,Hand Pile,Natural,UNK
+2/26/2013,Northern Sierra AQMD,Plumas,Mountain Counties,15,3,40.167,-120.967,T4 South R29 East S34 & 35,US Forest Service,Maidu Stewardship,Hand Pile,Mixed Conifer,UNK
+2/27/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,2,1,38.989,-120.1,UNK,California State Parks,DL Bliss State Park burn piles,Hand Pile,Slash,UNK
+2/27/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,2,2,36.869,-118.159,T13N R17E S9,County of Inyo,Lower Owens River Project,Hand Pile,UNK,UNK
+2/27/2013,Northern Sierra AQMD,Plumas,Mountain Counties,80,56,39.952,-121.009,T4 South R29 East S34 & 35,US Forest Service,Unit 1,Broadcast,Natural,336
+2/28/2013,El Dorado County AQMD,El Dorado,Mountain Counties,15,4,38.606,-120.512,T13N R17E S9,Leoni Meadows Camp,Leoni Meadows Understory Burn,Broadcast,Natural,UNK
+2/28/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,2,2,36.869,-118.159,T13N R17E S9,County of Inyo,Lower Owens River Project,Hand Pile,UNK,UNK
+3/1/2013,Placer County APCD,Placer,Sacramento Valley,3,1,39.015,-121.136,T13N R17E S9,Bella Wildfire & Forestry Services,HBRP 1,Hand Pile,Natural,UNK
+3/1/2013,Northern Sierra AQMD,Plumas,Mountain Counties,50,70,39.952,-121.009,T13N R17E S9,US Forest Service,Unit 1,Broadcast,Natural,420
+3/4/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,2,2,36.869,-118.159,T16N R17E S28,County of Inyo,Lower Owens River Project,UNK,UNK,UNK
+3/4/2013,Placer County APCD,Placer,Lake Tahoe,0.5,0.5,39.207,-120.097,T14n R7e S36,California State Parks,Placer Co. Urban,Hand Pile,Slash,UNK
+3/5/2013,Placer County APCD,Placer,Sacramento Valley,2,1,39.015,-121.136,T16N R17E S28,Bella Wildfire & Forestry Services,HBRP 1,Hand Pile,Natural,UNK
+3/5/2013,Northern Sierra AQMD,Plumas,Mountain Counties,5,2,40.167,-120.967,T14n R7e S36,US Forest Service,Maidu Stewardship,Hand Pile,Mixed Conifer,UNK
+3/5/2013,Placer County APCD,Placer,Lake Tahoe,0.5,0.5,39.207,-120.097,T16N R17E S28,California State Parks,Placer Co. Urban,Hand Pile,Slash,UNK
+3/5/2013,Butte County AQMD,Butte,Sacramento Valley,1,1,39.952,-121.648,UNK,Sierra Pacific Industries,SMP not found,UNK,UNK,UNK
+3/5/2013,Butte County AQMD,Butte,Sacramento Valley,1,1,39.941,-121.642,UNK,Sierra Pacific Industries,SMP not found,UNK,UNK,UNK
+3/5/2013,Butte County AQMD,Butte,Sacramento Valley,1,1,39.977,-121.636,UNK,Sierra Pacific Industries,SMP not found,UNK,UNK,UNK
+3/5/2013,Butte County AQMD,Butte,Sacramento Valley,1,1,39.984,-121.639,UNK,Sierra Pacific Industries,SMP not found,UNK,UNK,UNK
+3/5/2013,Placer County APCD,Placer,Mountain Counties,1,1,39.28,-120.121,UNK,Northstar Fire Department,SMP not found,UNK,UNK,UNK
+3/6/2013,Northern Sierra AQMD,Plumas,Mountain Counties,5,2,40.167,-120.967,UNK,US Forest Service,Maidu Stewardship,Hand Pile,Mixed Conifer,UNK
+3/6/2013,Placer County APCD,Placer,Mountain Counties,1.5,1.5,39.065,-120.972,UNK,Cal Fire,Mt Howell Burn,UNK,UNK,UNK
+3/6/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,9,5,38.922,-119.958,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+3/6/2013,Placer County APCD,Placer,Mountain Counties,2,2,39.28,-120.121,UNK,Northstar Fire Department,SMP not found,UNK,UNK,UNK
+3/7/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,2,2,36.869,-118.159,"T27N R09N S27, 28, 34",County of Inyo,Lower Owens River Project,UNK,UNK,UNK
+3/7/2013,Placer County APCD,Placer,Mountain Counties,2,1,39.28,-120.121,UNK,Northstar Fire Department,SMP not found,UNK,UNK,UNK
+3/11/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,2,2,37.573,-118.679,UNK,US Forest Service,Crowley Communties Piles Unit 12,Hand Pile,Slash,UNK
+3/11/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,5,3,38.864,-120.003,"T27N R09N S27, 28, 34",California State Parks,Meyers 5-4,Hand Pile,Slash,UNK
+3/11/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,UNK,108,36.931,-118.185,T12S R35 S6,US Forest Service,Telegraph Rx Burn,UNK,UNK,UNK
+3/11/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,UNK,15,36.862,-118.224,T12S $34E S35,US Forest Service,Thibaux Burn - Lacey,Hand Pile,UNK,UNK
+3/18/2013,El Dorado County AQMD,El Dorado,Mountain Counties,1,1,38.658,-120.528,T12S R35 S6,Sierra Pacific Industries,AKLAK,Machine Pile,Slash,UNK
+3/18/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,2,2,37.573,-118.679,UNK,US Forest Service,Crowley Communties Piles Unit 12,Hand Pile,Slash,UNK
+3/18/2013,Placer County APCD,Placer,Sacramento Valley,1,1,39.015,-121.136,UNK,Bella Wildfire & Forestry Services,HBRP 1,Hand Pile,Natural,UNK
+3/18/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,2,2,36.869,-118.159,T4 South R30 East S28 & 29,County of Inyo,Lower Owens River Project,UNK,UNK,UNK
+3/18/2013,El Dorado County AQMD,El Dorado,Mountain Counties,91,50,38.821,-120.381,T12S R35 S6,Sierra Pacific Industries,QUIVER,Machine Pile,Slash,UNK
+3/18/2013,Northern Sierra AQMD,Plumas,Mountain Counties,75,20,40.01,-120.879,UNK,US Forest Service,Refuge Broadcast Burn,Broadcast,Natural,200
+3/18/2013,Feather River AQMD,Yuba,Sacramento Valley,87,87,39.472,-121.233,UNK,US Forest Service,Slapjack,Broadcast,Natural,2250.69
+3/18/2013,Butte County AQMD,Butte,Sacramento Valley,17.462,17.462,39.94,-121.526,UNK,Sierra Pacific Industries,SMP not found,UNK,UNK,UNK
+3/18/2013,Butte County AQMD,Butte,Sacramento Valley,21,21,39.926,-121.53,UNK,Sierra Pacific Industries,SMP not found,UNK,UNK,UNK
+3/18/2013,Great Basin Unified APCD,Alpine,Great Basin Valleys,3,2,0,0,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+3/18/2013,Placer County APCD,Placer,Mountain Counties,94,80,39.149,-120.753,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+3/18/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,82,83,36.931,-118.185,T12S R35 S6,US Forest Service,Telegraph Rx Burn,UNK,UNK,UNK
+3/18/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,69,69,36.862,-118.224,T12S $34E S35,US Forest Service,Thibaux Burn - Lacey,Broadcast,UNK,UNK
+3/19/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,2,2,37.573,-118.679,UNK,US Forest Service,Crowley Communties Piles Unit 12,Hand Pile,Slash,UNK
+3/19/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,2,2,37.573,-118.679,UNK,US Forest Service,Crowley Communties Piles Unit 12,Hand Pile,Slash,UNK
+3/19/2013,Placer County APCD,Placer,Mountain Counties,1,0.5,39.065,-120.972,UNK,Cal Fire,Mt Howell Burn,UNK,UNK,UNK
+3/19/2013,Northern Sierra AQMD,Plumas,Mountain Counties,50,30,40.01,-120.879,UNK,US Forest Service,Refuge Broadcast Burn,Broadcast,Natural,300
+3/19/2013,Feather River AQMD,Yuba,Sacramento Valley,50,35,39.472,-121.233,UNK,US Forest Service,Slapjack,Broadcast,Natural,905.45
+3/19/2013,Butte County AQMD,Butte,Sacramento Valley,21,21,39.926,-121.53,UNK,Sierra Pacific Industries,SMP not found,UNK,UNK,UNK
+3/19/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,1,1,38.911,-119.953,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+3/19/2013,Glenn County APCD,Glenn,Sacramento Valley,5,5,39.686,-122.709,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+3/19/2013,Great Basin Unified APCD,Alpine,Great Basin Valleys,2,2,38.769,-119.942,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+3/20/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,4,4,38.864,-120.003,UNK,California State Parks,Meyers 5-4,Hand Pile,Slash,UNK
+3/20/2013,Placer County APCD,Placer,Mountain Counties,3,3,39.28,-120.121,UNK,Northstar Fire Department,SMP not found,UNK,UNK,UNK
+3/21/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,2,2,37.573,-118.679,UNK,US Forest Service,Crowley Communties Piles Unit 12,Hand Pile,Slash,UNK
+3/21/2013,El Dorado County AQMD,El Dorado,Mountain Counties,15,1,38.918,-120.756,UNK,Northstar Fire Department,Mace Mill Pile,Hand Pile,Brush,UNK
+3/21/2013,Northern Sierra AQMD,Plumas,Mountain Counties,10,6,40.167,-120.967,UNK,US Forest Service,Maidu Stewardship,Hand Pile,Mixed Conifer,UNK
+3/21/2013,Placer County APCD,Placer,Mountain Counties,1.5,0.5,39.065,-120.972,UNK,Cal Fire,Mt Howell Burn,UNK,UNK,UNK
+3/22/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,2,2,37.573,-118.679,"T27N R09N S27, 28, 34",US Forest Service,Crowley Communties Piles Unit 12,Hand Pile,Slash,UNK
+3/22/2013,Placer County APCD,Placer,Mountain Counties,0.5,0.5,39.065,-120.972,UNK,Cal Fire,Mt Howell Burn,UNK,UNK,UNK
+3/25/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,2,2,37.573,-118.679,UNK,US Forest Service,Crowley Communties Piles Unit 12,Hand Pile,Slash,UNK
+3/25/2013,Placer County APCD,Placer,Mountain Counties,0.75,0.5,39.066,-120.971,UNK,Cal Fire,Mt Howell Burn,UNK,UNK,UNK
+3/25/2013,Northern Sierra AQMD,Plumas,Mountain Counties,50,25,40.01,-120.879,UNK,US Forest Service,Refuge Broadcast Burn,Broadcast,Natural,250
+3/25/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,3,1,38.911,-119.953,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+3/26/2013,Placer County APCD,Placer,Sacramento Valley,1,1,39.015,-121.136,UNK,Bella Wildfire & Forestry Services,HBRP 1,Hand Pile,Natural,UNK
+3/26/2013,Northern Sierra AQMD,Plumas,Mountain Counties,15,6,40.167,-120.967,UNK,US Forest Service,Maidu Stewardship,Hand Pile,Mixed Conifer,UNK
+3/26/2013,Placer County APCD,Placer,Mountain Counties,0.5,0.5,39.066,-120.971,UNK,Cal Fire,Mt Howell Burn,UNK,UNK,UNK
+3/26/2013,Placer County APCD,Placer,Mountain Counties,3,3,39.28,-120.121,UNK,Northstar Fire Department,SMP not found,UNK,UNK,UNK
+3/27/2013,Great Basin Unified APCD,Inyo,Unknown,2,2,36.869,-118.159,T16N R17E S21,County of Inyo,Lower Owens River Project,UNK,UNK,UNK
+3/27/2013,Placer County APCD,Placer,Mountain Counties,0.15,0.15,39.065,-120.972,UNK,Cal Fire,Mt Howell Burn,UNK,UNK,UNK
+3/27/2013,Placer County APCD,Placer,Mountain Counties,0.5,0.5,39.066,-120.971,UNK,Cal Fire,Mt Howell Burn,UNK,UNK,UNK
+3/27/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,25,25,39.062,-120.143,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+3/27/2013,Placer County APCD,Placer,Mountain Counties,3,3,39.28,-120.121,UNK,Northstar Fire Department,SMP not found,UNK,UNK,UNK
+3/27/2013,Placer County APCD,Placer,Mountain Counties,47,47,39.153,-120.736,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+3/27/2013,Placer County APCD,Placer,Lake Tahoe,2,2,39.22,-120.092,UNK,Cal Fire,Vedanta Society,Hand Pile,Slash,UNK
+3/28/2013,El Dorado County AQMD,El Dorado,Mountain Counties,5,5,38.734,-120.517,UNK,Sierra Pacific Industries,EMPIRICAL WEST BROADCAST,Broadcast,Natural,UNK
+3/28/2013,Northern Sierra AQMD,Plumas,Mountain Counties,10,6,40.167,-120.967,UNK,US Forest Service,Maidu Stewardship,Hand Pile,Mixed Conifer,UNK
+3/29/2013,Northern Sierra AQMD,Plumas,Mountain Counties,50,40,40.01,-120.879,UNK,US Forest Service,Refuge Broadcast Burn,Broadcast,Natural,400
+4/1/2013,Northern Sierra AQMD,Plumas,Mountain Counties,15,9,40.167,-120.967,UNK,US Forest Service,Maidu Stewardship,Hand Pile,Mixed Conifer,UNK
+4/1/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,3,2,38.911,-119.953,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+4/1/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,6,6,38.894,-120.029,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+4/1/2013,Placer County APCD,Placer,Mountain Counties,3,3,39.28,-120.121,UNK,Northstar Fire Department,SMP not found,UNK,UNK,UNK
+4/2/2013,Placer County APCD,Placer,Lake Tahoe,3,0.5,39.194,-120.242,UNK,California State Parks,Burton Creek State Park Burn Piles,Hand Pile,Natural,UNK
+4/2/2013,Northern Sierra AQMD,Plumas,Mountain Counties,15,4,40.167,-120.967,UNK,US Forest Service,Maidu Stewardship,Hand Pile,Mixed Conifer,UNK
+4/2/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,10,5,38.911,-119.953,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+4/3/2013,Placer County APCD,Placer,Lake Tahoe,1.5,1.5,39.22,-120.092,UNK,US Forest Service,Vedanta Society,Hand Pile,Slash,UNK
+4/4/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,14,14,38.862,-120.042,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+4/4/2013,Placer County APCD,Placer,Mountain Counties,1,1,39.28,-120.121,UNK,Northstar Fire Department,SMP not found,UNK,UNK,UNK
+4/5/2013,Northern Sierra AQMD,Plumas,Mountain Counties,1,1,39.966,-120.934,UNK,US Forest Service,Mt. Hough Admin,Hand Pile,Mixed Conifer,UNK
+4/8/2013,Great Basin Unified APCD,Mono,Unknown,UNK,3,37.763,-119.111,"Township 2 South, Range 26 East, Section 21",US Forest Service,June Loop hazardous fuels reduction project unit A-01,Hand Pile,UNK,UNK
+4/8/2013,Northern Sierra AQMD,Plumas,Mountain Counties,15,5,40.167,-120.967,UNK,US Forest Service,Maidu Stewardship,Hand Pile,Mixed Conifer,UNK
+4/8/2013,Northern Sierra AQMD,Plumas,Mountain Counties,1,1,39.966,-120.934,UNK,US Forest Service,Mt. Hough Admin,Hand Pile,Mixed Conifer,UNK
+4/9/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,3,1,38.911,-119.953,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+4/11/2013,Northern Sierra AQMD,Plumas,Mountain Counties,50,20,40.01,-120.879,UNK,US Forest Service,Refuge Broadcast Burn,Broadcast,Natural,200
+4/12/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,99,99,37.804,-118.977,UNK,US Forest Service,11A,Broadcast,Natural,495
+4/12/2013,Northern Sierra AQMD,Plumas,Mountain Counties,100,114,40.01,-120.879,UNK,US Forest Service,Refuge Broadcast Burn,Broadcast,Natural,1140
+4/15/2013,Feather River AQMD,Yuba,Sacramento Valley,50,5,39.472,-121.233,UNK,US Forest Service,Slapjack,Broadcast,Natural,129.35
+4/18/2013,Great Basin Unified APCD,Inyo,Unknown,0.1,0.1,36.993,-117.347,T4s R42s S13,National Park Service,Grape Vine Pile Burn,Broadcast,UNK,2.587
+4/18/2013,Feather River AQMD,Yuba,Sacramento Valley,50,5,39.472,-121.233,UNK,US Forest Service,Slapjack,Broadcast,Natural,129.35
+4/19/2013,Northern Sierra AQMD,Plumas,Mountain Counties,36,36,40.01,-120.879,T4s R42s S13,US Forest Service,Refuge Broadcast Burn,Broadcast,Natural,360
+4/19/2013,Feather River AQMD,Yuba,Sacramento Valley,46,46,39.484,-121.205,UNK,US Forest Service,Slapjack 18b,Broadcast,Natural,833.98
+4/19/2013,Feather River AQMD,Yuba,Sacramento Valley,43,43,39.484,-121.205,UNK,US Forest Service,Slapjack unit 19,Broadcast,Natural,779.59
+4/22/2013,Placer County APCD,Placer,Lake Tahoe,52,20,39.134,-120.18,UNK,US Forest Service,Ward HT 22,Hand Pile,Slash,UNK
+4/23/2013,Great Basin Unified APCD,Alpine,Unknown,12,12,38.723,-119.79,UNK,Bureau of Land Management,SMP not found,UNK,UNK,UNK
+4/24/2013,Calaveras County APCD,Calaveras,Mountain Counties,30,28,38.295,120.335,UNK,US Forest Service,Irish Unit 1,Broadcast,Natural,280
+4/24/2013,Great Basin Unified APCD,Alpine,Unknown,22,22,38.416,-119.493,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+4/25/2013,Calaveras County APCD,Calaveras,Mountain Counties,49,17,38.291,-120.343,UNK,US Forest Service,Irish Unit 2,Broadcast,Natural,UNK
+4/25/2013,El Dorado County AQMD,El Dorado,Mountain Counties,5,2,38.606,-120.513,UNK,Leoni Meadows Camp,Leoni Meadows,UNK,UNK,UNK
+4/26/2013,Calaveras County APCD,Calaveras,Mountain Counties,45,45,38.291,-120.343,UNK,US Forest Service,Irish Unit 2,Broadcast,Natural,UNK
+4/26/2013,El Dorado County AQMD,El Dorado,Mountain Counties,5,3,38.606,-120.513,UNK,Leoni Meadows Camp,Leoni Meadows,UNK,UNK,UNK
+4/29/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,94,5,37.805,-118.969,UNK,US Forest Service,Aqueduct broadcast 2012,UNK,UNK,UNK
+4/29/2013,El Dorado County AQMD,El Dorado,Mountain Counties,3,2,38.606,-120.513,UNK,Leoni Meadows Camp,Leoni Meadows,UNK,UNK,UNK
+5/7/2013,Placer County APCD,Placer,Mountain Counties,1,1,39.3,-120.38,UNK,US Forest Service,USFS-TKRD-Donner Summit Piles,Hand Pile,Natural,UNK
+5/23/2013,Northern Sierra AQMD,Nevada,Mountain Counties,10,5,39.32,-120.791,UNK,US Forest Service,Unit # 9,Broadcast,Natural,60
+5/29/2013,South Coast AQMD,Los Angeles,South Coast,8,8,34.174,-117.671,UNK,US Forest Service,Lower San Antonio Station,Broadcast,Natural,UNK
+6/5/2013,El Dorado County AQMD,El Dorado,Mountain Counties,5,1,38.637,-120.759,UNK,Cal Fire,Ladies Valley,Broadcast,Natural,0.74
+6/11/2013,El Dorado County AQMD,El Dorado,Mountain Counties,60,5,38.637,-120.759,UNK,Cal Fire,Ladies Valley,Broadcast,Natural,3.7
+6/18/2013,Butte County AQMD,Butte,Sacramento Valley,UNK,25,39.575,-121.956,UNK,US Fish and Wildlife Services,North Bedrock RX,Broadcast,Natural,UNK
+6/19/2013,El Dorado County AQMD,El Dorado,Mountain Counties,60,40,38.637,-120.759,UNK,Cal Fire,Ladies Valley,Broadcast,Natural,29.6
+6/19/2013,El Dorado County AQMD,El Dorado,Mountain Counties,60,67,38.637,-120.759,UNK,Cal Fire,Ladies Valley,Broadcast,Natural,49.58
+6/20/2013,El Dorado County AQMD,El Dorado,Mountain Counties,40,40,38.637,-120.759,UNK,Cal Fire,Ladies Valley,Broadcast,Natural,29.6
+6/21/2013,El Dorado County AQMD,El Dorado,Mountain Counties,30,23,38.761,-120.884,UNK,Cal Fire,"T12N, R10E",Broadcast,Natural,23
+6/24/2013,El Dorado County AQMD,El Dorado,Mountain Counties,0.5,0.5,38.777,-120.294,UNK,US Forest Service,Roadrunner,Hand Pile,Natural,2.5
+6/24/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,10,5,38.911,-119.953,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+6/25/2013,El Dorado County AQMD,El Dorado,Mountain Counties,30,25,38.806,-120.463,UNK,US Forest Service,Misfire,Machine Pile,Slash,750
+6/25/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,5,2,38.911,-119.953,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+8/28/2013,Butte County AQMD,Butte,Nevada,UNK,20,39.322,-121.815,TNA RNA SNA,California Department of Fish and Wildlife,Gray Lodge VMP,Broadcast,UNK,UNK
+9/5/2013,Butte County AQMD,Butte,Nevada,UNK,32,39.322,-121.815,TNA RNA SNA,California Department of Fish and Wildlife,Gray Lodge VMP,Broadcast,UNK,UNK
+9/28/2013,Butte County AQMD,Butte,Sacramento Valley,UNK,8,39.325,-121.817,T8N R15E S3,Individual,Gray Lodge 2014,Broadcast,UNK,8
+9/28/2013,Shasta County AQMD,Shasta,Sacramento Valley,50,50,40.606,-122.702,UNK,National Park Service,SMP not found,UNK,UNK,UNK
+9/29/2013,Butte County AQMD,Butte,Sacramento Valley,UNK,2,39.325,-121.817,"T22N R12E S7, 18",Individual,Gray Lodge 2014,Broadcast,UNK,14
+10/7/2013,Northern Sierra AQMD,Plumas,Mountain Counties,6,6,39.768,-120.681,"T22N R12E S7, 18",California State Parks,6 acres,Broadcast,Natural,42
+10/7/2013,Butte County AQMD,Butte,Sacramento Valley,UNK,26,39.525,-121.447,"T22N R12E S7, 18",Cal Fire,Loafer Creek,Broadcast,Natural,UNK
+10/8/2013,Northern Sierra AQMD,Plumas,Mountain Counties,16,16,39.777,-120.675,"T22N R12E S7, 18",California State Parks,16 acres,Broadcast,Natural,112
+10/8/2013,Butte County AQMD,Butte,Sacramento Valley,UNK,1,39.91,-121.696,"T22N R12E S7, 18",Individual,Big Chico Creek,Broadcast,Natural,1.5
+10/8/2013,Butte County AQMD,Butte,Sacramento Valley,UNK,10,39.588,-121.14,"T22N R12E S7, 18",Soper-Wheeler Company LLC,South Moorville,Broadcast,Slash,300
+10/9/2013,Northern Sierra AQMD,Plumas,Mountain Counties,2,1,39.757,-120.692,"T22N R12E S7, 18",California State Parks,Hand Piles,Hand Pile,Slash,30
+10/11/2013,Tehama County APCD,Tehama,Sacramento Valley,60,60,40.054,-121.668,UNK,Sierra Pacific Industries,Stirling District Tehama,UNK,UNK,UNK
+10/14/2013,Northern Sierra AQMD,Plumas,Mountain Counties,1,0.3,39.757,-120.692,"T22N R12E S7, 18",California State Parks,Hand Piles,Hand Pile,Slash,9
+10/15/2013,Northern Sierra AQMD,Plumas,Mountain Counties,2,0.3,39.757,-120.692,"T22N R12E S7, 18",California State Parks,Hand Piles,Hand Pile,Slash,9
+10/16/2013,Monterey Bay Unified APCD,Monterey,South Central Coast,10,4,36.294,-121.852,Sec 8 TWP 19S R 1E,North Tree Fire,El Sur Black Line,Broadcast,UNK,120
+10/16/2013,Northern Sierra AQMD,Plumas,Mountain Counties,1,0.4,39.757,-120.692,Sec 8 TWP 19S R 1E,California State Parks,Hand Piles,Hand Pile,Slash,12
+10/16/2013,Butte County AQMD,Butte,Sacramento Valley,UNK,11,39.588,-121.14,UNK,Soper-Wheeler Company LLC,South Moorville,Broadcast,Slash,330
+10/16/2013,Butte County AQMD,Butte,Sacramento Valley,UNK,11,39.588,-121.14,UNK,Soper-Wheeler Company LLC,South Moorville,Broadcast,Slash,330
+10/17/2013,Monterey Bay Unified APCD,Monterey,South Central Coast,6,7,36.294,-121.852,Sec 8 TWP 19S R 1E,North Tree Fire,El Sur Black Line,Hand Pile,UNK,210
+10/18/2013,Tehama County APCD,Tehama,Sacramento Valley,10,10,40.12,-122.146,UNK,US Fish and Wildlife Services,La Barranca RX,Broadcast,Natural,0
+10/18/2013,San Joaquin Valley APCD,Fresno,San Joaquin Valley,UNK,50,37.184,-119.261,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+10/19/2013,San Joaquin Valley APCD,Fresno,San Joaquin Valley,UNK,50,37.184,-119.261,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+10/20/2013,San Joaquin Valley APCD,Fresno,San Joaquin Valley,UNK,100,37.184,-119.261,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+10/21/2013,San Joaquin Valley APCD,Fresno,San Joaquin Valley,UNK,75,37.184,-119.261,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+10/22/2013,Tehama County APCD,Tehama,Sacramento Valley,8,8,40.12,-122.146,UNK,US Fish and Wildlife Services,La Barranca RX,Broadcast,Natural,0
+10/22/2013,San Joaquin Valley APCD,Fresno,San Joaquin Valley,UNK,25,37.184,-119.261,UNK,US Fish and Wildlife Services,SMP not found,UNK,UNK,UNK
+10/23/2013,Northern Sierra AQMD,Plumas,Mountain Counties,23,23,40.394,-121.404,UNK,US Forest Service,West Dusty FY-15,UNK,UNK,UNK
+10/24/2013,Northern Sierra AQMD,Plumas,Mountain Counties,15,15,39.75,-120.697,UNK,California State Parks,15 acres,Broadcast,Natural,105
+10/24/2013,Northern Sierra AQMD,Plumas,Mountain Counties,11,11,40.365,-121.414,UNK,US Forest Service,West Dusty FY-15,UNK,UNK,UNK
+10/24/2013,Northern Sierra AQMD,Plumas,Mountain Counties,23,23,40.394,-121.404,UNK,US Forest Service,West Dusty FY-15,UNK,UNK,UNK
+10/28/2013,El Dorado County AQMD,El Dorado,Mountain Counties,200,100,38.738,-120.315,UNK,US Forest Service,Alder C,Broadcast,Natural,UNK
+10/28/2013,Northern Sierra AQMD,Plumas,Mountain Counties,131,85,40.079,-121.099,UNK,US Forest Service,Chip Munk - Muggins,Machine Pile,Slash,1275
+10/28/2013,Shasta County AQMD,Shasta,Sacramento Valley,153,55,40.879,-122.404,UNK,National Park Service,Lakehead-Sugarloaf Block G,Broadcast,Natural,825
+10/28/2013,El Dorado County AQMD,El Dorado,Mountain Counties,11,11,38.918,-120.756,UNK,US Forest Service,Mace Mill Pile,Hand Pile,Brush,UNK
+10/28/2013,El Dorado County AQMD,El Dorado,Mountain Counties,10,5,38.704,-120.497,UNK,US Forest Service,Marshall Mine,Machine Pile,Slash,UNK
+10/28/2013,Butte County AQMD,Butte,Sacramento Valley,6,3,39.766,-121.308,UNK,US Forest Service,Rogers Cow Camp Campground,Hand Pile,Brush,42.3
+10/28/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,1,1,38.922,-119.958,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+10/28/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,5,3,38.922,-119.958,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+10/28/2013,Placer County APCD,Placer,Lake Tahoe,5,5,39.114,-120.16,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+10/28/2013,Placer County APCD,Placer,Lake Tahoe,5,5,39.131,-120.181,UNK,US Forest Service,Ward 22,Hand Pile,Slash,UNK
+10/29/2013,El Dorado County AQMD,El Dorado,Mountain Counties,100,100,38.669,-120.237,UNK,US Forest Service,Alder,Machine Pile,Slash,UNK
+10/29/2013,Northern Sierra AQMD,Plumas,Mountain Counties,46,30,40.079,-121.099,UNK,US Forest Service,Chip Munk - Muggins,Machine Pile,Slash,450
+10/29/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,0.5,0.5,38.875,-120.003,UNK,Lake Valley Fire Protection District,Flea Market,Hand Pile,Slash,UNK
+10/29/2013,El Dorado County AQMD,El Dorado,Mountain Counties,13,13,38.93,-120.48,UNK,US Forest Service,Hartless Unit 2,Machine,Slash,UNK
+10/29/2013,El Dorado County AQMD,El Dorado,Mountain Counties,15,15,38.94,-120.49,UNK,US Forest Service,Hartless Unit Unit 22,Machine Pile,Slash,UNK
+10/29/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,1,1,38.881,-119.989,UNK,Lake Valley Fire Protection District,Hekpa,Hand Pile,Slash,UNK
+10/29/2013,El Dorado County AQMD,El Dorado,Mountain Counties,63,13,38.816,-120.599,UNK,US Forest Service,Landing Piles,Machine Pile,Slash,260
+10/29/2013,El Dorado County AQMD,El Dorado,Mountain Counties,10,2,38.704,-120.497,UNK,US Forest Service,Marshall Mine,Machine Pile,Slash,UNK
+10/29/2013,Northern Sierra AQMD,Plumas,Mountain Counties,19,18,39.746,-121.048,UNK,US Forest Service,Meadow Enhancement Tamarack,Hand Pile,Natural,423
+10/29/2013,El Dorado County AQMD,El Dorado,Mountain Counties,4,3,38.761,-120.52,UNK,US Forest Service,Miscellaneous,Machine Pile,Slash,UNK
+10/29/2013,El Dorado County AQMD,El Dorado,Mountain Counties,89,89,38.806,-120.463,UNK,US Forest Service,Misfire,Machine Pile,Slash,2670
+10/29/2013,El Dorado County AQMD,El Dorado,Mountain Counties,30,30,38.777,-120.294,UNK,US Forest Service,Roadrunner,Hand Pile,Natural,150
+10/29/2013,Butte County AQMD,Butte,Sacramento Valley,3,3,39.766,-121.308,UNK,Unknown,Rogers Cow Camp Campground,Hand Pile,Brush,42.3
+10/29/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,5,2,38.911,-119.953,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+10/29/2013,Great Basin Unified APCD,Alpine,Great Basin Valleys,2,1,38.456,-119.564,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+10/29/2013,Placer County APCD,Placer,Mountain Counties,1,1,39.271,-120.198,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+10/30/2013,El Dorado County AQMD,El Dorado,Mountain Counties,150,131,38.669,-120.237,UNK,US Forest Service,Alder,Machine Pile,Slash,UNK
+10/30/2013,Northern Sierra AQMD,Plumas,Mountain Counties,16,16,40.079,-121.099,UNK,US Forest Service,Chip Munk - Muggins,Machine Pile,Slash,240
+10/30/2013,Northern Sierra AQMD,Nevada,Mountain Counties,1,1,39.376,-120.18,UNK,US Forest Service,Donner Camp,Hand Pile,Slash,3.2
+10/30/2013,Northern Sierra AQMD,Plumas,Mountain Counties,5,5,39.981,-120.86,UNK,US Forest Service,Empire MDF,Hand Pile,Slash,3.75
+10/30/2013,El Dorado County AQMD,El Dorado,Mountain Counties,UNK,6,38.908,-120.668,UNK,University of California,Gap hand piles,Hand Pile,Slash,13.5
+10/30/2013,Northern Sierra AQMD,Plumas,Mountain Counties,1,1,40.137,-120.685,UNK,US Forest Service,Green Flat MDF,Hand Pile,Slash,4
+10/30/2013,El Dorado County AQMD,El Dorado,Mountain Counties,7,4,38.641,-120.528,UNK,US Forest Service,Grizzly Station,Hand Pile,Natural,UNK
+10/30/2013,El Dorado County AQMD,El Dorado,Mountain Counties,10,10,38.95,-120.46,UNK,US Forest Service,Hartless Unit 18,Machine,Slash,UNK
+10/30/2013,El Dorado County AQMD,El Dorado,Mountain Counties,30,30,38.91,-120.53,UNK,US Forest Service,Hartless Unit 21,Machine,Slash,UNK
+10/30/2013,El Dorado County AQMD,El Dorado,Mountain Counties,15,15,38.95,-120.47,UNK,US Forest Service,Hartless Unit 4,Machine,Slash,UNK
+10/30/2013,El Dorado County AQMD,El Dorado,Mountain Counties,19,19,38.95,-120.46,UNK,US Forest Service,Hartless Unit 5,Machine,Slash,UNK
+10/30/2013,El Dorado County AQMD,El Dorado,Mountain Counties,15,15,38.95,-120.44,UNK,US Forest Service,Hartless Unit 6,Machine,Slash,UNK
+10/30/2013,El Dorado County AQMD,El Dorado,Mountain Counties,5,1,38.704,-120.497,UNK,US Forest Service,Marshall Mine,Machine Pile,Slash,UNK
+10/30/2013,Northern Sierra AQMD,Plumas,Mountain Counties,11,11,39.838,-121.171,UNK,US Forest Service,Meadow Enhancement Mosquito Creek,Hand Pile,Natural,258.5
+10/30/2013,Northern Sierra AQMD,Plumas,Mountain Counties,4,4,39.841,-121.163,UNK,US Forest Service,Meadow Enhancement Unit Faggs Reservoir,Hand Pile,Natural,94
+10/30/2013,El Dorado County AQMD,El Dorado,Mountain Counties,150,40,38.777,-120.294,UNK,US Forest Service,Roadrunner,Hand Pile,Natural,200
+10/30/2013,Northern Sierra AQMD,Plumas,Mountain Counties,35,20,39.712,-120.945,UNK,US Forest Service,Silvertip Hazard Tree,Hand Pile,Slash,470
+10/30/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,1,1,38.909,-119.96,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+10/30/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,4,3,38.911,-119.953,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+10/30/2013,El Dorado County AQMD,El Dorado,Mountain Counties,64,64,38.837,-120.597,UNK,US Forest Service,Unit 1,Broadcast,Natural,320
+10/31/2013,Shasta County AQMD,Shasta,Sacramento Valley,UNK,22,40.604,-122.703,UNK,National Park Service,Coggins Units 2 & 6,Broadcast,Natural,264
+10/31/2013,El Dorado County AQMD,El Dorado,Mountain Counties,1,1,38.704,-120.497,UNK,US Forest Service,Marshall Mine,Machine Pile,Slash,UNK
+10/31/2013,Northern Sierra AQMD,Plumas,Mountain Counties,5,5,39.838,-121.171,UNK,US Forest Service,Meadow Enhancement Mosquito Creek,Hand Pile,Natural,117.5
+10/31/2013,Northern Sierra AQMD,Plumas,Mountain Counties,15,15,39.712,-120.945,UNK,US Forest Service,Silvertip Hazard Tree,Hand Pile,Slash,352.5
+10/31/2013,Placer County APCD,Placer,Mountain Counties,1,1,39.3,-120.38,UNK,US Forest Service,USFS-TKRD-Donner Summit Piles,Hand Pile,Natural,UNK
+11/1/2013,Shasta County AQMD,Shasta,Sacramento Valley,15,15,40.791,-122.565,UNK,Bureau of Land Management,A,Broadcast,Natural,UNK
+11/1/2013,Shasta County AQMD,Shasta,Sacramento Valley,80,80,40.769,-122.356,UNK,National Park Service,Northwoods Deuce Block F,Broadcast,Natural,1136
+11/1/2013,Placer County APCD,Placer,Mountain Counties,2,2,39.3,-120.38,UNK,US Forest Service,USFS-TKRD-Donner Summit Piles,Hand Pile,Natural,UNK
+11/2/2013,Northern Sierra AQMD,Plumas,Mountain Counties,40,27,39.952,-121.009,UNK,US Forest Service,Meadow Valley Project,UNK,UNK,UNK
+11/3/2013,El Dorado County AQMD,El Dorado,Mountain Counties,80,80,38.599,-120.535,UNK,US Forest Service,Henry's 54,Broadcast,Natural,UNK
+11/3/2013,Shasta County AQMD,Shasta,Sacramento Valley,90,90,40.767,-122.353,UNK,National Park Service,Northwoods Deuce Block A,Broadcast,Natural,1278
+11/4/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,11,11,37.82,-118.918,UNK,US Forest Service,15b,Broadcast,Natural,55
+11/4/2013,El Dorado County AQMD,El Dorado,Mountain Counties,150,145,38.711,-120.553,UNK,US Forest Service,Flemming Meadow,Broadcast,Natural,UNK
+11/4/2013,El Dorado County AQMD,El Dorado,Mountain Counties,150,94,38.597,-120.561,UNK,US Forest Service,Henry's Diggins,Broadcast,Natural,UNK
+11/5/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,58,58,37.82,-118.918,UNK,US Forest Service,14a,Broadcast,Natural,290
+11/5/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,26,26,37.82,-118.918,UNK,US Forest Service,15a,Broadcast,Natural,130
+11/5/2013,El Dorado County AQMD,El Dorado,Mountain Counties,88,88,38.697,-120.517,UNK,US Forest Service,Bonetti West,Broadcast,Natural,UNK
+11/5/2013,Tehama County APCD,Tehama,Sacramento Valley,37,37,40.058,-121.662,UNK,US Forest Service,Cold Springs,Broadcast,Natural,740
+11/5/2013,El Dorado County AQMD,El Dorado,Mountain Counties,80,80,38.599,-120.535,UNK,US Forest Service,Henry's 54,Broadcast,Natural,UNK
+11/5/2013,El Dorado County AQMD,El Dorado,Mountain Counties,40,40,38.597,-120.561,UNK,US Forest Service,Henry's Diggins,Broadcast,Natural,UNK
+11/5/2013,El Dorado County AQMD,El Dorado,Mountain Counties,72,34,38.791,-120.594,UNK,US Forest Service,Peavine RNA Units 6-10,Broadcast,Natural,102
+11/5/2013,Northern Sierra AQMD,Nevada,Mountain Counties,75,47,39.317,-120.785,UNK,US Forest Service,Unit 11,Broadcast,Natural,705
+11/5/2013,El Dorado County AQMD,El Dorado,Mountain Counties,140,70,38.821,-120.602,UNK,US Forest Service,Unit 2,Broadcast,Natural,70
+11/6/2013,Glenn County APCD,Glenn,Sacramento Valley,40,40,39.638,-122.797,UNK,US Forest Service,"Alder Springs Underburn Unit #8, 9, 10, 11, 14, 31",Broadcast,Natural,120
+11/6/2013,Shasta County AQMD,Shasta,Sacramento Valley,UNK,11,40.269,-122.957,UNK,US Forest Service,Beegum Corral #52,Broadcast,Slash,220
+11/6/2013,Shasta County AQMD,Shasta,Sacramento Valley,116,116,40.604,-122.703,UNK,National Park Service,Coggins Units 2 & 6,Broadcast,Natural,1392
+11/6/2013,Northern Sierra AQMD,Plumas,Mountain Counties,1,1,40.167,-121.042,UNK,US Forest Service,Fall 2013,Broadcast,Natural,4
+11/6/2013,Feather River AQMD,Yuba,Sacramento Valley,79,79,39.443,-121.162,UNK,Unknown,Slapjack 525,Broadcast,Natural,1432.27
+11/6/2013,Northern Sierra AQMD,Nevada,Mountain Counties,75,50,39.317,-120.785,UNK,US Forest Service,Unit 11,Broadcast,Natural,750
+11/7/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,94,94,37.804,-118.969,UNK,US Forest Service,15A,Broadcast,Natural,470
+11/7/2013,Glenn County APCD,Glenn,Sacramento Valley,40,40,39.638,-122.797,UNK,US Forest Service,"Alder Springs Underburn Unit #8, 9, 10, 11, 14, 31",Broadcast,Natural,120
+11/7/2013,Shasta County AQMD,Shasta,Sacramento Valley,5,5,40.268,-122.954,UNK,US Forest Service,Beegum Corral #53,Broadcast,Slash,100
+11/7/2013,Butte County AQMD,Butte,Sacramento Valley,UNK,2,40.115,-121.478,UNK,US Forest Service,Jonesville,Hand Pile,Slash,UNK
+11/7/2013,Northern Sierra AQMD,Plumas,Mountain Counties,34,31,39.952,-121.009,UNK,US Forest Service,Meadow Valley Project,UNK,UNK,UNK
+11/7/2013,El Dorado County AQMD,El Dorado,Mountain Counties,38,31,38.791,-120.594,UNK,US Forest Service,Peavine RNA Units 6-10,Broadcast,Natural,93
+11/7/2013,El Dorado County AQMD,El Dorado,Mountain Counties,6,6,38.9,-120.656,UNK,University of California,Plantation underburn research,Broadcast,Natural,30
+11/7/2013,Northern Sierra AQMD,Plumas,Mountain Counties,57,53,40.01,-120.879,UNK,US Forest Service,Refuge Broadcast Burn,Broadcast,Natural,530
+11/7/2013,El Dorado County AQMD,El Dorado,Mountain Counties,29,29,38.715,-120.563,UNK,Cal Fire,Sly Park,Broadcast,Natural,UNK
+11/7/2013,Northern Sierra AQMD,Nevada,Mountain Counties,75,80,39.317,-120.785,UNK,US Forest Service,Unit 11,Broadcast,Natural,1200
+11/7/2013,El Dorado County AQMD,El Dorado,Mountain Counties,70,70,38.821,-120.602,UNK,US Forest Service,Unit 2,Broadcast,Natural,70
+11/7/2013,El Dorado County AQMD,El Dorado,Mountain Counties,36,36,38.825,-120.609,UNK,US Forest Service,Unit 3,Broadcast,Natural,180
+11/8/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,6,6,37.82,-118.918,UNK,US Forest Service,17a,Broadcast,Natural,30
+11/8/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,18,18,37.82,-118.918,UNK,US Forest Service,18b,Broadcast,Natural,90
+11/8/2013,Shasta County AQMD,Shasta,Sacramento Valley,15.7,15.7,40.791,-122.565,UNK,Bureau of Land Management,A,Broadcast,Natural,UNK
+11/8/2013,Northern Sierra AQMD,Plumas,Mountain Counties,30,20,39.937,-121.046,UNK,US Forest Service,Deanes 30,Broadcast,Natural,100
+11/8/2013,Shasta County AQMD,Shasta,Sacramento Valley,16.7,16.7,40.791,-122.565,UNK,Bureau of Land Management,E,Broadcast,Natural,UNK
+11/8/2013,Shasta County AQMD,Shasta,Sacramento Valley,15,15,40.791,-122.565,UNK,Bureau of Land Management,F,Broadcast,Natural,UNK
+11/8/2013,El Dorado County AQMD,El Dorado,Mountain Counties,10,8,38.9,-120.656,UNK,University of California,Plantation underburn research,Broadcast,Natural,40
+11/8/2013,El Dorado County AQMD,El Dorado,Mountain Counties,10,10,38.715,-120.563,UNK,Cal Fire,Sly Park,Broadcast,Natural,UNK
+11/8/2013,Northern Sierra AQMD,Nevada,Mountain Counties,80,87,39.317,-120.785,UNK,US Forest Service,Unit 11,Broadcast,Natural,1305
+11/8/2013,Northern Sierra AQMD,Sierra,Mountain Counties,50,50,39.49,-120.094,UNK,US Forest Service,Unit 4,Broadcast,Natural,350
+11/9/2013,Placer County APCD,Placer,Mountain Counties,8,8,39.194,-120.432,UNK,US Forest Service,Cross Roads Handpiles,Hand Pile,Slash,6.72
+11/9/2013,Northern Sierra AQMD,Nevada,Mountain Counties,20,20,39.317,-120.785,UNK,US Forest Service,Unit 11,Broadcast,Natural,300
+11/9/2013,El Dorado County AQMD,El Dorado,Mountain Counties,150,60,38.822,-120.601,UNK,US Forest Service,Unit 4,Broadcast,Natural,240
+11/9/2013,Northern Sierra AQMD,Sierra,Mountain Counties,50,48,39.483,-120.101,UNK,US Forest Service,Unit 5,Broadcast,Natural,336
+11/11/2013,Butte County AQMD,Butte,Sacramento Valley,12,12,39.588,-121.14,UNK,Soper-Wheeler Company LLC,South Moorville,Broadcast,Slash,360
+11/11/2013,El Dorado County AQMD,El Dorado,Mountain Counties,40,11,38.822,-120.601,UNK,US Forest Service,Unit 4,Broadcast,Natural,44
+11/11/2013,El Dorado County AQMD,El Dorado,Mountain Counties,50,50,38.822,-120.601,UNK,US Forest Service,Unit 4,Broadcast,Natural,200
+11/12/2013,Northern Sierra AQMD,Sierra,Mountain Counties,15,10,39.502,-120.864,UNK,US Forest Service,Ruby Heliocopter Unit 28,Machine Pile,Slash,9.4
+11/12/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,10,2,38.934,-120.076,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+11/12/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,42,10,39.062,-120.143,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+11/12/2013,El Dorado County AQMD,El Dorado,Mountain Counties,40,3,38.822,-120.601,UNK,US Forest Service,Unit 4,Broadcast,Natural,12
+11/12/2013,Northern Sierra AQMD,Sierra,Mountain Counties,55,86,39.483,-120.101,UNK,US Forest Service,Unit 5,Broadcast,Natural,602
+11/13/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,1,1,36.869,-118.159,T2s R28e S5,County of Inyo,Lower Owens River Project,Broadcast,UNK,5
+11/13/2013,Northern Sierra AQMD,Sierra,Mountain Counties,7,7,39.508,-120.848,T2s R28e S5,US Forest Service,Ruby Heliocopter Unit 27,Machine Pile,Slash,148.4
+11/13/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,2,1,38.934,-120.076,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+11/14/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,80,80,37.82,-118.918,UNK,US Forest Service,18a,Broadcast,Natural,400
+11/14/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,19,19,37.82,-118.918,UNK,US Forest Service,9a,Broadcast,Natural,95
+11/14/2013,Northern Sierra AQMD,Plumas,Mountain Counties,80,29,39.851,-121.008,UNK,US Forest Service,Guard 19a,Broadcast,Natural,145
+11/14/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,1,1,36.869,-118.159,T2s R28e S5,County of Inyo,Lower Owens River Project,Broadcast,UNK,5
+11/14/2013,Butte County AQMD,Butte,Sacramento Valley,UNK,5,39.575,-121.956,T2s R28e S5,US Fish and Wildlife Services,North Bedrock RX,Broadcast,Natural,0
+11/14/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,1,0.5,38.934,-120.076,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+11/15/2013,Northern Sierra AQMD,Plumas,Mountain Counties,115,115,39.851,-121.008,UNK,US Forest Service,Guard 19a,Broadcast,Natural,575
+11/15/2013,El Dorado County AQMD,El Dorado,Mountain Counties,4,2,38.9,-120.656,T2s R28e S5,University of California,Plantation underburn research,Broadcast,Natural,10
+11/15/2013,Shasta County AQMD,Shasta,Sacramento Valley,50,52,40.598,-122.591,UNK,National Park Service,SMP not found,UNK,UNK,UNK
+11/16/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,2,2,38.911,-119.953,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+11/16/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,3,3,38.911,-119.953,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+11/18/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,106,106,37.82,-118.918,UNK,US Forest Service,20a,Broadcast,Natural,530
+11/18/2013,Great Basin Unified APCD,Mono,Great Basin Valleys,14,14,37.82,-118.918,UNK,US Forest Service,22c,Broadcast,Natural,70
+11/18/2013,Butte County AQMD,Butte,Sacramento Valley,96,96,39.992,-121.493,UNK,US Forest Service,91A,Broadcast,Slash,1222.08
+11/18/2013,Butte County AQMD,Butte,Sacramento Valley,29,29,39.992,-121.493,UNK,US Forest Service,91B,Broadcast,Slash,369.17
+11/18/2013,Shasta County AQMD,Shasta,Sacramento Valley,16,16,40.263,-122.996,T2s R28e S5,US Forest Service,Beegum Corral #58,Broadcast,Slash,320
+11/18/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,5,5,39.062,-120.143,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+11/18/2013,Shasta County AQMD,Shasta,Sacramento Valley,UNK,30,40.598,-122.591,UNK,National Park Service,SMP not found,UNK,UNK,UNK
+11/18/2013,El Dorado County AQMD,El Dorado,Mountain Counties,50,37,38.822,-120.601,UNK,US Forest Service,Unit 4,Broadcast,Natural,148
+11/18/2013,Northern Sierra AQMD,Sierra,Mountain Counties,21,40,39.483,-120.101,UNK,US Forest Service,Unit 5,Broadcast,Natural,280
+11/19/2013,Northern Sierra AQMD,Plumas,Mountain Counties,4,4,39.724,-121.182,UNK,US Forest Service,Black Oak 2,Hand Pile,Brush,94
+11/19/2013,Northern Sierra AQMD,Plumas,Mountain Counties,3,3,39.718,-121.201,UNK,US Forest Service,Black Oak Enhancement 1,Hand Pile,Natural,70.5
+11/19/2013,Northern Sierra AQMD,Plumas,Mountain Counties,8,8,39.735,-121.171,UNK,US Forest Service,Black Oak Enhancement 3,Hand Pile,Brush,188
+11/19/2013,Northern Sierra AQMD,Plumas,Mountain Counties,2,2,39.752,-121.159,UNK,US Forest Service,Black Oak Enhancement 4,Hand Pile,Brush,47
+11/19/2013,Northern Sierra AQMD,Plumas,Mountain Counties,70,67,40.123,-121.061,"T22N R11E S24, 25",US Forest Service,Chip Munk - Fork,Machine Pile,Slash,1005
+11/19/2013,Northern Sierra AQMD,Plumas,Mountain Counties,36,33,40.167,-121.099,"T22N R11E S24, 25",US Forest Service,Chip Munk - Ohio,Machine Pile,Slash,495
+11/19/2013,El Dorado County AQMD,El Dorado,Mountain Counties,4,4,38.908,-120.668,UNK,University of California,Gap hand piles,Hand Pile,Slash,9
+11/19/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,15,2.3,39.046,-120.161,UNK,US Forest Service,Grouse 13-4,Hand Pile,Natural,UNK
+11/19/2013,Northern Sierra AQMD,Plumas,Mountain Counties,40,23,40.399,-121.273,UNK,US Forest Service,Jonesville DFPZ RHCA hand piles.,Hand Pile,Slash,66.24
+11/19/2013,El Dorado County AQMD,El Dorado,Mountain Counties,16,11,38.904,-120.663,UNK,University of California,Landing & Group excavator piles,Machine Pile,Slash,258.5
+11/19/2013,Northern Sierra AQMD,Nevada,Mountain Counties,5,5,39.315,-120.723,UNK,US Forest Service,Omega,Hand Pile,Natural,12.6
+11/19/2013,Butte County AQMD,Butte,Sacramento Valley,3,3,39.766,-121.308,UNK,US Forest Service,Rogers Cow Camp Campground,Hand Pile,Brush,42.3
+11/19/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,2,2,38.911,-119.953,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+11/19/2013,Eastern Kern APCD,Kern,San Joaquin Valley,177,115,35.741,-118.542,UNK,US Forest Service,Unit 1,Broadcast,Slash,230
+11/19/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,2,0.5,38.874,-120.025,UNK,California State Parks,Washoe Meadows State Park Pile Burn,Hand Pile,Slash,15
+11/19/2013,Shasta County AQMD,Shasta,Sacramento Valley,10,9,41.208,122.025,"T22N R11E S24, 25",Wyntoon Timberlands LLC,"Wyntoon Timberlands, LLC",Hand Pile,UNK,270
+11/20/2013,Northern Sierra AQMD,Plumas,Mountain Counties,1,1,40.181,-120.591,UNK,US Forest Service,Antelope Lake Boat Ramp,Hand Pile,Slash,0.5
+11/20/2013,Northern Sierra AQMD,Plumas,Mountain Counties,1,1,40.11,-120.609,UNK,US Forest Service,Boulder Creek Admin,Hand Pile,Slash,1.5
+11/20/2013,Northern Sierra AQMD,Plumas,Mountain Counties,1,1,40.11,-120.609,UNK,US Forest Service,Boulder Creek Camp Ground,Machine Pile,Slash,7.5
+11/20/2013,Northern Sierra AQMD,Plumas,Mountain Counties,4,4,39.88,-121.195,UNK,US Forest Service,Bucks Force Account,Hand Pile,Slash,20
+11/20/2013,Northern Sierra AQMD,Plumas,Mountain Counties,1,1,39.88,-121.195,UNK,US Forest Service,Bucks Lake Quarry,Machine Pile,Slash,10
+11/20/2013,South Coast AQMD,Riverside,South Coast,0.5,0.5,33.602,-117.512,UNK,US Forest Service,District Piles,Hand Pile,Brush,UNK
+11/20/2013,Northern Sierra AQMD,Plumas,Mountain Counties,18,18,39.894,-120.897,UNK,US Forest Service,Empire - Peppard,Machine Pile,Slash,405
+11/20/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,15,13,39.046,-120.161,UNK,US Forest Service,Grouse 13-4,Hand Pile,Natural,UNK
+11/20/2013,Northern Sierra AQMD,Plumas,Mountain Counties,5,3,39.757,-120.692,UNK,California State Parks,Hand Piles,Hand Pile,Slash,90
+11/20/2013,Placer County APCD,Placer,Mountain Counties,1,1,39.143,-120.689,UNK,US Forest Service,Humbug Handpiles,Hand Pile,Natural,3.15
+11/20/2013,Northern Sierra AQMD,Plumas,Mountain Counties,1,1,39.746,-121.048,UNK,US Forest Service,Meadow Enhancement Tamarack,Hand Pile,Natural,23.5
+11/20/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,2,2,38.911,-119.953,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+11/20/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,2,1,38.874,-120.025,UNK,California State Parks,Washoe Meadows State Park Pile Burn,Hand Pile,Slash,30
+11/26/2013,Feather River AQMD,Yuba,Sacramento Valley,1,1,39.495,-121.227,UNK,US Forest Service,Meadow Enhancement,Hand Pile,Brush,11.75
+12/2/2013,Northern Sierra AQMD,Nevada,Mountain Counties,20,12,39.291,-120.937,UNK,US Forest Service,Five Mile,Hand Pile,Natural,25.2
+12/3/2013,Great Basin Unified APCD,Alpine,Great Basin Valleys,150,100,38.465,-120.04,UNK,US Forest Service,Cabbage/Bear Powerline Piles,Machine Pile,Slash,UNK
+12/3/2013,Northern Sierra AQMD,Nevada,Mountain Counties,15,15,39.291,-120.937,UNK,US Forest Service,Five Mile,Hand Pile,Natural,31.5
+12/3/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,4,3,38.855,-120.006,UNK,California State Parks,Meyers 5-1,Hand Pile,Slash,UNK
+12/3/2013,Northern Sierra AQMD,Nevada,Mountain Counties,10,10,39.315,-120.723,UNK,US Forest Service,Omega,Hand Pile,Natural,25.2
+12/3/2013,Northern Sierra AQMD,Plumas,Mountain Counties,20,15,40.064,-121.136,UNK,US Forest Service,Rich WMV,Hand Pile,Slash,112.5
+12/3/2013,Northern Sierra AQMD,Plumas,Mountain Counties,5,5,39.712,-120.945,UNK,US Forest Service,Silvertip Hazard Tree,Hand Pile,Slash,117.5
+12/3/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,3,3,38.874,-120.025,UNK,California State Parks,Washoe Meadows State Park Pile Burn,Hand Pile,Slash,90
+12/4/2013,Northern Sierra AQMD,Nevada,Mountain Counties,2,2,39.365,-120.211,UNK,US Forest Service,Alder Creek,Hand Pile,Slash,8
+12/4/2013,Northern Sierra AQMD,Napa,Mountain Counties,10,2,39.246,-120.887,UNK,US Forest Service,Buckeye,Hand Pile,Brush,12
+12/4/2013,Northern Sierra AQMD,Plumas,Mountain Counties,1,1,39.88,-121.195,UNK,US Forest Service,Bucks Force Account,Hand Pile,Slash,5
+12/4/2013,Great Basin Unified APCD,Alpine,Great Basin Valleys,50,50,38.465,-120.04,UNK,US Forest Service,Cabbage/Bear Powerline Piles,Machine Pile,Slash,UNK
+12/4/2013,Placer County APCD,Placer,Mountain Counties,2,2,39.194,-120.432,UNK,US Forest Service,Cross Roads Handpiles,Hand Pile,Slash,1.68
+12/4/2013,Northern Sierra AQMD,Sierra,Mountain Counties,1,1,39.452,-120.091,UNK,US Forest Service,East Stampede,Hand Pile,Slash,3.2
+12/4/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,1,1,38.951,-120.109,UNK,California State Parks,Emerald Bay / So. Bliss burn piles,Hand Pile,Slash,UNK
+12/4/2013,Placer County APCD,Placer,Mountain Counties,2,2,39.111,-120.436,UNK,US Forest Service,French Meadows,Machine Pile,Slash,1.42
+12/4/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,3,3,38.855,-120.006,UNK,California State Parks,Meyers 5-1,Hand Pile,Slash,UNK
+12/4/2013,Northern Sierra AQMD,Sierra,Mountain Counties,10,3,39.551,-120.882,UNK,US Forest Service,Ruby Helicopter Unit 16,Machine Pile,Slash,15.06
+12/4/2013,Northern Sierra AQMD,Nevada,Mountain Counties,1,1,39.433,-120.205,UNK,US Forest Service,Sagehen,Hand Pile,Slash,3.2
+12/4/2013,Placer County APCD,Placer,Mountain Counties,16,16,39.263,-120.674,UNK,US Forest Service,Sailor Machine Piles,Machine Pile,Slash,64.32
+12/4/2013,Placer County APCD,Placer,Mountain Counties,20,20,39.263,-120.674,UNK,US Forest Service,Sailor Machine Piles,Machine Pile,Slash,80.4
+12/4/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,2,2,38.946,-120.106,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+12/4/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,10,2,38.874,-120.025,UNK,California State Parks,Washoe Meadows State Park Pile Burn,Hand Pile,Slash,60
+12/4/2013,Placer County APCD,Placer,Mountain Counties,8,5,39.194,-120.542,UNK,US Forest Service,Whiskey Landing Piles,Machine Pile,Slash,150
+12/5/2013,Northern Sierra AQMD,Nevada,Mountain Counties,1,1,39.365,-120.211,UNK,US Forest Service,Alder Creek,Hand Pile,Slash,4
+12/5/2013,Northern Sierra AQMD,Napa,Mountain Counties,10,4,39.246,-120.887,UNK,US Forest Service,Buckeye,Hand Pile,Brush,24
+12/5/2013,Colusa County APCD,Colusa,Sacramento Valley,75,75,39.411,-122.605,UNK,US Forest Service,Diversion Dam/Black Diamond,Broadcast,Natural,UNK
+12/5/2013,Northern Sierra AQMD,Sierra,Mountain Counties,1,1,39.452,-120.091,UNK,US Forest Service,East Stampede,Hand Pile,Slash,3.2
+12/5/2013,Northern Sierra AQMD,Nevada,Mountain Counties,1,1,39.423,-120.199,UNK,US Forest Service,Hwy 89 North,Hand Pile,Slash,3.2
+12/5/2013,Placer County APCD,Placer,Mountain Counties,3,3,39.1,-120.548,UNK,US Forest Service,Last Chance Handpiles,Hand Pile,Slash,4.41
+12/5/2013,Placer County APCD,Placer,Mountain Counties,32,18,39.104,-120.543,UNK,US Forest Service,Last Chance Landing piles,Machine Pile,Slash,540
+12/5/2013,Northern Sierra AQMD,Sierra,Mountain Counties,10,3,39.551,-120.882,UNK,US Forest Service,Ruby Helicopter Unit 16,Machine Pile,Slash,15.06
+12/5/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,2,2,39.018,-120.235,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+12/5/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,2,1,38.874,-120.025,UNK,California State Parks,Washoe Meadows State Park Pile Burn,Hand Pile,Slash,30
+12/6/2013,Placer County APCD,Placer,Mountain Counties,16,16,39.258,-120.542,UNK,Sierra Pacific Industries,17-0406,Machine Pile,Slash,160
+12/6/2013,Placer County APCD,Placer,Mountain Counties,4,4,39.252,-120.545,UNK,Sierra Pacific Industries,17-0504,Machine Pile,Slash,40
+12/6/2013,Placer County APCD,Placer,Mountain Counties,19,19,39.258,-120.542,UNK,Sierra Pacific Industries,17-0510,Machine Pile,Slash,190
+12/6/2013,Placer County APCD,Placer,Mountain Counties,11,11,39.257,-120.537,UNK,Sierra Pacific Industries,17-0810,Machine Pile,Slash,110
+12/6/2013,Northern Sierra AQMD,Nevada,Mountain Counties,1,1,39.365,-120.211,UNK,US Forest Service,Alder Creek,Hand Pile,Slash,4
+12/6/2013,Northern Sierra AQMD,Napa,Mountain Counties,10,2,39.246,-120.887,UNK,US Forest Service,Buckeye,Hand Pile,Brush,12
+12/6/2013,El Dorado County AQMD,El Dorado,Mountain Counties,7,7,38.904,-120.663,UNK,University of California,Landing & Group excavator piles,Machine Pile,Slash,164.5
+12/6/2013,Northern Sierra AQMD,Plumas,Mountain Counties,20,20,39.757,-121.139,UNK,Unknown,Mountain Spring,Machine Pile,Slash,580
+12/6/2013,Placer County APCD,Placer,Mountain Counties,2,2,39.28,-120.121,UNK,Northstar Fire Department,Northstar Fuels Reduction Burn Pile Emmissions,Hand Pile,Slash,3.25
+12/6/2013,Feather River AQMD,Yuba,Sacramento Valley,13,31,39.498,-121.076,UNK,US Forest Service,Pendola Unit #118 YRRD-129,Machine Pile,Natural,UNK
+12/6/2013,Butte County AQMD,Butte,Sacramento Valley,1,1,39.659,-121.187,UNK,Sierra Pacific Industries,Quartz18,Machine Pile,Slash,7.4
+12/6/2013,Butte County AQMD,Butte,Sacramento Valley,2,2,39.65,-121.183,UNK,Sierra Pacific Industries,Quartz3,Machine Pile,Slash,14.8
+12/6/2013,Butte County AQMD,Butte,Sacramento Valley,2,2,39.646,-121.176,UNK,Sierra Pacific Industries,Quartz4,Machine Pile,Slash,14.8
+12/6/2013,Butte County AQMD,Butte,Sacramento Valley,1,1,39.644,-121.171,UNK,Sierra Pacific Industries,Quartz5,Machine Pile,Slash,7.4
+12/6/2013,Placer County APCD,Placer,Mountain Counties,5,3,39.263,-120.674,UNK,US Forest Service,Sailor Machine Piles,Machine Pile,Slash,12.06
+12/6/2013,El Dorado County AQMD,El Dorado,Mountain Counties,4,4,38.712,-120.594,UNK,US Forest Service,Sly Park Hotshot Base & Sierra Springs Guard Station,Hand Pile,Natural,20
+12/6/2013,El Dorado County AQMD,El Dorado,Mountain Counties,101,101,38.942,-120.461,UNK,Sierra Pacific Industries,SO ANYWAY,Machine Pile,Slash,2020
+12/6/2013,Northern Sierra AQMD,Plumas,Mountain Counties,8,8,39.767,-121.051,UNK,Unknown,Stag Point BD,Machine Pile,Slash,232
+12/6/2013,Tehama County APCD,Tehama,Sacramento Valley,1,1,40.092,-121.642,UNK,Sierra Pacific Industries,Transfer48,Machine Pile,Slash,7.4
+12/6/2013,Tehama County APCD,Tehama,Sacramento Valley,1,1,40.107,-121.611,UNK,Sierra Pacific Industries,Transfer50,Machine Pile,Slash,7.4
+12/6/2013,Tehama County APCD,Tehama,Sacramento Valley,2,2,40.108,-121.609,UNK,Sierra Pacific Industries,Transfer51,Machine Pile,Slash,14.8
+12/6/2013,Tehama County APCD,Tehama,Sacramento Valley,2,2,40.088,-121.616,UNK,Sierra Pacific Industries,Transfer58,Machine Pile,Slash,14.8
+12/6/2013,Tehama County APCD,Tehama,Sacramento Valley,2,2,40.094,-121.617,UNK,Sierra Pacific Industries,Transfer59,Machine Pile,Slash,14.8
+12/6/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,3,2,38.874,-120.025,UNK,California State Parks,Washoe Meadows State Park Pile Burn,Hand Pile,Slash,60
+12/6/2013,El Dorado County AQMD,El Dorado,Mountain Counties,6,6,38.926,-120.416,UNK,Sierra Pacific Industries,YA KNOW NORTH,Machine Pile,Slash,120
+12/6/2013,El Dorado County AQMD,El Dorado,Mountain Counties,168,138,38.884,-120.469,UNK,Sierra Pacific Industries,YA KNOW SOUTH,Machine Pile,Slash,2760
+12/7/2013,Tehama County APCD,Tehama,Sacramento Valley,1,1,40.115,-121.572,UNK,Sierra Pacific Industries,Eagle1,Machine Pile,Slash,7.4
+12/7/2013,Tehama County APCD,Tehama,Sacramento Valley,1,1,40.135,-121.54,UNK,Sierra Pacific Industries,Eagle10,Machine Pile,Slash,7.4
+12/7/2013,Tehama County APCD,Tehama,Sacramento Valley,1,1,40.128,-121.537,UNK,Sierra Pacific Industries,Eagle11,Machine Pile,Slash,7.4
+12/7/2013,Tehama County APCD,Tehama,Sacramento Valley,2,2,40.105,-121.526,UNK,Sierra Pacific Industries,Eagle12,Machine Pile,Slash,14.8
+12/7/2013,Tehama County APCD,Tehama,Sacramento Valley,1,1,40.102,-121.518,UNK,Sierra Pacific Industries,Eagle13,Machine Pile,Slash,7.4
+12/7/2013,Tehama County APCD,Tehama,Sacramento Valley,1,1,40.117,-121.525,UNK,Sierra Pacific Industries,Eagle15,Machine Pile,Slash,7.4
+12/7/2013,Tehama County APCD,Tehama,Sacramento Valley,1,1,40.117,-121.513,UNK,Sierra Pacific Industries,Eagle16,Machine Pile,Slash,7.4
+12/7/2013,Butte County AQMD,Butte,Sacramento Valley,1,1,40.089,-121.572,UNK,Sierra Pacific Industries,Eagle18,Machine Pile,Slash,7.4
+12/7/2013,Butte County AQMD,Butte,Sacramento Valley,2,2,40.86,-121.568,UNK,Sierra Pacific Industries,Eagle19,Machine Pile,Slash,14.8
+12/7/2013,Tehama County APCD,Tehama,Sacramento Valley,2,2,40.11,-121.563,UNK,Sierra Pacific Industries,Eagle2,Machine Pile,Slash,14.8
+12/7/2013,Butte County AQMD,Butte,Sacramento Valley,1,1,40.089,-121.555,UNK,Sierra Pacific Industries,Eagle20,Machine Pile,Slash,7.4
+12/7/2013,Butte County AQMD,Butte,Sacramento Valley,2,2,40.085,-121.552,UNK,Sierra Pacific Industries,Eagle21,Machine Pile,Slash,14.8
+12/7/2013,Butte County AQMD,Butte,Sacramento Valley,2,2,40.1,-121.561,UNK,Sierra Pacific Industries,Eagle23,Machine Pile,Slash,14.8
+12/7/2013,Tehama County APCD,Tehama,Sacramento Valley,2,2,40.121,-121.555,UNK,Sierra Pacific Industries,Eagle3,Machine Pile,Slash,14.8
+12/7/2013,Tehama County APCD,Tehama,Sacramento Valley,2,2,40.117,-121.544,UNK,Sierra Pacific Industries,Eagle4,Machine Pile,Slash,14.8
+12/7/2013,Tehama County APCD,Tehama,Sacramento Valley,1,1,40.111,-121.552,UNK,Sierra Pacific Industries,Eagle5,Machine Pile,Slash,7.4
+12/7/2013,Tehama County APCD,Tehama,Sacramento Valley,1,1,40.137,-121.554,UNK,Sierra Pacific Industries,Eagle6,Machine Pile,Slash,7.4
+12/7/2013,Tehama County APCD,Tehama,Sacramento Valley,2,2,40.141,-121.551,UNK,Sierra Pacific Industries,Eagle7,Machine Pile,Slash,14.8
+12/7/2013,Tehama County APCD,Tehama,Sacramento Valley,1,1,40.134,-121.548,UNK,Sierra Pacific Industries,Eagle8,Machine Pile,Slash,7.4
+12/9/2013,Northern Sierra AQMD,Nevada,Mountain Counties,1,1,39.365,-120.211,"T22N R11E S24, 25",US Forest Service,Alder Creek,Hand Pile,Slash,4
+12/9/2013,Shasta County AQMD,Shasta,Sacramento Valley,582,75,41.049,-122.056,UNK,Sierra Pacific Industries,Bagley - Squaw Creek,Machine Pile,Slash,78.75
+12/9/2013,Northern Sierra AQMD,Plumas,Mountain Counties,3,3,40.167,-121.061,UNK,US Forest Service,Canyon Dam Force Account,Hand Pile,Slash,7.5
+12/9/2013,Northern Sierra AQMD,Plumas,Mountain Counties,1,1,39.705,-121.149,"T22N R11E S24, 25",Sierra Pacific Industries,Cascade11,Machine Pile,Slash,7.4
+12/9/2013,Northern Sierra AQMD,Plumas,Mountain Counties,4,4,39.692,-121.137,"T22N R11E S24, 25",Sierra Pacific Industries,Cascade9,Machine Pile,Slash,29.6
+12/9/2013,Northern Sierra AQMD,Plumas,Mountain Counties,7,7,39.995,-120.972,UNK,US Forest Service,Empire - Butterfly,Machine Pile,Slash,280
+12/9/2013,Butte County AQMD,Butte,Sacramento Valley,2,2,39.621,-121.195,UNK,Sierra Pacific Industries,Garden of Eden,Machine Pile,Slash,14.8
+12/9/2013,Northern Sierra AQMD,Plumas,Mountain Counties,2,2,39.757,-120.692,T25N R04E S32,California State Parks,Hand Piles,Hand Pile,Slash,60
+12/9/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,1.5,1.5,38.864,-120.003,UNK,California State Parks,Meyers 5-4,Hand Pile,Slash,UNK
+12/9/2013,Placer County APCD,Placer,Mountain Counties,2,1,39.28,-120.121,UNK,Northstar Fire Department,Northstar Fuels Reduction Burn Pile Emmissions,Hand Pile,Slash,1.625
+12/9/2013,Butte County AQMD,Butte,Sacramento Valley,4,3,39.671,-121.196,UNK,Sierra Pacific Industries,Quartz10,Machine Pile,Slash,22.2
+12/9/2013,Butte County AQMD,Butte,Sacramento Valley,1,1,39.657,-121.183,UNK,Sierra Pacific Industries,Quartz8,Machine Pile,Slash,7.4
+12/9/2013,Butte County AQMD,Butte,Sacramento Valley,4,2,39.665,-121.181,UNK,Sierra Pacific Industries,Quartz9,Machine Pile,Slash,14.8
+12/9/2013,Northern Sierra AQMD,Plumas,Mountain Counties,5,5,40.064,-121.136,UNK,US Forest Service,Rich WMV,Hand Pile,Slash,37.5
+12/9/2013,Northern Sierra AQMD,Sierra,Mountain Counties,5,2,39.551,-120.882,UNK,US Forest Service,Ruby Helicopter Unit 16,Machine Pile,Slash,10.04
+12/9/2013,Northern Sierra AQMD,Plumas,Mountain Counties,2,2,39.684,-121.104,"T22N R11E S24, 25",Sierra Pacific Industries,Saddle 14,Machine Pile,Slash,14.8
+12/9/2013,Northern Sierra AQMD,Plumas,Mountain Counties,2,2,39.689,-121.1,"T22N R11E S24, 25",Sierra Pacific Industries,Saddle 15,Machine Pile,Slash,14.8
+12/9/2013,Northern Sierra AQMD,Plumas,Mountain Counties,4,4,39.684,-121.096,"T22N R11E S24, 25",Sierra Pacific Industries,Saddle 16,Machine Pile,Slash,29.6
+12/9/2013,Northern Sierra AQMD,Plumas,Mountain Counties,3,3,39.69,-121.091,"T22N R11E S24, 25",Sierra Pacific Industries,Saddle 17,Machine Pile,Slash,22.2
+12/9/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,5,2,38.8,-120.037,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+12/9/2013,Placer County APCD,Placer,Mountain Counties,1,1,39.271,-120.198,UNK,US Forest Service,SMP not found,UNK,UNK,UNK
+12/9/2013,Tehama County APCD,Tehama,Sacramento Valley,100,30,40.398,-121.753,T12N R18E S20 & 29,Sierra Pacific Industries,Tehama Ponderosa Salvage 2013,Hand Pile,UNK,UNK
+12/9/2013,Shasta County AQMD,Shasta,Sacramento Valley,460,460,40.748,-121.679,UNK,Sierra Pacific Industries,Whittnew,Machine Pile,Slash,92
+12/12/2013,Placer County APCD,Placer,Lake Tahoe,3,3,39.193,-120.127,UNK,California State Parks,BCSP Hand Piles,Hand Pile,Slash,72
+12/12/2013,Northern Sierra AQMD,Sierra,Mountain Counties,35,35,39.598,-120.673,"Whitney Portal Township 15 south , Range 34 east sections 35 &36",US Forest Service,"Butcher North Units 4079,4080,4082,403",Machine Pile,Brush,588
+12/12/2013,Northern Sierra AQMD,Plumas,Mountain Counties,2,2,39.757,-120.692,UNK,California State Parks,Hand Piles,Hand Pile,Slash,60
+12/12/2013,Northern Sierra AQMD,Sierra,Mountain Counties,4,4,39.547,-120.89,"Whitney Portal Township 15 south , Range 34 east sections 35 &36",US Forest Service,Ruby Helicopter Unit 18,Hand Pile,Slash,27.12
+12/12/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,UNK,4,0,0,"Whitney Portal Township 15 south , Range 34 east sections 35 &36",US Forest Service,South Inyo Piles,Hand Pile,UNK,36
+12/12/2013,Tehama County APCD,Tehama,Sacramento Valley,500,50,40.398,-121.753,"T22N R11E S24, 25",Sierra Pacific Industries,Tehama Ponderosa Salvage 2013,UNK,UNK,UNK
+12/12/2013,Northern Sierra AQMD,Nevada,Mountain Counties,5,5,39.32,-120.846,"Whitney Portal Township 15 south , Range 34 east sections 35 &36",US Forest Service,White Clound,Hand Pile,Natural,10.5
+12/13/2013,Northern Sierra AQMD,Nevada,Mountain Counties,1,1,39.365,-120.211,"Whitney Portal Township 15 south , Range 34 east sections 35 &36",US Forest Service,Alder Creek,Hand Pile,Slash,4
+12/13/2013,Placer County APCD,Placer,Lake Tahoe,4,4,39.193,-120.127,"Whitney Portal Township 15 south , Range 34 east sections 35 &36",California State Parks,BCSP Hand Piles,Hand Pile,Slash,96
+12/13/2013,Northern Sierra AQMD,Plumas,Mountain Counties,2,2,39.757,-120.692,"Whitney Portal Township 15 south , Range 34 east sections 35 &36",California State Parks,Hand Piles,Hand Pile,Slash,60
+12/13/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,10,10,38.955,-119.938,"Whitney Portal Township 15 south , Range 34 east sections 35 &36",California State Parks,Van Sickle,Hand Pile,Slash,90
+12/18/2013,Northern Sierra AQMD,Plumas,Mountain Counties,1,1,39.937,-120.879,T11 R18 S29,US Forest Service,American Valley,Hand Pile,Slash,10
+12/18/2013,El Dorado County AQMD,El Dorado,Lake Tahoe,0.1,0.1,38.8,-120.037,"Whitney Portal Township 15 south , Range 34 east sections 35 &36",US Forest Service,Christmas Valley,Hand Pile,Natural,UNK
+12/18/2013,Northern Sierra AQMD,Plumas,Mountain Counties,1,1,40.024,-121.213,T11 R18 S29,US Forest Service,Gansner Bar Admin,Hand Pile,Slash,0.5
+12/18/2013,Placer County APCD,Placer,Mountain Counties,14,10,39.104,-120.543,T11 R18 S29,US Forest Service,Last Chance Landing piles,Machine Pile,Slash,300
+12/18/2013,Great Basin Unified APCD,Inyo,Great Basin Valleys,2,2,36.869,-118.159,T11 R18 S29,County of Inyo,Lower Owens River Project,Hand Pile,UNK,UNK
+12/19/2013,Northern Sierra AQMD,Nevada,Mountain Counties,1,4,39.365,-120.211,T11 R18 S29,US Forest Service,Alder Creek,Hand Pile,Slash,16
+12/20/2013,Northern Sierra AQMD,Nevada,Mountain Counties,2,2,39.365,-120.211,T11 R18 S29,US Forest Service,Alder Creek,Hand Pile,Slash,8
+12/23/2013,El Dorado County AQMD,El Dorado,Mountain Counties,1,1,38.704,-120.497,T11 R18 S29,US Forest Service,Marshall Mine,Machine Pile,Slash,UNK

@@ -1,0 +1,389 @@
+Permit Number,BurnName,ShortPermitNum,AgencyGroup,AgencyID,AdministrativeUnit,PileBcst,Acres Max Permitted ,Piles Max Permitted,Actual Acres Burned,Act Pile Vol Consumed,ActPiles,PileActVolume,PilePctCons,Lat,Lon,TWN,TWND,RNG,RNGD,SECTION
+CRD-10-142,Elk Mtn,142,BLM,CRD,Craig District Office,b,726,,,700,,,,,,7,N,85,W,18
+CRD-10-143,Rocky Reservoir,143,BLM,CRD,Craig District Office,b,18,,,,,,,,,12,N,102,W,31
+CRD-10-145,Deer Valley,145,BLM,CRD,Craig District Office,b,500,,,86,,,,,,7,N,101,W,2
+CRD-10-313,Jack Springs II,313,BLM,CRD,Craig District Office,b,221,,,70,,,,,,8,N,102,W,10
+GJD-10-028,Georgia Mesa,28,BLM,GJD,Grand Junction District,p,,60,236,,60,236,95,,,10,S,96,W,25
+GJD-10-057,Black Ridge Piles,57,BLM,GJD,Grand Junction District,p,,350,462,,276,462,94.45652,,,11,S,102,W,21
+GJD-10-062,Battlements,62,BLM,GJD,Grand Junction District,b,600,,,500,,,,,,8,S,95,W,1
+GJD-10-103,Gibbler Piles,103,BLM,GJD,Grand Junction District,p,,300,462,,403,153,95,,,14,S,100,W,33
+GJD-10-137,Black Ridge Broadcast,137,BLM,GJD,Grand Junction District,b,250,,,205,,,,,,11,S,102,W,21
+GJD-10-164,Mee Canyon/Colorado River,164,BLM,GJD,Grand Junction District,p,,30,236,,70,106,95,,,10,S,104,W,25
+GJD-10-290,Brush Mountain,290,BLM,GJD,Grand Junction District,b,350,,,100,,,,,,5,S,100,W,2
+GJD-10-358,Thompson Piles,358,BLM,GJD,Grand Junction District,p,,350,236,,,,,,,14,S,101,W,12
+GWD-10-063,East Sopris Piles,63,BLM,GWD,Glenwood Field Office,p,,550,209,,155,209,90,,,8,S,86,W,29
+GWD-10-195,Deer Pen RX,195,BLM,GWD,Glenwood Field Office,b,600,,,,,,,,,2,S,85,W,34
+GWD-10-288,Sky Legend Piles,288,BLM,GWD,Glenwood Field Office,p,,500,196,,,,,,,5,S,85,W,7
+GWD-10-319,East Sopris RX,319,BLM,GWD,Glenwood Field Office,b,100,,,90,,,,,,8,S,86,W,29
+KRD-10-019,McQueary Gulch,19,BLM,KRD,Kremmling Field Office,p,,50,7069,,49,6075,95,,,1,S,79,W,7
+KRD-10-020,C Lazy U,20,BLM,KRD,Kremmling Field Office,p,,250,5301,,75,6075,95,,,3,N,76,W,31
+KRD-10-021,Sheep Mountain,21,BLM,KRD,Kremmling Field Office,b,725,,,,,,,,,10,N,81,W,4
+KRD-10-045,Gore Lakes Fuel Reduction Project,45,BLM,KRD,Kremmling Field Office,p,,2500,85,,,,,,,2,N,82,W,31
+KRD-10-046,Independence Mountain Piles,46,BLM,KRD,Kremmling Field Office,p,,500,1500,,216,1500,80,,,11,N,81,W,14
+KRD-10-229,Vils,229,BLM,KRD,Kremmling Field Office,b,200,,,,,,,,,7,N,78,W,17
+KRD-10-236,Dry Gulch Rx,236,BLM,KRD,Kremmling Field Office,b,1022,,,,,,,39.92,-106.54,,,,,
+KRD-10-268,Fischer Draw,268,BLM,KRD,Kremmling Field Office,b,1506,,,,,,, ,  ,11,N,80,W,29
+LJD-10-113,Blanca Wetlands RX,113,BLM,LJD,La Jara Field Office,b,200,,,,,,, ,  ,38,N,11,E,1
+MRD-10-120,Gold Basin Piles,120,BLM,MRD,Gunnison Field Office,p,,2000,471,,405,471.1111,89.9371, ,  ,48,N,1,E,27
+MRD-10-153,Dallas Substation,153,BLM,MRD,Gunnison Field Office,p,,400,85,,380,94.05264,64.20677, ,  ,45,N,8,W,3
+MRD-10-154,Highway 90,154,BLM,MRD,Gunnison Field Office,b,575,,,47,,,, ,  ,48,N,11,W,24
+MRD-10-155,Mailbox,155,BLM,MRD,Gunnison Field Office,b,200,,,,,,, ,  ,46,N,14,W,9
+MRD-10-225,Powderhorn,225,BLM,MRD,Gunnison Field Office,b,400,,,412,,,, ,  ,46,N,2,W,16
+MRD-10-233,Dry Park,233,BLM,MRD,Gunnison Field Office,b,776,,,245,,,, ,  ,46,n,13,w,7
+MRD-10-238,Flanders,238,BLM,MRD,Gunnison Field Office,b,260,,,,,,, ,  ,49,N,16,W,29
+MRD-10-370,Blue Mesa Piles,370,BLM,MRD,Gunnison Field Office,p,,1450,471,,870,471,27.29885, ,  ,47,N,4,W,24
+RGD-10-022,Poverty Mountain Broadcast,22,BLM,RGD,"Royal Gorge Field Office, Canon City",b,65,,,,,,, ,  ,19,S,72,W,18
+RGD-10-054,Arkansas Mountain Fuel Break Piles,54,BLM,RGD,"Royal Gorge Field Office, Canon City",p,,1000,157,,,,,38.43,-105.7,48,N,11,E,1
+RGD-10-055,Sand Gulch,55,BLM,RGD,"Royal Gorge Field Office, Canon City",p,,250,157,,,,, ,  ,49,N,11,E,19
+RGD-10-056,Turkey Gulch Piles,56,BLM,RGD,"Royal Gorge Field Office, Canon City",p,,4600,126,,2740,116.8029,85.11811, ,  ,20,S,73,W,9
+RDG-10-115,Booger Red,115,BLM,RGD,"Royal Gorge Field Office, Canon City",b,450,,,224,,,, ,  ,15,S,70,W,30
+RGD-10-128,Rice Gulch,128,BLM,RGD,"Royal Gorge Field Office, Canon City",b,450,,,,,,, ,  ,16,S,71,W,28
+RGD-10-129,Lakemoor West Broadcast,129,BLM,RGD,"Royal Gorge Field Office, Canon City",b,250,,,,,,, ,  ,15,S,71,W,13
+RGD-10-130,Blue Heron,130,BLM,RGD,"Royal Gorge Field Office, Canon City",b,25,,,10,,,, ,  ,19,S,69,W,13
+RGD-10-182,Kerr Gulch,182,BLM,RGD,"Royal Gorge Field Office, Canon City",p,,250,200,,175,200,90,38.4,-105.74,48,N,11,E,18
+RGD-10-214,Rosita,214,BLM,RGD,"Royal Gorge Field Office, Canon City",p,,150,131,,60,131,85, ,  ,22,S,71,W,19
+RGD-10-332,Sand Gulch,332,BLM,RGD,"Royal Gorge Field Office, Canon City",b,175,,,,,,, ,  ,49,N,11,E,16
+RGD-10-333,High Park Piles,333,BLM,RGD,"Royal Gorge Field Office, Canon City",p,,500,86,,,,, ,  ,16,S,71,W,3
+RGD-10-349,Stony Face,349,BLM,RGD,"Royal Gorge Field Office, Canon City",p,,20,4687,,,,, ,  ,51,N,11,E,33
+SGD-10-286,Hat Springs Broadcast Rx,286,BLM,SGD,Saguache Field Office,b,1114,,,140,,,, ,  ,44,N,5,E,6
+SGD-10-324,Noland Gulch,324,BLM,SGD,Saguache Field Office,b,1578,,,925,,,,38.2,-105.98,46,N,9,E,21
+SJD-10-262,Forest Lakes Piles,262,BLM,SJD,San Juan Field Office,p,,60,191,,20,500,90, ,  ,35,N,7,W,3
+SJD-10-280,Dolores Rim,280,BLM,SJD,San Juan Field Office,b,1000,,,225,,,,37.76,-108.77,,,,,
+SJD-10-282,Mesa Pedregosa,282,BLM,SJD,San Juan Field Office,b,334,,,,,,,37.04,-106.88,,,,,
+SJD-10-385,Disappointment Tamarisk Piles,385,BLM,SJD,San Juan Field Office,p,,500,393,,,,,38,-108.49,,,,,
+WRD-10-125,Badger Flats,125,BLM,WRD,White River Field Office,b,566,,,,,,, ,  ,5,N,100,W,2
+WRD-10-212,Segar Mtn. Rx,212,BLM,WRD,White River Field Office,b,1300,,,,,,, ,  ,1,S,95,W,27
+WRD-10-279,Freezewall Piles,279,BLM,WRD,White River Field Office,p,,600,236,,252,236,98, ,  ,2,S,99,W,1
+FCQ-10-189,Fort Carson - PCMS,189,DOD,FCQ,Fort Carson Army,b,25000,,,8517,,,, ,  ,30,S,59,W,1
+FCQ-10-190,Fort Carson - South,190,DOD,FCQ,Fort Carson Army,b,10000,,,869,,,, ,  ,18,S,67,W,16
+FCQ-10-191,Fort Carson - Middle,191,DOD,FCQ,Fort Carson Army,b,10000,,,,,,, ,  ,17,S,66,W,12
+FCQ-10-192,Fort Carson - North,192,DOD,FCQ,Fort Carson Army,b,5000,,,288,,,, ,  ,15,S,66,W,22
+BCX-10-246,Van Fleet Orchid research meadow,246,LOCAL,BCX,City of Boulder,b,23,,,,,,, ,  ,1,S,70,W,10
+BMX-10-106,Witter - Boulder Mountain Fire PD,106,LOCAL,BMX,Boulder Mountain Fire,p,,452,42,,79,42,95, ,  ,1,N,71,W,9
+BOX-10-167,Reynolds Ranch,167,LOCAL,BOX,Boulder County Open Space,p,,214,335,,,,, ,  ,1,S,72,W,19
+BOX-10-168,Heil PA 7 Unit 1 & PA10 U1,168,LOCAL,BOX,Boulder County Open Space,p,,300,201,,51,201,70, ,  ,3,N,71,W,36
+BOX-10-259,Heil Geer Meadows RX,259,LOCAL,BOX,Boulder County Open Space,b,22,,,,,,, ,  ,1,N,71,W,28
+BOX-10-326,Heil Log Decks,326,LOCAL,BOX,Boulder County Open Space,p,,19,592,,,,,40.84,-105.19,2,N,71,W,12
+BOX-10-329,Hall PA7 Unit 4,329,LOCAL,BOX,Boulder County Open Space,b,66,,,,,,, ,  ,3,N,71,W,15
+FCX-10-107,Bobcat Ridge Piles,107,LOCAL,FCX,City of Fort Collins,p,,140,54,,5,100,80, ,  ,6,N,70,W,21
+FCX-10-199,Bobcat Ridge Natural Area,199,LOCAL,FCX,City of Fort Collins,b,60,,,52.7,,,, ,  ,6,N,70,W,16
+FCX-10-264,Butterfly Woods,264,LOCAL,FCX,City of Fort Collins,b,22,,,0.15,,,,40.61,-105.13,8,N,69,W,33
+FCX-10-327,Running Deer Rx,327,LOCAL,FCX,City of Fort Collins,b,47,,,,,,, ,  ,7,N,68,W,21
+FCX-10-330,Soapstone Prairie Mountain Plover Rx,330,LOCAL,FCX,City of Fort Collins,b,300,,,250,,,, ,  ,11,N,68,W,5
+GCX-10-999,Grand County Delegation Annual Summary,388,LOCAL,GCX,Grand County Delegation,,,,,,4150,2533.39,100, ,  ,,,,,
+GJX-10-322,Las Colonias,322,LOCAL,GJX,Grand Junction Fire Department,p,,6,7069,,23,1391,89,39.03,-108.33,,,,,
+LFX-10-065,Lake of the Pines,65,LOCAL,LFX,Lefthand Fire Dept,p,,6,1414,,2,85,95,40.13,-105.28,,,,,
+LFX-10-067,Mountain Ridge,67,LOCAL,LFX,Lefthand Fire Dept,p,,1500,85,,137,84,95, ,  ,2,N,71,W,1
+LRX-10-039,Carter Lake,39,LOCAL,LRX,Larimer County,p,,300,38,,250,85,85.85883, ,  ,4,N,70,W,4
+LRX-10-040,Horsetooth,40,LOCAL,LRX,Larimer County,p,,800,38,,75,84,75, ,  ,7,N,70,W,25
+LRX-10-041,Indian Creek Phase 2,41,LOCAL,LRX,Larimer County,b,125,,,,,,, ,  ,6,N,69,W,30
+PLX-10-166,Platte Canyon Piles (Deer Creek),166,LOCAL,PLX,Platte Canyon Fire Department,p,,4000,39,,1565,61.61981,36.14279, ,  ,6,S,72,W,28
+RMX-10-044,Flagstaff,44,LOCAL,RMX,Rocky Mountain Fire,p,,1000,39,,,,, ,  ,1,S,71,W,8
+SOX-10-312,Fetters Ranch,312,Local,SOX,South Metro Fire Department,b,75,,,11,,,, ,  ,5,S,66,W,32
+WEX-10-177,"Green Mountain Units 2,3,4,5",177,LOCAL,WEX,West Metro Fire Department,b,150,,,,,,, ,  ,4,S,70,W,24
+WEX-10-180,Ken Caryl - North Hogback North,180,LOCAL,WEX,West Metro Fire Department,b,54,,,,,,, ,  ,5,S,69,W,30
+WEX-10-298,Bear Creek Rx 2010,298,LOCAL,WEX,West Metro Fire Department,b,350,,,137,,,,39.38,-105.1,4,S,69,W,34
+MUL-10-064,Oak Meadows,64,MULTI,MUL,multiple agencies,p,,650,275,,471,255,89, ,  ,7,S,89,W,15
+MUL-10-144,Blacktail,144,MULTI,MUL,multiple agencies,b,915,,,340,,,, ,  ,4,N,84,W,30
+MUL-10-156,Chaffee,156,MULTI,MUL,multiple agencies,b,485,,,260,,,, ,  ,47,N,8,W,34
+MUL-10-193,Bulrush Wetlands Park (Yardley Wetlands),193,MULTI,MUL,multiple agencies,b,18,,,0.3,,,, ,  ,1,N,68,W,5
+MUL-10-197,Reservoir Gulch RX,197,MULTI,MUL,multiple agencies,b,2400,,,1292,,,, ,  ,8,S,92,W,9
+BCP-10-069,Green Grizzly,69,NPS,BCP,Black Canyon National Park,b,160,,,,,,, ,  ,50,N,7,W,8
+BCP-10-100,BCP Maintenance Brush Piles,100,NPS,BCP,Black Canyon National Park,p,,1,5027,,1,5027,100, ,  ,49,N,7,W,5
+BCP-10-301,Green Grizzly Piles,302,NPS,BCP,Black Canyon National Park,p,,425,65,,,,, ,  ,50,N,7,W,18
+CNP-10-104,Red Canyon,104,NPS,CNP,Colorado National Monument,b,160,,,2,,,, ,  ,12,S,101,W,10
+CNP-10-303,East Side Piles,303,NPS,CNP,Colorado National Monument,p,,325,65,,,,, ,  ,12,S,101,W,11
+FFP-10-200,Florissant Piles,200,NPS,FFP,Florissant Fossil Beds National Monument,p,,1000,275,,215,275,98.62791,40.39,-105.58,,,,,
+FFP-10-243,SE Florissant Boundary Piles,243,NPS,FFP,Florissant Fossil Beds National Monument,p,,200,151,,50,151,99, ,  ,13,S,70,W,30
+GSP-10-294,Liberty RX,294,NPS,GSP,Great Sand Dunes National Park,b,500,,,,,,,37.5,-105.37,,,,,
+MVP-10-126,Chapin Pile Rx,126,NPS,MVP,Mesa Verde National Park,p,,1,3700,,1,3700,100, ,  ,34,N,15,W,16
+RMP-10-139,Betty Dicks Slash Disposal Burn,139,NPS,RMP,Rocky Mountain National Park,p,,1,29500,,2,29500,47.5, ,  ,4,N,76,W,12
+RMP-10-165,Grand Lake Boundary Piles,165,NPS,RMP,Rocky Mountain National Park,p,,4000,275,,480,275,98,40.26,-105.84,,,,,
+RMP-10-171,Deer Mountain Piles,171,NPS,RMP,Rocky Mountain National Park,p,,4000,275,,1107,275,98,40.39,-105.48,,,,,
+RMP-10-194,Pontiac Pit,194,NPS,RMP,Rocky Mountain National Park,p,,3,14621,,3,14621,98,40.33,-105.85,,,,,
+RMP-10-226,Horseshoe,226,NPS,RMP,Rocky Mountain National Park,b,100,,,2,,,, ,  ,5,N,73,W,17
+RMP-10-247,Leiffer Cabin,247,NPS,RMP,Rocky Mountain National Park,p,,35,396,,,,,40.27,-105.54,,,,,
+RMP-10-278,South Lateral Moraine,278,NPS,RMP,Rocky Mountain National Park,b,500,,,21,,,, ,  ,4,N,73,W,5
+RMP-10-287,North Lateral Moraine,287,NPS,RMP,Rocky Mountain National Park,b,200,,,,,,,40.21,-105.35,,,,,
+PVT-10-003,Private Piles,3,PVT,PVT,Privately-owned land,p,,230,15301,,13,10000,95,37.57,-105.3,,,,,
+PVT-10-004,Private Piles,4,PVT,PVT,Privately-owned land,p,,100,20000,,25,27480,95,37.52,-105.4,,,,,
+PVT-10-029,Private Piles,29,PVT,PVT,Privately-owned land,p,,6,10268,,,,, ,  ,2,N,83,W,6
+PVT-10-042,Private Piles,42,PVT,PVT,Privately-owned land,p,,20,933,,21,1353,97, ,  ,3,N,84,W,16
+PVT-10-043,Private Piles,43,PVT,PVT,Privately-owned land,p,,120,11200,,12,9000,95, ,  ,6,S,78,W,24
+PVT-10-058,Private Broadcast,58,PVT,PVT,Privately-owned land,b,2000,,,,,,,37.53,-105.37,,,,,
+PVT-10-059,Private Broadcast,59,PVT,PVT,Privately-owned land,b,1700,,,,,,,37.49,-105.48,,,,,
+LFX-10-066,Private Piles,66,PVT,PVT,Privately-owned land,p,,1500,63,,,,, ,  ,2,N,72,W,22
+PVT-10-068,Private Piles,68,PVT,PVT,Privately-owned land,p,,5,19635,,3,19635,100, ,  ,2,N,83,W,6
+PVT-10-094,Private Piles,94,PVT,PVT,Privately-owned land,p,,200,85,,20,80,90, ,  ,2,N,71,W,19
+PVT-10-095,Private Piles,95,PVT,PVT,Privately-owned land,p,,3000,545,,319,20,85, ,  ,3,S,79,W,11
+PVT-10-101,Private Piles,101,PVT,PVT,Privately-owned land,p,,277,8459,,47,4173.149,95, ,  ,1,S,81,W,15
+PVT-10-105,Banded Peaks Ranch Broadcast,105,PVT,PVT,Privately-owned land,b,880,,,,,,,37.49,-106.69,,,,,
+PVT-10-118,Private Piles,118,PVT,PVT,Privately-owned land,p,,50,141000,,5,146480.8,98.48256, ,  ,2,S,80,W,17
+PVT-10-119,Private Piles,119,PVT,PVT,Privately-owned land,p,,50,5301,,6,393,95, ,  ,3,N,85,W,12
+PVT-10-124,Private Piles,124,PVT,PVT,Privately-owned land,p,,50,628,,8,600,85,37.05,-106.69,,,,,
+PVT-10-147,Private Piles,147,PVT,PVT,Privately-owned land,p,,25,2356,,13,20,85, ,  ,3,N,84,W,23
+PVT-10-151,Private Piles,151,PVT,PVT,Privately-owned land,p,,25,5300,,20,5300,100, ,  ,6,S,77,W,29
+PVT-10-169,Phantom Canyon Preseve: East Side,169,PVT,PVT,Privately-owned land,b,725,,,129,,,, ,  ,11,N,71,W,1
+PVT-10-188,Private Piles,188,PVT,PVT,Privately-owned land,p,,5,39270,,5,15600,99.9, ,  ,4,S,78,W,23
+PVT-10-196,Private Piles,196,PVT,PVT,Privately-owned land,p,,7,70686,,5,35100,99.74, ,  ,1,N,81,W,1
+PVT-10-215,Private Piles,215,PVT,PVT,Privately-owned land,p,,12,2500,,4,8000,95, ,  ,3,N,84,W,10
+PVT-10-216,Private Piles,216,PVT,PVT,Privately-owned land,p,,20,2500,,12,2500,80, ,  ,5,N,84,W,10
+PVT-10-219,WWV,219,PVT,PVT,Privately-owned land,b,250,,,,,,, ,  ,8,N,68,W,7
+PVT-10-220,Private Piles,220,PVT,PVT,Privately-owned land,p,,40,7000,,27,6870.371,97.91644,40.47,-106.85,,,,,
+PVT-10-221,Bar NI Unit 3,221,PVT,PVT,Privately-owned land,b,73,,,,,,,37.19,-105.04,,,,,
+PVT-10-234,Private Piles,234,PVT,PVT,Privately-owned land,p,,80,1414,,,,,40.42,-106.85,,,,,
+PVT-10-251,Private Piles,251,PVT,PVT,Privately-owned land,p,,2,1800,,8,8,75, ,  ,2,N,83,W,17
+PVT-10-271,Blue Valley Ranch Broadcast,271,PVT,PVT,Privately-owned land,b,1000,,,240,,,,39.99,-106.38,1,S,80,W,16
+PVT-10-284,Private Piles,284,PVT,PVT,Privately-owned land,p,,100,2300,,38,1921,90, ,  ,2,S,75,W,9
+PVT-10-285,Private Piles,285,PVT,PVT,Privately-owned land,p,,500,1325,,12,1500,98,39.59,-105.93,,,,,
+PVT-10-293,Private Piles,293,PVT,PVT,Privately-owned land,p,,40,8796,,18,8796,92.72222, ,  ,2,N,83,W,6
+PVT-10-295,Private Piles,295,PVT,PVT,Privately-owned land,p,,12,3770,,9,3770,90, ,  ,6,S,77,W,19
+PVT-10-296,Private Piles,296,PVT,PVT,Privately-owned land,p,,50,314,,43,2735.116,94.92789, ,  ,5,S,76,W,2
+PVT-10-304,Private Piles,304,PVT,PVT,Privately-owned land,p,,2,31416,,1,31416,95, ,  ,1,N,2,W,18
+PVT-10-305,Private Piles,305,PVT,PVT,Privately-owned land,p,,5,2026,,,,,40.14,-106.47,,,,,
+PVT-10-328,Private Piles,328,PVT,PVT,Privately-owned land,p,,75,120,,9,27.77778,100, ,  ,6,S,78,W,30
+PVT-10-335,Private Piles,335,PVT,PVT,Privately-owned land,p,,3,3299,,3,3299,90, ,  ,13,S,86,W,25
+PVT-10-341,Private Piles,341,PVT,PVT,Privately-owned land,p,,240,100,,237,125.2911,98.50353,39.16,-106.86,,,,,
+PVT-10-342,Private Piles,342,PVT,PVT,Privately-owned land,p,,25,235,,,,,39.18,-106.85,,,,,
+PVT-10-365,Private Piles,365,PVT,PVT,Privately-owned land,p,,30,4000,,20,1571,67, ,  ,3,N,84,W,6
+PVT-10-366,Private Piles,366,PVT,PVT,Privately-owned land,p,,40,5300,,,,,40.51,-107.11,,,,,
+PVT-10-369,Private Piles,369,PVT,PVT,Privately-owned land,p,,4,75000,,,,,40.81,-105.65,,,,,
+PVT-10-371,Private Piles,371,PVT,PVT,Privately-owned land,b,600,,,,,,, ,  ,33,S,51,W,21
+PVT-10-373,Private Piles,373,PVT,PVT,Privately-owned land,p,,4,4404,,,,,40.32,-106.47,,,,,
+PVT-10-377,Private Piles,377,PVT,PVT,Privately-owned land,p,,20,7068,,8,7000,99.9,39.73,-106.11,,,,,
+PVT-10-378,Private Piles,378,PVT,PVT,Privately-owned land,p,,100,300,,,,,39.58,-104.43,,,,,
+PVT-10-379,Private Piles,379,PVT,PVT,Privately-owned land,p,,2,,,,,, ,  ,6,N,84,W,4
+PVT-10-381,Private Piles,381,PVT,PVT,Privately-owned land,p,,100,196,,,,, ,  ,2,S,80,W,36
+PVT-10-384,Private Piles,384,PVT,PVT,Privately-owned land,p,,22,1178,,10,6283,95, ,  ,2,N,83,W,17
+ALS-10-276,Hudson Rx,276,STATE,ALS,Alamosa District Office,b,50,,,0.25,,,,37.17,-106.29,34,N,6,E,15
+ALS-10-289,Ptarmigan Meadows Piles,289,STATE,ALS,Alamosa District Office,p,,2,2500,,1,2500,98, ,  ,41,N,3,W,13
+ALS-10-325,Forbes Park LOA Piles Unit B,325,STATE,ALS,Alamosa District Office,p,,4,3140,,4,3500,95,37.26,-105.1,,,,,
+ALS-10-372,Powder House ALS,372,STATE,ALS,Alamosa District Office,p,,200,59,,70,59,95, ,  ,39,N,3,E,4
+BOS-10-016,Upper Sunshine/Lickskillet (Gold Hill),16,STATE,BOS,Boulder District Office,p,,750,115,,30,85,90, ,  ,1,N,71,W,7
+BOS-10-112,Gross Roservoir,112,STATE,BOS,Boulder District Office,p,,70,85,,,,, ,  ,1,S,71,W,20
+CCS-10-070,Table Mountain Pile Burns,70,STATE,CCS,Canon City District Office,p,,75,1254,,75,1254,95, ,  ,17,S,68,W,24
+CCS-10-083,Upper Badger Creek Pile Burn,83,STATE,CCS,Canon City District Office,p,,265,157,,,,, ,  ,51,N,10,E,14
+DEW-10-269,Tarryall Reservoir SWA,269,STATE,DEW,"Denver Area Office,  NE Region",b,27,,,,,,, ,  ,9,S,74,W,25
+DEW-10-270,Woodhouse State Wildlife Area,270,STATE,DEW,"Denver Area Office,  NE Region",b,15,,,,,,, ,  ,7,S,68,W,9
+DRS-10-181,Frisco Creek,181,STATE,DRS,Durango District Office,p,,1,1571,,,,, ,  ,38,N,5,E,2
+FRS-10-102,Lower North Fork,102,STATE,FRS,Franktown District Office,b,335,,,,,,, ,  ,7,S,70,W,15
+GOS-10-111,Bergan Peak,111,STATE,GOS,Golden District Office,p,,200,1571,,60,4800,0, ,  ,4,S,72,W,26
+GOS-10-121,Flying J Ranch,121,STATE,GOS,Golden District Office,b,53,,,,,,, ,  ,5,S,70,W,10
+GOS-10-138,GGCSP Nott Creek Broadcast,138,STATE,GOS,Golden District Office,b,298,,,101,,,, ,  ,2,S,71,W,19
+GOS-10-230,"White Ranch Park Understory (Units 13, 14, 20)",230,STATE,GOS,Golden District Office,b,60,,,,,,,39.82,-105.28,,,,,
+GOS-10-239,Bear Creek Bowl II/Mt Evans SWA,239,STATE,GOS,Golden District Office,b,350,,,159,,,, ,  ,5,S,73,W,11
+GOS-10-248,White Ranch Park Grass (Unit 12),248,STATE,GOS,Golden District Office,b,20,,,,,,,39.82,-105.28,,,,,
+GOS-10-263,Ralston Roost,263,STATE,GOS,Golden District Office,p,,230,101,,33,101,90, ,  ,2,S,72,W,35
+GRS-10-071,Fraser Valley Piles,71,STATE,GRS,Granby District Office,p,,170,1759,,100,1759,98, ,  ,1,S,75,W,34
+LAW-10-357,Tern Island@Blue Lake,357,STATE,LAW,Lamar Area Office,b,54,,,26,,,, ,  ,20,S,52,W,32
+MOW-10-060,Escalante Food Plots/Field Burn,60,STATE,MOW,"Montrose Area Office, SW Region",b,75,,,12,,,, ,  ,15,S,96,W,18
+MOW-10-061,Hamilton Tamarisk Piles,61,STATE,MOW,"Montrose Area Office, SW Region",p,,60,392,,,,, ,  ,15,S,96,W,18
+MVW-10-198,Coller SWA,198,STATE,MVW,"Monte Vista Area Office, SE Region",b,50,,,50,,,,37.7,-106.75,40,N,2,E,12
+MVW-10-203,Rio Grande SWA Piles,203,STATE,MVW,"Monte Vista Area Office, SE Region",p,,300,27,,,,, ,  ,39,N,8,E,34
+SSS-10-052,Steamboat Lake and Pearl,52,STATE,SSS,Steamboat Springs District Office,p,,125,5500,,38,4000,88, ,  ,10,N,85,W,26
+SSS-10-099,CS Forest Piles,99,STATE,SSS,Steamboat Springs District Office,p,,80,884,,40,1500,97,40.5,-105.9,7,N,76,W,16
+SSS-10-217,Knox,217,STATE,SSS,Steamboat Springs District Office,p,,6,3142,,11,2364,95, ,  ,10,N,85,W,20
+SSS-10-250,Delaney Buttes,250,STATE,SSS,Steamboat Springs District Office,b,750,,,,,,, ,  ,10,N,77,W,5
+SSS-10-364,Stagecoach Piles,364,STATE,SSS,Steamboat Springs District Office,p,,1,2356,,1,2356,100, ,  ,4,N,84,W,32
+WPS-10-015,PPWS North Slope Ridge Road,15,STATE,WPS,Woodland Park District Office,b,114,,,114,,,, ,  ,13,S,69,W,13
+WPS-10-149,James Mark Jones SWA Rx Burn,149,STATE,WPS,Woodland Park District Office,b,650,,,155,,,, ,  ,10,S,76,W,9
+WPS-10-213,Eleven Mile State Park Rx Burn,213,STATE,WPS,Woodland Park District Office,b,60,,,60,,,, ,  ,13,S,72,W,18
+WPS-10-291,Pikes Peak Watershed Pile Burn,291,STATE,WPS,Woodland Park District Office,p,,300,200,,300,200,100, ,  ,13,S,69,W,11
+WPS-10-292,Salt Creek Piles,292,STATE,WPS,Woodland Park District Office,p,,10,1500,,,,, ,  ,13,S,77,W,3
+ARF-10-006,James Creek Units H1401 & RFB14,6,USFS,ARF,Arapaho/Roosevelt National Forests,p,,3000,60,,268,79.07462,87.48962, ,  ,2,N,72,W,11
+ARF-10-007,Sugarloaf 165 A & B,7,USFS,ARF,Arapaho/Roosevelt National Forests,p,,260,32,,,,, ,  ,1,N,72,W,21
+ARF-10-008,Sugarloaf 132 & 132E,8,USFS,ARF,Arapaho/Roosevelt National Forests,p,,2000,191,,,,, ,  ,1,N,72,W,33
+ARF-10-009,James Creek PBFB1,9,USFS,ARF,Arapaho/Roosevelt National Forests,p,,3500,151,,2670,151,85.26517, ,  ,1,N,72,W,9
+ARF-10-010,Porter Ranch Unit 5,10,USFS,ARF,Arapaho/Roosevelt National Forests,p,,500,151,,101,151,94.70297, ,  ,1,S,72,W,10
+ARF-10-011,Sugarloaf Unit 121-123,11,USFS,ARF,Arapaho/Roosevelt National Forests,p,,35,9425,,25,1244,85, ,  ,1,N,72,W,31
+ARF-10-017,Sugarloaf 166,17,USFS,ARF,Arapaho/Roosevelt National Forests,p,,1500,32,,,,, ,  ,1,N,72,W,14
+ARF-10-018,Sugarloaf Unit 54,18,USFS,ARF,Arapaho/Roosevelt National Forests,p,,50,565,,32,577.1875,90, ,  ,1,N,72,W,30
+ARF-10-088,Fish Creek,88,USFS,ARF,Arapaho/Roosevelt National Forests,p,,6000,151,,,,, ,  ,4,N,72,W,18
+ARF-10-089,Meeker Park,89,USFS,ARF,Arapaho/Roosevelt National Forests,p,,7000,151,,3275,150.1499,92.6816, ,  ,3,N,72,W,6
+ARF-10-090,Pinewood Springs,90,USFS,ARF,Arapaho/Roosevelt National Forests,p,,7000,151,,1052,151,91.53042, ,  ,4,N,71,W,21
+ARF-10-091,Pingree Hill,91,USFS,ARF,Arapaho/Roosevelt National Forests,p,,13000,151,,,,, ,  ,9,N,73,W,22
+ARR-10-092,Red Feather,92,USFS,ARF,Arapaho/Roosevelt National Forests,p,,800,151,,587,550.4855,90.41356, ,  ,10,N,73,W,4
+ARF-10-097,Grizzly Gulch,97,USFS,ARF,Arapaho/Roosevelt National Forests,p,,14000,151,,1812,151,90, ,  ,4,N,72,W,4
+ARF-10-116,Evergreen 32 & 5,116,USFS,ARF,Arapaho/Roosevelt National Forests,p,,25,1885,,17,5830,90, ,  ,5,S,71,W,32
+ARF-10-117,Lake Pasture,117,USFS,ARF,Arapaho/Roosevelt National Forests,p,,18000,236,,4525,208.7624,81.85069, ,  ,4,N,72,W,21
+ARF-10-135,Sugarloaf Unit 3,135,USFS,ARF,Arapaho/Roosevelt National Forests,p,,500,151,,135,151,87.03704, ,  ,1,N,72,W,10
+ARF-10-136,Evergreen 6B,136,USFS,ARF,Arapaho/Roosevelt National Forests,p,,5,828,,33,5102.727,90, ,  ,5,S,71,W,31
+ARF-10-152,Box Prairie Piles,152,USFS,ARF,Arapaho/Roosevelt National Forests,p,,700,236,,322,236,95, ,  ,7,N,72,W,7
+ARF-10-172,A Bay Temp Storage Piles,172,USFS,ARF,Arapaho/Roosevelt National Forests,p,,20,1571,,20,1571,80, ,  ,2,N,76,W,11
+ARF-10-173,ANRA Landing Piles,173,USFS,ARF,Arapaho/Roosevelt National Forests,p,,250,5301,,202,5301,79.62872, ,  ,3,N,76,W,15
+ARF-10-174,Blue Ridge South Piles,174,USFS,ARF,Arapaho/Roosevelt National Forests,p,,3000,396,,,,, ,  ,1,S,77,W,3
+ARF-10-175,East Elk Ridge Creek,175,USFS,ARF,Arapaho/Roosevelt National Forests,p,,4000,465,,300,555,68.71622, ,  ,2,S,75,W,7
+ARF-10-201,Upper Fraser Piles,201,USFS,ARF,Arapaho/Roosevelt National Forests,p,,2100,2621,,35,396,90, ,  ,1,S,76,W,25
+ARF-10-204,Vasquez Ridge Piles,204,USFS,ARF,Arapaho/Roosevelt National Forests,p,,4000,396,,150,396,80, ,  ,2,S,75,W,17
+ARF-10-207,Stub Creek Piles,207,USFS,ARF,Arapaho/Roosevelt National Forests,p,,900,236,,1258,151,90, ,  ,10,N,76,W,22
+ARF-10-240,Meadow Creek Reservoir,240,USFS,ARF,Arapaho/Roosevelt National Forests,p,,100,275,,10,275,50, ,  ,1,N,75,W,12
+ARF-10-241,Willow Creek Canal,241,USFS,ARF,Arapaho/Roosevelt National Forests,p,,35,85,,10,85,100, ,  ,2,N,76,W,10
+ARF-10-242,Pratt Creek 4 (Machine Piles),242,USFS,ARF,Arapaho/Roosevelt National Forests,p,,4,18850,,,,, ,  ,11,N,73,W,4
+ARF-10-244,Pawnee 2010,244,USFS,ARF,Arapaho/Roosevelt National Forests,b,1162,,,,,,, ,  ,9,N,63,W,35
+ARF-10-245,Sheep Creek 2,245,USFS,ARF,Arapaho/Roosevelt National Forests,b,1868,,,,,,, ,  ,11,N,73,W,33
+ARF-10-337,Panhandle Creek Piles,337,USFS,ARF,Arapaho/Roosevelt National Forests,p,,520,236,,162,236,95, ,  ,10,N,74,W,6
+ARF-10-363,Jericho Road,363,USFS,ARF,Arapaho/Roosevelt National Forests,p,,150,454,,,,, ,  ,3,N,75,W,5
+ARF-10-367,Denver Creek,367,USFS,ARF,Arapaho/Roosevelt National Forests,p,,50,395,,50,395,90,40.25,-106.08,3,N,78,W,1
+ARF-10-375,Shadow Mountain Lake,375,USFS,ARF,Arapaho/Roosevelt National Forests,p,,800,454,,,,, ,  ,3,N,76,W,14
+ARF-10-376,Sunnyshores,376,USFS,ARF,Arapaho/Roosevelt National Forests,p,,800,454,,,,, ,  ,2,N,76,W,11
+ARF-10-382,Sugarloaf 151,382,USFS,ARF,Arapaho/Roosevelt National Forests,p,,250,151,,,,, ,  ,1,S,72,W,8
+ARF-10-387,Yankee Hill 24,387,USFS,ARF,Arapaho/Roosevelt National Forests,p,,100,38,,65,38,90, ,  ,2,S,72,W,30
+GMF-10-023,Mesa Lake Piles,23,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,p,,50,884,,39,450,98, ,  ,11,S,96,W,34
+GMF-10-096,Kannah Creek Piles,96,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,p,,250,850,,327,750,98, ,  ,12,S,97,W,34
+GMF-10-098,Ward Lake Piles,98,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,p,,500,884,,,,, ,  ,11,S,95,W,35
+GMF-10-108,Columbine Wildlife Oak Burn,108,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,715,,,250,,,, ,  ,48,N,14,W,14
+GMF-10-109,Horse Pasture Pit,109,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,p,,6,619,,1,750,98, ,  ,44,N,13,W,9
+GMF-10-114,Reade Hill Wildlife Oak Burn,114,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,915,,,,,,, ,  ,47,N,12,W,31
+GMF-10-146,Dave Wood,146,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,1360,,,,,,, ,  ,46,N,10,W,3
+GMF-10-157,Bear Paw,157,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,2567,,,590,,,, ,  ,14,S,90,W,13
+GMF-10-158,Divide Campground & Raspberry Piles,158,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,p,,12,20,,,,, ,  ,47,N,12,W,21
+GMF-10-159,WAPA/Tri-State Clearcuts,159,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,177,,,50,,,, ,  ,47,N,12,W,13
+GMF-10-160,Tri State Piles,160,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,p,,1500,1135,,530,1169.274,73.18695, ,  ,47,N,12,W,14
+GMF-10-170,Sims Mesa,170,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,500,,,180,,,, ,  ,47,N,10,W,34
+GMF-10-183,Pine Mountain,183,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,800,,,300,,,, ,  ,51,N,18,W,11
+GMF-10-184,One Mile,184,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,2500,,,408,,,, ,  ,15,S,84,W,16
+GMF-10-185,Taylor Canyon,185,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,3000,,,32,,,, ,  ,15,S,84,W,11
+GMF-10-186,Tomichi,186,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,2000,,,229,,,,38.32,-106.52,47,N,4,E,16
+GMF-10-187,Little Monitor,187,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,450,,,,,,,38.52,-108.3,,,,,
+GMF-10-208,Los Pinos,208,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,1500,,,,,,,38.24,-106.85,46,N,1,E,32
+GMF-10-209,Alpine,209,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,750,,,5,,,,38.14,-107.32,45,N,4,W,4
+GMF-10-210,West Elk,210,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,1200,,,,,,,38.58,-107.18,50,N,3,W,31
+GMF-10-222,Battlements Sudden Aspen Decline (SAD),222,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,1500,,,300,,,, ,  ,8,S,95,W,23
+GMF-10-223,Yellow Pine,223,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,800,,,69,,,, ,  ,49,N,3,E,1
+GMF-10-224,Ohio City-Pitkin,224,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,800,,,,,,, ,  ,50,N,3,E,13
+GMF-10-331,Escalante,331,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,b,1300,,,140,,,, ,  ,49,N,14,W,25
+GMF-10-336,Old Monarch,336,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,p,,141,516,,135,516,98, ,  ,49,N,5,E,3
+GMF-10-343,North Tincup TS,343,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,p,,29,1077,,29,1077,95,38.77,-106.47,15,S,81,W,16
+GMF-10-344,Buffalo Fork TS,344,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,p,,53,6920,,38,6920,95, ,  ,50,N,4,E,24
+GMF-10-352,West Mountain,352,USFS,GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,p,,2500,471,,1154,471,70, ,  ,50,N,4,E,5
+MLF-10-283,Buckeye Unit (Carpenter Ridge),283,USFS,MLF,Manti La Salle National Forests,b,100,,,,,,,38.56,-109.04,,,,,
+PSF-10-002,Highway 67 Piles,2,USFS,PSF,Pike/San Isabel National Forests,p,,3225,285,,548,273.5894,90.15707, ,  ,11,S,69,W,9
+PSF-10-012,Rocky Gulch Stewardship Contract,12,USFS,PSF,Pike/San Isabel National Forests,p,,176,3000,,169,3000,95, ,  ,12,S,72,W,25
+PSF-10-013,Messenger ARRA Stewardship Contract,13,USFS,PSF,Pike/San Isabel National Forests,p,,105,3500,,,,, ,  ,13,S,73,W,5
+PSF-10-014,Howard I ARRA Stewardship Contract Piles,14,USFS,PSF,Pike/San Isabel National Forests,p,,380,4000,,247,3000,95, ,  ,13,S,71,W,4
+PSF-10-025,3-4 Elk,25,USFS,PSF,Pike/San Isabel National Forests,p,,1400,113,,635,151,90, ,  ,13,S,79,W,15
+PSF-10-026,Ranch of the Rockies,26,USFS,PSF,Pike/San Isabel National Forests,p,,150,594,,64,85,90, ,  ,13,s,77,w,23
+PSF-10-027,Browns Creek,27,USFS,PSF,Pike/San Isabel National Forests,p,,500,174,,175,557,86,38.65,-106.18,51,N,7,E,24
+PSF-10-030,Chalk Creek Piles,30,USFS,PSF,Pike/San Isabel National Forests,p,,900,151,,,,, ,  ,15,S,79,W,26
+PSF-10-031,Frenchman Creek,31,USFS,PSF,Pike/San Isabel National Forests,p,,150,151,,135,151,90,38.91,-106.21,13,S,79,W,4
+PSF-10-032,Unit 121 (Gametrail),32,USFS,PSF,Pike/San Isabel National Forests,p,,1100,201,,500,201,90,38.91,-106.21,13,S,79,W,28
+PSF-10-033,North Cottonwood,33,USFS,PSF,Pike/San Isabel National Forests,p,,350,151,,260,151,90,38.82,-106.22,14,S,79,W,4
+PSF-10-034,NW Leadville,34,USFS,PSF,Pike/San Isabel National Forests,p,,750,151,,536,151,90, ,  ,9,S,80,W,10
+PSF-10-035,Squaw Creek,35,USFS,PSF,Pike/San Isabel National Forests,p,,150,236,,50,236,90, ,  ,50,N,7,E,13
+PSF-10-036,Weldon,36,USFS,PSF,Pike/San Isabel National Forests,p,,225,1018,,222,1018,90,38.57,-106.19,50,N,7,E,15
+PSF-10-037,Monument Fire Center (MFC) Piles,37,USFS,PSF,Pike/San Isabel National Forests,p,,250,314,,23,360,95, ,  ,11,S,67,W,17
+PSF-10-038,Shaded Fuel Break,38,USFS,PSF,Pike/San Isabel National Forests,p,,5000,101,,,,, ,  ,8,S,70,W,19
+PSF-10-047,"Howard 1, 08 TSI (Blue Mtn TSI)",47,USFS,PSF,Pike/San Isabel National Forests,p,,700,191,,205,200,99, ,  ,13,S,71,W,8
+PSF-10-048,Buffalo Jones TS,48,USFS,PSF,Pike/San Isabel National Forests,p,,30,1571,,,,, ,  ,12,s,77,w,25
+PSF-10-049,Rim Rock Piles,49,USFS,PSF,Pike/San Isabel National Forests,p,,600,191,,112,196,97, ,  ,13,S,72,W,21
+PSF-10-050,Leadville National Fish Hathchery,50,USFS,PSF,Pike/San Isabel National Forests,p,,1,1257,,,,, ,  ,9,S,81,W,36
+PSF-10-051,Sleeping Tom Summer Home Group Thinning,51,USFS,PSF,Pike/San Isabel National Forests,p,,125,126,,75,126,99, ,  ,13,S,72,W,1
+PSF-10-053,Road 251 Thinning,53,USFS,PSF,Pike/San Isabel National Forests,p,,900,191,,172,200,99, ,  ,12,S,72,W,33
+PSF-10-084,Comanche - Las Animas,84,USFS,PSF,Pike/San Isabel National Forests,b,2060,,,,,,, ,  ,32,S,55,W,13
+PSF-10-110,Rampart Piles,110,USFS,PSF,Pike/San Isabel National Forests,p,,500,314,,63,314,95, ,  ,11,S,68,W,32
+PSF-10-122,Black Mtn Piles,122,USFS,PSF,Pike/San Isabel National Forests,p,,850,223,,1,223,95, ,  ,24,S,70,W,28
+PSF-10-123,Horn Creek & Alvarado Piles,123,USFS,PSF,Pike/San Isabel National Forests,p,,50,1885,,1,1885,90,38.04,-105.54,23,S,73,W,15
+PSF-10-131,Fishcreek - P1,131,USFS,PSF,Pike/San Isabel National Forests,b,200,,,,,,, ,  ,13,S,71,W,18
+PSF-10-132,Sky Island,132,USFS,PSF,Pike/San Isabel National Forests,b,1820,,,755,,,, ,  ,13,S,72,W,8
+PSF-10-133,Road Gulch - Units P1/P2,133,USFS,PSF,Pike/San Isabel National Forests,b,375,,,,,,, ,  ,13,S,72,W,22
+PSF-10-134,Wagon Tongue - Units P1-3,134,USFS,PSF,Pike/San Isabel National Forests,b,1250,,,,,,, ,  ,13,S,72,W,14
+PSF-10-161,CWC Piles,161,USFS,PSF,Pike/San Isabel National Forests,p,,10,1325,,,,, ,  ,31,S,47,W,7
+PSF-10-162,Picket Wire Piles,162,USFS,PSF,Pike/San Isabel National Forests,p,,300,275,,,,,37.51,-103.68,29,S,56,W,3
+PSF-10-163,Trout West,163,USFS,PSF,Pike/San Isabel National Forests,b,1500,,,,,,, ,  ,11,S,69,W,1
+PSF-10-218,AG Piles,218,USFS,PSF,Pike/San Isabel National Forests,p,,269,2642,,,,, ,  ,7,s,73,w,20
+PSF-10-237,Black Mountain Fire Restoration,237,USFS,PSF,Pike/San Isabel National Forests,b,1800,,,362,,,, ,  ,24,S,70,W,21
+PSF-10-273,O'Haver Lake,273,USFS,PSF,Pike/San Isabel National Forests,b,700,,,,,,, ,  ,48,N,7,E,1
+PSF-10-274,Threemile Creek,274,USFS,PSF,Pike/San Isabel National Forests,b,150,,,100,,,,38.7,-106.16,51,N,7,E,25
+PSF-10-299,O-Brien - Unit P1-4,299,USFS,PSF,Pike/San Isabel National Forests,b,1500,,,118,,,, ,  ,13,S,72,W,25
+PSF-10-321,Wagon Tongue - Unit P4,321,USFS,PSF,Pike/San Isabel National Forests,b,178,,,,,,, ,  ,13,S,72,W,28
+PSF-10-338,Pan Ark,338,USFS,PSF,Pike/San Isabel National Forests,p,,150,151,,99,151,88, ,  ,11,S,80,W,8
+PSF-10-339,Lodgepole Flats Broadcast,339,USFS,PSF,Pike/San Isabel National Forests,b,400,,,65,,,, ,  ,10,S,80,W,19
+PSF-10-340,Four Elk Broadcast,340,USFS,PSF,Pike/San Isabel National Forests,b,835,,,,,,, ,  ,13,S,79,W,10
+PSF-10-353,Red Deer Piles,353,USFS,PSF,Pike/San Isabel National Forests,p,,350,151,,,,,38.84,-106.27,14,S,79,W,9
+PSF-10-354,Cree Creek Piles,354,USFS,PSF,Pike/San Isabel National Forests,p,,20,1018,,,,,38.54,-106.22,50,N,7,E,32
+PSF-10-355,Bassam Piles,355,USFS,PSF,Pike/San Isabel National Forests,p,,80,30,,,,, ,  ,14,S,75,W,31
+PSF-10-356,Little Annie,356,USFS,PSF,Pike/San Isabel National Forests,p,,400,151,,,,,38.94,-106.13,13,S,78,W,5
+PSF-10-380,Sledgehammer 4 Stewardship Contract,380,USFS,PSF,Pike/San Isabel National Forests,p,,55,1571,,,,, ,  ,13,S,72,W,22
+RGF-10-072,Big Meadows Timber Piles,72,USFS,RGF,Rio Grande National Forest,p,,1,6008,,1,18850,95,37.52,-106.76,38,N,2,E,17
+RGF-10-073,Burro/Blowout Timber Piles,73,USFS,RGF,Rio Grande National Forest,p,,40,275,,,,, ,  ,37,N,5,E,5
+RGF-10-074,Twister/Twister II Timber Piles,74,USFS,RGF,Rio Grande National Forest,p,,30,275,,,,,37.71,-106.97,40,N,1,W,25
+RGF-10-148,Finger Mesa Piles,148,USFS,RGF,Rio Grande National Forest,p,,100,69,,81,69,80, ,  ,41,N,4,W,14
+RGF-10-150,Powder House 1a (Piles),150,USFS,RGF,Rio Grande National Forest,p,,1500,135,,750,135,90, ,  ,39,N,3,E,9
+RGF-10-227,English Valley Rx (Units 1-4),227,USFS,RGF,Rio Grande National Forest,b,1500,,,900,,,, ,  ,41,N,5,E,22
+RGF-10-275,Fox Creek - Alamaditas Broadcast Rx,275,USFS,RGF,Rio Grande National Forest,b,600,,,,,,, ,  ,33,N,6,E,1
+RGF-10-316,November Broadcast Rx,316,USFS,RGF,Rio Grande National Forest,b,500,,,200,,,, ,  ,33,N,6,E,13
+RGF-10-317,Powderhouse Unit 2,317,USFS,RGF,Rio Grande National Forest,b,187,,,,,,, ,  ,39,N,3,E,9
+RGF-10-360,Grouse/La Manga T.S. Piles,360,USFS,RGF,Rio Grande National Forest,p,,21,470,,18,470,90,37.07,-106.43,33,N,5,E,20
+RGF-10-374,Fox Creek Piles,374,USFS,RGF,Rio Grande National Forest,p,,100,57,,,,,37.04,-106.13,,,,,
+RGF-10-386,Rustin Aspen Piles,386,USFS,RGF,Rio Grande National Forest,p,,10,6283,,10,6283,95, ,  ,38,N,4,E,14
+RTF-10-176,Gore Pass Admin,176,USFS,RTF,Routt National Forest,p,,100,201,,97,201,90.36082, ,  ,2,N,83,W,27
+RTF-10-202,Long Park,202,USFS,RTF,Routt National Forest,p,,150,7069,,,,, ,  ,1,N,83,W,14
+RTF-10-205,Gore Lakes,205,USFS,RTF,Routt National Forest,p,,1000,275,,,,, ,  ,2,N,82,W,36
+RTF-10-206,Seedhouse Broadcast,206,USFS,RTF,Routt National Forest,b,1155,,,,,,, ,  ,9,N,84,W,3
+RTF-10-272,Hwy 134 Piles,272,USFS,RTF,Routt National Forest,p,,4300,6283,,137,5357.511,92.62063, ,  ,2,N,82,W,16
+RTF-10-300,Buffalo Pass Admin Pile Burn,300,USFS,RTF,Routt National Forest,p,,100,275,,,,, ,  ,6,N,83,W,16
+RTF-10-306,Big Creek Lakes Pile Burn,306,USFS,RTF,Routt National Forest,p,,700,275,,410,275,90,40.98,-106.63,12,N,82,W,16
+RTF-10-307,Gould Pile Burn,307,USFS,RTF,Routt National Forest,p,,100,1571,,25,1050,95, ,  ,6,N,77,W,3
+RTF-10-308,Green Ridge Timber Sale Pile Burn,308,USFS,RTF,Routt National Forest,p,,100,6283,,,,, ,  ,5,N,79,W,2
+RTF-10-309,Grizzly Pile Burn,309,USFS,RTF,Routt National Forest,p,,300,1571,,290,685,95, ,  ,5,N,82,w,16
+RTF-10-310,Seedhouse Pile Burn,310,USFS,RTF,Routt National Forest,p,,300,6283,,22,6278.455,80, ,  ,9,N,84,W,16
+RTF-10-311,Slack-Weiss Reservoir Pile Burn,311,USFS,RTF,Routt National Forest,p,,50,275,,20,600,95,40.43,-106.37,5,N,80,W,4
+RTF-10-314,Little Snake Pile Burn,314,USFS,RTF,Routt National Forest,p,,125,6283,,115,4971.835,89.01093, ,  ,10,N,84,W,16
+RTF-10-315,Sand Mountain Pile Burn,315,USFS,RTF,Routt National Forest,p,,125,1571,,70,1571,88.21429, ,  ,9,N,85,W,16
+RTF-10-318,FHTR 100 Pile Burn,318,USFS,RTF,Routt National Forest,p,,200,275,,38,6283,95, ,  ,3,N,82,W,5
+RTF-10-334,Steamboat Ski Area Pile Burn,334,USFS,RTF,Routt National Forest,p,,30,7068,,8,7068,90, ,  ,6,N,84,W,23
+SJF-10-001,Ute Fuels Reduction,1,USFS,SJF,San Juan National Forest,p,,100,400,,,,, ,  ,34,N,4,W,9
+SJF-10-005,East Fork Campground Piles,5,USFS,SJF,San Juan National Forest,p,,35,71,,,,, ,  ,36,N,1,E,7
+SJF-10-075,Chub Draw,75,USFS,SJF,San Juan National Forest,p,,100,39,,100,39,90, ,  ,37,N,3,W,4
+SJF-10-076,Ice Cave Ridge,76,USFS,SJF,San Juan National Forest,p,,1000,48,,,,, ,  ,37,N,3,W,21
+SJF-10-077,Hatcher Piles,77,USFS,SJF,San Juan National Forest,p,,500,57,,462,57,84.54546,37.32,-107.13,36,N,400,W,26
+SJF-10-078,Chimney Rock,78,USFS,SJF,San Juan National Forest,p,,1500,101,,222,101,80,37.18,-107.31,,,,,
+SJF-10-081,Ute Campground,81,USFS,SJF,San Juan National Forest,p,,250,85,,51,85,80, ,  ,34,N,4,W,14
+SJF-10-093,Wickenson Mountain,93,USFS,SJF,San Juan National Forest,b,1025,,,,,,, ,  ,35,N,6,W,10
+SJF-10-127,Upper Piedra,127,USFS,SJF,San Juan National Forest,p,,150,39,,161,39,90, ,  ,37,N,3,W,16
+SJF-10-140,Burns Canyon,140,USFS,SJF,San Juan National Forest,b,990,,,,,,, ,  ,34,N,2,W,18
+SJF-10-141,Devil Creek,141,USFS,SJF,San Juan National Forest,b,1314,,,178,,,,37.32,-107.18,,,,,
+SJF-10-211,Piedra Aerial/Sheep Creek/Davis Creek,211,USFS,SJF,San Juan National Forest,b,3500,,,1116,,,,37.37,-107.32,,,,,
+SJF-10-228,Chicken Creek,228,USFS,SJF,San Juan National Forest,p,,1200,71,,137,93,97, ,  ,37,N,13,W,32
+SJF-10-231,Hidden Valley Piles,231,USFS,SJF,San Juan National Forest,p,,300,151,,,,, ,  ,36,N,9,W,21
+SJF-10-232,East Animas Piles,232,USFS,SJF,San Juan National Forest,p,,3,150,,3,903,100, ,  ,36,N,9,W,15
+SJF-10-260,Rabbit Mountain Piles,260,USFS,SJF,San Juan National Forest,p,,350,57,,,,, ,  ,35,N,7,W,19
+SJF-10-261,Electra Lakes,261,USFS,SJF,San Juan National Forest,p,,7000,191,,1230,73.65854,90, ,  ,38,N,8,W,19
+SJF-10-277,Doe Canyon,277,USFS,SJF,San Juan National Forest,b,600,,,115,,,, ,  ,40,N,16,W,19
+SJF-10-281,Horsefly,281,USFS,SJF,San Juan National Forest,b,1400,,,73,,,,37.3,-107.33,,,,,
+SJF-10-297,Hayden Creek,297,USFS,SJF,San Juan National Forest,b,262,,,,,,, ,  ,35,N,5,W,30
+SJF-10-301,Hay Camp Point Piles,301,USFS,SJF,San Juan National Forest,p,,12,339,,11,339,95, ,  ,38,N,13,W,6
+SJF-10-323,South Carver/Boundary,323,USFS,SJF,San Juan National Forest,b,1000,,,31,,,, ,  ,37,N,14,W,10
+SJF-10-361,Little Carver Piles,361,USFS,SJF,San Juan National Forest,p,,50,134,,50,134,99, ,  ,37,N,14,W,12
+SJF-10-368,Cayton Pile,368,USFS,SJF,San Juan National Forest,p,,1,1600,,1,1600,80,37.46,-107.58,,,,,
+SJF-10-383,Animas Mountain Unit 2,383,USFS,SJF,San Juan National Forest,p,,650,180,,25,180,90,37.18,-107.54,,,,,
+WRF-10-024,Frisco WUI,24,USFS,WRF,White River National Forest,p,,300,126,,295,126,90, ,  ,5,S,78,W,34
+WRF-10-079,Piney River Ranch,79,USFS,WRF,White River National Forest,p,,250,236,,149,236.3221,62.0919, ,  ,4,S,81,W,14
+WRF-10-080,Ryan Gulch,80,USFS,WRF,White River National Forest,p,,700,151,,509,127.5226,90.36058, ,  ,5,S,78,W,13
+WRF-10-082,West Vail,82,USFS,WRF,White River National Forest,p,,3905,236,,731,236,95, ,  ,5,S,80,W,5
+WRF-10-085,Gravel Pit,85,USFS,WRF,White River National Forest,p,,8,250,,8,250,70, ,  ,4,S,91,W,6
+WRF-10-086,Redstone Campground,86,USFS,WRF,White River National Forest,p,,140,1405,,132,193,93, ,  ,10,S,88,W,16
+WRF-10-087,Meadow Lake,87,USFS,WRF,White River National Forest,p,,1,3534,,,,, ,  ,3,S,91,W,12
+WRF-10-178,NW Burn Block-Aldrich Lakes,178,USFS,WRF,White River National Forest,b,2000,,,880,,,, ,  ,3,N,90,W,4
+WRF-10-179,West Divide,179,USFS,WRF,White River National Forest,b,2000,,,100,,,, ,  ,8,S,91,W,33
+WRF-10-235,Peak 1 CG,235,USFS,WRF,White River National Forest,p,,50,1005,,3,236,95, ,  ,5,S,78,W,29
+WRF-10-320,Yoder,320,USFS,WRF,White River National Forest,p,,40,3191,,14,1895.5,97.52519, ,  ,7,S,80,W,4
+WRF-10-345,Ripple Creek,345,USFS,WRF,White River National Forest,p,,70,200,,57,189,93, ,  ,2,N,88,W,31
+WRF-10-347,Trappers Lake,347,USFS,WRF,White River National Forest,p,,400,41,,190,185,90, ,  ,1,n,88,w,1
+WRF-10-348,Homestake,348,USFS,WRF,White River National Forest,p,,400,105,,212,162.7783,95,39.44,-106.39,7,S,81,W,12
+WRF-10-350,Sawmill Gulch,350,USFS,WRF,White River National Forest,p,,20,3191,,,,, ,  ,6,S,85,W,1
+WRF-10-351,Gold Hill,351,USFS,WRF,White River National Forest,p,,35,393,,35,10,95, ,  ,6,S,78,W,12
+WRF-10-359,Ute Creek WRF Piles,359,USFS,WRF,White River National Forest,p,,2,185,,2,113,94, ,  ,1,N,90,W,28
+WRF-10-362,Portal Campground,362,USFS,WRF,White River National Forest,p,,2,311,,,,,39.07,-106.61,11,S,83,W,24
+ALR-10-252,Alamosa Refuge Unit R/S,252,USFWS,ALR,Alamosa National Wildlife Refuge,b,700,,,,,,,37.37,-105.75,36,N,11,E,10
+ALR-10-253,Unit P,253,USFWS,ALR,Alamosa National Wildlife Refuge,b,631,,,,,,,37.4,-105.77,37,N,11,E,33
+ALR-10-265,Unit  C1 & D,265,USFWS,ALR,Alamosa National Wildlife Refuge,b,550,,,,,,,37.43,-105.79,,,,,
+ARR-10-254,Anderson,254,USFWS,ARR,Arapaho National Wildlife Refuge,b,550,,,,,,, ,  ,8,N,79,W,20
+ARR-10-346,Home,346,USFWS,ARR,Arapaho National Wildlife Refuge,b,90,,,,,,,40.71,-106.28,,,,,
+BPR-10-249,Hog Lake,249,USFWS,BPR,Browns Park National Wildlife Refuge,b,300,,,,,,,40.83,-108.99,10,N,103,W,8
+BPR-10-255,Brown's Park Grimes Piles,255,USFWS,BPR,Browns Park National Wildlife Refuge,p,,50,314,,4,4000,95,40.76,-108.89,,,,,
+BPR-10-256,Spitzie,256,USFWS,BPR,Browns Park National Wildlife Refuge,b,150,,,100,,,,40.82,-108.95,10,N,103,W,15
+MVR-10-266,"Parker Pond - Units 2, 8, 17",266,USFWS,MVR,Monte Vista National Wildlife Refuge,b,1100,,,,,,,37.48,-106.12,,,,,
+MVR-10-267,Unit 15,267,USFWS,MVR,Monte Vista National Wildlife Refuge,b,620,,,,,,,37.48,-106.08,,,,,
+RMR-10-257,Arsenal Broadcast Burns,257,USFWS,RMR,Rocky Mountain Arsenal Wildlife Refuge,b,5200,,,100,,,, ,  ,2,S,66,W,19
+RMR-10-258,Arsenal Piles 2010,258,USFWS,RMR,Rocky Mountain Arsenal Wildlife Refuge,p,,200,586,,,,, ,,2,S,66,W,19

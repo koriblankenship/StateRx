@@ -1,0 +1,260 @@
+PermitID,AgencyName,BurnStartDate,StartTime,BurnEndDate,EndTime,LatDD,LongDD,LocationDesc,BurnType,BurnAmount,BURN_QUANTITY,BURN_UNITS
+2021_0036,USDA Forest Service Jarbidge Ranger District,1/11/2021,7:00:00 AM,1/31/2021,11:30:00 PM,40.068,-115.665306,North Cherry Unit,Pile Burn,30%,NA,NA
+2021_0036,USDA Forest Service Jarbidge Ranger District,2/1/2021,12:00:00 AM,2/28/2021,11:30:00 PM,40.068,-115.665306,North Cherry Unit,Pile Burn,100%,NA,NA
+2021_0037,USDA Forest Service Humboldt-Toiyabe NF,4/14/2021,12:00:00 AM,4/30/2021,11:30:00 PM,41.765806,-115.701485,Big Bend Campground,Pile Burn,100%,NA,NA
+2022_0038,USDA Forest Service Humboldt-Toiyabe NF,1/24/2022,12:00:00 AM,1/28/2022,11:30:00 PM,41.877891,-115.246235,Pole Creek Guard Station,Pile Burn,100%,NA,NA
+2022_0099,McEwen Mining Nevada Inc,5/5/2022,8:00:00 AM,5/6/2022,5:00:00 PM,39.766257,-116.32828,Gold Bar Mine,Pile Burn,100%,NA,NA
+2022_0099,McEwen Mining Nevada Inc,5/6/2022,8:30:00 AM,5/6/2022,11:30:00 PM,39.766257,-116.32828,Gold Bar Mine,Pile Burn,100%,NA,NA
+2023_0053,Tahoe Douglas Fire Protection District,3/30/2023,12:00:00 PM,3/31/2023,5:00:00 PM,38.974132,-119.888112,Kingsbury and Surrounding Areas,Pile Burn,1,1,NA
+2021_0067,LTBMU,2/11/2021,8:00:00 AM,2/12/2021,4:00:00 PM,39.080467,-119.894362,Secret Aspen GE 26,Pile Burn,2.32,2.32,NA
+2021_0066,LTBMU,2/11/2021,9:00:00 AM,2/12/2021,4:00:00 PM,39.081667,-119.889953,Secret Aspen Genoa Peak GE25,Pile Burn,3,3,NA
+2021_0032,USDA Forest Service Carson Ranger District,2/8/2021,8:30:00 AM,2/8/2021,3:00:00 PM,38.9967,-119.855,Genoa area,Pile Burn,5,5,NA
+2022_0015,USDA Forest Service Carson Ranger District,2/1/2022,8:00:00 AM,2/1/2022,3:00:00 PM,39.1036,-119.883,"Clear Creek area, off Old Clear Creek Road, Carson City",Pile Burn,5,5,NA
+2021_0042,USDA Forest Service Humboldt-Toiyabe NF,3/15/2021,12:00:00 AM,4/10/2021,11:30:00 PM,40.693026,-115.476428,Powerhouse Picnic,Broadcast Burn,100%,NA,NA
+2021_0042,USDA Forest Service Humboldt-Toiyabe NF,4/13/2021,9:00:00 AM,4/30/2021,11:30:00 PM,40.693026,-115.476428,Powerhouse Picnic,Broadcast Burn,100%,NA,NA
+2021_0104,Bureau of Land Management,3/10/2021,9:00:00 AM,3/10/2021,3:00:00 PM,38.575637,-115.637831,"Railroad Valley, Big Well Pond",Broadcast Burn,100,100,NA
+2023_0030,USDA Forest Service Carson Ranger District,1/24/2023,12:00:00 AM,1/24/2023,11:30:00 PM,38.9967,-119.855,Genoa area,Pile Burn,5,5,NA
+2023_0030,USDA Forest Service Carson Ranger District,1/30/2023,12:00:00 AM,1/30/2023,11:30:00 PM,38.9967,-119.855,Genoa area,Pile Burn,5,5,NA
+2022_0015,USDA Forest Service Carson Ranger District,3/8/2022,8:00:00 AM,3/8/2022,3:00:00 PM,39.1036,-119.883,"Clear Creek area, off Old Clear Creek Road, Carson City",Pile Burn,6,6,NA
+2021_0031,Us Forest Service,2/2/2021,9:00:00 AM,2/2/2021,3:00:00 PM,38.546087,-119.215236,East Walker,Pile Burn,8,8,NA
+2022_0015,USDA Forest Service Carson Ranger District,1/31/2022,8:00:00 AM,1/31/2022,3:30:00 PM,39.1036,-119.883,"Clear Creek area, off Old Clear Creek Road, Carson City",Pile Burn,8,8,NA
+2021_0032,USDA Forest Service Carson Ranger District,2/4/2021,9:00:00 AM,2/4/2021,3:30:00 PM,38.9967,-119.855,Genoa area,Pile Burn,10,10,NA
+2021_0032,USDA Forest Service Carson Ranger District,2/5/2021,9:00:00 AM,2/5/2021,3:30:00 PM,38.9967,-119.855,Genoa area,Pile Burn,10,10,NA
+2022_0029,Bureau of Land Management,1/6/2022,10:00:00 AM,1/6/2022,4:00:00 PM,39.629194,-116.06885,Whistler Mountain,Pile Burn,10,10,NA
+2022_0032,Bureau of Land Management,1/6/2022,9:00:00 AM,1/6/2022,4:00:00 PM,39.896333,-116.130021,Sulphur Springs,Pile Burn,10,10,NA
+2023_0030,USDA Forest Service Carson Ranger District,1/25/2023,12:00:00 AM,1/27/2023,11:30:00 PM,38.9967,-119.855,Genoa area,Pile Burn,10,10,NA
+2022_0042,Bureau of Land Management,1/6/2022,11:00:00 AM,1/6/2022,4:00:00 PM,39.716847,-116.115316,Stinking Springs,Pile Burn,14,14,NA
+2021_0031,Us Forest Service,2/8/2021,8:30:00 AM,2/8/2021,3:00:00 PM,38.546087,-119.215236,East Walker,Pile Burn,15,15,NA
+2022_0015,USDA Forest Service Carson Ranger District,3/7/2022,8:00:00 AM,3/7/2022,3:00:00 PM,39.1036,-119.883,"Clear Creek area, off Old Clear Creek Road, Carson City",Pile Burn,15,15,NA
+2020-0034,Hawthorne Army Depot,12/17/2020,7:00:00 AM,12/31/2020,4:30:00 PM,38.547,-118.654,"Hawthorne Army Depot, Landfill fenceline",Broadcast Burn,0.042 Acres,0.042,acres
+2020-0036,Hawthorne Army Depot,3/31/2020,7:00:00 AM,4/2/2020,5:00:00 PM,38.547,-118.654,"Hawthorne Army Depot, ditches and culverts",Broadcast Burn,1 ac,1,acres
+2022_0033,BLM Battle Mountain District,1/5/2022,8:30:00 AM,1/5/2022,4:30:00 PM,40.247623,-117.005937,Red Rock Canyon Rd,Pile Burn,15,15,NA
+2021_0031,Us Forest Service,2/1/2021,8:30:00 AM,2/1/2021,4:00:00 PM,38.64599,-119.280906,Four Mile Hill,Pile Burn,20,20,NA
+2023_0030,USDA Forest Service Carson Ranger District,1/31/2023,12:00:00 AM,2/2/2023,11:30:00 PM,38.9967,-119.855,Genoa area,Pile Burn,20,20,NA
+2023_0030,USDA Forest Service Carson Ranger District,2/6/2023,12:00:00 AM,2/9/2023,11:30:00 PM,38.9967,-119.855,Genoa area,Pile Burn,20,20,NA
+2023_0030,USDA Forest Service Carson Ranger District,4/10/2023,12:00:00 AM,4/14/2023,11:30:00 PM,38.9967,-119.855,Genoa area,Pile Burn,20,20,NA
+2021_0065,LTBMU,2/22/2021,8:00:00 AM,2/26/2021,4:00:00 PM,39.165908,-119.92709,Bliss 6,Pile Burn,30,30,NA
+2022_0004,USFS LTBMU,2/14/2022,8:00:00 AM,2/18/2022,4:30:00 PM,39.141034,-119.933351,Bliss 10 HT,Pile Burn,50,50,NA
+2022_0013,USFS LTBMU,2/14/2022,8:00:00 AM,2/18/2022,4:30:00 PM,39.141034,-119.933351,Bliss 1010,Pile Burn,50,50,NA
+2022_0014,USFS LTBMU,2/7/2022,8:00:00 AM,2/11/2022,4:30:00 PM,39.135509,-119.940226,Bliss 2010,Pile Burn,50,50,NA
+2022_0049,USFS LTBMU,2/14/2022,9:00:00 AM,2/18/2022,4:30:00 PM,39.142703,-119.925225,Secret 2006,Pile Burn,50,50,NA
+2021_0001,Other entity,2/23/2021,7:00:00 AM,2/23/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2021_0001,Other entity,2/24/2021,7:00:00 AM,2/24/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2021_0001,Other entity,2/26/2021,7:00:00 AM,2/26/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2021_0001,Other entity,3/2/2021,7:00:00 AM,3/2/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2021_0001,Other entity,3/3/2021,7:00:00 AM,3/3/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2021_0001,Other entity,3/4/2021,7:00:00 AM,3/4/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2021_0001,Other entity,3/5/2021,7:00:00 AM,3/5/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2021_0001,Other entity,3/8/2021,7:00:00 AM,3/8/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2021_0001,Other entity,3/9/2021,7:00:00 AM,3/9/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2021_0001,Other entity,3/10/2021,7:00:00 AM,3/10/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2021_0001,Other entity,3/11/2021,7:00:00 AM,3/11/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2021_0001,Other entity,3/12/2021,7:00:00 AM,3/12/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2021_0001,Other entity,3/15/2021,7:00:00 AM,3/15/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2021_0001,Other entity,3/16/2021,7:00:00 AM,3/16/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2021_0001,Other entity,3/17/2021,7:00:00 AM,3/17/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2021_0001,Other entity,3/18/2021,7:00:00 AM,3/18/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2021_0001,Other entity,3/19/2021,7:00:00 AM,3/19/2021,6:00:00 PM,39.125417,-119.127931,FT Churchill Station Cooling Ponds,Broadcast Burn,1 acre,1,acres
+2022_0078,USDA Forest Service Lake Tahoe Basin Management Unit,12/8/2022,9:30:00 AM,12/9/2022,4:00:00 PM,39.086696,-119.911782,Montreal 21,Pile Burn,50,50,NA
+2022_0030,Bureau of Land Management,1/5/2022,8:00:00 AM,1/5/2022,3:00:00 PM,39.772278,-117.225632,Ravenswood,Pile Burn,64,64,NA
+2020_0085,USDA Forest Service Humboldt-Toiyabe NF,11/30/2020,12:00:00 AM,12/11/2020,11:30:00 PM,41.877891,-115.246235,Pole Creek Guard Station,Pile Burn,100,100,NA
+2020_0085,USDA Forest Service Humboldt-Toiyabe NF,12/12/2020,12:00:00 AM,12/20/2020,11:30:00 PM,41.877891,-115.246235,Pole Creek Guard Station,Pile Burn,100,100,NA
+2020_0086,USDA Forest Service Humboldt-Toiyabe NF,11/30/2020,12:00:00 AM,12/11/2020,11:30:00 PM,41.840964,-115.457417,Bear Creek,Pile Burn,100,100,NA
+2020_0086,USDA Forest Service Humboldt-Toiyabe NF,12/12/2020,12:00:00 AM,12/20/2020,11:30:00 PM,41.840964,-115.457417,Bear Creek,Pile Burn,100,100,NA
+2020_0089,USDA Forest Service Humboldt-Toiyabe NF,12/16/2020,12:00:00 AM,12/31/2020,11:30:00 PM,41.02598,-115.085133,Angel Lake,Pile Burn,100,100,NA
+2021_0014,USDA Forest Service Ely Ranger District,1/27/2021,9:00:00 AM,1/31/2021,10:00:00 PM,38.1162,-115.656,Pine Creek/411 Road in the Grant-Quinn Ranges,Pile Burn,200,200,NA
+2023_0073,BLM - Ely District,4/25/2023,10:30:00 AM,4/25/2023,11:30:00 AM,39.926811,-114.994031,Egan Johnson RX,Pile Burn,200,200,NA
+2023_0073,BLM - Ely District,4/21/2023,10:00:00 AM,4/21/2023,5:00:00 PM,39.760755,-115.587226,George Ft RX,Pile Burn,1000,1000,NA
+2023_0073,BLM - Ely District,4/21/2023,10:00:00 AM,4/21/2023,5:00:00 PM,39.926811,-114.994031,Egan Johnson RX,Pile Burn,1500,1500,NA
+2022_0062,City of Ely Landfill,2/9/2022,8:00:00 AM,2/11/2022,4:30:00 PM,39.269674,-114.872412,Low barren spot with good wind blockage,Pile Burn,.25 acres ,0.25,acres
+2022_0062,City of Ely Landfill,2/9/2022,6:30:00 AM,2/11/2022,4:30:00 PM,39.269674,-114.872412,Low barren spot with good wind blockage,Pile Burn,.25 acres ,0.25,acres
+2023_0053,Tahoe Douglas Fire Protection District,2/15/2023,8:00:00 AM,2/17/2023,5:00:00 PM,38.974132,-119.888112,Kingsbury and Surrounding Areas,Pile Burn,.75 acres,0.75,acres
+2020_0073,"Nevada Copper, Inc",5/28/2020,5:00:00 AM,5/29/2020,3:00:00 PM,38.937648,-119.043656,On the Nevada Copper Mine Site.,Pile Burn,0.115 Acres of wood piles,0.115,acres of piles
+2021_0135,Tahoe Douglas Fire Protection District,12/2/2021,7:00:00 AM,12/2/2021,8:00:00 PM,39.030026,-119.94545,"Zephyr Heights, Zephyr Cove area",Pile Burn,1 acre,1,acres
+2020_0073,"Nevada Copper, Inc",5/28/2020,7:00:00 AM,5/28/2020,5:00:00 PM,38.937648,-119.043656,On the Nevada Copper Mine Site.,Pile Burn,1 pile,1,piles
+2020_0074,Cyanco,6/8/2020,7:00:00 AM,6/8/2020,5:30:00 PM,40.940868,-117.861248,Cyanco Plant,Pile Burn,1 pile,1,piles
+2020_0074,Cyanco,6/10/2020,7:00:00 AM,6/10/2020,5:00:00 PM,40.940868,-117.861248,Cyanco Plant,Pile Burn,1 pile,1,piles
+2020-0044,Premier Magnesia,7/15/2020,7:00:00 AM,7/15/2020,5:00:00 PM,38.8724,-117.905,Premiere Magnesia mine site,Pile Burn,1 pile,1,piles
+2021_0010,Storey County Fire Protection District,1/5/2021,7:00:00 AM,1/5/2021,4:00:00 PM,39.38892,-119.631835,2610 Cartwright Rd,Pile Burn,1 pile,1,piles
+2023_0069,National Park Service Lake Mead NRA,4/5/2023,10:00:00 AM,4/5/2023,2:00:00 PM,38.99464,-114.210775,Administrative slash pile within Great Basin National Park,Pile Burn,1 pile,1,piles
+2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,2/3/2021,7:00:00 AM,2/5/2021,5:00:00 PM,39.097679,-119.90181,Secret 2 18,Pile Burn,10 acres,10,acres
+2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,4/8/2021,9:00:00 AM,4/9/2021,5:00:00 PM,39.097679,-119.90181,Secret 2 18,Pile Burn,10 Acres,10,acres
+2022_0016,USDA Forest Service Carson Ranger District,1/6/2022,8:00:00 AM,1/6/2022,2:30:00 PM,38.9967,-119.855,Genoa area,Pile Burn,10 acres,10,acres
+2022_0118,Tahoe Douglas Fire Protection District,12/1/2022,9:00:00 AM,12/2/2022,11:30:00 PM,38.974132,-119.888112,Kingsbury and Surrounding Areas,Pile Burn,10 acres,10,acres
+2023_0012,USDA Forest Service Lake Tahoe Basin Management Unit,4/19/2023,9:30:00 AM,4/20/2023,3:30:00 PM,39.086696,-119.911782,Montreal 21,Pile Burn,10 acres,10,acres
+2021_0034,Nevada Division of Forestry Washoe Valley,3/23/2021,10:00:00 AM,3/26/2021,2:00:00 PM,39.106169,-119.848002,Clear Creek Tahoe,Pile Burn,10 acres - 200 piles,10,acres of piles
+2022_0111,Nevada Division of Forestry Washoe Valley,11/7/2022,9:00:00 AM,11/9/2022,4:00:00 PM,39.105399,-119.903719,Spooner,Pile Burn,10 acres - 50 piles,10,acres of piles
+2022_0111,Nevada Division of Forestry Washoe Valley,12/6/2022,9:00:00 AM,12/9/2022,12:00:00 PM,39.105399,-119.903719,Spooner,Pile Burn,10 acres - 50 piles,10,acres of piles
+2022_0112,Nevada Division of Forestry Washoe Valley,11/15/2022,12:00:00 AM,11/15/2022,11:30:00 PM,39.125438,-119.835718,Old Woods,Pile Burn,10 acres - 50 piles,10,acres of piles
+2022_0112,Nevada Division of Forestry Washoe Valley,12/6/2022,9:00:00 AM,12/8/2022,12:00:00 PM,39.106169,-119.848002,Clear Creek Tahoe,Pile Burn,10 acres - 50 piles,10,acres of piles
+2023_0027,Nevada Division of Forestry Washoe Valley,1/3/2023,9:00:00 AM,1/5/2023,1:00:00 PM,39.105399,-119.903719,Spooner,Pile Burn,10 acres - 50 piles,10,acres of piles
+2021_0035,Nevada Division of Forestry Washoe Valley,4/6/2021,10:00:00 AM,4/9/2021,2:00:00 PM,39.10367,-119.911311,Spooner,Pile Burn,10 acres / 200 piles,10,acres of piles
+2022_0002,Nevada Division of Forestry Washoe Valley,2/9/2022,9:00:00 AM,2/11/2022,1:00:00 PM,39.10367,-119.911311,Spooner,Pile Burn,10 acres / 200 piles,10,acres of piles
+2022_0002,Nevada Division of Forestry Washoe Valley,2/16/2022,9:00:00 AM,2/19/2022,1:00:00 PM,39.10367,-119.911311,Spooner,Pile Burn,10 acres / 200 piles,10,acres of piles
+2022_0003,Nevada Division of Forestry Washoe Valley,1/5/2022,8:00:00 AM,1/7/2022,3:00:00 PM,39.113332,-119.822542,Old Clear Creek,Pile Burn,10 acres / 200 piles,10,acres of piles
+2022_0003,Nevada Division of Forestry Washoe Valley,1/10/2022,8:00:00 AM,1/12/2022,4:00:00 PM,39.113332,-119.822542,Old Clear Creek,Pile Burn,10 acres / 200 piles,10,acres of piles
+2022_0003,Nevada Division of Forestry Washoe Valley,2/1/2022,9:00:00 AM,2/4/2022,12:00:00 PM,39.113332,-119.822542,Old Clear Creek,Pile Burn,10 acres / 200 piles,10,acres of piles
+2022_0002,Nevada Division of Forestry Washoe Valley,1/12/2022,8:00:00 AM,1/14/2022,12:00:00 PM,39.10367,-119.911311,Spooner,Pile Burn,10 acres / 200 piles over 2 days,10,acres of piles
+2020_0094,Storey County Fire District,11/10/2020,9:00:00 AM,11/10/2020,5:00:00 PM,39.308483,-119.634268,6 Mile Canyon,Broadcast Burn,100 cubic yards,100,cubic yards
+2022_0054,Hawthorne Army Depot,12/28/2022,6:30:00 AM,12/29/2022,5:00:00 PM,38.547,-118.654,"Hawthorne Army Depot, ditches and culverts",Broadcast Burn,100 square feet,100,square feet
+2021_0035,Nevada Division of Forestry Washoe Valley,3/16/2021,9:00:00 AM,3/19/2021,2:00:00 PM,39.10367,-119.911311,Spooner,Pile Burn,10 acres over 4 days,10,acres
+2022_0063,NGM - Twin Creeks,2/8/2022,9:00:00 AM,2/9/2022,4:00:00 PM,41.277107,-117.136942,Tails,Pile Burn,10 ft x 10 ft x 20 ft,0.05,acres
+2022_0063,NGM - Twin Creeks,2/8/2022,9:00:00 AM,2/9/2022,4:00:00 PM,41.221601,-117.167511,Ponds,Pile Burn,10 ft x 10 ft x 20 ft,0.05,acres
+2020-0021,Naval Air Station Fallon,4/23/2020,8:00:00 AM,5/4/2020,3:00:00 PM,39.4094,-118.711,"Fallon NAS Mobile Aircraft Fire Training Device at MAT 7, Hangar 7",Pile Burn,10 GALLONS PROPANE,10,gallons
+2021_0135,Tahoe Douglas Fire Protection District,10/28/2021,9:00:00 AM,10/28/2021,4:00:00 PM,39.030026,-119.94545,"Zephyr Heights, Zephyr Cove area",Pile Burn,10 Piles,10,piles
+2022_0047,Storey County Fire Protection District,2/3/2022,8:00:00 AM,2/3/2022,11:30:00 PM,39.561907,-119.514859,NV Energy- Tracy Clark Power Plant,Pile Burn,10 piles (brush) fed onto one burn location,10,piles
+2021_0014,USDA Forest Service Ely Ranger District,1/6/2021,12:00:00 AM,1/8/2021,11:30:00 PM,38.1162,-115.656,Pine Creek/411 Road in the Grant-Quinn Ranges,Pile Burn,100 acres,100,acres
+2021_0014,USDA Forest Service Ely Ranger District,1/31/2021,12:00:00 AM,2/5/2021,11:30:00 PM,38.1162,-115.656,Pine Creek/411 Road in the Grant-Quinn Ranges,Pile Burn,100 acres,100,acres
+2022_0027,Pershing County Landfill,12/22/2022,7:00:00 AM,12/22/2022,4:00:00 PM,40.453481,-118.10425,T30N R34E S30,Pile Burn,100 cb yd,100,cubic yards
+2020-0015,Naval Air Station Fallon,5/4/2020,8:00:00 AM,5/31/2020,3:30:00 PM,39.424,-118.716,Various locations on Fallon NAS (using a portable burn box),Pile Burn,100 GALLONS PROPANE TOTAL,100,gallons
+2020-0065,Nevada Gold Mines Turquoise Ridge/Twin Creeks,6/4/2020,7:00:00 AM,6/4/2020,4:00:00 PM,41.254501,-117.166048,Nevada Gold Mines Twin Creeks,Pile Burn,100 lbs,100,pounds
+2021_0064,Carson City Fire Department,2/2/2021,9:00:00 AM,2/5/2021,6:00:00 PM,39.127968,-119.779361,Voltaire Pile Burn,Pile Burn,100 piles,100,piles
+2020_0097,BLM - Ely District,12/17/2020,9:00:00 AM,12/18/2020,3:00:00 PM,38.875383,-114.711387,"Williams Creek, South Steptoe Valley, White Pine Co",Pile Burn,100 piles / day,100,piles
+2020-0042,Storey County Fire Protection District,11/11/2020,9:00:00 AM,11/12/2020,5:00:00 PM,39.3884,-119.631,"Storey County, VC Highlands Station 72, Lousetown and Cartwright",Pile Burn,100 yds,100,yds
+2020-0042,Storey County Fire Protection District,11/23/2020,8:30:00 AM,11/25/2020,5:00:00 PM,39.3884,-119.631,"Storey County, VC Highlands Station 72, Lousetown and Cartwright",Pile Burn,100 yds,100,yds
+2020-0042,Storey County Fire Protection District,11/30/2020,9:00:00 AM,12/3/2020,5:00:00 PM,39.3884,-119.631,"Storey County, VC Highlands Station 72, Lousetown and Cartwright",Pile Burn,100 yds,100,yds
+2020-0042,Storey County Fire Protection District,12/14/2020,8:30:00 AM,12/17/2020,5:00:00 PM,39.3884,-119.631,"Storey County, VC Highlands Station 72, Lousetown and Cartwright",Pile Burn,100 yds,100,yds
+2021_0113,Nevada Gold Mines LLC,3/27/2021,7:00:00 AM,3/27/2021,7:00:00 PM,40.94872,-116.37395,Goldstrike Landfill,Pile Burn,100%  50x20x9,NA,NA
+2022_0034,Eureka County Landfill,8/11/2022,6:00:00 AM,8/12/2022,6:00:00 AM,39.523833,-115.957744,Eureka Landfill,Pile Burn,10x50x10,NA,NA
+2020-0042,Storey County Fire Protection District,3/26/2020,9:00:00 AM,3/26/2020,5:00:00 PM,39.3884,-119.631,"Storey County, VC Highlands Station 72, Lousetown and Cartwright",Pile Burn,10yds,10,yds
+2021_0060,BLM - Ely District,1/26/2021,11:00:00 AM,1/29/2021,5:00:00 PM,39.142557,-114.858096,Sawmill Canyon,Pile Burn,134 acres /10 slash piles per acre / over 4 days,134,acres of piles
+2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,1/12/2021,9:00:00 AM,1/15/2021,4:00:00 PM,39.168717,-119.921427,Bliss 5,Pile Burn,15 acres,15,acres
+2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,1/20/2021,9:00:00 AM,1/22/2021,4:00:00 PM,39.168717,-119.921427,Bliss 5,Pile Burn,15 acres,15,acres
+2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,2/17/2021,12:00:00 AM,2/19/2021,11:30:00 PM,39.101466,-119.901111,Secret 2 17,Pile Burn,15 acres,15,acres
+2023_0046,"BLM-NV, Battle Mountain District",2/9/2023,12:00:00 AM,2/9/2023,11:30:00 PM,38.542753,-115.73265,"Railroad Valley Wildlife Management Area, Railroad Valley NV, ~60 miles SW of Ely NV on Hwy 6",Broadcast Burn,160 acres,160,acres
+2021_0134,Carson City Fire Department,12/21/2021,9:00:00 AM,12/23/2021,10:00:00 PM,39.122695,-119.778333,Voltaire Canyon,Pile Burn,15 acres,15,acres
+2022_0028,Carson City Fire Department,1/12/2022,7:00:00 AM,1/14/2022,11:30:00 PM,39.122695,-119.778333,Voltaire Canyon,Pile Burn,15 acres,15,acres
+2021_0035,Nevada Division of Forestry Washoe Valley,1/6/2021,8:00:00 AM,1/6/2021,2:00:00 PM,39.109273,-119.882938,Kings Canyon,Pile Burn,2 ac/60 piles,2,acres of piles
+2021_0110,KG Mining (Bald Mountain) Inc,3/17/2021,10:00:00 AM,3/31/2021,2:00:00 PM,39.94291,-115.613766,KG Mining (Bald Mountain) Inc. Site,Firefighter Training,10-20 wood pallets,,
+2021_0110,KG Mining (Bald Mountain) Inc,3/22/2021,10:00:00 AM,3/22/2021,2:00:00 PM,39.94291,-115.613766,KG Mining (Bald Mountain) Inc. Site,Firefighter Training,10-20 wood pallets,,
+2021_0135,Tahoe Douglas Fire Protection District,10/29/2021,9:00:00 AM,10/29/2021,6:00:00 PM,39.030026,-119.94545,"Zephyr Heights, Zephyr Cove area",Pile Burn,2 acres,2,acres
+2021_0114,Nevada Gold Mines Turquoise Ridge/Twin Creeks,5/3/2021,9:00:00 AM,5/3/2021,2:00:00 PM,41.204113,-117.243502,GOLCONDA,Firefighter Training,210 cubic feet,,
+2021_0114,Nevada Gold Mines Turquoise Ridge/Twin Creeks,5/17/2021,9:00:00 AM,5/17/2021,2:00:00 PM,41.204113,-117.243502,GOLCONDA,Firefighter Training,10 x 10 x 20 (ft),,
+2021_0114,Nevada Gold Mines Turquoise Ridge/Twin Creeks,6/9/2021,7:00:00 AM,6/9/2021,3:00:00 PM,41.204113,-117.243502,GOLCONDA,Firefighter Training,10 x 10 x 20 (ft),,
+2022_0065,NV Energy,2/9/2022,9:00:00 AM,2/9/2022,3:00:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2021_0122,East Fork Fire Protection District as host Agency,6/10/2021,8:30:00 AM,6/10/2021,3:30:00 PM,39.058304,-119.714664,Minden-Tahoe Airport,Firefighter Training,"Plots total approximately 4-5 acres of noxious weeds, rabbit brush and sage brush cut into plots for",,
+2022_0065,NV Energy,2/10/2022,8:00:00 AM,2/10/2022,3:00:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,2/14/2022,8:00:00 AM,2/14/2022,6:00:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,2/15/2022,8:00:00 AM,2/15/2022,3:00:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,2/16/2022,8:00:00 AM,2/16/2022,4:00:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,2/17/2022,8:00:00 AM,2/17/2022,4:00:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,2/21/2022,6:00:00 AM,2/21/2022,3:00:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,2/23/2022,8:00:00 AM,2/23/2022,6:00:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0056,Hawthorne Army Depot,12/28/2022,6:30:00 AM,12/29/2022,5:00:00 PM,38.547,-118.654,"Hawthorne Army Depot, Landfill fenceline",Broadcast Burn,2.8 acres,2.8,acres
+2022_0065,NV Energy,2/24/2022,7:00:00 AM,2/24/2022,4:30:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,2/25/2022,7:00:00 AM,2/25/2022,4:00:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,2/28/2022,6:00:00 AM,2/28/2022,4:30:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,3/1/2022,6:30:00 AM,3/1/2022,4:00:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,3/2/2022,6:30:00 AM,3/2/2022,4:30:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,3/7/2022,6:30:00 AM,3/7/2022,4:30:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,3/8/2022,8:00:00 AM,3/8/2022,4:00:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,3/14/2022,6:30:00 AM,3/14/2022,4:30:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,3/15/2022,6:30:00 AM,3/15/2022,4:30:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,3/17/2022,4:30:00 AM,3/17/2022,4:30:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,3/21/2022,6:30:00 AM,3/21/2022,4:30:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,3/23/2022,6:30:00 AM,3/23/2022,5:00:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2022_0065,NV Energy,3/24/2022,6:30:00 AM,3/24/2022,5:00:00 PM,39.125338,-119.131878,Ft Churchill Generating Station,Pile Burn,2 acres,2,acres
+2021_0035,Nevada Division of Forestry Washoe Valley,4/5/2021,9:30:00 AM,4/6/2021,2:00:00 PM,39.109176,-119.903482,Picnic Area,Pile Burn,2 acres / 30 piles,2,acres of piles
+2020-0016,Naval Air Station Fallon,8/1/2020,8:00:00 AM,8/31/2020,4:30:00 PM,39.4094,-118.7,Fallon NAS Fire Fighter Training Facillity/Building 492,Pile Burn,2 GALLON PROPANE PER DAY FOR FIRE FIGHTER TRAINING,2,gallons
+2020-0020,Naval Air Station Fallon,8/1/2020,8:00:00 AM,8/31/2020,4:30:00 PM,39.4094,-118.7,"Fallon NAS Mobile Aircraft Fire Training Device, dumpster, burn box, or car at Fire Station #1",Pile Burn,2 GALLON PROPANE PER DAY FOR FIRE FIGHTER TRAINING,2,gallons
+2022_0014,USFS LTBMU,1/31/2022,8:30:00 AM,2/3/2022,11:30:00 PM,39.135509,-119.940226,Bliss 2010,Pile Burn,20 acres,20,acres
+2023_0030,USDA Forest Service Carson Ranger District,4/6/2023,12:00:00 AM,4/7/2023,11:30:00 PM,39.000127,-119.848229,Genoa,Pile Burn,20 acres,20,acres
+2022_0002,Nevada Division of Forestry Washoe Valley,3/29/2022,9:30:00 AM,4/1/2022,1:00:00 PM,39.10367,-119.911311,Spooner,Pile Burn,20 acres - 100 piles,20,acres of piles
+2022_0111,Nevada Division of Forestry Washoe Valley,11/29/2022,9:00:00 AM,12/2/2022,4:00:00 PM,39.105399,-119.903719,Spooner,Pile Burn,20 acres - 100 piles,20,acres of piles
+2022_0111,Nevada Division of Forestry Washoe Valley,12/13/2022,9:00:00 AM,12/16/2022,1:00:00 PM,39.105399,-119.903719,Spooner,Pile Burn,20 acres - 100 piles,20,acres of piles
+2022_0002,Nevada Division of Forestry Washoe Valley,2/1/2022,9:00:00 AM,2/4/2022,1:00:00 PM,39.10367,-119.911311,Spooner,Pile Burn,20 acres / 300 piles,20,acres of piles
+2021_0060,BLM - Ely District,1/30/2021,11:00:00 AM,1/30/2021,4:00:00 PM,38.854885,-114.757937,Monument Spring,Pile Burn,20 acres / 8 Slash Piles per acre / 1 day,20,acres of piles
+2021_0060,BLM - Ely District,1/26/2021,11:00:00 AM,1/26/2021,5:00:00 PM,38.854885,-114.757937,Monument Spring,Pile Burn,20 acres / 8 slash piles per acre / 1 day to complete,20,acres of piles
+2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,3/2/2021,8:00:00 AM,3/5/2021,5:00:00 PM,39.097679,-119.90181,Secret 2 18,Pile Burn,20 acres total.  5 acres  per day,20,acres
+2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,2/24/2021,7:00:00 AM,2/26/2021,5:00:00 PM,39.097679,-119.90181,Secret 2 18,Pile Burn,20 acres.  5 acres per day 2/24-2/26,20,acres
+2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,1/19/2021,8:00:00 AM,1/22/2021,6:00:00 PM,39.097679,-119.90181,Secret 2 18,Pile Burn,20 acres. (5 acres per day),20,acres
+2022_0045,Storey County Fire Protection District,2/2/2022,7:00:00 AM,2/2/2022,11:30:00 PM,39.388634,-119.630278,Storey County FPD- District 72 Community Collection Site,Pile Burn,20 machine piles based on Prescribed Wx. Conditions (<1 acre),20,piles
+2022_0045,Storey County Fire Protection District,1/19/2022,7:00:00 AM,1/21/2022,11:30:00 PM,39.388634,-119.630278,Storey County FPD- District 72 Community Collection Site,Pile Burn,20 piles based on Prescribed Wx Conditions,20,piles
+2022_0045,Storey County Fire Protection District,11/7/2022,7:00:00 AM,11/9/2022,12:00:00 PM,39.388634,-119.630278,Storey County FPD- District 72 Community Collection Site,Pile Burn,20 piles dependent on acceptable weather conditions,20,piles
+2022_0027,Pershing County Landfill,3/11/2022,6:00:00 AM,3/11/2022,4:00:00 PM,40.792624,-117.756076,T34N R34E S30,Pile Burn,200 cubic yard,200,cubic yards
+2021_0060,BLM - Ely District,1/13/2021,10:00:00 AM,1/15/2021,4:30:00 PM,38.854885,-114.757937,Monument Spring,Pile Burn,200 slash piles / day over 3 days,200,piles
+2022_0113,NGM - Twin Creeks,10/26/2022,7:00:00 AM,10/27/2022,4:00:00 PM,41.284702,-117.143348,NGM - Twin Creeks Mine Site (3),Pile Burn,20x20x10,NA,NA
+2022_0113,NGM - Twin Creeks,10/26/2022,7:00:00 AM,10/27/2022,4:00:00 PM,41.284702,-117.143348,NGM - Twin Creeks Mine Site (3),Pile Burn,20x20x10,NA,NA
+2022_0113,NGM - Twin Creeks,10/26/2022,7:00:00 AM,10/27/2022,4:00:00 PM,41.284702,-117.143348,NGM - Twin Creeks Mine Site (3),Pile Burn,20x20x10,NA,NA
+2021_0124,Premier Magnesia,8/19/2021,4:30:00 AM,8/19/2021,12:00:00 PM,38.871104,-117.905157,South burn pile South of Main Office,Pile Burn,20x20x6,NA,NA
+2021_0034,Nevada Division of Forestry Washoe Valley,2/22/2021,9:00:00 AM,2/25/2021,2:00:00 PM,39.106169,-119.848002,Clear Creek Tahoe,Pile Burn,23 acres / 115 piles,23,acres of piles
+2022_0111,Nevada Division of Forestry Washoe Valley,12/27/2022,9:00:00 AM,12/29/2022,1:00:00 PM,39.109176,-119.903482,Picnic Area,Pile Burn,25 piles - 5 acres,5,acres of piles
+2022_0122,Storey County Fire Protection District,12/20/2022,7:00:00 AM,12/22/2022,11:30:00 PM,39.345608,-119.639678,Adjacent to Geiger Grade (NV SR341) 1/2 mile North of Lousetown Rd.,Pile Burn,25 piles based on Prescribed Wx Conditions,25,piles
+2023_0056,Storey County Fire Protection District,2/14/2023,8:00:00 AM,2/16/2023,11:30:00 PM,39.308481,-119.634296,SCFPD District 71 Collection Site,Pile Burn,25 tons,25,tons
+2021_0061,Eureka County Landfill,10/13/2021,7:00:00 AM,10/13/2021,4:00:00 PM,39.523833,-115.957744,Eureka Landfill,Pile Burn,"25,000 cubic feet",25000,cubic feet
+2020_0077,Eureka County Landfill,12/16/2020,8:00:00 AM,12/16/2020,4:00:00 PM,39.523833,-115.957744,Eureka Landfill,Pile Burn,"25,000 cubic feet ",25000,cubic feet
+2021_0143,U.S. Fish and Wildlife Service,12/7/2021,10:00:00 AM,12/7/2021,2:00:00 PM,40.21836,-115.478238,Ruby Lake National Wildlife Refuge,Broadcast Burn,318 acres,318,acres
+2020_0093,Tahoe Douglas Fire Protection District,12/15/2020,10:00:00 AM,12/15/2020,4:00:00 PM,39.097419,-119.934543,Glenbrook,Broadcast Burn,40 hand piles,40,piles
+2020-0030,Nevada Gold Mines LLC,4/4/2020,7:00:00 AM,4/4/2020,5:00:00 PM,40.5758,-116.226,Goldstrike Mine site,Pile Burn,2500 cubic yards,25000,cubic feet
+2020-0030,Nevada Gold Mines LLC,12/4/2020,5:00:00 AM,12/4/2020,5:00:00 PM,40.5758,-116.226,Goldstrike Mine site,Pile Burn,2500 cubic yards,25000,cubic feet
+2022_0118,Tahoe Douglas Fire Protection District,12/3/2022,9:00:00 AM,12/3/2022,5:00:00 PM,38.974132,-119.888112,Kingsbury and Surrounding Areas,Pile Burn,3 acres,3,acres
+2022_0045,Storey County Fire Protection District,1/18/2022,8:00:00 AM,1/18/2022,11:30:00 PM,39.388634,-119.630278,Storey County FPD- District 72 Community Collection Site,Pile Burn,3 piles for Rx Burn Plan test purposes,3,piles
+2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,1/24/2021,8:00:00 AM,1/29/2021,4:00:00 PM,39.168717,-119.921427,Bliss 5,Pile Burn,30 acres,30,acres
+2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,1/26/2021,9:00:00 AM,1/30/2021,5:00:00 PM,39.168717,-119.921427,Bliss 5,Pile Burn,30 acres,30,acres
+2022_0002,Nevada Division of Forestry Washoe Valley,1/15/2022,9:00:00 AM,1/21/2022,1:00:00 PM,39.10367,-119.911311,Spooner,Pile Burn,30 acres / 400 piles,30,acres of piles
+2022_0002,Nevada Division of Forestry Washoe Valley,1/25/2022,9:00:00 AM,1/30/2022,12:30:00 AM,39.10367,-119.911311,Spooner,Pile Burn,30 acres / 400 piles,30,acres of piles
+2022_0127,Storey County Fire Protection District,12/12/2022,8:00:00 AM,12/14/2022,11:30:00 PM,39.35811,-119.660868,"21251 Highland Rd.,Virginia City Highlands",Pile Burn,30 hand piles (5x5x5),30,piles
+2021_0036,USDA Forest Service Jarbidge Ranger District,4/24/2021,12:00:00 AM,4/30/2021,11:30:00 PM,40.068,-115.665306,North Cherry Unit,Pile Burn,30 piles (Project Cleanup),30,piles
+2022_0027,Pershing County Landfill,12/15/2022,12:00:00 AM,12/15/2022,11:30:00 PM,40.663504,-118.178188,T32N R34E S5,Pile Burn,300 cubic yard,300,cubic yards
+2022_0118,Tahoe Douglas Fire Protection District,11/17/2022,8:00:00 AM,11/18/2022,11:00:00 PM,38.974132,-119.888112,Kingsbury and Surrounding Areas,Pile Burn,4 acres,4,acres
+2021_0012,Storey County Fire Protection District,1/26/2021,10:00:00 AM,1/26/2021,6:00:00 PM,39.347516,-119.64624,Fandango Pass,Pile Burn,4 Piles,4,piles
+2021_0012,Storey County Fire Protection District,2/23/2021,9:00:00 AM,2/23/2021,6:00:00 PM,39.347516,-119.64624,Fandango Pass,Pile Burn,4 piles,4,piles
+2021_0069,McEwen Mining Inc,2/17/2021,6:00:00 AM,2/27/2021,6:00:00 PM,39.775002,-116.320267,Gold Bar Mine pile,Pile Burn,"4,457.3 tons (pile biomass)",4457.3,tons
+2022_0118,Tahoe Douglas Fire Protection District,11/3/2022,10:00:00 AM,11/7/2022,11:30:00 PM,38.974132,-119.888112,Kingsbury and Surrounding Areas,Pile Burn,40 acres,40,acres
+2020-0020,Naval Air Station Fallon,4/24/2020,8:00:00 AM,5/5/2020,3:30:00 PM,39.4094,-118.7,"Fallon NAS Mobile Aircraft Fire Training Device, dumpster, burn box, or car at Fire Station #1",Pile Burn,40 gallons,40,gallons
+2020-0016,Naval Air Station Fallon,10/7/2020,8:00:00 AM,10/30/2020,4:00:00 PM,39.4094,-118.7,Fallon NAS Fire Fighter Training Facillity/Building 492,Pile Burn,40 GALLONS PROPANE,40,gallons
+2020-0020,Naval Air Station Fallon,10/7/2020,8:00:00 AM,10/30/2020,4:00:00 PM,39.4094,-118.7,"Fallon NAS Mobile Aircraft Fire Training Device, dumpster, burn box, or car at Fire Station #1",Pile Burn,40 GALLONS PROPANE,40,gallons
+2020-0017,Naval Air Station Fallon,3/13/2020,7:00:00 AM,3/31/2020,4:00:00 PM,39.4508,-118.71,"Fallon NAS nature trails, several ag parcels, and May Ranch",Pile Burn,5 ac,5,acres
+2021_0033,USDA Forest Service Carson Ranger District,1/20/2021,8:00:00 AM,1/20/2021,4:00:00 PM,39.1036,-119.883,"Clear Creek area, off Old Clear Creek Road, Carson City",Pile Burn,5 acres,5,acres
+2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,1/13/2021,8:00:00 AM,1/13/2021,5:00:00 PM,39.101466,-119.901111,Secret 2 17,Pile Burn,5 acres,5,acres
+2021_0135,Tahoe Douglas Fire Protection District,11/2/2021,9:00:00 AM,11/5/2021,6:00:00 PM,39.030026,-119.94545,"Zephyr Heights, Zephyr Cove area",Pile Burn,5 acres,5,acres
+2022_0029,Bureau of Land Management,2/23/2022,9:00:00 AM,2/23/2022,4:00:00 PM,39.629194,-116.06885,Whistler Mountain,Pile Burn,5 acres,5,acres
+2022_0112,Nevada Division of Forestry Washoe Valley,11/15/2022,9:00:00 AM,11/18/2022,3:30:00 PM,39.125438,-119.835718,Old Woods,Pile Burn,5 acres,5,acres
+2022_0118,Tahoe Douglas Fire Protection District,11/29/2022,7:00:00 AM,11/30/2022,6:00:00 PM,38.974132,-119.888112,Kingsbury and Surrounding Areas,Pile Burn,5 acres,5,acres
+2022_0118,Tahoe Douglas Fire Protection District,12/13/2022,7:00:00 AM,12/14/2022,5:00:00 PM,38.974132,-119.888112,Kingsbury and Surrounding Areas,Pile Burn,5 acres,5,acres
+2023_0012,USDA Forest Service Lake Tahoe Basin Management Unit,4/20/2023,8:00:00 AM,4/20/2023,4:00:00 PM,39.086696,-119.911782,Montreal 21,Pile Burn,5 acres,5,acres
+2023_0023,USFS LTBMU,4/11/2023,8:00:00 AM,4/11/2023,4:00:00 PM,39.141034,-119.933351,Bliss 10 HT,Pile Burn,5 acres,5,acres
+2023_0023,USFS LTBMU,4/12/2023,8:00:00 AM,4/12/2023,4:30:00 PM,39.141034,-119.933351,Bliss 10 HT,Pile Burn,5 acres,5,acres
+2023_0030,USDA Forest Service Carson Ranger District,1/23/2023,12:00:00 AM,1/23/2023,11:30:00 PM,38.9967,-119.855,Genoa area,Pile Burn,5 acres,5,acres
+2020-0016,Naval Air Station Fallon,9/12/2020,8:00:00 AM,9/30/2020,5:00:00 PM,39.4094,-118.7,Fallon NAS Fire Fighter Training Facillity/Building 492,Pile Burn,"5 GALLON PROPANE, 3 WOOD PALLETS AND/OR 2 BALES OF STRAW PER DAY FOR FIRE FIGHTER TRAINING",NA,NA
+2021_0119,Central Lyon County Fire Protection District,4/15/2021,10:00:00 AM,4/16/2021,3:30:00 PM,39.386111,-119.235185,Station #32,Pile Burn,5 Piles,5,piles
+2020_0104,Carson City Fire Department,12/29/2020,12:00:00 AM,12/31/2020,11:30:00 PM,39.127968,-119.779361,Voltaire Pile Burn,Pile Burn,50 piles,50,piles
+2020-0042,Storey County Fire Protection District,12/23/2020,8:30:00 AM,12/24/2020,5:00:00 PM,39.3884,-119.631,"Storey County, VC Highlands Station 72, Lousetown and Cartwright",Pile Burn,50 yds,50,yds
+2021_0010,Storey County Fire Protection District,1/12/2021,8:30:00 AM,1/14/2021,5:00:00 PM,39.38892,-119.631835,2610 Cartwright Rd,Pile Burn,50 yds,50,yds
+2021_0010,Storey County Fire Protection District,1/26/2021,9:00:00 AM,1/26/2021,5:00:00 PM,39.38892,-119.631835,2610 Cartwright Rd,Pile Burn,50 yds,50,yds
+2021_0010,Storey County Fire Protection District,2/16/2021,8:30:00 AM,2/18/2021,5:00:00 PM,39.38892,-119.631835,2610 Cartwright Rd,Pile Burn,50 yds,50,yds
+2021_0010,Storey County Fire Protection District,3/2/2021,8:30:00 AM,3/4/2021,5:00:00 PM,39.38892,-119.631835,2610 Cartwright Rd,Pile Burn,50 yds,50,yds
+2021_0010,Storey County Fire Protection District,3/17/2021,9:00:00 AM,3/18/2021,5:00:00 PM,39.38892,-119.631835,2610 Cartwright Rd,Pile Burn,50 yds,50,yds
+2021_0010,Storey County Fire Protection District,4/9/2021,8:30:00 AM,4/10/2021,6:00:00 PM,39.38892,-119.631835,2610 Cartwright Rd,Pile Burn,50 yds,50,yds
+2022_0027,Pershing County Landfill,11/9/2022,7:00:00 AM,11/9/2022,5:00:00 PM,40.182347,-118.544927,T27N R31E S30,Pile Burn,500 cubic yard,500,cubic yards
+2020-0042,Storey County Fire Protection District,12/28/2020,8:30:00 AM,12/31/2020,5:30:00 PM,39.3884,-119.631,"Storey County, VC Highlands Station 72, Lousetown and Cartwright",Pile Burn,50yds,50,yds
+2021_0010,Storey County Fire Protection District,1/6/2021,8:30:00 AM,1/7/2021,5:00:00 PM,39.38892,-119.631835,2610 Cartwright Rd,Pile Burn,50yds,50,yds
+2021_0010,Storey County Fire Protection District,1/11/2021,8:30:00 AM,1/12/2021,5:30:00 PM,39.38892,-119.631835,2610 Cartwright Rd,Pile Burn,50yds,50,yds
+2021_0010,Storey County Fire Protection District,1/20/2021,8:30:00 AM,1/21/2021,5:00:00 PM,39.38892,-119.631835,2610 Cartwright Rd,Pile Burn,50yds,50,yds
+2021_0010,Storey County Fire Protection District,2/1/2021,8:30:00 AM,2/4/2021,5:00:00 PM,39.38892,-119.631835,2610 Cartwright Rd,Pile Burn,50yds,50,yds
+2021_0010,Storey County Fire Protection District,2/8/2021,8:30:00 AM,2/11/2021,5:00:00 PM,39.38892,-119.631835,2610 Cartwright Rd,Pile Burn,50yds,50,yds
+2021_0010,Storey County Fire Protection District,2/22/2021,8:30:00 AM,2/22/2021,5:30:00 PM,39.38892,-119.631835,2610 Cartwright Rd,Pile Burn,50yds,50,yds
+2022_0125,NGM-Phoenix Mine,11/28/2022,12:30:00 PM,11/28/2022,3:00:00 PM,40.513782,-117.14037,Outside of SXEW near hydrant 25 at NGM-Phoenix Mine,Firefighter Training,5 gallons,,
+2021_0010,Storey County Fire Protection District,3/23/2021,9:00:00 AM,3/25/2021,5:00:00 PM,39.38892,-119.631835,2610 Cartwright Rd,Pile Burn,50yds,50,yds
+2021_0010,Storey County Fire Protection District,3/30/2021,8:30:00 AM,4/1/2021,6:00:00 PM,39.38892,-119.631835,2610 Cartwright Rd,Pile Burn,50yds,50,yds
+2021_0010,Storey County Fire Protection District,4/6/2021,8:30:00 AM,4/8/2021,5:30:00 PM,39.38892,-119.631835,2610 Cartwright Rd,Pile Burn,50yds,50,yds
+2021_0065,LTBMU,2/8/2021,8:00:00 AM,2/12/2021,4:00:00 PM,39.165908,-119.92709,Bliss 6,Pile Burn,55 acres,55,acres
+2021_0035,Nevada Division of Forestry Washoe Valley,1/12/2021,9:30:00 AM,1/14/2021,1:00:00 PM,39.10367,-119.911311,Spooner,Pile Burn,6 acres,6,acres
+2021_0135,Tahoe Douglas Fire Protection District,11/10/2021,8:00:00 AM,11/12/2021,5:00:00 PM,39.030026,-119.94545,"Zephyr Heights, Zephyr Cove area",Pile Burn,6 acres,6,acres
+2022_0076,Carson City Fire Dept,3/28/2022,9:00:00 AM,4/1/2022,5:00:00 PM,39.206061,-119.818601,Lakeview,Pile Burn,7 acres,7,acres
+2021_0064,Carson City Fire Department,2/9/2021,9:00:00 AM,2/12/2021,5:00:00 PM,39.127968,-119.779361,Voltaire Pile Burn,Pile Burn,75 piles,75,piles
+2022_0016,USDA Forest Service Carson Ranger District,1/5/2022,8:00:00 AM,1/5/2022,2:00:00 PM,38.9967,-119.855,Genoa area,Pile Burn,8 acred,8,acres
+2021_0013,Storey County Fire Protection District,3/16/2021,9:00:00 AM,3/16/2021,6:00:00 PM,39.340552,-119.640702,341 @ Lousetown,Pile Burn,8 piles,9,piles
+2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,3/31/2021,9:00:00 AM,4/2/2021,4:00:00 PM,39.097679,-119.90181,Secret 2 18,Pile Burn,9 acres (3 per day),9,acres
+2022_0036,USDA Forest Service Humboldt-Toiyabe NF,1/31/2022,12:00:00 AM,1/31/2022,11:30:00 PM,40.732078,-115.22991,Ruby Guard Station,Pile Burn,90% consumption of 4 piles,4,piles
+2022_0046,Storey County Fire Protection District,2/16/2022,8:00:00 AM,2/16/2022,11:30:00 PM,39.308481,-119.634296,SCFPD District 71 Collection Site,Pile Burn,Approximately 10 tons of shrub/ hardwood slash in a single  half cylinder pile composition,1,piles
+2022_0094,Nevada Gold Mines LLC,5/14/2022,12:00:00 AM,5/15/2022,11:30:00 PM,40.575768,-116.225718,Carlin Complex-Goldstrike Mine,Pile Burn,Area of 20x19 ft (10 ft. high),0.09,acres
+2020_0096,U.S. Fish and Wildlife Service,11/17/2020,11:00:00 AM,11/19/2020,5:00:00 PM,40.206111,-115.479167,Ruby Lake National Wildlife Refuge,Broadcast Burn,"First unit - 500 acres (11/17/20)4 units, total of 1300 acres",1300,acres
+2022_0123,Nevada Gold Mines LLC,12/3/2022,6:00:00 AM,12/3/2022,4:00:00 PM,40.575768,-116.225718,Carlin Complex-Goldstrike Mine,Pile Burn,Area of 20x19 ft (10 ft. high),0.09,acres
+2021_0105,City of Ely,3/8/2021,7:30:00 AM,3/8/2021,4:30:00 PM,39.2853,-114.8687,Ely Landfill,Pile Burn,less than .5 acres,0.5,acres
+2021_0105,City of Ely,3/9/2021,7:30:00 AM,3/9/2021,4:30:00 PM,39.2853,-114.8687,Ely Landfill,Pile Burn,less than .5 acres,0.5,acres
+2021_0105,City of Ely,3/10/2021,7:30:00 AM,3/10/2021,4:30:00 PM,39.2853,-114.8687,Ely Landfill,Pile Burn,less than .5 acres,0.5,acres
+2023_0072,Tahoe Douglas Fire Protection District,4/25/2023,8:00:00 AM,4/28/2023,6:00:00 PM,39.026694,-119.934355,Tahoe Douglas Fire Protection District,Community Open Burn,20 acres,20,acres
+2020_0081,Hawthorne Army Depot,10/28/2020,7:00:00 AM,11/13/2020,5:00:00 PM,38.545261,-118.690063,Water Treatment Facility,Pile Burn,Piles,NA,piles
+2020-0041,Storey County Fire Protection District,4/7/2020,7:00:00 AM,4/8/2020,5:00:00 PM,39.375,-119.657,"Storey County, Bailey's Canyon area",Pile Burn,Piles,NA,piles
+2022_0048,Storey County Fire Protection District,4/13/2022,8:00:00 AM,4/13/2022,11:30:00 PM,39.359224,-119.603784,SCFPD District 72- Valley View Prescribed Pile Burn,Pile Burn,Single feeder burn pile- Approximately 2 tons of shrub/ juniper,1,piles

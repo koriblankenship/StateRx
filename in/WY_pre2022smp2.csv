@@ -1,0 +1,1391 @@
+BurnID,BurnName,Burn Type,Latitude,Longitude,AgencyOrCompany,TotalArea,TotalPileVolume,Burned?,Date1,Date2,Date3,Date4,Date5,Date6,Date7,LAT_PERMIT,LON_PERMIT
+736,Pile Burning 2011,SMP-II,Variable,Variable,USDA-USFS-Bridger Teton NF,250,,Burned,14-Oct-11,17-Oct-11,18-Oct-11,31-Oct-11,1-Nov-11,7-Nov-11,8-Nov-11,,
+1094,Pile Burning,SMP-II,Variable,Variable,USDA-USFS-Bridger-Teton NF-Moran RD,290,,Burned,9-Nov-12,10-Nov-12,12-Nov-12,13-Nov-12,14-Nov-12,15-Nov-12,19-Nov-12,,
+1325,Pile Burning,SMP-II,Variable,Variable,USDA-USFS-Caribou-Targhee NF-Driggs RD,5,,,,,,,,,,,
+1352,Pile Burning,SMP-II,Variable,Variable,USDA-USFS-Bridger-Teton NF-Moran RD,180,,,,,,,,,,,
+811,West Zone Piles,SMP-II,See maps on P Drive,,USDA-USFS-Bridger-Teton NF-Greys River/Kemmerer RD,100,59,,,,,,,,,,
+1454,Burner Rx,SMP-II,44..467777,-104.406666,USDA - USFS: Bearlodge Ranger District,475,,,,,,,,,,44.467777,-104.406666
+792,Marking Pen Creek Prescribed Burn,SMP-II,48.13826111,-106.9098694,USDI-BLM-High Desert District (Rawlins Field Office),6870,,Burned,2-May-11,3-May-11,5-May-11,6-May-11,7-May-11,,,48.13826111,-106.9098694
+1118,Marking Pen Creek Prescribed Burn,SMP-II,48.13826111,-106.9098694,USDI-BLM-High Desert District (Rawlins Field Office),2000,,Burned,23-Mar-12,24-Mar-12,,,,,,48.13826111,-106.9098694
+429,West Slope Habitat Enhancement Prescribed Burn,SMP-II,46.5,-109.0666667,USDI-BLM-North Zone-Worland (Cody Field Office),4200,,Burned,27-Apr-08,15-Mar-10,16-Mar-10,17-Mar-10,21-Mar-10,22-Mar-10,25-Mar-10,46.5,-109.0666667
+764,Yellow Hill-Park Service,SMP-II,44.99722222,-108.2552778,USDA-USFS-Big Horn NF-Lovell RD,450,,,,,,,,,,44.99722222,-108.2552778
+524,Yellow Hill,SMP-II,44.99362889,-108.2528344,USDA-USFS-Big Horn NF-Medicine Wheel/Paintrock RD,450,,,,,,,,,,44.99362889,-108.2528344
+1395,Little Mountain/Moss Ranch Prescribed Burn,SMP-II,44.963707,-108.0974576,USDI-BLM-Wind River/Bighorn Basin District (Cody Field Office),150,,Burned,13-Mar-13,,,,,,,44.963707,-108.0974576
+1318,Hunter Peak TS 2013,SMP-II,44.95583333,-109.8086111,USDA-USFS-Shoshone NF-Wapiti RD,10,2517400,,,,,,,,,44.95583333,-109.8086111
+1355,WGFD Kerns Habitat Area,SMP-II,44.95368294,-107.560891,Wyoming Game and Fish Department,800,,,,,,,,,,44.95368294,-107.560891
+1670,Lost Lake FSRD 130,SMP-II,44.950826,-109.733753,,5,16193,,,,,,,,,44.950826,-109.733753
+943,Lily Lake Campground 2012,SMP-II,44.945,-109.7138889,USDA-USFS-Shoshone NF-Wapiti RD,7,17284,Burned,22-Nov-11,,,,,,,44.945,-109.7138889
+944,Beartooth Campground 2012,SMP-II,44.94388889,-109.5911111,USDA-USFS-Shoshone NF-Wapiti RD,14,18400,Burned,17-Nov-11,,,,,,,44.94388889,-109.5911111
+1732,Hunter Peak TS,SMP-II,44.94,-109.78,USDI-NPS-Yellowstone NP,2,148625,Burned,1/15/2015,,,,,,,44.94,-109.78
+1894,Hunter Peak TS,SMP-II,44.94,-109.78,USDA-USFS-Shoshone NF,25,1286075,Burned,12/23/2015,,,,,,,44.94,-109.78
+1675,Hunter Peak TS,SMP-II,44.937378,-109.78314,USDA-USFS Shoshone National Forest,2,148625,,,,,,,,,44.937378,-109.78314
+761,Polecat Bench Prescsribed Burn,SMP-II,44.9368543,-108.7732336,USDI-BLM-Wind River/Big Horn Basin District (Cody Field Office),100,,Burned,20-Sep-11,21-Sep-11,,,,,,44.9368543,-108.7732336
+1083,Polecat Bench Prescribed Burn,SMP-II,44.9368543,-108.7732336,USDI-BLM-Wind River/Big Horn Basin District (Cody Field Office),100,,,,,,,,,,44.9368543,-108.7732336
+1565,North Little Mountain Prescribed Burn,SMP-II,44.9348757,-108.1577268,USDI-BLM-Cody Field Office,200,,Burned,8-Apr-14,9-Apr-14,10-Apr-14,11-Apr-14,21-Apr-14,22-Apr-14,2-May-14,44.9348757,-108.1577268
+1566,Little Mountain/Moss Ranch Prescribed Burn,SMP-II,44.9347782,-108.117379,USDI-BLM-Cody Field Office,50,,,,,,,,,,44.9347782,-108.117379
+1672,Lost Lake FSRD 188,SMP-II,44.934356,-109.705043,USDA-USFS Shoshone National Forest,5,13389,,,,,,,,,44.934356,-109.705043
+1804,Upper Clarks Fork,SMP-II,44.93,-109.71,USDA-USFS-Shoshone NF-Wapiti RD,800,,,,,,,,,,44.93,-109.71
+2013,Upper Clarks Fork RX,SMP-II,44.93,-109.71,USDA-USFS-Shoshone NF,800,,,,,,,,,,44.93,-109.71
+2084,Upper Clarks Fork,SMP-II,44.93,-109.71,US Forest Service,800,,,,,,,,,,44.93,-109.71
+3033,FSRD188,SMP-II,44.93,-109.71,USDA-USFS-Shoshone NF,5,12821,Burned,11/30/2016,,,,,,,44.93,-109.71
+3112,Upper Clarks Fork,SMP-II,44.93,-109.71,USDA-USFS-Shoshone NF-Greybull RD,800,,,,,,,,,,44.93,-109.71
+3320,Upper Clarks Fork,SMP-II,44.93,-109.71,USDA-USFS-Shoshone NF-Greybull RD,800,,,,,,,,,,44.93,-109.71
+3433,Upper Clarks Fork,SMP-II,44.93,-109.71,USDA-USFS-Shoshone NF-Wapiti RD,800,,Burned,4/19/2019,,,,,,,44.93,-109.71
+3592,Upper Clarks Fork,SMP-II,44.93,-109.71,USDA-USFS-Shoshone NF-Wapiti RD,800,,,,,,,,,,44.93,-109.71
+3766,Upper Clark Fork,SMP-II,44.93,-109.71,,800,,Burned,4/21/2021,,,,,,,44.93,-109.71
+1634,Upper Clarks Fork,SMP-II,44.926111,-109.7108333,USDA-USFS-Shoshone NF-Clarks Fork RD,800,,Burned,24-Sep-14,,,,,,,44.926111,-109.7108333
+1123,Upper Clarks Fork Prescribed Burn 2012,SMP-II,44.92305556,-109.7186111,USDA-USFS-Shoshone NF-Wapiti RD,1913,,Burned,3-Apr-12,3-Apr-12,4-Apr-12,4-Apr-12,4-Apr-12,5-Apr-12,5-Apr-12,44.92305556,-109.7186111
+1082,North Little Mountain Prescribed Burn,SMP-II,44.9204801,-108.137501,USDI-BLM-Wind River/Big Horn Basin District (Cody Field Office),200,,,,,,,,,,44.9204801,-108.137501
+1396,North Little Mountain Prescribed Burn,SMP-II,44.9204801,-108.137501,USDI-BLM-Wind River/Bighorn Basin District (Cody Field Office),200,,Burned,28-Mar-13,29-Mar-13,3-Apr-13,4-Apr-13,19-Apr-13,25-Apr-13,26-Apr-13,44.9204801,-108.137501
+758,North Little Mountain Prescribed Burn,SMP-II,44.9204706,-108.1578125,USDI-BLM-Wind River/Big Horn Basin District (Cody Field Office),200,,,,,,,,,,44.9204706,-108.1578125
+1766,Polecat Bench Prescribed Burn,SMP-II,44.92,-108.78,USDI-BLM-Cody Field Office,50,,,,,,,,,,44.92,-108.78
+3883,Crater Ridge Landing Piles,SMP-II,44.92,-107.78,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,30,562500,Burned,10/25/2021,10/29/2021,,,,,,44.92,-107.78
+1081,Little Mountain/Moss Ranch Prescribed Burn,SMP-II,44.9195455,-107.9556466,USDI-BLM-Wind River/Big Horn Basin District (Cody Field Office),200,,Burned,18-Apr-12,19-Apr-12,20-Apr-12,,,,,44.9195455,-107.9556466
+766,Devil's Canyon,SMP-II,44.91833333,-107.9680556,USDA-USFS-Big Horn NF-Lovell RD,1260,,,,,,,,,,44.91833333,-107.9680556
+1066,Devil's Canyon,SMP-II,44.91833333,-107.9680556,USDA-USFS-Big Horn NF-Lovell RD,1260,,Burned,30-Mar-12,,,,,,,44.91833333,-107.9680556
+1370,Devil's Canyon,SMP-II,44.91833333,-107.9680556,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,1260,,,,,,,,,,44.91833333,-107.9680556
+1441,Polecat Bench Prescribed Burn,SMP-II,44.915,-108.7836111,USDI-BLM-Wind River Bighorn Basin District (Cody Field Office),180,,,,,,,,,,44.915,-108.7836111
+1564,Polecat Bench Prescribed Burn,SMP-II,44.915,-108.7836111,USDI-BLM-Cody Field Office,120,,,,,,,,,,44.915,-108.7836111
+1101,WGFD Kerns Habitat Area,SMP-II,44.9080213,-107.6040432,Wyoming Game and Fish Department,800,,,,,,,,,,44.9080213,-107.6040432
+1733,Kirwin,SMP-II,44.88,-109.29,USDI-NPS-Yellowstone NP,0,18000,Burned,10/13/2015,,,,,,,44.88,-109.29
+3299,West Slope Riparian Prescribed Burn,SMP-II,44.88,-108.08,USDI-BLM-Cody Field Office,900,,Burned,4/21/2018,4/11/2018,,,,,,44.88,-108.08
+609,Beartrap Piles,SMP-II,44.871,-107.7,USDA-USFS-Big Horn NF-Tongue RD,37,85000,,,,,,,,,44.871,-107.7
+1811,Amsden Creek WHMA Rx Burn 2015,SMP-II,44.87,-107.34,Wyoming Game and Fish Dept.,50,,,,,,,,,,44.87,-107.34
+3144,West Slope Riparian Prescribed Burn,SMP-II,44.87,-108.09,USDA-USFS-Shoshone NF-Wind River RD,500,,Burned,3/29/2017,4/13/2017,4/14/2017,4/18/2017,,,,44.87,-108.09
+768,Mexican Hill,SMP-II,44.86583333,-107.9805556,USDA-USFS-Big Horn NF-Lovell RD,300,,,,,,,,,,44.86583333,-107.9805556
+1068,Mexican Hill,SMP-II,44.86583333,-107.9805556,USDA-USFS-Big Horn NF-Lovell RD,300,,,,,,,,,,44.86583333,-107.9805556
+3822,Yellowtail RX,SMP-II,44.86,-108.08,USDI-BLM-Cody Field Office,60,,,,,,,,,,44.86,-108.08
+3369,Cottonwood Creek,SMP-II,44.86,-108.08,USDI-BLM-Cody Field Office,11,384,,,,,,,,,44.86,-108.08
+2023,West Slope Habitat Enhancement Prescribed Burn,SMP-II,44.86,-108.07,USDI-BLM-Cody Field Office,200,,Burned,3/19/2016,3/20/2016,4/2/2016,,,,,44.86,-108.07
+3034,Twin Lakes TS,SMP-II,44.86,-109.01,USDA USFS Shoshone National Forest,5,669400,Burned,12/13/2016,,,,,,,44.86,-109.01
+3462,Cottonwood Creek,SMP-II,44.86,-108.08,USDI-BLM-Cody Field Office,11,38400,Burned,1/29/2019,,,,,,,44.86,-108.08
+3471,Yellowtail RX,SMP-II,44.86,-108.08,USDI-BLM-Cody Field Office,180,,,,,,,,,,44.86,-108.08
+3588,Yellowtail RX,SMP-II,44.86,-108.08,USDI-BLM-Cody Field Office,180,,Burned,3/9/2020,,,,,,,44.86,-108.08
+3664,Sugar Loaf RX,SMP-II,44.86,-109.53,Forest Service,277,,,,,,,,,,44.86,-109.53
+3763,Sugarloaf RX,SMP-II,44.86,-109.52,,277,,,,,,,,,,44.86,-109.52
+965,Squaw Creek Piles 2012,SMP-II,44.84722222,-109.6358333,USDA-USFS-Shoshone NF-Cody RD,3,27765,Burned,6-Dec-11,,,,,,,44.84722222,-109.6358333
+963,Reef Creek Timber Sale Piles 2012,SMP-II,44.84361111,-109.5725,USDA-USFS-Shoshone NF-Wapiti RD,102,2849000,Burned,10-Jan-12,,,,,,,44.84361111,-109.5725
+1322,Reef Creek TS 2013,SMP-II,44.84361111,-109.5725,USDA-USFS-Shoshone NF-Wapiti RD,9,993500,,,,,,,,,44.84361111,-109.5725
+3135,Garland,SMP-II,44.84,-107.53,USDA-USFS-Bighorn NF-Tongue RD,,780007,Burned,11/17/2017,,,,,,,44.84,-107.53
+1391,MOAB,SMP-II,44.83444,-106.99152,Sheridan VA Medical Center,,80000,,,,,,,,,44.83444,-106.99152
+1585,Skull Ridge Unit,SMP-II,44.83194444,-107.4302778,USDA-USFS-Bighorn NF-Tongue RD,400,,Burned,31-Oct-14,31-Oct-14,,,,,,44.83194444,-107.4302778
+1393,West Slope Habitat Enhancement Prescribed Burn,SMP-II,44.8313446,-108.197971,USDI-BLM-Wind River/Bighorn Basin District (Cody Field Office),300,,Burned,14-Mar-13,19-Mar-13,20-Mar-13,11-Apr-13,,,,44.8313446,-108.197971
+760,Little Mountain/Moss Ranch Prescribed Burn,SMP-II,44.831254,-108.0563934,USDI-BLM-Wind River/Big Horn Basin District (Cody Field Office),200,,Burned,28-Apr-11,5-May-11,16-May-11,,,,,44.831254,-108.0563934
+3775,Porcupine Landing,SMP-II,44.83,-107.86,,,135021,,,,,,,,,44.83,-107.86
+3691,Porcupine Landing Piles,SMP-II,44.83,-107.86,,,135021,,,,,,,,,44.83,-107.86
+1798,Porcupine Piles,SMP-II,44.83,-107.84,USDA-USFS-Bighorn NF,5,28500,Burned,11/23/2015,11/24/2015,,,,,,44.83,-107.84
+1929,Porcupine Piles,SMP-II,44.83,-107.84,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,4,104100,Burned,10/19/2016,,,,,,,44.83,-107.84
+3121,Porcupine Piles,SMP-II,44.83,-107.84,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,4,104100,Burned,10/31/2017,12/12/2017,,,,,,44.83,-107.84
+3435,Chief Joseph Area Piles,SMP-II,44.83,-109.63,USDA-USFS-Shoshone NF-Wapiti RD,,,,,,,,,,,44.83,-109.63
+3594,Chief Joseph Area Piles,SMP-II,44.83,-109.63,USDA-USFS-Shoshone NF-Wapiti RD,,,,,,,,,,,44.83,-109.63
+3768,Chief Joeseph,SMP-II,44.83,-109.63,,,13696,,,,,,,,,44.83,-109.63
+1461,Porcupine Piles,SMP-II,44.8280056,-107.8448111,USDA: USFS - BHNF,7,48252,,,,,,,,,44.8280056,-107.8448111
+1603,Porcupine Piles,SMP-II,44.82800556,-107.8448111,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,5,8500,Burned,12-Nov-14,13-Nov-14,,,,,,44.82800556,-107.8448111
+1236,Porcupine Piles,SMP-II,44.82800556,-107.8448111,USDA-USFS-Big Horn NF-Lovell RD,5,8500,Burned,13-Nov-12,14-Nov-12,,,,,,44.82800556,-107.8448111
+1782,Fool Creek Basin,SMP-II,44.82,-107.56,USDA-USFS-Bighorn NF-Tongue RD,116,,,,,,,,,,44.82,-107.56
+1996,Fool Creek Basin,SMP-II,44.82,-107.56,USDA-USFS-Bighorn NF-Tongue RD,116,,,,,,,,,,44.82,-107.56
+1583,Fool Creek Basin,SMP-II,44.81805556,-107.5641667,USDA-USFS-Bighorn NF-Tongue RD,116,,,,,,,,,,44.81805556,-107.5641667
+1569,West Slope Habitat Enhancement Prescribed Burn,SMP-II,44.8167037,-108.015778,USDI-BLM-Cody Field Office,300,,,,,,,,,,44.8167037,-108.015778
+1587,Twin Buttes 3,SMP-II,44.81611111,-107.4858333,USDA-USFS-Bighorn NF-Tongue RD,166,,Burned,8-Oct-14,25-Oct-14,,,,,,44.81611111,-107.4858333
+1586,Twin Buttes 2,SMP-II,44.81222222,-107.5038889,USDA-USFS-Bighorn NF-Tongue RD,100,,Burned,19-May-14,26-Sep-14,26-Sep-14,,,,,44.81222222,-107.5038889
+1416,Twin Buttes,SMP-II,44.80916667,-107.5144444,USDA-USFS-Bighorn NF-Tongue RD,188,,Burned,13-May-13,,,,,,,44.80916667,-107.5144444
+1584,Schuler Unit,SMP-II,44.80305556,-107.6008333,USDA-USFS-Bighorn NF-Tongue RD,309,,,,,,,,,,44.80305556,-107.6008333
+1781,Schuler Unit,SMP-II,44.8,-107.6,USDA-USFS-Bighorn NF-Tongue RD,309,,,,,,,,,,44.8,-107.6
+1995,Schuler Unit,SMP-II,44.8,-107.6,USDA-USFS-Bighorn NF-Tongue RD,309,,Burned,10/23/2016,10/23/2016,10/27/2016,10/27/2016,,,,44.8,-107.6
+3158,Schuler Unit,SMP-II,44.8,-107.6,USDA-USFS-Bighorn NF-Tongue RD,309,,,,,,,,,,44.8,-107.6
+3342,Schuler Unit,SMP-II,44.8,-107.6,USDA-USFS-Bighorn NF-Tongue RD,309,,,,,,,,,,44.8,-107.6
+3504,Schuler Unit,SMP-II,44.8,-107.6,USDA-USFS-Bighorn NF-Tongue RD,309,,,,,,,,,,44.8,-107.6
+923,Burgess Work Center Piles,SMP-II,44.78972222,-107.5308333,USDA-USFS-Big Horn NF-Tongue RD,15,76800,Burned,13-Oct-11,14-Oct-11,,,,,,44.78972222,-107.5308333
+1406,Planting Rx,SMP-II,44.770775,-104.3477222,USDA-USFS-Black Hills NF-Bearlodge RD,1288,,,,,,,,,,44.770775,-104.3477222
+1249,Voss Hand Piles,SMP-II,44.77055556,-107.5088889,USDA-USFS-Big Horn NF-Tongue RD,12,3461,Burned,20-Nov-12,26-Nov-12,,,,,,44.77055556,-107.5088889
+3622,Johnson Creek,SMP-II,44.77,-107.43,USDA-USFS-Bighorn NF-Tongue RD,,1047721,Burned,2/5/2020,,,,,,,44.77,-107.43
+3800,South Tongue,SMP-II,44.77,-107.47,USDA-USFS-Bighorn NF-Tongue RD,,84301,Burned,3/5/2021,3/10/2021,3/26/2021,,,,,44.77,-107.47
+799,Garden of the Gods (Tongue AMP),SMP-II,44.7684,-107.6103,USDA-USFS-Big Horn NF-Tongue RD,60,,,,,,,,,,44.7684,-107.6103
+3774,Beavers Creek North,SMP-II,44.76,-107.75,,5285,,,,,,,,,,44.76,-107.75
+3134,Beaver Creek North,SMP-II,44.76,-107.75,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,5285,,,,,,,,,,44.76,-107.75
+3496,Beaver Creek North,SMP-II,44.76,-107.75,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,5285,,,,,,,,,,44.76,-107.75
+3626,Beaver Creek North,SMP-II,44.76,-107.75,USDA-USFS-Shoshone NF-Greybull RD,5285,,,,,,,,,,44.76,-107.75
+641,Dead Indian Communications Site Piles,SMP-II,44.75444444,-109.3755556,USDA-USFS-Shoshone NF-Wapiti RD,7,48016,Burned,3-Dec-09,4-Dec-09,8-Dec-09,,,,,44.75444444,-109.3755556
+1735,Elk Creek,SMP-II,44.75,-109.45,USDA-USFS-Shoshone NF-Washakie RD,6,13485,Burned,1/22/2015,,,,,,,44.75,-109.45
+1892,Elk Creek,SMP-II,44.75,-109.45,USDA-USFS-Shoshone NF,5,35177,,,,,,,,,44.75,-109.45
+1966,Elk Creek,SMP-II,44.75,-109.45,USDA-USFS-Shoshone NF-Wapiti RD,5,35177,Burned,2/2/2016,2/3/2016,,,,,,44.75,-109.45
+3032,Elk Creek,SMP-II,44.75,-109.45,USDA-USFS Shoshone National Forest,5,28390,,,,,,,,,44.75,-109.45
+3137,Elk Creek,SMP-II,44.75,-109.45,USDA-USFS-Shoshone NF-Wapiti RD,5,28390,Burned,12/12/2016,,,,,,,44.75,-109.45
+1671,Elk Creek,SMP-II,44.74561,-109.446369,USDA-USFS Shoshone National Forest,6,13485,,,,,,,,,44.74561,-109.446369
+1792,Bald Ridge II Units 1&2,SMP-II,44.74,-109.38,USDI-NPS-Yellowstone NP,333,,Burned,3/27/2015,,,,,,,44.74,-109.38
+1837,Bald Ridge II Units 3&4,SMP-II,44.74,-109.37,USDI-NPS-Yellowstone NP,314,,,,,,,,,,44.74,-109.37
+2012,"Bald Ridge II Units 1, 3, & 4",SMP-II,44.74,-109.37,USDA-USFS-Shoshone NF,482,,,,,,,,,,44.74,-109.37
+2083,Bald Ridge II,SMP-II,44.74,-109.37,USDA-USFS-Shoshone NF,660,,,,,,,,,,44.74,-109.37
+3111,Bald Ridge,SMP-II,44.74,-109.38,USDA-USFS-Shoshone NF-Greybull RD,660,,,,,,,,,,44.74,-109.38
+3114,Buckley Timber Sale Machine Pile Disposal,SMP-II,44.74,-104.41,USDA-USFS-Black Hills NF-Bearlodge RD,120,15708,Burned,1/26/2017,,,,,,,44.74,-104.41
+3319,Bald Ridge II,SMP-II,44.74,-109.37,USDA-USFS-Shoshone NF-Clarks Fork RD,660,,Burned,10/23/2018,10/24/2018,,,,,,44.74,-109.37
+3432,Bald Ridge II,SMP-II,44.74,-109.38,USDA-USFS-Shoshone NF-Wapiti RD,660,,Burned,4/19/2019,,,,,,,44.74,-109.38
+3591,Bald Ridge II,SMP-II,44.74,-109.38,USDA-USFS-Shoshone NF-Wapiti RD,660,,Burned,11/5/2020,,,,,,,44.74,-109.38
+3765,Bald Ridge II,SMP-II,44.74,-109.37,,660,,Burned,11/9/2021,,,,,,,44.74,-109.37
+3072,New Haven Forest Management,SMP-II,44.73,-104.82,USDI-BLM-Newcastle Field Office,180,53000,Burned,1/23/2017,1/24/2017,1/25/2017,1/26/2017,1/27/2017,1/28/2017,,44.73,-104.82
+708,Henry Mill TS Piles,SMP-II,44.72333333,-109.3808333,USDA-USFS-Shoshone NF-Wapiti RD,191,987973,Burned,4-Jan-11,,,,,,,44.72333333,-109.3808333
+1779,Bull Creek 1,SMP-II,44.72,-107.61,USDA-USFS-Bighorn NF-Tongue RD,189,,,,,,,,,,44.72,-107.61
+1951,Beam TS,SMP-II,44.72,-109.59,USDA-USFS-Shoshone NF-Wapiti RD,18,232675,Burned,12/13/2016,12/14/2016,,,,,,44.72,-109.59
+1890,Beam TS,SMP-II,44.72,-109.59,USDA-USFS-Shoshone NF,18,232675,,,,,,,,,44.72,-109.59
+1893,Henry Mill TS,SMP-II,44.72,-109.39,USDA-USFS-Shoshone NF,1,280000,,,,,,,,,44.72,-109.39
+1967,Henry Mill TS,SMP-II,44.72,-109.39,USDA-USFS-Shoshone NF-Wapiti RD,1,280000,,,,,,,,,44.72,-109.39
+1993,Bull Creek 1,SMP-II,44.72,-107.61,USDA-USFS-Bighorn NF-Tongue RD,189,,,,,,,,,,44.72,-107.61
+3799,Parks Braodcast,SMP-II,44.72,-105.52,,,,Burned,4/29/2021,5/6/2021,,,,,,44.72,-105.52
+1581,Bull Creek 1,SMP-II,44.71944444,-107.6094444,USDA-USFS-Bighorn NF-Tongue RD,189,,,,,,,,,,44.71944444,-107.6094444
+1317,Henry Mill TS 2013,SMP-II,44.71916667,-109.3827778,USDA-USFS-Shoshone NF-Wapiti RD,7,234720,,,,,,,,,44.71916667,-109.3827778
+960,Henry Mill Timber Sale Piles 2012,SMP-II,44.71916667,-109.3827778,USDA-USFS-Shoshone NF-Cody Ranger District,57,189373,Burned,21-Dec-11,,,,,,,44.71916667,-109.3827778
+1259,Henry Mill TS 2012a,SMP-II,44.71916667,-109.3827778,USDA-USFS-Shoshone NF-Wapiti RD,7,234720,,,,,,,,,44.71916667,-109.3827778
+1121,Dead Indian Unit 3 Prescribed Burn 2012,SMP-II,44.71861111,-109.4147222,USDA-USFS-Shoshone NF-Wapiti RD,100,,,,,,,,,,44.71861111,-109.4147222
+1673,,SMP-II,44.718444,-109.386697,USDA-USFS Shoshone National Forest,1,243000,,,,,,,,,44.718444,-109.386697
+1502,Bald Ridge East TS Piles 2014,SMP-II,44.71305556,-109.3797222,USDA-USFS-Shoshone NF-Wapiti RD,3,337250,Burned,6-Jan-14,,,,,,,44.71305556,-109.3797222
+1314,Bald Ridge East 2013,SMP-II,44.71305556,-109.3797222,USDA-USFS-Shoshone NF-Wapiti RD,4,348660,,,,,,,,,44.71305556,-109.3797222
+957,Bald Ridge East Timber Sale Piles 2012,SMP-II,44.71305556,-109.3797222,USDA-USFS-Shoshone NF-Cody RD,88,204444,Burned,21-Dec-11,,,,,,,44.71305556,-109.3797222
+1255,Bald Ridge East 2012a,SMP-II,44.71305556,-109.3797222,USDA-USFS-Shoshone NF-Wapiti RD,4,348660,,,,,,,,,44.71305556,-109.3797222
+709,Bald Ridge East TS Piles (amended 12-20-2010),SMP-II,44.7125,-109.375,USDA-USFS-Shoshone NF-Wapiti RD,341,1748891,Burned,4-Jan-11,5-Jan-11,6-Jan-11,,,,,44.7125,-109.375
+3711,Beaver Creek Pile,SMP-II,44.71,-107.73,USDI-BLM-Cody Field Office,30,,,,,,,,,,44.71,-107.73
+3031,Bald Ridge TS Piles,SMP-II,44.71,-109.38,USDA USFS Shoshone National Forest,2,433800,Burned,12/13/2016,,,,,,,44.71,-109.38
+1503,Beam TS Piles 2014,SMP-II,44.70777778,-109.6383333,USDA-USFS-Shoshone NF-Wapiti RD,4,28075,Burned,6-Jan-14,,,,,,,44.70777778,-109.6383333
+1667,Bald Ridge East TS,SMP-II,44.706125,-109.380701,,2,215950,,,,,,,,,44.706125,-109.380701
+1582,Bull Creek 2,SMP-II,44.7025,-107.6066667,USDA-USFS-Bighorn NF-Tongue RD,39,,,,,,,,,,44.7025,-107.6066667
+1135,"Woodrock Clear-cut Units 1, 2, 2.1, 3 & 4",SMP-II,44.70222222,-107.4269444,USDA-USFS-Big Horn NF-Tongue RD,222,,Burned,15-May-12,,,,,,,44.70222222,-107.4269444
+1546,Heald Road,SMP-II,44.70086667,-105.2172833,Wyoming State Forestry Division,4,28651,,,,,,,,,44.70086667,-105.2172833
+1309,Heald Road,SMP-II,44.70086667,-105.2172833,Wyoming State Forestry Division,80,64000,,,,,,,,,44.70086667,-105.2172833
+780,Heald Road,SMP-II,44.70001444,-105.2166769,Wyoming State Forestry Division,80,64000,,,,,,,,,44.70001444,-105.2166769
+3873,Beaver Creek Piles,SMP-II,44.7,-107.84,,157,,,,,,,,,,44.7,-107.84
+1780,Bull Creek 2,SMP-II,44.7,-107.61,USDA-USFS-Bighorn NF-Tongue RD,39,,,,,,,,,,44.7,-107.61
+1994,Bull Creek 2,SMP-II,44.7,-107.61,USDA-USFS-Bighorn NF-Tongue RD,39,,,,,,,,,,44.7,-107.61
+3220,Woodrock Timber Sale Hand Piles,SMP-II,44.69,-107.45,USDA-USFS-Bighorn NF-Tongue RD,206,24465,Burned,11/7/2017,,,,,,,44.69,-107.45
+3287,Spring Creek,SMP-II,44.69,-105.19,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,,75000,,,,,,,,,44.69,-105.19
+3292,Spring Creek,SMP-II,44.69,-105.19,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,,75000,Burned,1/17/2018,,,,,,,44.69,-105.19
+3461,Spring Creek Veg Pile Burn,SMP-II,44.69,-105.19,USDA-USFS-Shoshone NF-Wind River RD,160,,,,,,,,,,44.69,-105.19
+3605,Spring Creek Veg Pile Burn,SMP-II,44.69,-105.19,USFS,160,75000,,,,,,,,,44.69,-105.19
+1224,Woodrock Timber Sale Hand Piles,SMP-II,44.68638889,-107.4522222,USDA-USFS-Big Horn NF-Tongue RD,206,24465,,,,,,,,,44.68638889,-107.4522222
+1386,Woodrock Timber Sale Machine Piles,SMP-II,44.68638889,-107.4522222,USDA-USFS-Bighorn NF-Tongue RD,206,24465,Burned,15-Feb-13,22-Feb-12,,,,,,44.68638889,-107.4522222
+1755,Beaver Creek South,SMP-II,44.68,-107.68,USDA-USFS-Bighorn NF,7427,,Burned,9/22/2015,9/23/2015,9/24/2015,,,,,44.68,-107.68
+1978,Woodrock,SMP-II,44.68,-107.42,USDA-USFS-Bighorn NF-Tongue RD,,536859,Burned,1/26/2016,,,,,,,44.68,-107.42
+2001,Beaver Creek South,SMP-II,44.68,-107.68,USDA-USFS-Bighorn NF,7427,,,,,,,,,,44.68,-107.68
+1568,West Slope Riparian Prescribed Burn,SMP-II,44.6722938,-107.8107208,USDI-BLM-Cody Field Office,50,,,,,,,,,,44.6722938,-107.8107208
+1597,Woodrock Clear-cut Units 10 & 12,SMP-II,44.66555556,-107.4591667,USDA-USFS-Bighorn NF-Tongue RD,107,,,,,,,,,,44.66555556,-107.4591667
+1632,North End Rx,SMP-II,44.6625,-104.3472222,USDA-USFS-Black Hills NF-Bearlodge RD,175,,,,,,,,,,44.6625,-104.3472222
+1850,North End Rx – Units 3 & 4,SMP-II,44.66,-104.35,USDA-USFS-Black Hills NF-Bearlodge RD,175,,,,,,,,,,44.66,-104.35
+2088,North End Rx,SMP-II,44.66,-104.35,USDA-USFS-Black Hills NF-Bearlodge RD,175,,,,,,,,,,44.66,-104.35
+1419,Woodrock Clear-cut Units 12 & 14,SMP-II,44.65472222,-107.4719444,USDA-USFS-Bighorn NF-Tongue RD,58,,,,,,,,,,44.65472222,-107.4719444
+3773,Beaver Creek South,SMP-II,44.65,-107.68,,7142,,,,,,,,,,44.65,-107.68
+1812,Prospect/Cedar,SMP-II,44.65,-107.52,USDA-USFS-Bighorn NF-Tongue RD,1400,,,,,,,,,,44.65,-107.52
+1997,Prospect/Cedar 1 & 2,SMP-II,44.65,-107.52,USDA-USFS-Bighorn NF-Tongue RD,1400,,,,,,,,,,44.65,-107.52
+3119,Beaver Creek South,SMP-II,44.65,-107.68,USDA-USFS-Shoshone NF-Greybull RD,7142,,,,,,,,,,44.65,-107.68
+3184,Prospect/Cedar,SMP-II,44.65,-107.52,USDA-USFS-Bighorn NF-Tongue RD,1400,,,,,,,,,,44.65,-107.52
+3341,Prospect/Cedar,SMP-II,44.65,-107.52,USDA-USFS-Bighorn NF-Tongue RD,1400,,,,,,,,,,44.65,-107.52
+3497,Beaver Creek South,SMP-II,44.65,-107.68,,7142,,,,,,,,,,44.65,-107.68
+3503,Prospect/Cedar,SMP-II,44.65,-107.52,USDA-USFS-Bighorn NF-Tongue RD,1400,,,,,,,,,,44.65,-107.52
+3627,Beaver Creek South,SMP-II,44.65,-107.68,USDA-USFS-Shoshone NF-Greybull RD,7142,,,,,,,,,,44.65,-107.68
+800,Prospect/Cedar,SMP-II,44.64944444,-107.5152778,USDA-USFS-Big Horn NF-Tongue RD,1400,,,,,,,,,,44.64944444,-107.5152778
+1136,Prospect/Cedar,SMP-II,44.64944444,-107.5152778,USDA-USFS-Big Horn NF-Tongue RD,1400,,,,,,,,,,44.64944444,-107.5152778
+1418,Prospect/Cedar,SMP-II,44.64944444,-107.5152778,USDA-USFS-Bighorn NF-Tongue RD,1400,,,,,,,,,,44.64944444,-107.5152778
+1552,Beaver Creek South,SMP-II,44.6478,-107.6874,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,8115,,Burned,24-Sep-14,,,,,,,44.6478,-107.6874
+700,Woodrock Piles,SMP-II,44.64666667,-107.4491667,USDA-USFS-Big Horn NF-Sheridan RD,6,7000,Burned,18-Nov-10,,,,,,,44.64666667,-107.4491667
+1753,Pappy’s Pasture Unit 1&2,SMP-II,44.64,-105.33,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,450,,Burned,3/10/2015,,,,,,,44.64,-105.33
+1171,Beaver Creek South 2012,SMP-II,44.6371,-107.6874,USDA-USFS-Big Horn NF-Lovell RD,8265,,,,,,,,,,44.6371,-107.6874
+1368,Beaver Creek South,SMP-II,44.6371,-107.6874,USDA-USFS-Big Horn NF-Medicine Wheel/Paintrock RD,8265,,Burned,21-Sep-13,24-Sep-13,,,,,,44.6371,-107.6874
+1497,Pappy's Pasture Unit 1 & 2,SMP-II,44.63666667,-105.33,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,400,,,,,,,,,,44.63666667,-105.33
+743,Pappy's Pasture,SMP-II,44.63666667,-105.3347222,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,200,,,,,,,,,,44.63666667,-105.3347222
+535,Pappy's Pasture,SMP-II,44.63666667,-105.3347222,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,200,,,,,,,,,,44.63666667,-105.3347222
+1381,Pappy's Pasture,SMP-II,44.63666667,-105.3347222,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,200,,Burned,14-Mar-13,,,,,,,44.63666667,-105.3347222
+3772,Clay Spur RX,SMP-II,44.63,-105.32,,,,,,,,,,,,44.63,-105.32
+3609,Pappy's Pasture RX,SMP-II,44.63,-105.32,,,,,,,,,,,,44.63,-105.32
+3655,Clay Spur RX,SMP-II,44.63,-105.32,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,,,,,,,,,,,44.63,-105.32
+802,Bear Gulch Piles,SMP-II,44.62888889,-107.1386111,USDA-USFS-Big Horn NF-Sheridan RD,5,7000,Burned,1-Dec-09,,,,,,,44.62888889,-107.1386111
+1226,Bosin Rock Hand Piles,SMP-II,44.62305556,-107.1175,USDA-USFS-Big Horn NF-Tongue RD,41,16493,Burned,10-Dec-12,12-Dec-12,,,,,,44.62305556,-107.1175
+3219,Poverty Hand Piles,SMP-II,44.62,-107.13,USDA-USFS-Bighorn NF-Tongue RD,67,33929,Burned,11/7/2017,,,,,,,44.62,-107.13
+1228,TeePee Hand Piles,SMP-II,44.61861111,-107.1275,USDA-USFS-Big Horn NF-Tongue RD,13,4241,Burned,11-Dec-12,,,,,,,44.61861111,-107.1275
+1225,Black Tooth Hand Piles,SMP-II,44.61833333,-107.1036111,USDA-USFS-Big Horn NF-Tongue RD,13,13195,Burned,7-Dec-12,10-Dec-12,,,,,,44.61833333,-107.1036111
+922,Poverty Flats Piles,SMP-II,44.6175,-107.0952778,USDA-USFS-Big Horn NF-Tongue RD,10,22500,Burned,18-Oct-11,1-Nov-11,,,,,,44.6175,-107.0952778
+1463,Antelope Butte Piles,SMP-II,44.6134167,-107.5090556,USDA - USFS - BHNF,12,331375,,,,,,,,,44.6134167,-107.5090556
+1636,Antelope Butte Piles,SMP-II,44.6134167,-107.5090556,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,,34900,Burned,18-Nov-14,20-Nov-14,19-Nov-14,,,,,44.6134167,-107.5090556
+936,Antelope Butte Piles,SMP-II,44.61341667,-107.5090556,USDA-USFS-Big Horn NF-Lovell RD,3,12500,Burned,16-Nov-11,17-Nov-11,18-Nov-11,,,,,44.61341667,-107.5090556
+1235,Antelope Butte Piles,SMP-II,44.61341667,-107.5090556,USDA-USFS-Big Horn NF-Lovell RD,3,129886,Burned,13-Nov-12,14-Nov-12,11-Dec-12,12-Dec-12,13-Dec-12,,,44.61341667,-107.5090556
+1848,Schoolmarm Rx,SMP-II,44.61,-104.35,USDA-USFS-Black Hills NF-Bearlodge RD,63,,,,,,,,,,44.61,-104.35
+1975,Big Goose Rec. Residence,SMP-II,44.61,-107.21,USDA-USFS-Bighorn NF-Tongue RD,,2121,Burned,2/3/2016,,,,,,,44.61,-107.21
+2089,Schoolmarm RX,SMP-II,44.61,-104.35,USDA-USFS-Black Hills NF-Bearlodge RD,63,,,,,,,,,,44.61,-104.35
+3181,Schoolmarm Rx,SMP-II,44.61,-104.35,USDA-USFS-Black Hills NF-Bearlodge RD,72,,,,,,,,,,44.61,-104.35
+913,Schoolmarm,SMP-II,44.60985583,-104.3538278,USDA-USFS-Black Hills NF-Bearlodge RD,63,,,,,,,,,,44.60985583,-104.3538278
+1238,Schoolmarm Rx,SMP-II,44.60985583,-104.3538278,USDA-USFS-Black Hills NF-Bearlodge RD,63,,,,,,,,,,44.60985583,-104.3538278
+1457,Schoolmarm Rx,SMP-II,44.60985583,-104.3538278,USDA-USFS-Black Hills NF-Bearlodge RD,63,,,,,,,,,,44.60985583,-104.3538278
+1571,Schoolmarm Rx,SMP-II,44.60985583,-104.3538278,USDA-USFS-Black Hills NF-Bearlodge RD,63,,,,,,,,,,44.60985583,-104.3538278
+1974,Dome,SMP-II,44.6,-107.28,USDA-USFS-Bighorn NF-Tongue RD,,170117,Burned,2/1/2016,,,,,,,44.6,-107.28
+1977,Swamp,SMP-II,44.6,-107.14,USDA-USFS-Bighorn NF-Tongue RD,,377180,Burned,2/1/2016,,,,,,,44.6,-107.14
+3801,Big Goose WUI Hand Piles,SMP-II,44.6,-107.2,,,322451,Burned,1/27/2021,1/28/2021,2/1/2021,2/2/2021,2/4/2021,3/3/2021,,44.6,-107.2
+678,Red Beds,SMP-II,44.5975,-104.7027778,USDI-NPS-Wind Cave NP,200,,Burned,14-Oct-10,14-Oct-10,,,,,,44.5975,-104.7027778
+798,"Swamp Timber Sale Units 21-23, 28, 29A, 30",SMP-II,44.59722222,-107.1494444,USDA-USFS-Big Horn NF-Tongue RD,406,,,,,,,,,,44.59722222,-107.1494444
+1111,DETO Piles,SMP-II,44.59166667,-104.7147222,USDI-NPS-Devils Tower National Monument,,86000,,,,,,,,,44.59166667,-104.7147222
+1227,Swamp Creek Timber Sale Hand Piles,SMP-II,44.59138889,-107.1619444,USDA-USFS-Big Horn NF-Tongue RD,25,5186,Burned,27-Nov-12,28-Nov-12,29-Nov-12,,,,,44.59138889,-107.1619444
+1138,Belle Fourche,SMP-II,44.59055556,-104.7147222,USDI-NPS-Wind Cave NP-Northern Great Plains Fire Management,340,,,,,,,,,,44.59055556,-104.7147222
+1412,Belle Fource,SMP-II,44.59055556,-104.7147222,USDI-NPS-Northern Great Plains Fire Management,340,,,,,,,,,,44.59055556,-104.7147222
+3012,Graham RX,SMP-II,44.59,-104.72,National Park Service,114,,Burned,10/24/2016,10/24/2016,,,,,,44.59,-104.72
+3154,Entrance RX,SMP-II,44.59,-104.7,National Park Service,85,,Burned,4/20/2017,,,,,,,44.59,-104.7
+3198,North Terrace RX,SMP-II,44.59,-104.72,NPS- Devils Tower,171,,Burned,10/17/2017,,,,,,,44.59,-104.72
+3621,Babione,SMP-II,44.59,-107.25,USDA-USFS-Bighorn NF-Tongue RD,,1179275,Burned,1/27/2020,,,,,,,44.59,-107.25
+929,North Bearlodge Machine Piles,SMP-II,44.58938694,-104.37634,USDA-USFS-Black Hills NF-Bearlodge Ranger District,,5000,Burned,25-Oct-11,2-Nov-11,15-Nov-11,16-Nov-11,17-Nov-11,6-Dec-11,7-Dec-11,44.58938694,-104.37634
+762,West Slope Habitat Enhancement Prescribed Burn,SMP-II,44.5858096,-107.7113029,USDI-BLM-Wind River/Big Horn Basin District (Cody Field Office),350,,Burned,25-Mar-11,26-Mar-11,4-Apr-11,5-Apr-11,6-Apr-11,11-Apr-11,13-Apr-11,44.5858096,-107.7113029
+3874,Rattlesnake Piles,SMP-II,44.58,-109.28,,36,,Burned,12/7/2021,,,,,,,44.58,-109.28
+3218,Lamburger Hand Piles,SMP-II,44.58,-107.17,USDA-USFS-Bighorn NF-Tongue RD,40,16493,Burned,11/6/2017,,,,,,,44.58,-107.17
+3803,Babione,SMP-II,44.58,-107.25,USDA-USFS-Bighorn NF-Tongue RD,,,Burned,3/3/2021,,,,,,,44.58,-107.25
+685,Sleez Rx,SMP-II,44.5745264,-104.4171605,USDA-USFS-Black Hills NF-Bearlodge RD,950,,Burned,7-Oct-10,7-Oct-10,7-Oct-10,,,,,44.5745264,-104.4171605
+1572,"Sleez Rx - Units 25, 26, 27, and 35",SMP-II,44.5745264,-104.4171605,USDA-USFS-Black Hills NF-Bearlodge RD,395,,Burned,26-Aug-14,,,,,,,44.5745264,-104.4171605
+1394,West Slope Riparian Prescribed Burn,SMP-II,44.5712065,-107.832416,USDI-BLM-Wind River/Bighorn Basin District (Cody Field Office),25,,,,,,,,,,44.5712065,-107.832416
+1085,West Slope Habitat Enhancement Prescribed Burn,SMP-II,44.5709868,-108.0765048,USDI-BLM-Wind River/Big Horn Basin District (Cody Field Office),350,,Burned,21-Mar-12,22-Mar-12,23-Mar-12,28-Mar-12,29-Mar-12,30-Mar-12,3-Apr-12,44.5709868,-108.0765048
+765,Bench,SMP-II,44.56111111,-107.5413889,USDA-USFS-Big Horn NF-Lovell RD,1160,,Burned,12-Jul-11,,,,,,,44.56111111,-107.5413889
+1065,Bench Rx,SMP-II,44.56111111,-107.5413889,USDA-USFS-Big Horn NF-Lovell RD,1160,,Burned,9-May-12,,,,,,,44.56111111,-107.5413889
+1567,Rattlesnake Mountain Pile Burn,SMP-II,44.5574668,-109.3109165,USDI-BLM-Cody Field Office,10,,Burned,19-Nov-14,20-Nov-14,,,,,,44.5574668,-109.3109165
+1084,West Slope Riparian Prescribed Burn,SMP-II,44.5565602,-107.8122905,USDI-BLM-Wind River/Big Horn Basin District (Cody Field Office),110,,,,,,,,,,44.5565602,-107.8122905
+615,Bench,SMP-II,44.55633333,-107.5588333,USDA-USFS-Big Horn NF-Greybull RD,1200,2006550,,,,,,,,,44.55633333,-107.5588333
+1799,Shell Piles,SMP-II,44.55,-107.5,USDA-USFS-Bighorn NF,5,41272,Burned,11/24/2015,,,,,,,44.55,-107.5
+1976,Spear-O-WigWam,SMP-II,44.55,-107.21,USDA-USFS-Bighorn NF-Tongue RD,,29452,Burned,10/19/2016,11/30/2016,,,,,,44.55,-107.21
+3122,Shell Piles,SMP-II,44.55,-107.5,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,0,5000,,,,,,,,,44.55,-107.5
+1234,Shell Piles,SMP-II,44.547275,-107.5023861,USDA-USFS-Big Horn NF-Lovell RD,5,64530,Burned,13-Nov-12,14-Nov-12,3-Dec-12,4-Dec-12,5-Dec-12,6-Dec-12,7-Dec-12,44.547275,-107.5023861
+1462,Shell Piles,SMP-II,44.547275,-107.502386,USDA - USFS - BHNF,10,286252,,,,,,,,,44.547275,-107.502386
+1637,Shell Piles,SMP-II,44.547275,-107.5023861,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,,41272,,,,,,,,,44.547275,-107.5023861
+1703,Lake Slash Pile,SMP-II,44.5450667,-110.4244167,USDI-NPS-Yellowstone NP,1,15000,Burned,11-Dec-14,,,,,,,44.5450667,-110.4244167
+935,Pussy Foot Piles,SMP-II,44.54058333,-107.50375,USDA-USFS-Big Horn NF-Lovell RD,5,12690,Burned,31-Oct-11,1-Nov-11,,,,,,44.54058333,-107.50375
+2006,Dean Machine Piles 2016,SMP-II,44.53,-104.35,USDA-USFS-Black Hills NF-Bearlodge RD,,860000,,,,,,,,,44.53,-104.35
+3307,Burner 1Pile Disposal,SMP-II,44.53,-104.32,USDA-USFS-Black Hills NF-Bearlodge RD,100,15708,Burned,2/21/2018,,,,,,,44.53,-104.32
+3239,Little Fawn Pile Disposal,SMP-II,44.52,-104.38,USDA-USFS-Black Hills NF-Bearlodge RD,300,15708,Burned,12/4/2017,12/7/2017,,,,,,44.52,-104.38
+703,North Fork 2011 Piles,SMP-II,44.51388889,-109.9713889,USDA-USFS-Shoshone NF-Wapiti RD,,75000,Burned,29-Nov-10,30-Nov-10,1-Dec-10,21-Dec-10,22-Dec-10,13-Jan-11,,44.51388889,-109.9713889
+640,Pahaska Cabin Group 2010,SMP-II,44.50305556,-109.9580556,USDA-USFS-Shoshone NF-Wapiti RD,18,21000,Burned,14-Dec-09,15-Dec-09,,,,,,44.50305556,-109.9580556
+3071,Warren Peak,SMP-II,44.5,-104.43,Wyoming State Forestry Division,,3245949,,,,,,,,,44.5,-104.43
+639,Grinnell Creek 2010,SMP-II,44.49583333,-109.9325,USDA-USFS-Shoshone NF-Wapiti RD,13,25014,Burned,2-Feb-10,,,,,,,44.49583333,-109.9325
+1051,Warren Peak Pile Burning,SMP-II,44.49272167,-104.4270525,Wyoming State Forestry Division,634,636140,,,,,,,,,44.49272167,-104.4270525
+1562,Warren Peak,SMP-II,44.492,-104.427,Wyoming State Forestry Division,640,1500000,,,,,,,,,44.492,-104.427
+594,Sleeping Giant Ski Area TS (Amended 10/26/09),SMP-II,44.4918678,-109.9462202,USDA-USFS-Shoshone NF-Wapiti RD,100,1101769,Burned,24-Nov-08,16-Dec-08,17-Dec-08,23-Dec-08,,,,44.4918678,-109.9462202
+945,Sleeping Giant Ski Area 2012,SMP-II,44.49027778,-109.9461111,USDA-USFS-Shoshone NF-Cody RD,32,40800,Burned,1-Nov-11,,,,,,,44.49027778,-109.9461111
+1246,Greybull Pile Burn 2012,SMP-II,44.4894,-108.0505,Big Horn County Firewise,36,14400,,,,,,,,,44.4894,-108.0505
+1676,Sleeping Giant,SMP-II,44.488942,-109.949843,USDA-USFS Shoshone National Forest,19,34690,Burned,13-Nov-14,,,,,,,44.488942,-109.949843
+921,Sleez Rx,SMP-II,44.4871042,-104.4176238,USDA-USFS-Black Hills NF-Bearlodge RD,950,,,,,,,,,,44.4871042,-104.4176238
+1232,Sundance Rx,SMP-II,44.4871042,-104.4176238,USDA-USFS-Black Hills NF-Bearlodge RD,1359,,,,,,,,,,44.4871042,-104.4176238
+1239,Sleeze Rx,SMP-II,44.4871042,-104.4176238,USDA-USFS-Black Hills NF-Bearlodge RD,950,,,,,,,,,,44.4871042,-104.4176238
+1456,"Sleez Rx - Units 25, 26, 27, and 35",SMP-II,44.4871042,-104.4176238,USDA-USFS-Black Hills NF-Bearlodge RD,395,,,,,,,,,,44.4871042,-104.4176238
+539,East Entrance,SMP-II,44.48666667,-110,USDI-NPS-Yellowstone NP,10,43200,,,,,,,,,44.48666667,-110
+771,Bearlodge Slash Removal,SMP-II,44.4805943,-104.3070967,Baker Timber Products Inc.,,299700,,,,,,,,,44.4805943,-104.3070967
+702,Game & Fish Cabin Fuels Reduction 2011 Piles,SMP-II,44.48,-109.9044444,USDA-USFS-Shoshone NF-Wapiti RD,20,56910,Burned,29-Nov-10,30-Nov-10,1-Dec-10,2-Dec-10,,,,44.48,-109.9044444
+595,North Zone Miscellaneous 2009,SMP-II,44.4746224,-109.7346025,USDA-USFS-Shoshone NF-Wapiti RD,2000,469086,Burned,29-Dec-08,30-Dec-08,31-Dec-08,5-Jan-09,12-Jan-09,13-Jan-09,14-Jan-09,44.4746224,-109.7346025
+706,Mormon Creek Cabin Group Fuels Reduction 2011 Piles,SMP-II,44.47333333,-109.8925,USDA-USFS-Shoshone NF-Wapiti RD,,17718,Burned,21-Dec-10,26-Apr-11,9-May-11,11-May-11,,,,44.47333333,-109.8925
+1807,North Bearlodge Machine Piles 2015,SMP-II,44.47,-104.41,USDA-USFS-Black Hills NF-Bearlodge RD,784,,,,,,,,,,44.47,-104.41
+2087,Burner RX,SMP-II,44.47,-104.41,USDA-USFS-Black Hills NF-Bearlodge RD,784,,,,,,,,,,44.47,-104.41
+3180,Burner RX,SMP-II,44.47,-104.41,USDA-USFS-Black Hills NF-Bearlodge RD,1000,,,,,,,,,,44.47,-104.41
+646,Aspen Creek 2010,SMP-II,44.46944444,-109.7008333,USDA-USFS-Shoshone NF-Wapiti RD,10,21699,Burned,7-Jan-10,,,,,,,44.46944444,-109.7008333
+1570,"Burner Rx-Units 2, 3, & 4",SMP-II,44.46777778,-104.4066667,USDA-USFS-Black Hills NF-Bearlodge RD,475,,Burned,24-Oct-14,,,,,,,44.46777778,-104.4066667
+1231,Burner Rx,SMP-II,44.46777778,-104.4066667,USDA-USFS-Black Hills NF-Bearlodge RD,2720,,Burned,31-Oct-12,,,,,,,44.46777778,-104.4066667
+912,Burner,SMP-II,44.46777778,-104.4066667,USDA-USFS-Black Hills NF-Sundance RD,2720,,,,,,,,,,44.46777778,-104.4066667
+966,Wapiti Ranger Station Piles 2012,SMP-II,44.465,-109.6163889,USDA-USFS-Shoshone NF-Cody RD,18,22666,Burned,13-Feb-12,,,,,,,44.465,-109.6163889
+644,Wapiti Ranger Station 2010,SMP-II,44.46444444,-109.615,USDA-USFS-Shoshone NF-Wapiti RD,5,23220,Burned,7-Jan-10,7-Jan-10,,,,,,44.46444444,-109.615
+642,Moss Creek 2010,SMP-II,44.46388889,-109.7211111,USDA-USFS-Shoshone NF-Wapiti RD,10,32744,Burned,11-May-10,,,,,,,44.46388889,-109.7211111
+1319,Lower North Fork Piles 2013,SMP-II,44.4625,-109.6061111,USDA-USFS-Shoshone NF-Wapiti RD,1,13576,,,,,,,,,44.4625,-109.6061111
+705,Kitty Creek Cabin Group 2011 Piles,SMP-II,44.46166667,-109.8386111,USDA-USFS-Shoshone NF-Wapiti RD,7,13104,Burned,23-Nov-10,1-Dec-10,2-Dec-10,,,,,44.46166667,-109.8386111
+1315,Bureau of Rec Reservoir Piles 2013,SMP-II,44.46,-109.1880556,USDA-USFS-Shoshone NF-Wapiti RD,2,58300,Burned,30-Jan-13,,,,,,,44.46,-109.1880556
+1896,Muddy Creek,SMP-II,44.46,-109.72,USDA-USFS-Shoshone NF,3,21762,,,,,,,,,44.46,-109.72
+1969,Muddy Creek,SMP-II,44.46,-109.72,USDA-USFS-Shoshone NF-Wapiti RD,3,21762,Burned,11/22/2016,11/30/2016,,,,,,44.46,-109.72
+769,Mill Creek,SMP-II,44.45944444,-107.4405556,USDA-USFS-Big Horn NF-Lovell RD,1600,,,,,,,,,,44.45944444,-107.4405556
+1069,Mill Creek,SMP-II,44.45944444,-107.4405556,USDA-USFS-Big Horn NF-Lovell RD,1600,,,,,,,,,,44.45944444,-107.4405556
+704,Kitty Creek Bridge Fuels Reduction 2011 Piles,SMP-II,44.45833333,-109.8177778,USDA-USFS-Shoshone NF-Wapiti RD,6,12224,Burned,2-Dec-10,17-Dec-10,,,,,,44.45833333,-109.8177778
+1320,Middle North Fork Piles 2013,SMP-II,44.4575,-109.8588889,USDA-USFS-Shoshone NF-Wapiti RD,24,22549,,,,,,,,,44.4575,-109.8588889
+715,Pagoda Cabin Group 2011,SMP-II,44.45722222,-109.5913889,USDA-USFS-Shoshone NF-Wapiti RD,30,96052,Burned,11-Jan-11,12-Jan-11,,,,,,44.45722222,-109.5913889
+649,Pagoda Cabin Group 2010,SMP-II,44.45722222,-109.5913889,USDA-USFS-Shoshone NF-Wapiti RD,76,304490,,,,,,,,,44.45722222,-109.5913889
+645,Boy Scout Camp 2010,SMP-II,44.45583333,-109.8436111,USDA-USFS-Shoshone NF-Wapiti RD,10,14404,Burned,15-Dec-09,15-Dec-09,,,,,,44.45583333,-109.8436111
+638,Crossed Sabres Lodge 2010,SMP-II,44.45583333,-109.8436111,USDA-USFS-Shoshone NF-Wapiti RD,10,14404,,,,,,,,,44.45583333,-109.8436111
+1122,NF2 Unit R32 Prescribed Burn 2012,SMP-II,44.455,-109.5316667,USDA-USFS-Shoshone NF-Wapiti RD,70,,,,,,,,,,44.455,-109.5316667
+962,Newton Creek Campground Piles 2012,SMP-II,44.45388889,-109.7625,USDA-USFS-Shoshone NF-Wapiti RD,11,45512,Burned,12-Jan-12,,,,,,,44.45388889,-109.7625
+1321,North Fork-Chimney Rock Piles 2013,SMP-II,44.45388889,-109.8186111,USDA-USFS-Shoshone NF-Wapiti RD,47,83372,,,,,,,,,44.45388889,-109.8186111
+1313,UXU Lodge 2013,SMP-II,44.45361111,-109.7180556,USDA-USFS-Shoshone NF-Wapiti RD,31,196714,,,,,,,,,44.45361111,-109.7180556
+707,UXU Lodge Fuels Reduction 2011 Piles,SMP-II,44.45361111,-109.7166667,USDA-USFS-Shoshone NF-Wapiti RD,,306420,Burned,27-Dec-10,28-Dec-10,29-Dec-10,1-Feb-11,,,,44.45361111,-109.7166667
+998,UXU Lodge 2012,SMP-II,44.45361111,-109.7180556,USDA-USFS-Shoshone NF-Wapiti RD,34,91384,Burned,4-Jan-12,11-Jan-12,,,,,,44.45361111,-109.7180556
+1508,UXU Piles 2014,SMP-II,44.45361111,-109.7180556,USDA-USFS-Shoshone NF-Wapiti RD,30,196714,Burned,6-Jan-14,,,,,,,44.45361111,-109.7180556
+648,Kitty Creek Cabin Group 2010,SMP-II,44.45333333,-109.8602778,USDA-USFS-Shoshone NF-Wapiti RD,20,70136,Burned,14-Dec-09,15-Dec-09,,,,,,44.45333333,-109.8602778
+3437,North Fork Area Piles,SMP-II,44.45,-109.85,USDA-USFS-Shoshone NF-Wapiti RD,,5358,,,,,,,,,44.45,-109.85
+3596,North Fork Area Piles,SMP-II,44.45,-109.85,USDA-USFS-Shoshone NF-Wapiti RD,,5358,,,,,,,,,44.45,-109.85
+3770,North Fork,SMP-II,44.45,-109.85,,,5358,,,,,,,,,44.45,-109.85
+3424,Road Creek,SMP-II,44.44,-104.69,Wyoming State Forestry Division,,620173,,,,,,,,,44.44,-104.69
+759,Breteche Creek Prescribed Burn,SMP-II,44.4365815,-109.3881676,USDI-BLM-Wind River/Big Horn Basin District (Cody Field Office),100,,Burned,18-Mar-11,21-Mar-11,1-Apr-11,,,,,44.4365815,-109.3881676
+1080,Breteche Creek Prescribed Burn,SMP-II,44.4365815,-109.3881676,USDI-BLM-Wind River/Big Horn Basin District (Cody Field Office),100,,,,,,,,,,44.4365815,-109.3881676
+1920,Sunny Divide,SMP-II,44.43,-104.63,Wyoming State Forestry Division,,414260,,,,,,,,,44.43,-104.63
+3418,Sunny Divide,SMP-II,44.43,-104.63,Wyoming State Forestry Division,,349886,Burned,12/5/2019,12/6/2019,,,,,,44.43,-104.63
+1107,Heald Road,SMP-II,44.42052,-105.13037,Wyoming State Forestry Division,80,64000,,,,,,,,,44.42052,-105.13037
+1071,Sunny Divide Pile Burning,SMP-II,44.41961528,-104.6311942,Wyoming State Forestry Division,,441740,,,,,,,,,44.41961528,-104.6311942
+1356,WGFD Bud Love WHMA,SMP-II,44.40905369,-106.8650735,Wyoming Game and Fish Department,800,,,,,,,,,,44.40905369,-106.8650735
+1921,Newman Divide,SMP-II,44.4,-104.6,Wyoming State Forestry Division,,715402,,,,,,,,,44.4,-104.6
+1928,Paintrock Piles,SMP-II,44.4,-107.39,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,3,27000,Burned,2/3/2016,2/10/2016,11/30/2016,,,,,44.4,-107.39
+3075,Newman Divide,SMP-II,44.4,-104.6,,,715402,,,,,,,,,44.4,-104.6
+3423,Bad Crossign,SMP-II,44.4,-104.64,Wyoming State Forestry Division,,531419,Burned,12/12/2019,12/13/2019,,,,,,44.4,-104.64
+1100,WGFD Bud Love WHMA,SMP-II,44.3905976,-106.8707356,Wyoming Game and Fish Department,700,,,,,,,,,,44.3905976,-106.8707356
+3422,Prickly Bush,SMP-II,44.39,-104.62,Wyoming State Forestry Division,,208190,Burned,12/12/2019,,,,,,,44.39,-104.62
+1542,Gambels Basin Prescribed Burn,SMP-II,44.38719167,-109.6131167,USDI-BLM-Worland Field Office,450,,Burned,8-Oct-14,,,,,,,44.38719167,-109.6131167
+1327,Gambels Basin Prescribed Burn,SMP-II,44.38719167,-109.6131167,USDI-BLM-Worland Field Office,452,,,,,,,,,,44.38719167,-109.6131167
+1948,Medicine Lodge Rx,SMP-II,44.38,-107.47,USDI-BLM-Worland Field Office,300,,Burned,4/8/2016,4/9/2016,,,,,,44.38,-107.47
+767,Dry Medicine Creek,SMP-II,44.37861111,-107.4422222,USDA-USFS-Big Horn NF-Lovell RD,620,,,,,,,,,,44.37861111,-107.4422222
+1067,Dry Medicine Creek,SMP-II,44.37861111,-107.4422222,USDA-USFS-Big Horn NF-Lovell RD,620,,Burned,6-Apr-12,,,,,,,44.37861111,-107.4422222
+1070,Mill Creek-Dry Medicine/Cold Springs,SMP-II,44.37843889,-107.4265778,USDA-USFS-Big Horn NF-Lovell RD,1400,,,,,,,,,,44.37843889,-107.4265778
+1369,Mill Creek-Unit 2 & 3,SMP-II,44.37843889,-107.4265778,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,1400,,,,,,,,,,44.37843889,-107.4265778
+1551,Mill Creek-Unit #3,SMP-II,44.36550278,-107.4034889,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,1000,,Burned,25-Sep-14,25-Sep-14,,,,,,44.36550278,-107.4034889
+3789,Medicine Lodge RX,SMP-II,44.35,-107.52,,300,,,,,,,,,,44.35,-107.52
+1800,Medicine Lodge RX,SMP-II,44.35,-107.52,USDI-BLM-Worland Field Office,300,,,,,,,,,,44.35,-107.52
+3130,Medicine Lodge RX,SMP-II,44.35,-107.52,USDI-BLM-Worland Field Office,300,,,,,,,,,,44.35,-107.52
+3304,Medicine Lodge RX,SMP-II,44.35,-107.52,USDI-BLM-Worland Field Office,300,,,,,,,,,,44.35,-107.52
+3613,Medicine Lodge RX,SMP-II,44.35,-107.52,Wind River Bighorn Basin District BLM,200,,,,,,,,,,44.35,-107.52
+1756,Matthews Ridge,SMP-II,44.34,-107.44,USDA-USFS-Bighorn NF,1125,,Burned,3/30/2015,3/31/2015,4/7/2015,4/14/2015,,,,44.34,-107.44
+2000,Matthews Ridge,SMP-II,44.34,-107.44,USDA-USFS-Bighorn NF,900,,Burned,4/7/2016,,,,,,,44.34,-107.44
+3120,Mattews Ridge,SMP-II,44.34,-107.44,USDA-USFS-Shoshone NF-Greybull RD,900,,Burned,7/11/2017,10/18/2017,,,,,,44.34,-107.44
+1506,Marquette TS Piles 2014,SMP-II,44.32277778,-109.2225,USDA-USFS-Shoshone NF-Wapiti RD,4,124050,Burned,26-Feb-14,,,,,,,44.32277778,-109.2225
+961,Marquette Timber Sale Piles 2012,SMP-II,44.32277778,-109.2225,USDA-USFS-Shoshone NF-Cody RD,92,321475,Burned,20-Dec-11,,,,,,,44.32277778,-109.2225
+1256,USDA-USFS-Shoshone NF-Wapiti RD,SMP-II,44.32277778,-109.2225,USDA-USFS-Shoshone NF-Wapiti RD,1,176150,Burned,18-Dec-12,,,,,,,44.32277778,-109.2225
+1257,Kirwin 2012,SMP-II,44.32277778,-109.2952778,USDA-USFS-Shoshone NF-Wapiti RD,3,17686,Burned,19-Dec-12,,,,,,,44.32277778,-109.2952778
+1258,Marquette TS 2012a,SMP-II,44.32277778,-109.2225,USDA-USFS-Shoshone NF-Wapiti RD,3,176150,Burned,18-Dec-12,,,,,,,44.32277778,-109.2225
+1734,Marquette TS,SMP-II,44.32,-109.22,USDI-NPS-Yellowstone NP,4,198180,Burned,1/27/2015,,,,,,,44.32,-109.22
+1895,Marquette TS,SMP-II,44.32,-109.22,USDA-USFS-Shoshone NF,8,145050,,,,,,,,,44.32,-109.22
+1904,Rattlesnake Canyon Machine Piles 2015,SMP-II,44.32,-104.12,USDA-USFS-Black Hills NF-Bearlodge RD,125,2500000,Burned,12/16/2015,12/17/2015,,,,,,44.32,-104.12
+1968,Marquette TS,SMP-II,44.32,-109.22,USDA-USFS-Shoshone NF-Wapiti RD,8,145050,Burned,12/12/2016,,,,,,,44.32,-109.22
+1979,Rattlesnake Canyon Machine Piles 2016,SMP-II,44.32,-104.12,USDA-USFS-Black Hills NF-Bearlodge RD,,,Burned,1/11/2016,1/12/2016,1/14/2016,,,,,44.32,-104.12
+1674,Marquette TS,SMP-II,44.318078,-109.224246,USDA-USFS Shoshone National Forest,4,198180,,,,,,,,,44.318078,-109.224246
+1120,Carter Mountain Unit 2 Prescribed Burn 2012,SMP-II,44.31666667,-109.2416667,USDA-USFS-Shoshone NF-Wapiti RD,50,,Burned,10-Apr-12,11-Apr-12,,,,,,44.31666667,-109.2416667
+1240,South Bearlodge Machine Piles,SMP-II,44.3129973,-104.1725102,USDA-USFS-Black Hills NF-Bearlodge RD,445,5000,,,,,,,,,44.3129973,-104.1725102
+1901,Wish Handpiles 2015,SMP-II,44.31,-104.24,USDA-USFS-Black Hills NF-Bearlodge RD,,,,,,,,,,,44.31,-104.24
+3014,Riflepit RK,SMP-II,44.31,-104.06,USDA-USFS-Black Hills NF-Bearlodge RD,700,,,,,,,,,,44.31,-104.06
+3850,Buffalo Municipla,SMP-II,44.3,-106.87,,1000,,Burned,12/1/2021,12/2/2021,,,,,,44.3,-106.87
+3748,Buttes RX,SMP-II,44.3,-104.25,,747,,,,,,,,,,44.3,-104.25
+3047,Buckley Timber Sale Machine Pile Disposal,SMP-II,44.3,-104.2,USDA-USFS-Black Hills NF-Bearlodge RD,300,15708,,,,,,,,,44.3,-104.2
+3091,Buckley Timber Sale Machine Pile Disposal,SMP-II,44.3,-104.2,USDA-USFS-Black Hills NF-Bearlodge RD,300,15708,,,,,,,,,44.3,-104.2
+3651,Buffalo Municipal Watershed,SMP-II,44.3,-106.87,USDA-USFS-Bighorn NF-Powder River RD,500,,Burned,12/6/2020,,,,,,,44.3,-106.87
+3652,Buttes RX,SMP-II,44.3,-104.25,USDA-USFS-Black Hills NF-Bearlodge RD,747,,,,,,,,,,44.3,-104.25
+958,Carter Mountain Timber Sale Piles 2012,SMP-II,44.29611111,-109.2630556,USDA-USFS-Shoshone NF-Cody RD,60,392999,Burned,14-Dec-11,,,,,,,44.29611111,-109.2630556
+916,Carter Mountain Unit I,SMP-II,44.28805556,-109.2891667,USDA-USFS-Shoshone NF,778,,Burned,4-Oct-11,,,,,,,44.28805556,-109.2891667
+1774,Battle Park  Allotment,SMP-II,44.27,-107.35,USDA-USFS-Bighorn NF,300,,,,,,,,,,44.27,-107.35
+1926,Battle Park Allotment 2016,SMP-II,44.27,-107.35,USDA-USFS-Bighorn NF-Powder River RD,500,,,,,,,,,,44.27,-107.35
+1612,Battle Park Allotment,SMP-II,44.26805556,-107.3463889,USDA-USFS-Bighorn NF-Powder River RD,1000,,Burned,8-Sep-14,,,,,,,44.26805556,-107.3463889
+746,Battle Park Allotment,SMP-II,44.26805556,-107.3463889,USDA-USFS-Big Horn NF-Buffalo RD,1000,,Burned,29-Sep-11,,,,,,,44.26805556,-107.3463889
+1127,Battle Park Allotment,SMP-II,44.26805556,-107.3463889,USDA-USFS-Big Horn NF-Buffalo RD,1000,,,,,,,,,,44.26805556,-107.3463889
+1415,Battle Park Allotment,SMP-II,44.26805556,-107.3463889,USDA-USFS-Bighorn NF-Buffalo RD,1000,,,,,,,,,,44.26805556,-107.3463889
+788,River Tracts,SMP-II,44.26222222,-107.9588889,USDI-BLM-Wind River/Big Horn Basin District,30,3500,Burned,10-Mar-11,,,,,,,44.26222222,-107.9588889
+618,South Buck Creek Vees,SMP-II,44.2617774,-107.3354779,USDA-USFS-Big Horn NF-Powder River RD,500,,,,,,,,,,44.2617774,-107.3354779
+3345,Moskee RX,SMP-II,44.24,-104.08,USDA-USFS-Black Hills NF-Bearlodge RD,1500,,,,,,,,,,44.24,-104.08
+3687,Moskee RX,SMP-II,44.24,-104.08,,5875,,,,,,,,,,44.24,-104.08
+3749,Moskee,SMP-II,44.24,-104.08,,1500,,,,,,,,,,44.24,-104.08
+3182,Moskee RX,SMP-II,44.24,-104.08,USDA-USFS-Black Hills NF-Bearlodge RD,5875,,,,,,,,,,44.24,-104.08
+937,South Bearlodge Machine Piles,SMP-II,44.23408083,-104.0825728,USDA-USFS-Black Hills NF-Bearlodge RD,346,6000,,,,,,,,,44.23408083,-104.0825728
+1353,South Bearlodge Machine Piles,SMP-II,44.2250431,-104.1729115,USDA-USFS-Black Hills NF-Bearlodge RD,445,2225000,Burned,14-Jan-13,17-Jan-13,22-Jan-13,23-Jan-13,24-Jan-13,20-Feb-13,11-Mar-13,44.2250431,-104.1729115
+619,South Fork Paint Rock,SMP-II,44.2179747,-107.3155163,USDA-USFS-Big Horn NF-Powder River RD,277,,Burned,26-Nov-10,,,,,,,44.2179747,-107.3155163
+1925,Zaybrook Allotment 2016,SMP-II,44.21,-107.28,USDA-USFS-Bighorn NF-Powder River RD,500,,,,,,,,,,44.21,-107.28
+1614,Zaybrook Allotment,SMP-II,44.20694444,-107.2788889,USDA-USFS-Bighorn NF-Powder River RD,1000,,Burned,17-Sep-14,,,,,,,44.20694444,-107.2788889
+1413,Zaybrook Allotment,SMP-II,44.2034882,-107.275238,USDA-USFS-Bighorn NF-Buffalo RD,1000,,,,,,,,,,44.2034882,-107.275238
+3343,Dry Tensleep Allotment 2018,SMP-II,44.19,-107.31,USDA-USFS-Bighorn NF-Powder River RD,1500,,,,,,,,,,44.19,-107.31
+3512,Dry Tensleep Allotment,SMP-II,44.19,-107.31,USDA-USFS-Bighorn NF-Powder River RD,,,,,,,,,,,44.19,-107.31
+897,Hooligan Springs Rx,SMP-II,44.18022222,-107.3726667,USDI-BLM-Worland Field Office,250,,Burned,5-Oct-11,,,,,,,44.18022222,-107.3726667
+1060,Hooligan Springs Rx,SMP-II,44.18022222,-107.3726667,USDI-BLM-Worland Field Office,250,,Burned,24-Mar-12,28-Mar-12,29-Mar-12,30-Mar-12,31-Mar-12,,,44.18022222,-107.3726667
+1326,Hooligan Springs Rx,SMP-II,44.18022222,-107.3726667,USDI-BLM-Worland Field Office,200,,,,,,,,,,44.18022222,-107.3726667
+1543,Hooligan Springs Rx,SMP-II,44.18022222,-107.3726667,USDI-BLM-Worland Field Office,200,,Burned,24-Apr-14,25-Apr-14,26-Apr-14,3-May-14,4-May-14,,,44.18022222,-107.3726667
+3790,Hooligan Springs RX,SMP-II,44.18,-107.37,USDI-BLM-Worland Field Office,200,,,,,,,,,,44.18,-107.37
+1786,Four Bear Aspen Enhancement,SMP-II,44.18,-109.29,USDI-BLM-Cody Field Office,,2341,Burned,2/24/2015,,,,,,,44.18,-109.29
+1949,Hooligan Springs Rx,SMP-II,44.18,-107.37,USDI-BLM-Worland Field Office,300,,Burned,4/13/2016,4/23/2016,5/6/2016,,,,,44.18,-107.37
+1809,Hooligan Springs RX,SMP-II,44.18,-107.37,USDI-BLM-Worland Field Office,200,,Burned,4/7/2015,4/21/2015,5/1/2015,11/19/2015,,,,44.18,-107.37
+3129,Hooligan Springs RX,SMP-II,44.18,-107.37,USDI-BLM-Worland Field Office,200,,,,,,,,,,44.18,-107.37
+3303,Hooligan Springs RX,SMP-II,44.18,-107.37,USDI-BLM-Worland Field Office,200,,,,,,,,,,44.18,-107.37
+3476,Hooligan Springs,SMP-II,44.18,-107.52,USDI-BLM-Worland Field Office,200,,,,,,,,,,44.18,-107.52
+3612,Hooligan Springs RX,SMP-II,44.18,-107.37,Wind River Bighorn Basin District BLM,150,,,,,,,,,,44.18,-107.37
+564,West Slope of Big Horns Slash Piles - Juniper TA11,SMP-II,44.173064,-107.353345,USDI-BLM-North Zone-Worland Field Office,130,72000,,,,,,,,,44.173064,-107.353345
+1580,West Slope Big Horns/Markham Draw,SMP-II,44.17191667,-107.3494722,USDI-BLM-Worland Field Office,30,30000,Burned,13-Nov-14,,,,,,,44.17191667,-107.3494722
+942,West Slope Big Horns/Markham Draw,SMP-II,44.17191667,-107.3494722,USDI-BLM-Worland Field Office,1500,72000,Burned,9-Nov-11,10-Nov-11,14-Nov-11,,,,,44.17191667,-107.3494722
+1062,West Slope Big Horns/Markham Draw,SMP-II,44.17191667,-107.3494722,USDI-BLM-Worland Field Office,,72000,Burned,15-Nov-12,18-Dec-12,20-Dec-12,,,,,44.17191667,-107.3494722
+1360,West Slope Big Horns/Markham Draw,SMP-II,44.17191667,-107.3494722,USDI-BLM-Wind River/Bighorn Basin District BLM,1500,30000,,,,,,,,,44.17191667,-107.3494722
+947,West Ten Timber Sale Slash Piles,SMP-II,44.17027778,-107.25,USDA-USFS-Big Horn NF-Buffalo RD,,250000,,,,,,,,,44.17027778,-107.25
+3791,Markham Draw,SMP-II,44.17,-107.43,,,8305,,,,,,,,,44.17,-107.43
+1810,West Slope Big Horns/Markham Draw,SMP-II,44.17,-107.35,USDI-BLM-Worland Field Office,30,30000,,,,,,,,,44.17,-107.35
+1946,West Slope Big Horns/Markham Draw,SMP-II,44.17,-107.35,USDI-BLM-Worland Field Office,,8305,,,,,,,,,44.17,-107.35
+3132,West Slope Big Horns/Markham Draw,SMP-II,44.17,-107.35,USDI-BLM-Worland Field Office,,8305,,,,,,,,,44.17,-107.35
+3302,West Slope Big horns/Markham Draw,SMP-II,44.17,-107.35,USDI-BLM-Worland Field Office,,8305,,,,,,,,,44.17,-107.35
+3477,West Slope Big Horns/ Markham Draw,SMP-II,44.17,-107.35,USDI-BLM-Worland Field Office,,8305,,,,,,,,,44.17,-107.35
+3611,Markham Draw,SMP-II,44.17,-107.35,Wind River Bighorn Basin District BLM,20,8305,,,,,,,,,44.17,-107.35
+681,South Canyon Allotment Prescribed Burn,SMP-II,44.15722222,-107.2622222,USDA-USFS-Big Horn NF-Buffalo RD,3785,,,,,,,,,,44.15722222,-107.2622222
+964,South Fork Guard Station Piles 2012,SMP-II,44.15333333,-109.6066667,USDA-USFS-Shoshone NF-Wapiti RD,10,33054,,,,,,,,,44.15333333,-109.6066667
+1323,South Fork Guard Station Piles 2013,SMP-II,44.15333333,-109.6066667,USDA-USFS-Shoshone NF-Wapiti RD,10,33054,Burned,15-Jan-13,,,,,,,44.15333333,-109.6066667
+1507,South Fork Guard Station Piles 2014,SMP-II,44.15333333,-109.6066667,USDA-USFS-Shoshone NF-Wapiti RD,18,10267,Burned,6-Jan-14,,,,,,,44.15333333,-109.6066667
+748,High Park,SMP-II,44.15,-107.1958333,USDA-USFS-Big Horn NF-Buffalo RD,200,,,,,,,,,,44.15,-107.1958333
+1128,High Park,SMP-II,44.15,-107.1958333,USDA-USFS-Big Horn NF-Buffalo RD,200,,,,,,,,,,44.15,-107.1958333
+3771,South Fork Area Piles,SMP-II,44.15,-109.62,,,1590950,,,,,,,,,44.15,-109.62
+1754,Upton/Osage,SMP-II,44.15,-104.64,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,36,2094,,,,,,,,,44.15,-104.64
+1990,Upton/Osage,SMP-II,44.15,-104.64,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,36,,,,,,,,,,44.15,-104.64
+3098,Upton/Osage,SMP-II,44.15,-107.64,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,36,,Burned,1/18/2017,1/19/2017,,,,,,44.15,-107.64
+3438,South Fork Area Piles,SMP-II,44.15,-109.62,USDA-USFS-Shoshone NF-Wapiti RD,,1590950,,,,,,,,,44.15,-109.62
+3597,South Fork Area Piles,SMP-II,44.15,-109.62,USDA-USFS-Shoshone NF-Wapiti RD,,1590950,,,,,,,,,44.15,-109.62
+1254,Upton/Osage,SMP-II,44.14525,-104.6352778,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,700,,,,,,,,,,44.14525,-104.6352778
+1383,Upton/Osage,SMP-II,44.14525,-104.6352778,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,700,,Burned,30-Jan-13,1-Feb-13,,,,,,44.14525,-104.6352778
+1500,Upton/Osage,SMP-II,44.14525,-104.6352778,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,700,,Burned,5-Feb-14,,,,,,,44.14525,-104.6352778
+1072,Buckhorn Pile Burning,SMP-II,44.14513861,-104.0859492,Wyoming State Forestry Division,219,524230,,,,,,,,,44.14513861,-104.0859492
+1268,Billy Creek 2 Sale,SMP-II,44.14158333,-106.9034167,Wyoming State Forestry Division,6,40000,,,,,,,,,44.14158333,-106.9034167
+1305,Billy Creek Hazard Mitigation Pile,SMP-II,44.14158333,-106.9034167,Wyoming State Forestry Division,,40000,Burned,17-Jan-13,,,,,,,44.14158333,-106.9034167
+1306,Billy Creek Hazard Mitigation Pile,SMP-II,44.14158333,-106.9034167,Wyoming State Forestry Division,0,30000,Burned,17-Jan-13,21-Feb-13,,,,,,44.14158333,-106.9034167
+1775,Tensleep Canyon Allotment,SMP-II,44.14,-107.26,USDA-USFS-Bighorn NF,300,,,,,,,,,,44.14,-107.26
+3608,Piney Creek,SMP-II,44.14,-105.5,,,,,,,,,,,,44.14,-105.5
+745,Tensleep Canyon Allotment,SMP-II,44.13694444,-107.2544444,USDA-USFS-Big Horn NF-Buffalo RD,1200,,Burned,6-May-11,,,,,,,44.13694444,-107.2544444
+1126,Tensleep Canyon Allotment,SMP-II,44.13694444,-107.2544444,USDA-USFS-Big Horn NF-Buffalo RD,1200,,Burned,5-Apr-12,19-Oct-12,20-Oct-12,,,,,44.13694444,-107.2544444
+1414,Tensleep Canyon Allotment,SMP-II,44.13361111,-107.2633333,USDA-USFS-Bighorn NF-Buffalo RD,1000,,,,,,,,,,44.13361111,-107.2633333
+1613,Tensleep Canyon Allotment,SMP-II,44.13361111,-107.2633333,USDA-USFS-Bighorn NF-Powder River RD,1000,,,,,,,,,,44.13361111,-107.2633333
+785,Billy Creek Hazard Mitigation Pile,SMP-II,44.13347083,-106.9000569,Wyoming State Forestry Division,0,10000,,,,,,,,,44.13347083,-106.9000569
+1108,Billy Creek Hazard Mitigation Pile,SMP-II,44.13347083,-106.9000569,Wyoming State Forestry Division,0,30000,Burned,7-Mar-12,,,,,,,44.13347083,-106.9000569
+652,Smith Piles,SMP-II,44.13333333,-106.9666667,"Fire Trax, LLC",40,2880,,,,,,,,,44.13333333,-106.9666667
+3870,Tensleep Canyon,SMP-II,44.13,-107.26,USDA-USFS-Bighorn NF-Tongue RD,892,,,,,,,,,,44.13,-107.26
+1919,Stateline Timber Sale,SMP-II,44.13,-104.06,Wyoming State Forestry Division,,819095,,,,,,,,,44.13,-104.06
+1924,Tensleep Canyon Allotment 2016,SMP-II,44.13,-107.26,USDA-USFS-Bighorn NF-Powder River RD,500,,,,,,,,,,44.13,-107.26
+1934,Stateline Timber Sale,SMP-II,44.13,-104.06,Wyoming State Forestry Division,,819095,,,,,,,,,44.13,-104.06
+3798,Piney,SMP-II,44.13,-104.5,,,,,,,,,,,,44.13,-104.5
+1504,Cabin Creek Piles 2014,SMP-II,44.12527778,-109.6383333,USDA-USFS-Shoshone NF-Wapiti RD,4,32875,,,,,,,,,44.12527778,-109.6383333
+1776,South Slope RX,SMP-II,44.12,-106.92,USDA-USFS-Bighorn NF,300,,,,,,,,,,44.12,-106.92
+1854,Hell Canyon Piles 2015,SMP-II,44.12,-104.11,USDA-USFS-Black Hills NF-Hell Canyon RD,,29452,Burned,12/16/2015,12/17/2015,12/18/2015,,,,,44.12,-104.11
+1922,Hell Canyon Piles 2016,SMP-II,44.12,-104.11,USDA-USFS-Black Hills NF-Hell Canyon RD,,706848,Burned,2/3/2016,,,,,,,44.12,-104.11
+1927,South Slope 2016,SMP-II,44.12,-106.92,USDA-USFS-Bighorn NF-Powder River RD,300,,,,,,,,,,44.12,-106.92
+1119,Billy Creek Slash Piles - CY 2012,SMP-II,44.11936111,-106.8732222,USDI-BLM-Buffalo Field Office,42,3500,Burned,7-Mar-12,8-Mar-12,,,,,,44.11936111,-106.8732222
+757,Billy Creek Piles,SMP-II,44.11638889,-106.8716667,USDI-BLM-Buffalo Field Office,15,1450,Burned,2-Feb-11,16-Jun-11,,,,,,44.11638889,-106.8716667
+797,High Park Machine Piles,SMP-II,44.1130504,-107.1987096,USDA-USFS-Big Horn NF-Buffalo RD,190,18000,,,,,,,,,44.1130504,-107.1987096
+607,Rattlesnake Butte,SMP-II,44.1125,-107.8677778,USDI-BLM-Worland Field Office,250,,,,,,,,,,44.1125,-107.8677778
+1563,West Mallo,SMP-II,44.1106289,-104.0887263,Wyoming State Forestry Division,200,270000,,,,,,,,,44.1106289,-104.0887263
+3191,North Canyon Allotment,SMP-II,44.11,-107.22,USDA-USFS-Bighorn NF-Tongue RD,1500,,,,,,,,,,44.11,-107.22
+3675,North Canyon Allotment 2017,SMP-II,44.11,-107.22,USDA-USFS-Bighorn NF-Powder River RD,1500,,Burned,11/6/2020,,,,,,,44.11,-107.22
+588,Billy Creek Hideout Forest & Fuel Treatment,SMP-II,44.1004023,-106.8578811,USDI-BLM-Buffalo Field Office,100,1327500,Burned,14-Oct-09,15-Oct-09,23-Nov-10,1-Dec-10,,,,44.1004023,-106.8578811
+1777,South Canyon Allotment,SMP-II,44.1,-107.19,USDA-USFS-Bighorn NF,300,,,,,,,,,,44.1,-107.19
+747,Moses Homestead,SMP-II,44.09166667,-107.175,USDA-USFS-Big Horn NF-Buffalo RD,1000,,Burned,24-Sep-11,25-Sep-11,,,,,,44.09166667,-107.175
+1578,10 Mile,SMP-II,44.08380556,-107.9685944,USDI-BLM-Worland Field Office,10,2400,,,,,,,,,44.08380556,-107.9685944
+714,10 Mile Pile Burning,SMP-II,44.08380556,-107.9685833,USDI-BLM-Wind River/Bighorn Basin District (Worland Field Office),25,2950,Burned,18-Jan-11,,,,,,,44.08380556,-107.9685833
+1061,10 Mile,SMP-II,44.08380556,-107.9685833,USDI-BLM-Wind River/Big Horn Basin District (Worland Field Office),10,2950,,,,,,,,,44.08380556,-107.9685833
+1091,Railroad Tract,SMP-II,44.08380556,-107.9685833,USDI-BLM-Wind River/Big Horn Basin District (Worland Field Office),30,21991,,,,,,,,,44.08380556,-107.9685833
+1359,10 Mile,SMP-II,44.08380556,-107.9685833,USDI-BLM-Wind River/Bighorn Basin District BLM,10,2400,,,,,,,,,44.08380556,-107.9685833
+3375,South Canyon Allotment 2018,SMP-II,44.08,-107.18,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,200,,,,,,,,,,44.08,-107.18
+3518,South Canyon Allotment,SMP-II,44.08,-107.18,USDA-USFS-Bighorn NF-Powder River RD,200,,Burned,9/26/2019,,,,,,,44.08,-107.18
+3818,Cutler Draw Timber Sale,SMP-II,44.08,-105.76,Wyoming State Forestry Division,,259531,Burned,2/17/2021,,,,,,,44.08,-105.76
+1535,Clear Creek Piles,SMP-II,44.06756433,-106.909081,Wyoming State Forestry Division,2,21164,,,,,,,,,44.06756433,-106.909081
+1301,Mallow Camp Pile Rx,SMP-II,44.0664136,-104.0571267,USDI-BLM-Casper Field Office,160,20000,Burned,23-Jan-13,24-Jan-13,25-Jan-13,19-Feb-13,20-Feb-13,,,44.0664136,-104.0571267
+948,Dullknife Timber Sale Slash Piles,SMP-II,44.0575,-107.0469444,USDA-USFS-Big Horn NF-Buffalo RD,650,320000,Burned,8-Nov-11,,,,,,,44.0575,-107.0469444
+637,Snake River Pit 2009,SMP-II,44.052463,-110.403261,"Eagle Rock Timber, Inc.",,400,,,,,,,,,44.052463,-110.403261
+1579,West Slope Big Horns/Sand Draw,SMP-II,44.05013889,-107.3359167,USDI-BLM-Worland Field Office,15,50000,Burned,2-Dec-14,4-Dec-14,10-Dec-14,12-Dec-14,16-Dec-14,,,44.05013889,-107.3359167
+941,West Slope Big Horns/Sand Draw,SMP-II,44.05013889,-107.3359167,USDI-BLM-Worland Field Office,1000,72000,Burned,23-Nov-11,,,,,,,44.05013889,-107.3359167
+1063,West Slope Big Horns/Sand Draw,SMP-II,44.05013889,-107.3359167,USDI-BLM-Worland Field Office,25,72000,,,,,,,,,44.05013889,-107.3359167
+1361,West Slope Big Horns/Sand Draw,SMP-II,44.05013889,-107.3359167,USDI-BLM-Wind River/Bighorn Basin District BLM,20,6000,,,,,,,,,44.05013889,-107.3359167
+1707,West Slope Big Horns/Sand Draw,SMP-II,44.05,-107.34,USDI-BLM-Worland Field Office,15,50000,,,,,,,,,44.05,-107.34
+1731,West Slope Big Horns/Sand Draw,SMP-II,44.05,-107.34,USDI-BLM-Worland Field Office,30,50000,Burned,1/8/2015,1/26/2015,1/27/2015,2/2/2015,2/5/2015,,,44.05,-107.34
+1930,West Slope Big Horns/Rome Hill,SMP-II,44.05,-107.34,USDI-BLM-Worland Field Office,5,1685,Burned,1/6/2016,,,,,,,44.05,-107.34
+1945,West Slope Big Horns/Sand Draw,SMP-II,44.05,-107.34,USDI-BLM-Worland Field Office,,133140,Burned,4/1/2016,12/8/2016,,,,,,44.05,-107.34
+3133,West Slope Bigh Horns/Sand Draw,SMP-II,44.05,-107.34,USDI-BLM-Worland Field Office,,133140,,,,,,,,,44.05,-107.34
+3305,West Slope Big Horns/ Sand Draw,SMP-II,44.05,-107.34,USDI-BLM-Worland Field Office,,133140,,,,,,,,,44.05,-107.34
+3478,West Slope Big Horns/Sand Draw,SMP-II,44.05,-107.34,USDI-BLM-Worland Field Office,,133140,,,,,,,,,44.05,-107.34
+3614,Sand Draw,SMP-II,44.05,-107.34,Wind River Bighorn Basin District BLM,20,133140,,,,,,,,,44.05,-107.34
+3762,Timber Creek,SMP-II,44.05,-109.2,,1684,,,,,,,,,,44.05,-109.2
+781,Water Aug 2,SMP-II,44.0393,-107.074,Wyoming State Foresty Division,9,20000,,,,,,,,,44.0393,-107.074
+783,Water Augmentation Fuel Break,SMP-II,44.0393,-107.074,Wyoming State Forestry Division,16,16000,,,,,,,,,44.0393,-107.074
+591,Water Augmentation Fuel Break,SMP-II,44.0393,-107.074,Wyoming State Forestry Division,16,62400,,,,,,,,,44.0393,-107.074
+653,Water Aug 2,SMP-II,44.0393,-107.074,Wyoming State Forestry Division,9,20000,,,,,,,,,44.0393,-107.074
+1252,Planting Hand Piles,SMP-II,44.03346583,-104.3902364,USDA-USFS-Black Hills NF-Bearlodge RD,7,12500,Burned,11-Dec-12,,,,,,,44.03346583,-104.3902364
+1385,Planting Leftover Machine Piles,SMP-II,44.03346583,-104.3902364,USDA-USFS-Black Hills NF-Bearlodge RD,,45000,Burned,20-Feb-13,,,,,,,44.03346583,-104.3902364
+1220,Powder River Piles,SMP-II,44.03311111,-107.0791944,USDI-BLM-High Plains Fire District (Buffalo Field Office),0,5236,,,,,,,,,44.03311111,-107.0791944
+787,Powder River Properties,SMP-II,44.03083333,-107.0808333,USDI-BLM-Buffalo Field Office,10,2200,,,,,,,,,44.03083333,-107.0808333
+1915,Sweetwater I,SMP-II,44.03,-104.2,Wyoming State Forestry Division,,1496660,,,,,,,,,44.03,-104.2
+3881,Gold Mine Road,SMP-II,44.03,-107.1,Wyoming State Forestry Division,,229205,Burned,12/13/2021,,,,,,,44.03,-107.1
+695,Doyle Creek,SMP-II,44.02562,-106.9311,Wyoming State Forestry Division,11,15000,,,,,,,,,44.02562,-106.9311
+784,Doyle Creek,SMP-II,44.02562,-106.9311,Wyoming State Forestry Division,11,15000,,,,,,,,,44.02562,-106.9311
+1104,Doyle Creek,SMP-II,44.02562,-106.9311,Wyoming State Forestry Division,11,15000,,,,,,,,,44.02562,-106.9311
+1308,Doyle Creek,SMP-II,44.02562,-106.9311,Wyoming State Forestry Division,11,3676,,,,,,,,,44.02562,-106.9311
+1548,Doyle Creek,SMP-II,44.02562,-106.9311,Wyoming State Forestry Division,11,3676,,,,,,,,,44.02562,-106.9311
+1917,String_of_40's,SMP-II,44.01,-104.22,Wyoming State Forestry Division,,474580,,,,,,,,,44.01,-104.22
+3076,String of 40s,SMP-II,44.01,-104.22,Wyoming State Forestry Division,,474580,,,,,,,,,44.01,-104.22
+1916,Sweetwater II,SMP-II,43.99,-104.2,Wyoming State Forestry Division,,2789528,,,,,,,,,43.99,-104.2
+3073,Sweetwater II,SMP-II,43.99,-104.2,Wyoming State Forestry Division,,2789528,,,,,,,,,43.99,-104.2
+3074,Sunny Divide,SMP-II,43.99,-104.2,Wyoming State Forestry Division,,414260,,,,,,,,,43.99,-104.2
+3421,ROW,SMP-II,43.99,-104.19,Wyoming State Forestry Division,,95128,Burned,12/5/2018,,,,,,,43.99,-104.19
+3425,Pisgah,SMP-II,43.98,-104.17,,,505000,,,,,,,,,43.98,-104.17
+527,Upper Grass Creek Rx,SMP-II,43.9554087,-108.982686,USDI-BLM-Worland Field Office,300,,,,,,,,,,43.9554087,-108.982686
+3788,Noon Point RX,SMP-II,43.94,-109.05,,3935,,,,,,,,,,43.94,-109.05
+1785,Martin Falxa Ranch 2,SMP-II,43.94,-107.2,Ecosystem Enhancement,565,,,,,,,,,,43.94,-107.2
+3131,Noon Point Prescribed Burn,SMP-II,43.94,-109.05,USDI-BLM-Worland Field Office,1000,,,,,,,,,,43.94,-109.05
+3301,Noon Point RX,SMP-II,43.94,-109.05,USDI-BLM-Worland Field Office,3935,,,,,,,,,,43.94,-109.05
+3474,Noon Point RX,SMP-II,43.94,-109.05,USDI-BLM-Worland Field Office,3935,,,,,,,,,,43.94,-109.05
+3610,Noon Point RX,SMP-II,43.94,-109.05,Wind River Bighorn Basin District BLM,200,,,,,,,,,,43.94,-109.05
+1247,Martin Falxa Ranch,SMP-II,43.9390028,-107.137915,Ecosystem Enhancement,300,,,,,,,,,,43.9390028,-107.137915
+1554,Martin Falxa Ranch,SMP-II,43.9390028,-107.137915,Ecosystem Enhancement,300,,,,,,,,,,43.9390028,-107.137915
+959,Double D Ranch Piles 2012,SMP-II,43.93694444,-109.2183333,USDA-USFS-Shoshone NF-Cody RD,2,37043,Burned,1-Dec-11,,,,,,,43.93694444,-109.2183333
+956,Wood River Campground Piles 2012,SMP-II,43.93166667,-109.1316667,USDA-USFS-Shoshone NF-Cody RD,2,25400,Burned,30-Nov-11,,,,,,,43.93166667,-109.1316667
+1404,Martin Falxa Ranch,SMP-II,43.93151001,-107.1428487,Ecosystem Enhancement,300,,,,,,,,,,43.93151001,-107.1428487
+801,Martin Falxa Ranch,SMP-II,43.93151001,-107.1428487,"Fire Trax, LLC",300,,,,,,,,,,43.93151001,-107.1428487
+3358,Wood River,SMP-II,43.93,-109.16,USDI-BLM-Rawlins Field Office,1573,,,,,,,,,,43.93,-109.16
+3434,Wood River,SMP-II,43.93,-109.16,USDA-USFS-Shoshone NF-Wapiti RD,1573,,,,,,,,,,43.93,-109.16
+3593,Wood River,SMP-II,43.93,-109.16,USDA-USFS-Shoshone NF-Wapiti RD,1573,,,,,,,,,,43.93,-109.16
+3767,Wood River,SMP-II,43.93,-109.16,,1573,,,,,,,,,,43.93,-109.16
+1950,Absaroka Front Slash Pile Buns,SMP-II,43.92,-108.97,USDI-BLM-Worland Field Office,5,3000,,,,,,,,,43.92,-108.97
+3128,Absoraka Front Slash Pile Burns,SMP-II,43.92,-108.97,USDI-NPS-Grand Teton NP,5,3000,,,,,,,,,43.92,-108.97
+3138,Jackpine Loop Pile Burning,SMP-II,43.92,-111,USDA-USFS-Caribou-Targhee NF-Teton Basin RD,46,90500,Burned,6/12/2017,9/22/2016,9/27/2017,9/28/2017,10/4/2017,10/10/2017,10/11/2017,43.92,-111
+1577,Absaroka Front Slash Pile Burns - Deer Creek,SMP-II,43.91736389,-108.9709278,USDI-BLM-Worland Field Office,5,3000,,,,,,,,,43.91736389,-108.9709278
+1044,Absaroka Front Slash Pile Burns - Deer Creek,SMP-II,43.91736389,-108.9709278,USDI-BLM-Worland Field Office,12,72000,,,,,,,,,43.91736389,-108.9709278
+1059,Absaroka Front Slash Pile Burns - Deer Creek,SMP-II,43.91736389,-108.9709278,USDI-BLM-Worland Field Office,12,72000,,,,,,,,,43.91736389,-108.9709278
+1358,Absaroka Front Slash Pile Burns - Deer Creek,SMP-II,43.91736389,-108.9709278,USDI-BLM-Worland Field Office,5,3000,,,,,,,,,43.91736389,-108.9709278
+3221,Spring Run Piles,SMP-II,43.9,-106.97,Wyoming State Forestry Division,,69940,Burned,11/13/2017,11/14/2017,,,,,,43.9,-106.97
+720,Matilda,SMP-II,43.879125,-110.5004611,USDI-NPS-Grand Teton NP,371,,,,,,,,,,43.879125,-110.5004611
+1668,Kirwin,SMP-II,43.876377,-109.293631,,2,18000,,,,,,,,,43.876377,-109.293631
+1186,Matilda,SMP-II,43.87,-110.5016667,USDI-NPS-Grand Teton NP,335,,,,,,,,,,43.87,-110.5016667
+1440,Matilda,SMP-II,43.87,-110.5016667,USDI-NPS-Grand Teton NP,335,,,,,,,,,,43.87,-110.5016667
+1631,Matilda,SMP-II,43.87,-110.5016667,USDI-NPS-Grand Teton NP,335,,,,,,,,,,43.87,-110.5016667
+1820,Matilda,SMP-II,43.87,-110.5,USDI-NPS-Grand Teton NP,185,,Burned,9/26/2015,9/27/2015,,,,,,43.87,-110.5
+3412,Meeteetse Area Piles,SMP-II,43.87,-109.02,,,,,,,,,,,,43.87,-109.02
+3413,North Fork Area Piles,SMP-II,43.87,-109.02,,,5358,,,,,,,,,43.87,-109.02
+3414,South Fork Area Piles,SMP-II,43.87,-109.02,,,1590950,,,,,,,,,43.87,-109.02
+3436,Meeteetse,SMP-II,43.87,-109.02,USDA-USFS-Shoshone NF-Wapiti RD,,2391100,Burned,12/16/2019,,,,,,,43.87,-109.02
+3595,Meeteetse,SMP-II,43.87,-109.02,USDA-USFS-Shoshone NF-Wapiti RD,,2391100,,,,,,,,,43.87,-109.02
+3769,Meeteetse Area Piles,SMP-II,43.87,-109.02,,,2391100,,,,,,,,,43.87,-109.02
+744,Newcastle Fire Defense Zone (NFDZ),SMP-II,43.866855,-104.2168731,USDI-BLM-WY High Plains District (Newcastle Field Office),24,144960,Burned,16-Feb-11,,,,,,,43.866855,-104.2168731
+562,Turpin Meadows,SMP-II,43.8644639,-110.2678646,USDA-USFS-Bridger-Teton NF-Jackson RD,96,240000,,,,,,,,,43.8644639,-110.2678646
+3846,Coosberry,SMP-II,43.86,-109.01,,2306,,,,,,,,,,43.86,-109.01
+1897,Twin Lakes TS,SMP-II,43.86,-109.01,USDA-USFS-Shoshone NF,30,1825150,,,,,,,,,43.86,-109.01
+1970,Twin Lakes TS,SMP-II,43.86,-109.01,USDA-USFS-Shoshone NF-Wapiti RD,30,1825150,Burned,1/26/2016,,,,,,,43.86,-109.01
+733,Heart 6,SMP-II,43.85318056,-110.3998533,USDA-USFS-Bridger-Teton NF-Moran RD,1072,,,,,,,,,,43.85318056,-110.3998533
+530,"River Tract Rx-Kubiak, Rail Road and Eggert Tracts",SMP-II,43.853075,-108.1572719,USDI-BLM-Worland Field Office,20,600,,,,,,,,,43.853075,-108.1572719
+1316,Cottonwood-North Piles 2013,SMP-II,43.85083333,-109.0041667,USDA-USFS-Shoshone NF-Wapiti RD,2,31200,,,,,,,,,43.85083333,-109.0041667
+1505,Cottonwood-North Piles 2014,SMP-II,43.85083333,-109.0041667,USDA-USFS-Shoshone NF-Wapiti RD,2,31200,Burned,7-Jan-14,,,,,,,43.85083333,-109.0041667
+1742,Heart Six Prescribed Burn,SMP-II,43.85,-110.43,USDA-USFS-Bridger-Teton NF-Jackson RD,1000,,,,,,,,,,43.85,-110.43
+734,Lava Creek,SMP-II,43.84283194,-110.4616483,USDA-USFS-Bridger-Teton NF-Moran RD,322,,,,,,,,,,43.84283194,-110.4616483
+735,Lower Gros Ventre Prescribed Burn,SMP-II,43.84283194,-110.5503992,USDA-USFS-Bridger-Teton NF-Moran RD,1100,,,,,,,,,,43.84283194,-110.5503992
+1097,Lava Creek,SMP-II,43.84283194,-110.4616483,USDA-USFS-Bridger-Teton NF-Moran RD,322,,Burned,9-Apr-12,10-Apr-12,,,,,,43.84283194,-110.4616483
+1098,Lower Gros Ventre Prescribed Burn,SMP-II,43.84283194,-110.5503992,USDA-USFS-Bridger-Teton NF-Moran RD,1100,,Burned,9-Apr-12,,,,,,,43.84283194,-110.5503992
+1349,Lava Creek,SMP-II,43.84283194,-110.4616483,USDA-USFS-Bridger-Teton NF-Moran RD,110,,,,,,,,,,43.84283194,-110.4616483
+1103,Gambels Basin Prescribed Burn,SMP-II,43.831389,-108.964722,USDI-BLM-Worland Field Office,450,,,,,,,,,,43.831389,-108.964722
+1891,Cottonwood TS,SMP-II,43.83,-109,USDA-USFS-Shoshone NF,1,18000,,,,,,,,,43.83,-109
+1965,Cottonwood TS,SMP-II,43.83,-109,USDA-USFS-Shoshone NF-Wapiti RD,1,18000,Burned,12/13/2016,,,,,,,43.83,-109
+1669,Cottonwood TS,SMP-II,43.827989,-109.003553,,22,2948650,Burned,25-Nov-14,16-Dec-14,,,,,,43.827989,-109.003553
+1555,NE Quad,SMP-II,43.82155556,-110.3638889,USDA-USFS-Bridger-Teton NF-Big Piney RD,100,,Burned,26-Sep-14,,,,,,,43.82155556,-110.3638889
+1351,NE Quad,SMP-II,43.82155556,-110.3638889,USDA-USFS-Bridger-Teton NF-Moran RD,100,,,,,,,,,,43.82155556,-110.3638889
+3615,Upper Pastures RX,SMP-II,43.82,-108.88,Wind River Bighorn Basin District BLM,800,,,,,,,,,,43.82,-108.88
+3787,Upper Pastures RX,SMP-II,43.8,-108.9,,4990,,,,,,,,,,43.8,-108.9
+528,Crooked Creek,SMP-II,43.77986944,-107.261275,USDI-BLM-Worland Field Office,150,,,,,,,,,,43.77986944,-107.261275
+883,Dry Quad,SMP-II,43.77444444,-110.5322222,USDA-USFS-Bridger-Teton NF-Moran RD,143,,Burned,6-Oct-11,,,,,,,43.77444444,-110.5322222
+1096,Dry Quad,SMP-II,43.77444444,-110.5322222,USDA-USFS-Bridger-Teton NF-Moran RD,143,,,,,,,,,,43.77444444,-110.5322222
+1348,Dry Quad,SMP-II,43.77444444,-110.5322222,USDA-USFS-Bridger-Teton NF-Moran RD,72,,,,,,,,,,43.77444444,-110.5322222
+3856,Dry Quad,SMP-II,43.77,-110.52,,75,,Burned,5/29/2021,6/2/2021,,,,,,43.77,-110.52
+3688,Dry Quad,SMP-II,43.77,-110.52,,75,,,,,,,,,,43.77,-110.52
+1219,Pile Burning,SMP-II,43.75579167,-110.9141944,USDA-USFS-Bridger-Teton NF-Moran RD,5,,Burned,6-Nov-12,,,,,,,43.75579167,-110.9141944
+3844,Teton Canyon Broadcast,SMP-II,43.75,-110.97,,293,,Burned,4/12/2021,4/12/2021,,,,,,43.75,-110.97
+3842,Teton Canyon Braodcast,SMP-II,43.75,-110.97,,198,,Burned,4/2/2021,4/2/2021,4/22/2021,,,,,43.75,-110.97
+3843,Teton Canyon Pile,SMP-II,43.75,-110.97,,174,7900,Burned,5/5/2021,5/11/2021,5/12/2021,5/13/2021,5/21/2021,5/24/2021,5/28/2021,43.75,-110.97
+2062,Treasure Mountain Boy Scout Camp Pile Burning,SMP-II,43.75,-110.95,USDA-USFS-Bridger-Teton NF,14,50400,Burned,9/23/2016,9/24/2016,,,,,,43.75,-110.95
+3659,Teton Canyon Broadcast,SMP-II,43.75,-110.97,USDA-USFS-Caribou-Targhee NF-Teton Basin RD,198,,,,,,,,,,43.75,-110.97
+3660,Teton Canyon Pile,SMP-II,43.75,-110.97,USDA-USFS-Caribou-Targhee NF-Teton Basin RD,110,7900,,,,,,,,,43.75,-110.97
+1841,Brooks Lake,SMP-II,43.73,-109.98,USDA-USFS-Shoshone NF,354,2600,Burned,11/9/2015,11/10/2015,11/12/2015,11/19/2015,11/20/2015,11/23/2015,11/30/2015,43.73,-109.98
+3056,Vista,SMP-II,43.73,-109.98,,5,785,,,,,,,,,43.73,-109.98
+3068,Vista,SMP-II,43.73,-109.98,USDA Forest Service Shoshone,5,785,,,,,,,,,43.73,-109.98
+3107,Brooks Lake Hand,SMP-II,43.73,-109.98,USDA-USFS-Shoshone NF-Wind River RD,10,601,,,,,,,,,43.73,-109.98
+3109,Vista Hand Piles,SMP-II,43.73,-109.98,USDA-USFS-Shoshone NF-Wind River RD,72,601,,,,,,,,,43.73,-109.98
+1696,Brooks Lake,SMP-II,43.7296778,-109.9810472,USDA-USFS-Shoshone NF-Wind River RD,,,Burned,10-Dec-14,,,,,,,43.7296778,-109.9810472
+818,Hill Creek,SMP-II,43.72025556,-111.0061556,USDA-USFS-Caribou-Targhee NF-Teton Basin RD,300,,Burned,4-Oct-11,,,,,,,43.72025556,-111.0061556
+635,Hill Creek Rx-Rapid Creek Unit,SMP-II,43.71070833,-111.0117389,USDA-USFS-Caribou-Targhee NF-Teton Basin RD,1624,,,,,,,,,,43.71070833,-111.0117389
+1944,"Wiggins Fork 4,5,7",SMP-II,43.71,-109.58,USDA-USFS-Shoshone NF,638,,,,,,,,,,43.71,-109.58
+3057,Wiggens Boggy,SMP-II,43.71,-109.59,USDA Forst Service,5,23560,,,,,,,,,43.71,-109.59
+3069,Wiggens Boggy,SMP-II,43.71,-109.59,USDA Forest Service,5,23560,,,,,,,,,43.71,-109.59
+3102,Wiggins Fork 5,SMP-II,43.71,-109.58,USDA-USFS-Shoshone NF-Wind River RD,347,,,,,,,,,,43.71,-109.58
+675,Hill Creek Rx-Rapid Creek Unit,SMP-II,43.70877778,-111.0163889,USDA-USFS-Caribou-Targhee NF-Palisades RD,1000,,Burned,8-Sep-10,23-Sep-10,24-Sep-10,25-Sep-10,26-Sep-10,27-Sep-10,,43.70877778,-111.0163889
+605,Hill Creek Rx-Rapid Creek Unit-Blacklining,SMP-II,43.70877778,-111.0163889,USDA-USFS-Caribou-Targhee NF-Palisades RD,300,,,,,,,,,,43.70877778,-111.0163889
+779,"Wiggins Fork 4-5, 7",SMP-II,43.70715,-109.5819056,USDA-USFS-Shoshone NF-Dubois RD,638,,,,,,,,,,43.70715,-109.5819056
+1052,"Wiggins Fork 4-5, 7",SMP-II,43.70715,-109.5819056,USDA-USFS-Shoshone NF-Dubois RD,638,,,,,,,,,,43.70715,-109.5819056
+1376,"Wiggins Fork 4, 5, 7",SMP-II,43.70715,-109.5819056,USDA-USFS-Shoshone NF-Wind River RD,638,,,,,,,,,,43.70715,-109.5819056
+1512,"Wiggins Fork 4, 5, 7",SMP-II,43.70715,-109.5819056,USDA-USFS-Shoshone NF-Wind River RD,638,,,,,,,,,,43.70715,-109.5819056
+3871,Grouse Mountain,SMP-II,43.7,-110.25,,200,,,,,,,,,,43.7,-110.25
+3784,Wiggins Fork R5,SMP-II,43.7,-109.58,,397,,,,,,,,,,43.7,-109.58
+3682,Grouse Mountain,SMP-II,43.7,-110.25,,200,,,,,,,,,,43.7,-110.25
+3278,Wiggins Fork R5,SMP-II,43.7,-109.58,USDA-USFS-Shoshone NF-Washakie RD,397,,,,,,,,,,43.7,-109.58
+3454,Wiggins Fork R5,SMP-II,43.7,-109.58,USDA-USFS-Shoshone NF-Washakie RD,397,,,,,,,,,,43.7,-109.58
+1241,UWF8_FB2,SMP-II,43.69870278,-109.9756083,USDA-USFS-Shoshone NF-Dubois RD,74,,Burned,29-Oct-12,,,,,,,43.69870278,-109.9756083
+722,Shadow Mountain,SMP-II,43.69583333,-110.6285972,USDI-NPS-Grand Teton NP,46,,Burned,21-Sep-11,,,,,,,43.69583333,-110.6285972
+555,Hill Creek Rx-Darby Unit,SMP-II,43.69583333,-111.0208333,USDA-USFS-Caribou-Targhee NF-Driggs RD,1000,,,,,,,,,,43.69583333,-111.0208333
+1609,Hill Creek Prescribed Fire,SMP-II,43.69166667,-111.0083333,USDA-USFS-Caribou-Targhee NF-Teton Basin RD,2051,,Burned,29-Oct-14,30-Oct-14,,,,,,43.69166667,-111.0083333
+1077,Hill Creek Prescribed Fire,SMP-II,43.69166667,-111.0083333,USDA-USFS-Bridger-Teton NF-Driggs RD,2051,,,,,,,,,,43.69166667,-111.0083333
+1324,Hill Creek Prescribed Fire,SMP-II,43.69166667,-111.0083333,USDA-USFS-Caribou-Targhee NF-Driggs RD,2051,,,,,,,,,,43.69166667,-111.0083333
+3841,Hill Creek,SMP-II,43.69,-111.01,,,,,,,,,,,,43.69,-111.01
+1746,Hill Creek Prescribed Fire,SMP-II,43.69,-111.01,USDA-USFS-Caribou-Targhee NF-Ashton/Island Park RD,2051,,Burned,9/30/2015,10/1/2015,,,,,,43.69,-111.01
+1838,Upper Wind FT 8,SMP-II,43.69,-109.96,USDA-USFS-Shoshone NF-Wind River RD,12,11300,,,,,,,,,43.69,-109.96
+1937,Upper Wind FT 8,SMP-II,43.69,-109.96,USDA-USFS-Shoshone NF-Wind River RD,12,,Burned,1/12/2016,1/13/2016,1/14/2016,1/19/2016,1/20/2016,1/21/2016,,43.69,-109.96
+1998,Hill Creek Prescribed Fire,SMP-II,43.69,-111.01,USDA-USFS-Caribou-Targhee NF-Ashton/Island Park RD,1714,,,,,,,,,,43.69,-111.01
+3140,Hill Creek Prescribed Fire,SMP-II,43.69,-111.01,USDA-USFS-Caribou-Targhee NF-Teton Basin RD,1714,,,,,,,,,,43.69,-111.01
+3318,Hill Creek Prescribed Fire,SMP-II,43.69,-111.01,USDA-USFS-Bridger-Teton NF-Big Piney RD,1714,,,,,,,,,,43.69,-111.01
+3500,Hill Creek Prescribed Fire,SMP-II,43.69,-110.01,USDA-USFS-Caribou-Targhee NF-Teton Basin RD,1714,,,,,,,,,,43.69,-110.01
+3657,Hill Creek Prescribed Fire,SMP-II,43.69,-111.01,USDA-USFS-Caribou-Targhee NF-Teton Basin RD,1714,,,,,,,,,,43.69,-111.01
+1222,Fuel Reduction Piles,SMP-II,43.68611111,-110.7380556,USDI-NPS-Grand Teton NP,100,,Burned,20-Nov-12,27-Nov-12,28-Nov-12,29-Nov-12,3-Dec-12,8-Jan-13,,43.68611111,-110.7380556
+719,Fuel Reduction Piles,SMP-II,43.68478611,-110.7377833,USDI-NPS-Grand Teton NP,155,,Burned,11-Oct-11,25-Oct-11,31-Oct-11,14-Nov-11,17-Nov-11,22-Nov-11,30-Nov-11,43.68478611,-110.7377833
+1697,Pelham Decks,SMP-II,43.6810389,-109.9868667,USDA-USFS-Shoshone NF-Wind River RD,158,,Burned,10-Dec-14,,,,,,,43.6810389,-109.9868667
+1943,"Wiggins Fork Units, R.A.T.",SMP-II,43.68,-109.6,USDA-USFS-Shoshone NF,429,,,,,,,,,,43.68,-109.6
+3105,"Wiggins Fort Units, R.A.T.",SMP-II,43.68,-109.6,USDA-USFS-Shoshone NF-Wind River RD,429,,,,,,,,,,43.68,-109.6
+3108,Long Creek Hand,SMP-II,43.68,-109.87,USDA-USFS-Shoshone NF-Wind River RD,61,601,,,,,,,,,43.68,-109.87
+3269,Long Creek,SMP-II,43.68,-109.87,USDA-USFS-Shoshone NF-Washakie RD,50,16153,Burned,11/15/2018,,,,,,,43.68,-109.87
+3279,Wiggins Fork R A. T,SMP-II,43.68,-109.6,USDA-USFS-Shoshone NF-Washakie RD,458,,,,,,,,,,43.68,-109.6
+3455,Wiggins Fork R.A.T,SMP-II,43.68,-109.6,USDA-USFS-Shoshone NF-Washakie RD,458,,,,,,,,,,43.68,-109.6
+3632,Wiggins Fork R.A.T,SMP-II,43.68,-109.6,USDA-USFS-Shoshone NF-Wind River RD,548,,,,,,,,,,43.68,-109.6
+777,"Wiggins Fork Unita A3, 4, 6, 10, 12-23, R1-3, T2, 5-6, 8-10",SMP-II,43.67832222,-109.6030472,USDA-USFS-Shoshone NF-Dubois RD,1077,,,,,,,,,,43.67832222,-109.6030472
+1050,"Wiggins Fork Units A3, 4, 6, 10, 12-23, R1-3, T2, 5-6, 8-10",SMP-II,43.67832222,-109.6030472,USDA-USFS-Shoshone NF-Dubois RD,1077,,Burned,10-Apr-12,11-Apr-12,,,,,,43.67832222,-109.6030472
+667,"Wiggins Fork Units A3, 4, 6, 10, 12-23, R1-3, T2, 5, 6, 8-10",SMP-II,43.67832222,-109.6030472,USDA-USFS-Shoshone NF-Dubois RD,1077,,,,,,,,,,43.67832222,-109.6030472
+1373,"Wiggins Fork Units, R. A. T.",SMP-II,43.67832222,-109.6030472,USDA-USFS-Shoshone NF-Wind River RD,429,,,,,,,,,,43.67832222,-109.6030472
+1524,"Wiggins Fork Units, R.A.T.",SMP-II,43.67832222,-109.6030472,USDA-USFS-Shoshone NF-Wind River RD,429,,,,,,,,,,43.67832222,-109.6030472
+724,Hunter Ranch 2011,SMP-II,43.675,-110.6291667,USDI-NPS-Grand Teton NP,271,,Burned,15-Sep-11,,,,,,,43.675,-110.6291667
+554,Hunter Ranch,SMP-II,43.675,-110.6291667,USDI-NPS-Grand Teton NP,271,,,,,,,,,,43.675,-110.6291667
+1608,Caribou-Targhee Pile Burning,SMP-II,43.67296667,-110.9955828,USDA-USFS-Caribou-Targhee NF-Teton Basin RD,5,3280,Burned,18-Jun-14,20-Oct-14,28-Oct-14,,,,,43.67296667,-110.9955828
+1747,Pile Burning,SMP-II,43.67,-111,USDA-USFS-Caribou-Targhee NF-Ashton/Island Park RD,12,40320,Burned,9/16/2015,9/17/2015,9/21/2015,,,,,43.67,-111
+1999,Pile Burning,SMP-II,43.67,-111,USDA-USFS-Caribou-Targhee NF-Ashton/Island Park RD,11,40320,Burned,9/27/2016,,,,,,,43.67,-111
+3416,Spring Mountain,SMP-II,43.67,-109.61,,20,6264,,,,,,,,,43.67,-109.61
+3450,Long Creek,SMP-II,43.67,-109.9,USDA-USFS-Shoshone NF-Washakie RD,219,42764,,,,,,,,,43.67,-109.9
+3637,Long Creek,SMP-II,43.67,-109.9,USDA-USFS-Shoshone NF-Wind River RD,219,42764,Burned,11/17/2020,11/18/2020,11/19/2020,12/1/2020,,,,43.67,-109.9
+1525,Burroughs Piles,SMP-II,43.66890833,-109.6419528,USDA-USFS-Shoshone NF-Wind River RD,300,,,,,,,,,,43.66890833,-109.6419528
+663,Elbo East,SMP-II,43.66111111,-110.5897222,USDI-NPS-Grand Teton NP,311,,,,,,,,,,43.66111111,-110.5897222
+3782,UW T-11,SMP-II,43.66,-109.96,,,24321,,,,,,,,,43.66,-109.96
+3785,Upper Wind FT-6,SMP-II,43.66,-109.94,,419,,,,,,,,,,43.66,-109.94
+1941,Upper Wind River Unit FT10-13,SMP-II,43.66,-109.92,USDA-USFS-Shoshone NF,132,,,,,,,,,,43.66,-109.92
+1942,Upper Wind River Unit FT-6,SMP-II,43.66,-109.94,USDA-USFS-Shoshone NF,329,,,,,,,,,,43.66,-109.94
+2453,"Upper Wind FT 12,13",SMP-II,43.66,-109.92,USDA-USFS-Shoshone NF-Washakie RD,70,21382,,,,,,,,,43.66,-109.92
+3055,UW T-11,SMP-II,43.66,-109.96,USDA Forest Service,20,121,,,,,,,,,43.66,-109.96
+3067,UW T-11,SMP-II,43.66,-109.96,USDA Forest Service,20,121,,,,,,,,,43.66,-109.96
+3103,Upper Wind River Unit FT10-13,SMP-II,43.66,-109.92,USDA-USFS-Shoshone NF-Wind River RD,132,,,,,,,,,,43.66,-109.92
+3104,Upper Wind River Unit FT-6,SMP-II,43.66,-109.94,USDA-USFS-Shoshone NF-Wind River RD,329,,,,,,,,,,43.66,-109.94
+3273,Upper Wind T-11 Piles,SMP-II,43.66,-109.96,USDA-USFS-Shoshone NF-Washakie RD,20,24321,,,,,,,,,43.66,-109.96
+3276,Upper Wind Unit FT-6,SMP-II,43.66,-109.94,USDA-USFS-Shoshone NF-Washakie RD,419,,,,,,,,,,43.66,-109.94
+3277,Upper Wind Units FT10-13,SMP-II,43.66,-109.92,USDA-USFS-Shoshone NF-Washakie RD,132,,,,,,,,,,43.66,-109.92
+3417,Skywalker,SMP-II,43.66,-109.67,,15,3355,Burned,12/4/2018,,,,,,,43.66,-109.67
+3451,Upper Wind Unit FT-6,SMP-II,43.66,-109.94,USDA-USFS-Shoshone NF-Washakie RD,419,,,,,,,,,,43.66,-109.94
+3452,Upper Wind Units FT10-13,SMP-II,43.66,-109.92,USDA-USFS-Shoshone NF-Washakie RD,132,,,,,,,,,,43.66,-109.92
+3453,Upper Wint T-11 Piles,SMP-II,43.66,-109.96,USDA-USFS-Shoshone NF-Washakie RD,20,24321,,,,,,,,,43.66,-109.96
+3456,Upper Wind FT 12,SMP-II,43.66,-109.92,USDA-USFS-Shoshone NF-Washakie RD,70,21382,,,,,,,,,43.66,-109.92
+3634,Upper Wint T-11 Piles,SMP-II,43.66,-109.96,USDA-USFS-Shoshone NF-Wind River RD,20,24321,,,,,,,,,43.66,-109.96
+3635,Upper Wind Unit FT-6,SMP-II,43.66,-109.94,USDA-USFS-Shoshone NF-Wind River RD,419,,,,,,,,,,43.66,-109.94
+3636,"Upper Wind FT 12, 13",SMP-II,43.66,-109.92,USDA-USFS-Shoshone NF-Wind River RD,70,21382,Burned,11/11/2020,11/13/2020,11/14/2020,,,,,43.66,-109.92
+3638,Upper Wind Units FT10,SMP-II,43.66,-109.92,USDA-USFS-Shoshone NF-Wind River RD,,,,,,,,,,,43.66,-109.92
+725,Elbo West,SMP-II,43.65888889,-110.605,USDI-NPS-Grand Teton NP,182,,,,,,,,,,43.65888889,-110.605
+636,Elbo West,SMP-II,43.65888889,-110.605,USDI-NPS-Grand Teton NP,182,,,,,,,,,,43.65888889,-110.605
+778,Upper Wind FT-6,SMP-II,43.65845278,-109.93655,USDA-USFS-Shoshone NF-Dubois RD,519,,,,,,,,,,43.65845278,-109.93655
+1527,Upper Wind Piles,SMP-II,43.65818056,-109.9591389,USDA-USFS-Shoshone NF-Wind River RD,160,,,,,,,,,,43.65818056,-109.9591389
+1244,Pelham Area,SMP-II,43.65818056,-109.9591389,USDA-USFS-Shoshone NF-Dubois RD,147,,Burned,28-Nov-12,5-Dec-12,6-Dec-12,,,,,43.65818056,-109.9591389
+1374,Pelham Area,SMP-II,43.65818056,-109.9591389,USDA-USFS-Shoshone NF-Wind River RD,105,,,,,,,,,,43.65818056,-109.9591389
+1522,Upper Wind River Unit FT-6,SMP-II,43.65797778,-109.9356639,USDA-USFS-Shoshone NF-Wind River RD,329,,,,,,,,,,43.65797778,-109.9356639
+1053,Upper Wind River Unit FT-6,SMP-II,43.65797778,-109.9356639,USDA-USFS-Shoshone NF-Dubois RD,419,,,,,,,,,,43.65797778,-109.9356639
+1375,Upper Wind River Unit FT-6,SMP-II,43.65797778,-109.9356639,USDA-USFS-Shoshone NF-Wind River RD,419,,Burned,8-May-13,,,,,,,43.65797778,-109.9356639
+1523,Upper Wind River Unit FT10-13,SMP-II,43.65666667,-109.9175,USDA-USFS-Shoshone NF-Wind River RD,132,,,,,,,,,,43.65666667,-109.9175
+1102,Upper Wind River Unit FT10-13,SMP-II,43.65666667,-109.9175,USDA-USFS-Shoshone NF-Dubois RD,132,,,,,,,,,,43.65666667,-109.9175
+1372,Upper Wind River Unit FT 10-13,SMP-II,43.65666667,-109.9175,USDA-USFS-Shoshone NF-Wind River RD,132,,,,,,,,,,43.65666667,-109.9175
+3268,Lava Fireline Small Machine Pile,SMP-II,43.64,-109.97,USDA-USFS-Shoshone NF-Washakie RD,25,2388,Burned,11/6/2018,,,,,,,43.64,-109.97
+1635,Riniker Hayfield,SMP-II,43.6398611,-110.66375,USDI-NPS-Grand Teton NP,317,,Burned,6-Oct-14,,,,,,,43.6398611,-110.66375
+726,TVR North,SMP-II,43.63972222,-110.6231278,USDI-NPS-Grand Teton NP,156,,,,,,,,,,43.63972222,-110.6231278
+1131,TVR North,SMP-II,43.63972222,-110.6231278,USDI-NPS-Grand Teton NP,156,,Burned,23-Apr-12,,,,,,,43.63972222,-110.6231278
+664,TVR North,SMP-II,43.63972222,-110.6231278,USDI-NPS-Grand Teton NP,156,,,,,,,,,,43.63972222,-110.6231278
+727,Phelps Moraine 2011,SMP-II,43.63200833,-110.7713889,USDI-NPS-Grand Teton NP,418,,Burned,29-Sep-11,30-Sep-11,1-Oct-11,2-Oct-11,3-Oct-11,4-Oct-11,,43.63200833,-110.7713889
+665,Phelps Moraine,SMP-II,43.63200833,-110.7713889,USDI-NPS-Grand Teton NP,418,,,,,,,,,,43.63200833,-110.7713889
+721,May Hayfield,SMP-II,43.62943417,-110.6575308,USDI-NPS-Grand Teton NP,290,,,,,,,,,,43.62943417,-110.6575308
+723,Maintenance Piles 2011,SMP-II,43.62107222,-110.6335,USDI-NPS-Grand Teton NP,2,,,,,,,,,,43.62107222,-110.6335
+1839,Upper Wind FT 1B,SMP-II,43.62,-109.88,USDA-USFS-Shoshone NF-Wind River RD,85,,,,,,,,,,43.62,-109.88
+1853,"UpperWind FT 14, 16",SMP-II,43.62,-109.88,USDA-USFS-Shoshone NF-Wind River RD,65,13860,,,,,,,,,43.62,-109.88
+1905,"Upper WindFT 16 TIMBL, 14 TIMBL",SMP-II,43.62,-109.88,USDA-USFS-Shoshone NF-Wind River RD,65,13854,Burned,12/14/2015,12/15/2015,12/16/2015,12/17/2015,12/18/2015,,,43.62,-109.88
+1938,Upper Wind FT 1B,SMP-II,43.62,-109.88,USDA-USFS-Shoshone NF-Wind River RD,85,,,,,,,,,,43.62,-109.88
+1939,"Upper WindFT 16 TIMBL, 14 TIMBL",SMP-II,43.62,-109.88,USDA-USFS-Shoshone NF-Wind River RD,65,13854,Burned,1/7/2016,1/8/2016,1/9/2016,1/10/2016,1/11/2016,,,43.62,-109.88
+1698,Section 12,SMP-II,43.6079944,-109.8902306,USDA-USFS-Shoshone NF-Wind River RD,137,31200,Burned,10-Dec-14,,,,,,,43.6079944,-109.8902306
+737,06HFR-Sheep Ridge,SMP-II,43.604,-108.68,USDI-BIA,,15830,,,,,,,,,43.604,-108.68
+3534,Dubois TVRC Piles,SMP-II,43.6,-109.83,,119,29452,,,,,,,,,43.6,-109.83
+1835,Bottom of Thunder,SMP-II,43.59,-110.85,Jackson Hole Mountain Resort,,,,,,,,,,,43.59,-110.85
+3488,Teton Valley Ranch Camp (Hat Butte),SMP-II,43.59,-109.83,USDI-BLM-Lander Field Office,,2259,,,,,,,,,43.59,-109.83
+1041,WGFD Ed O. Taylor Habitat Area,SMP-II,43.58333333,-107.0166667,Wyoming Game and Fish Department,800,,Burned,15-Mar-12,,,,,,,43.58333333,-107.0166667
+1245,Warmsprings Timber,SMP-II,43.58047222,-109.8456667,USDA-USFS-Shoshone NF-Dubois RD,161,,,,,,,,,,43.58047222,-109.8456667
+1367,Warmsprings Timber,SMP-II,43.58047222,-109.8456667,USDA-USFS-Shoshone NF-Wind River RD,161,,Burned,29-Jan-13,,,,,,,43.58047222,-109.8456667
+1529,Warmsprings Timber,SMP-II,43.58047222,-109.8456667,USDA-USFS-Shoshone NF-Wind River RD,161,,Burned,22-Jan-14,,,,,,,43.58047222,-109.8456667
+1064,Warm Springs Community Pile,SMP-II,43.57119444,-109.8362222,USDA-USFS-Shoshone NF-Dubois RD,0,19000,Burned,9-Jan-12,,,,,,,43.57119444,-109.8362222
+1338,Warm Springs Community Pile,SMP-II,43.57119444,-109.8362222,USDA-USFS-Shoshone NF-Dubois RD,0,19000,Burned,15-Jan-13,,,,,,,43.57119444,-109.8362222
+1528,Warm Springs Community Pile,SMP-II,43.57119444,-109.8362222,USDA-USFS-Shoshone NF-Wind River RD,0,19000,Burned,17-Dec-14,,,,,,,43.57119444,-109.8362222
+556,Warm Springs Pile,SMP-II,43.5711,-109.8357,USDA-USFS-Shoshone NF-Dubois RD,100,15000,,,,,,,,,43.5711,-109.8357
+3853,Pederson 147,SMP-II,43.57,-110.7,,147,,Burned,4/22/2021,,,,,,,43.57,-110.7
+1526,Lower Wind Piles,SMP-II,43.56404444,-109.8657167,USDA-USFS-Shoshone NF-Wind River RD,374,,,,,,,,,,43.56404444,-109.8657167
+1759,"LWT39 DELTA, ECHO, CHARLIE",SMP-II,43.56,-109.84,USDA-USFS-Shoshone NF,522,44850,,,,,,,,,43.56,-109.84
+1889,State School Section,SMP-II,43.56,-110.82,Trees R Us Tree Service,,24000,,,,,,,,,43.56,-110.82
+1940,"LWT39 DELTA, ECHO, CHARLIE",SMP-II,43.56,-109.84,USDA-USFS-Shoshone NF,522,44850,Burned,1/26/2016,1/27/2016,1/28/2016,1/29/2016,2/3/2016,2/10/2016,2/17/2016,43.56,-109.84
+3054,"LWT39 Alpha, Bravo",SMP-II,43.56,-109.84,"USDA Forest Service, Shoshone National Forest",250,37699,,,,,,,,,43.56,-109.84
+3066,"LWT39 Alpha, Bravo",SMP-II,43.56,-109.84,"USDA Forest Service, Shoshone National Forest",250,37699,,,,,,,,,43.56,-109.84
+3106,LWT39 Delta Charlie,SMP-II,43.56,-109.84,USDA-USFS-Shoshone NF-Wind River RD,522,,,,,,,,,,43.56,-109.84
+3143,"Porcupine, Muskrat",SMP-II,43.56,-109.8,USDA-USFS-Shoshone NF-Wind River RD,0,6714,,,,,,,,,43.56,-109.8
+3213,State School Section,SMP-II,43.56,-110.82,Trees R Us Tree Service,,21000,,,,,,,,,43.56,-110.82
+3270,"LWT-39 A,B,D Machine Piles",SMP-II,43.56,-109.85,USDA-USFS-Shoshone NF-Washakie RD,518,238761,Burned,2/7/2018,,,,,,,43.56,-109.85
+3271,"Porcupine, Muskrat Deck",SMP-II,43.56,-109.8,USDA-USFS-Shoshone NF-Washakie RD,0,2587,Burned,2/7/2018,,,,,,,43.56,-109.8
+1049,Wildcat Stimulus,SMP-II,43.52644444,-109.7745,USDA-USFS-Shoshone NF-Dubois RD,141,232687,Burned,23-Oct-12,24-Oct-12,,,,,,43.52644444,-109.7745
+1389,National Elk Refuge Burn Pit,SMP-II,43.52404436,-110.6946132,USDI-USFWS-National Elk Refuge,,11200,Burned,13-Feb-13,,,,,,,43.52404436,-110.6946132
+3489,Tie Camp Piles,SMP-II,43.52,-109.77,USDA-USFS-Shoshone NF-Washakie RD,60,490324,,,,,,,,,43.52,-109.77
+3633,Tie Camp Piles,SMP-II,43.52,-109.77,USDA-USFS-Shoshone NF-Wind River RD,61,490324,Burned,1/27/2020,,,,,,,43.52,-109.77
+1269,Lower Wind Units,SMP-II,43.51605556,-109.7067222,USDA-USFS-Shoshone NF-Dubois RD,24,,,,,,,,,,43.51605556,-109.7067222
+1371,Lower Wind Units,SMP-II,43.51605556,-109.7067222,USDA-USFS-Shoshone NF-Wind River RD,24,,,,,,,,,,43.51605556,-109.7067222
+1750,"Cow Camp Unit 1,2,3,4",SMP-II,43.51,-105.02,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,1530,,,,,,,,,,43.51,-105.02
+1840,LOWER Wind T 18 hand,SMP-II,43.51,-109.71,USDA-USFS-Shoshone NF-Wind River RD,22,,,,,,,,,,43.51,-109.71
+1936,LOWER Wind T 18 hand,SMP-II,43.51,-109.71,USDA-USFS-Shoshone NF,22,,,,,,,,,,43.51,-109.71
+1988,"Cow Camp Unit 1,2,3,4",SMP-II,43.51,-105.02,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,1530,,,,,,,,,,43.51,-105.02
+3077,Lower Wind T 18 Hand,SMP-II,43.51,-109.71,USDA-USFS-Shoshone NF-Wind River RD,22,,,,,,,,,,43.51,-109.71
+3146,Lower Wind T 18 Hand,SMP-II,43.51,-109.71,USDA-USFS-Shoshone NF-Wind River RD,22,,,,,,,,,,43.51,-109.71
+1075,Cow Camp Unit 1-4,SMP-II,43.505,-105.0244444,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,1530,,Burned,15-Mar-12,,,,,,,43.505,-105.0244444
+598,Cow Camp,SMP-II,43.505,-105.0244444,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,1530,,,,,,,,,,43.505,-105.0244444
+529,Trout Creek,SMP-II,43.50166667,-107.4452778,USDI-BLM-Worland Field Office,100,,,,,,,,,,43.50166667,-107.4452778
+1752,Horse Creek Unit 1 & 2,SMP-II,43.49,-105.04,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,445,,,,,,,,,,43.49,-105.04
+742,Horse Creek,SMP-II,43.4875,-105.0152778,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,445,,Burned,18-Mar-11,,,,,,,43.4875,-105.0152778
+1989,"East Pasture Unit 1, 2, & 3",SMP-II,43.47,-104.98,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,2620,,,,,,,,,,43.47,-104.98
+1076,East Pasture Unit 2 & 3,SMP-II,43.46694444,-104.9830556,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,1350,,,,,,,,,,43.46694444,-104.9830556
+1496,"East Pasture Unit 1, 2, & 3",SMP-II,43.4669,-104.98,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,2620,,,,,,,,,,43.4669,-104.98
+600,Lower Antelope,SMP-II,43.46305556,-105.1286111,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,960,,,,,,,,,,43.46305556,-105.1286111
+3619,Philp Prescribed Burn - 2020,SMP-II,43.46,-107.82,USDI-BLM-Lander Field Office,350,,,,,,,,,,43.46,-107.82
+3817,Phillip Prescribed Fire,SMP-II,43.46,-107.82,,500,,,,,,,,,,43.46,-107.82
+741,East Pasture,SMP-II,43.45694444,-104.9966667,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,2620,,Burned,19-Mar-11,,,,,,,43.45694444,-104.9966667
+599,East Pasture,SMP-II,43.45694444,-104.9966667,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,2620,,,,,,,,,,43.45694444,-104.9966667
+3838,PF-20 Mosquito Creek,SMP-II,43.45,-110.95,,2639,,Burned,4/13/2021,4/14/2021,4/20/2021,4/21/2021,4/22/2021,5/6/2021,5/7/2021,43.45,-110.95
+3372,Mosquito Creek North RX,SMP-II,43.45,-110.93,USDA-USFS-Bridger-Teton NF-Kemmerer RD,119,,,,,,,,,,43.45,-110.93
+3647,PF-20 Mosquito Creek North RX,SMP-II,43.45,-110.95,Wyoming State Forestry Division,2639,,,,,,,,,,43.45,-110.95
+1751,Vest Draw Rx,SMP-II,43.44,-105.12,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,1000,,Burned,3/13/2015,,,,,,,43.44,-105.12
+1090,Vest Draw Rx,SMP-II,43.43583333,-105.1194444,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,1000,,,,,,,,,,43.43583333,-105.1194444
+1377,Vest Draw Rx,SMP-II,43.43583333,-105.1194444,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,1000,,,,,,,,,,43.43583333,-105.1194444
+1501,Vest Draw Rx,SMP-II,43.43583333,-105.1194444,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,1000,,,,,,,,,,43.43583333,-105.1194444
+1253,Russian Olive,SMP-II,43.43147222,-104.9596389,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,40,,,,,,,,,,43.43147222,-104.9596389
+1382,Russian Olive,SMP-II,43.43147222,-104.9596389,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,40,,,,,,,,,,43.43147222,-104.9596389
+1499,Russian Olive,SMP-II,43.43147222,-104.9596389,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,40,,,,,,,,,,43.43147222,-104.9596389
+1498,Rothleutner Unit 3,SMP-II,43.41527778,-105.011234,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,989,,,,,,,,,,43.41527778,-105.011234
+1074,Rothleutner Unit 3,SMP-II,43.41527778,-105.0113889,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,989,,Burned,15-Mar-12,,,,,,,43.41527778,-105.0113889
+3812,Copper Mountain Piles,SMP-II,43.41,-108.03,,77,85500,,,,,,,,,43.41,-108.03
+3648,Talyor Mountain RX Unit 4,SMP-II,43.4,-110.87,Wyoming State Forestry Division,384,,,,,,,,,,43.4,-110.87
+3839,PF-30,SMP-II,43.38,-110.87,,,,Burned,4/16/2021,4/19/2021,,,,,,43.38,-110.87
+3649,Taylor Mountain RX unit 2,SMP-II,43.38,-110.87,Wyoming State Forestry Division,411,,,,,,,,,,43.38,-110.87
+740,Rothleutner,SMP-II,43.37777778,-104.9925,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,4279,,Burned,20-Mar-11,,,,,,,43.37777778,-104.9925
+597,Rothleutner,SMP-II,43.37777778,-104.9925,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,3290,,,,,,,,,,43.37777778,-104.9925
+3482,Trails End RD RX,SMP-II,43.36,-110.85,USDA-USFS-Bridger-Teton NF-Jackson RD,371,,Burned,4/29/2019,5/4/2019,,,,,,43.36,-110.85
+3650,Trails End Rd RX,SMP-II,43.36,-110.85,Wyoming State Forestry Division,371,,,,,,,,,,43.36,-110.85
+1042,Fall Creeks Ranch Pile Burn,SMP-II,43.3541,-110.8662,"Falls Creek Ranch, LLC",5,67500,Burned,26-Jan-12,27-Jan-12,2-Feb-12,6-Feb-12,13-Feb-12,16-Feb-12,17-Feb-12,43.3541,-110.8662
+1740,Horse Creek Prescribed Burn,SMP-II,43.32,-110.75,USDA-USFS-Bridger-Teton NF-Jackson RD,1300,,,,,,,,,,43.32,-110.75
+1741,South Fall Prescribed Burn,SMP-II,43.32,-110.75,USDA-USFS-Bridger-Teton NF-Jackson RD,1600,,,,,,,,,,43.32,-110.75
+2011,South Fall Creek-North Unit,SMP-II,43.32,-110.75,USDA-USFS-Bridger-Teton NF-Jackson RD,300,,Burned,4/18/2016,4/21/2016,,,,,,43.32,-110.75
+1560,Lower Palmer Presribed Burn,SMP-II,43.31611111,-110.7319444,USDA-USFS-Bridger-Teton NF-Big Piney RD,250,,,,,,,,,,43.31611111,-110.7319444
+563,Pritchard Pass,SMP-II,43.3149893,-110.8090527,USDA-USFS-Bridger-Teton NF-Jackson RD,46,110000,Burned,2-Dec-10,,,,,,,43.3149893,-110.8090527
+692,Pile Burning,SMP-II,43.31021389,-110.8024889,USDA-USFS-Bridger-Teton NF-Moran RD,35,,,,,,,,,,43.31021389,-110.8024889
+729,Pile Burning 2011,SMP-II,43.31021389,-110.8024889,USDA-USFS-Bridger-Teton NF-Moran RD,35,,,,,,,,,,43.31021389,-110.8024889
+2014,South Fall Creek-South Unit,SMP-II,43.31,-110.75,USDA-USFS-Bridger-Teton NF-Jackson RD,150,,,,,,,,,,43.31,-110.75
+731,Upper Palmer Prescribed Burn,SMP-II,43.30810444,-110.7208825,USDA-USFS-Bridger-Teton NF-Moran RD,400,,Burned,23-Sep-11,24-Sep-11,25-Sep-11,,,,,43.30810444,-110.7208825
+1350,Lower Palmer,SMP-II,43.3075,-110.7369444,USDA-USFS-Bridger-Teton NF-Moran RD,200,,,,,,,,,,43.3075,-110.7369444
+679,Upper Palmer Creek,SMP-II,43.304486,-110.719072,USDA-USFS-Bridger-Teton NF-Jackson RD,400,,,,,,,,,,43.304486,-110.719072
+2025,Red Cliff T.S. Piles,SMP-II,43.28,-109.99,USDA-USFS-Bridger-Teton NF-Big Piney RD,,26000,,,,,,,,,43.28,-109.99
+1557,Willow Creek,SMP-II,43.27666667,-110.6852778,USDA-USFS-Bridger-Teton NF-Big Piney RD,715,,,,,,,,,,43.27666667,-110.6852778
+1346,Willow Creek,SMP-II,43.27666667,-110.6852778,USDA-USFS-Bridger-Teton NF-Moran RD,1200,,,,,,,,,,43.27666667,-110.6852778
+680,Beaver Mountain,SMP-II,43.27,-110.6361111,USDA-USFS-Bridger-Teton NF-Jackson RD,575,,,,,,,,,,43.27,-110.6361111
+1743,Beaver Mountain Prescribed Burn,SMP-II,43.27,-110.64,USDA-USFS-Bridger-Teton NF-Jackson RD,400,,,,,,,,,,43.27,-110.64
+1796,Red Cliff WUI,SMP-II,43.27,-110,USDA-USFS-Bridger-Teton NF-Big Piney RD,61,,,,,,,,,,43.27,-110
+3364,Beaver Mountain Prescribed Burn,SMP-II,43.27,-110.64,USDA-USFS-Bridger-Teton NF-Jackson RD,600,,,,,,,,,,43.27,-110.64
+1863,Red Cliff WUI Project,SMP-II,43.27,-110,USDA-USFS-Bridger-Teton NF-Pinedale RD,,20682,,,,,,,,,43.27,-110
+2080,Beaver Mtn RX,SMP-II,43.27,-110.64,USDA-USFS-Bridger-Teton NF-Pinedale RD,600,,,,,,,,,,43.27,-110.64
+3171,"Beaver Mtn, Bryan Flats",SMP-II,43.27,-110.64,USDA-USFS-Bridger-Teton NF-Jackson RD,600,,,,,,,,,,43.27,-110.64
+732,Beaver Mountain Prescribed Burn,SMP-II,43.26844944,-110.6338675,USDA-USFS-Bridger-Teton NF-Moran RD,1249,,,,,,,,,,43.26844944,-110.6338675
+1095,Beaver Mountain Prescribed Burn,SMP-II,43.26844944,-110.6338675,USDA-USFS-Bridger-Teton NF-Moran RD,1249,,,,,,,,,,43.26844944,-110.6338675
+1347,Beaver Mountain Prescribed Burn,SMP-II,43.26844944,-110.6338675,USDA-USFS-Bridger-Teton NF-Moran RD,1249,,,,,,,,,,43.26844944,-110.6338675
+1556,Beaver Mountain Prescribed Burn,SMP-II,43.26844944,-110.6338675,USDA-USFS-Bridger-Teton NF-Big Piney RD,400,,,,,,,,,,43.26844944,-110.6338675
+608,Red Cliff,SMP-II,43.25991667,-109.9948889,USDA-USFS-Bridger-Teton NF-Pinedale RD,300,12000,,,,,,,,,43.25991667,-109.9948889
+1778,BOR - Ocean Lake - Pond 6,SMP-II,43.23,-108.52,USDI-BLM-Ft. Washakie Field Office,54,,Burned,3/12/2015,,,,,,,43.23,-108.52
+1550,BOR - Ocean Lake - Pond 5,SMP-II,43.19993333,-108.5506722,USDI-BLM-Ft. Washakie Field Office,55,,Burned,8-Apr-14,,,,,,,43.19993333,-108.5506722
+1117,BOR - Ocean Lake,SMP-II,43.1923926,-109.1403563,USDI-BLM-Lander Field Office,50,,,,,,,,,,43.1923926,-109.1403563
+1388,BOR - Ocean Lake,SMP-II,43.1923926,-109.1403563,USDI-BLM,89,,Burned,25-Feb-13,,,,,,,43.1923926,-109.1403563
+525,07HFR-Argo Butte,SMP-II,43.192,-108.904,USDI-BIA,253,,Burned,4-Apr-08,12-Apr-08,,,,,,43.192,-108.904
+621,Monument Unit 2,SMP-II,43.190379,-110.4125854,USDA-USFS-Bridger-Teton NF-Pinedale RD,1000,,,,,,,,,,43.190379,-110.4125854
+1991,BOR - Ocean Lake,SMP-II,43.19,-108.55,USDI-BLM-Lander Field Office,110,,Burned,2/11/2016,,,,,,,43.19,-108.55
+3618,Ocean Lake Prescribed Burn,SMP-II,43.19,-108.53,USDI-BLM-Lander Field Office,140,,,,,,,,,,43.19,-108.53
+3816,Ocean Lake,SMP-II,43.19,-108.54,USDI-BLM-Lander Field Office,150,,Burned,5/5/2021,,,,,,,43.19,-108.54
+603,Bradley Mountain Rx Burn,SMP-II,43.15944444,-110.9747222,USDA-USFS-Bridger-Teton NF-Greys River RD,4610,,Burned,28-May-09,23-Sep-09,24-Sep-09,25-Sep-09,,,,43.15944444,-110.9747222
+3764,Cabin Crek South,SMP-II,43.12,-109.64,,101,,Burned,4/25/2021,,,,,,,43.12,-109.64
+589,Hoback Ranches Fuel Reduction,SMP-II,43.1043818,-110.2242586,USDI-BLM-Pinedale Field Office,26,67040,,,,,,,,,43.1043818,-110.2242586
+1270,Hoback Ranches Fuel Reduction,SMP-II,43.1043818,-110.2242586,USDI-BLM-Pinedale Field Office,25,12433,,,,,,,,,43.1043818,-110.2242586
+1312,Hoback Ranches Fuel Reduction,SMP-II,43.1043818,-110.2242586,USDI-BLM-Pinedale Field Office,25,12433,Burned,13-Feb-13,,,,,,,43.1043818,-110.2242586
+999,Hoback Ranches Fuel Reduction,SMP-II,43.1042687,-110.2634881,USDI-BLM-Pinedale Field Office,12,18650,Burned,8-Dec-11,,,,,,,43.1042687,-110.2634881
+1411,Old Post & Pole Site,SMP-II,43.0906312,-108.844316,USDI-BIA-Forestry & Fire,0,21516,,,,,,,,,43.0906312,-108.844316
+1397,Weiner Creek Rx Burn,SMP-II,43.0841,-110.8731,USDA-USFS-Bridger-Teton NF-Kemmerer RD,1800,,,,,,,,,,43.0841,-110.8731
+1088,Weiner Creek Rx Burn,SMP-II,43.0841,-110.8731,USDA-USFS-Bridger-Teton NF-Kemmerer RD,1800,,,,,,,,,,43.0841,-110.8731
+1408,Weiner Creek Rx Burn,SMP-II,43.0841,-110.8731,USDA-USFS-Bridger-Teton NF-Kemmerer RD,1800,,,,,,,,,,43.0841,-110.8731
+1558,Weiner Creek Rx Burn,SMP-II,43.0841,-110.8731,USDA-USFS-Bridger-Teton NF-Kemmerer RD,1800,,,,,,,,,,43.0841,-110.8731
+1760,Weiner Creek RX Burn,SMP-II,43.08,-110.87,USDA-USFS-Bridger-Teton NF-Kemmerer RD,1800,,,,,,,,,,43.08,-110.87
+2040,Weiner Creek Rx Burn,SMP-II,43.08,-110.87,USDA-USFS-Bridger-Teton NF-Kemmerer RD,1800,,,,,,,,,,43.08,-110.87
+3126,Weiner Creek Rx Burn,SMP-II,43.08,-110.87,USDA-USFS-Bridger-Teton NF-Kemmerer RD,1800,,,,,,,,,,43.08,-110.87
+651,Zach Roberts,SMP-II,43.07648333,-110.2193867,"RY Timber, Inc.",250,,,,,,,,,,43.07648333,-110.2193867
+908,Weiner Creek,SMP-II,43.07647222,-110.8660833,USDA-USFS-Bridger Teton NF-Greys River RD,1000,,,,,,,,,,43.07647222,-110.8660833
+701,Zach Roberts Pile Burns,SMP-II,43.06683028,-110.2168422,"RY Timber, Inc.",125,15,,,,,,,,,43.06683028,-110.2168422
+738,Timmoco Creek (Units 5 & 6),SMP-II,43.0042619,-109.0992893,USDI-BIA,30,9400,,,,,,,,,43.0042619,-109.0992893
+1357,Fort Washakie Sundance WUI Pile,SMP-II,43.0039869,-108.8834248,USDI-BIA-Forestry & Fire,1,1975,Burned,7-Mar-13,,,,,,,43.0039869,-108.8834248
+2022,Captain T.S. Piles,SMP-II,42.99,-110.48,USDA-USFS-Bridger-Teton NF-Big Piney RD,,18800,,,,,,,,,42.99,-110.48
+3493,West Fort RX,SMP-II,42.97,-109.76,USDA-USFS-Bridger-Teton NF-Pinedale RD,190,,,,,,,,,,42.97,-109.76
+3845,South Fort RX,SMP-II,42.96,-109.75,,380,,,,,,,,,,42.96,-109.75
+1860,Skyline Drive Road Construction Project,SMP-II,42.96,-109.77,USDA-USFS-Bridger-Teton NF-Pinedale RD,,12643,,,,,,,,,42.96,-109.77
+3646,South Fort RX,SMP-II,42.96,-109.75,USDA-USFS-Bridger-Teton NF-Pinedale RD,380,,,,,,,,,,42.96,-109.75
+3150,Sylvan Bay Road RX,SMP-II,42.95,-109.21,USDA-USFS-Bridger-Teton NF-Pinedale RD,126,,Burned,6/4/2017,,,,,,,42.95,-109.21
+3174,Sylvan Bay Piles RX,SMP-II,42.95,-109.77,USDA-USFS-Bridger-Teton NF-Pinedale RD,12,135730,Burned,11/7/2017,11/8/2017,11/9/2017,,,,,42.95,-109.77
+3517,Star Valley Front Veg RX,SMP-II,42.9,-110.81,USDA-USFS-Bridger-Teton NF-Greys River RD,800,,,,,,,,,,42.9,-110.81
+1598,Hudson Brushpile,SMP-II,42.8944973,-108.5779302,Hudson,0,60000,,,,,,,,,42.8944973,-108.5779302
+3326,Star Valle Front RX Burn,SMP-II,42.88,-110.8,USDA-USFS-Bridger-Teton NF-Kemmerer RD,3286,,,,,,,,,,42.88,-110.8
+1132,Maki II,SMP-II,42.87125,-110.4385833,USDA-USFS-Bridger-Teton NF-Big Piney RD,100,,Burned,8-May-12,,,,,,,42.87125,-110.4385833
+538,Maki Creek,SMP-II,42.87125,-110.4385833,USDA-USFS-Bridger-Teton NF-Pinedale RD,2045,,,,,,,,,,42.87125,-110.4385833
+2021,Cottonwood II - Unit 12,SMP-II,42.87,-110.55,USDA-USFS-Bridger-Teton NF-Big Piney RD,155,,,,,,,,,,42.87,-110.55
+3858,Strawberry,SMP-II,42.86,-110.68,,2554,,,,,,,,,,42.86,-110.68
+3676,Strawberry,SMP-II,42.86,-110.68,USDA-USFS-Bridger-Teton NF-Greys River RD,2554,,,,,,,,,,42.86,-110.68
+3322,Bug Creek RX,SMP-II,42.86,-110.68,USDA-USFS-Bridger-Teton NF-Kemmerer RD,421,,,,,,,,,,42.86,-110.68
+1110,Cottonwood II,SMP-II,42.85948056,-110.5262556,USDA-USFS-Bridger-Teton NF-Big Piney RD,1093,,,,,,,,,,42.85948056,-110.5262556
+666,Cottonwood II,SMP-II,42.85948056,-110.5262556,USDA-USFS-Bridger-Teton NF-Pinedale RD,1093,,,,,,,,,,42.85948056,-110.5262556
+1453,Cottonwood II,SMP-II,42.85948056,-110.5262556,USDA-USFS-Bridger-Teton NF-Big Piney RD,1093,,,,,,,,,,42.85948056,-110.5262556
+3142,Ryegrass,SMP-II,42.85,-110.09,USDI-BLM-Lander Field Office,49,,Burned,6/19/2017,,,,,,,42.85,-110.09
+3513,Sjhoberg,SMP-II,42.85,-110.55,USDA-USFS-Bridger-Teton NF-Pinedale RD,155,,,,,,,,,,42.85,-110.55
+1237,West Zone Piles,SMP-II,42.8372,-110.8952,USDA-USFS-Bridger-Teton NF-Greys River/Kemmerer RD,62,1500,Burned,31-Oct-12,6-Nov-12,9-Nov-12,13-Nov-12,14-Nov-12,15-Nov-12,28-Nov-12,42.8372,-110.8952
+1692,,SMP-II,42.8278922,-104.5377695,Town of Lusk,,10800,,,,,,,,,42.8278922,-104.5377695
+1000,Scab Creek Pile Burn,SMP-II,42.8144962,-109.5561872,USDI-BLM-Pinedale Field Office,1,2578,,,,,,,,,42.8144962,-109.5561872
+576,Scab Creek Pile Burn,SMP-II,42.8144962,-109.5561872,USDI-BLM-Pinedale Field Office,4,10313,Burned,15-Nov-08,2-Dec-10,,,,,,42.8144962,-109.5561872
+1757,Lusk Landfill,SMP-II,42.79,-104.48,Town of  Lusk,,10800,,,,,,,,,42.79,-104.48
+1595,Cottonwood II,SMP-II,42.77456389,-110.5128278,USDA-USFS-Bridger-Teton NF-Buffalo RD,118,9,Burned,5-Jun-14,8-Oct-14,11-Oct-14,17-Oct-14,,,,42.77456389,-110.5128278
+1803,Cottonwood II - Unit 04,SMP-II,42.77,-110.51,USDA-USFS-Bridger-Teton NF-Big Piney RD,118,,,,,,,,,,42.77,-110.51
+2020,Cottonwood II - Unit 04,SMP-II,42.77,-110.51,USDA-USFS-Bridger-Teton NF-Big Piney RD,118,,Burned,5/4/2016,6/3/2016,6/3/2016,6/3/2016,,,,42.77,-110.51
+3387,9 Mile Piles,SMP-II,42.76,-108.4,,2,10000,,,,,,,,,42.76,-108.4
+3759,Middle Fork H4 and H8 Piles,SMP-II,42.75,-108.85,,,155125,,,,,,,,,42.75,-108.85
+3263,Middle Fork,SMP-II,42.75,-108.85,USDA-USFS-Shoshone NF-Washakie RD,212,155125,,,,,,,,,42.75,-108.85
+3445,Middle Fork H4 and H8 piles,SMP-II,42.75,-108.85,USDA-USFS-Shoshone NF-Washakie RD,212,155125,,,,,,,,,42.75,-108.85
+3584,Middle Fork H4 and H8 Piles,SMP-II,42.75,-108.85,USDA Forest Service,212,155125,,,,,,,,,42.75,-108.85
+804,Camp Creek,SMP-II,42.74827222,-110.4382639,USDI-BLM-Rock Springs Field Office,750,,,,,,,,,,42.74827222,-110.4382639
+1137,Camp Creek Rx,SMP-II,42.74827222,-110.4382639,USDI-BLM-Kemmerer RD,500,,,,,,,,,,42.74827222,-110.4382639
+1399,Camp Creek Rx,SMP-II,42.7458095,-110.4655918,USDI-BLM-Pinedale Field Office,250,,,,,,,,,,42.7458095,-110.4655918
+1401,Casper Mountain Slash Pile Burn 2013,SMP-II,42.7426749,-106.313407,Casper Mountain Fire District (CMFD),,200000,Burned,6-Apr-13,,,,,,,42.7426749,-106.313407
+803,Casper Mountain Slash Pile Burn 2011,SMP-II,42.7426749,-106.313407,Casper Mountain Fire District,,270000,Burned,23-Apr-11,,,,,,,42.7426749,-106.313407
+1130,Casper Mountain Slash Pile Burn 2012,SMP-II,42.7426749,-106.313407,Casper Mountain Fire District (CMFD),,270000,Burned,14-Apr-12,,,,,,,42.7426749,-106.313407
+606,Casper Mountain Slash Pile Burn 2009,SMP-II,42.7426749,-106.313407,Casper Mountain Fire District (CMFD),,120000,,,,,,,,,42.7426749,-106.313407
+534,Casper Mountain Slash Pile Burn 2008,SMP-II,42.7426749,-106.313407,Casper Mountain Fire District (CMFD),,53000,,,,,,,,,42.7426749,-106.313407
+1601,Casper Mountain Slash Pile Burn 2014,SMP-II,42.7426749,-106.313407,Casper Mountain Fire District,,100000,Burned,10-May-14,,,,,,,42.7426749,-106.313407
+1808,Casper Mountain Slash Pile Burn 2015,SMP-II,42.74,-106.31,Casper Mountain Fire District (CMFD),,100000,Burned,4/11/2015,,,,,,,42.74,-106.31
+1879,West End Fuel Break Slash Pile Burn,SMP-II,42.74,-106.37,Wyoming State Forestry Division,20,36000,,,,,,,,,42.74,-106.37
+1981,West End Fuel Break Slash Pile Burn,SMP-II,42.74,-106.37,Wyoming State Forestry Division,20,36000,,,,,,,,,42.74,-106.37
+2029,Casper Mountain Slash Pile Burn 2016,SMP-II,42.73,-106.3,Casper Mountain Fire District (CMFD),,450000,Burned,4/23/2016,,,,,,,42.73,-106.3
+1362,Washakie Aspen 19-24,SMP-II,42.72194444,-108.855,USDA-USFS-Shoshone NF-Lander RD,585,,,,,,,,,,42.72194444,-108.855
+1762,West Zone Piles,SMP-II,42.72,-110.76,USDA-USFS-Bridger-Teton NF-Kemmerer RD,201,211050,Burned,11/19/2015,11/4/2015,11/5/2015,11/9/2015,11/10/2015,11/12/2015,11/18/2015,42.72,-110.76
+3007,West Zone Piles,SMP-II,42.72,-110.76,USDA-USFS-Bridger-Teton NF-Greys River RD,301,236050,,,,,,,,,42.72,-110.76
+3123,West Zone Pile,SMP-II,42.72,-110.76,USDA-USFS-Bridger-Teton NF-Greys River RD,301,236050,Burned,10/4/2017,10/5/2017,10/10/2017,11/8/2017,11/9/2017,,,42.72,-110.76
+3321,West Zone Piles,SMP-II,42.72,-110.76,USDA-USFS-Bridger-Teton NF-Greys River RD,301,236050,Burned,5/7/2018,5/8/2018,5/9/2018,5/10/2018,5/11/2018,5/15/2018,5/17/2018,42.72,-110.76
+1134,Upper Billies Rx,SMP-II,42.71869167,-110.4309861,USDI-BLM-Kemmerer Field Office,450,,Burned,20-May-12,21-May-12,,,,,,42.71869167,-110.4309861
+1657,West Zone Piles,SMP-II,42.7185,-110.7611,USDA-USFS-Bridger-Teton NF-Kemmerer RD,220,330000,Burned,6-Nov-14,14-Nov-14,,,,,,42.7185,-110.7611
+1533,"Washakie Aspen Units 2, 3, 5-18",SMP-II,42.71208056,-108.8592167,USDA-USFS-Shoshone NF-Washakie RD,540,,,,,,,,,,42.71208056,-108.8592167
+776,"Washakie Aspen Units 2-3, 5-18",SMP-II,42.71208056,-108.8592167,USDA-UFS-Shoshone NF-Dubois RD,540,,,,,,,,,,42.71208056,-108.8592167
+1058,"Washakie Aspen Units 2-3, 5-18",SMP-II,42.71208056,-108.8592167,USDA-USFS-Shoshone NF-Lander RD,540,,Burned,22-Mar-12,28-Mar-12,31-Mar-12,,,,,42.71208056,-108.8592167
+658,"Washakie Aspen Units 2-3, 5-18",SMP-II,42.71208056,-108.8592167,USDA-USFS-Shoshone NF-Dubois RD,540,,,,,,,,,,42.71208056,-108.8592167
+1366,"Washakie Aspen Units 2-3, 5-18",SMP-II,42.71208056,-108.8592167,USDA-USFS-Shoshone NF-Lander RD,540,,,,,,,,,,42.71208056,-108.8592167
+1730,"Washakie Aspen units 2,3,5-18",SMP-II,42.71,-108.86,USDA-USFS-Shoshone NF-Washakie RD,540,,,,,,,,,,42.71,-108.86
+1964,"Washakie Aspen units 2,3,5-18",SMP-II,42.71,-108.86,USDA-USFS-Shoshone NF-Washakie RD,540,,,,,,,,,,42.71,-108.86
+3090,"Washakie Aspen units 2,3,5-18",SMP-II,42.71,-108.86,USDA-USFS-Shoshone NF-Washakie RD,540,,,,,,,,,,42.71,-108.86
+3152,Town of Afton Spring Cleanup,SMP-II,42.71,-110.95,Town of Afton,0,40000,Burned,6/5/2017,6/6/2017,6/7/2017,6/8/2017,,,,42.71,-110.95
+3267,"Washakie Aspen 2, 3,5-18",SMP-II,42.71,-108.86,USDA-USFS-Shoshone NF-Washakie RD,312,,Burned,5/10/2018,,,,,,,42.71,-108.86
+3448,Washakie Aspen,SMP-II,42.71,-108.86,USDA-USFS-Shoshone NF-Washakie RD,312,,,,,,,,,,42.71,-108.86
+3587,Washakie Aspen,SMP-II,42.71,-108.86,USDA Forest Service,312,,,,,,,,,,42.71,-108.86
+3761,Washakie Aspen,SMP-II,42.71,-108.86,,312,,,,,,,,,,42.71,-108.86
+789,Cottonwood II,SMP-II,42.70333889,-110.4764861,USDA-USFS-Bridger-Teton NF-Big Piney RD,1093,,,,,,,,,,42.70333889,-110.4764861
+1718,Freak Mountain  7,SMP-II,42.7,-108.84,USDA-USFS,838,,,,,,,,,,42.7,-108.84
+1801,Cottonwood II - Unit 01,SMP-II,42.7,-110.48,USDA-USFS-Bridger-Teton NF-Big Piney RD,338,140000,,,,,,,,,42.7,-110.48
+1802,Cottonwood II - Unit 12,SMP-II,42.7,-110.48,USDA-USFS-Bridger-Teton NF-Big Piney RD,338,140000,,,,,,,,,42.7,-110.48
+2019,Cottonwood II - Unit 01,SMP-II,42.7,-110.48,USDA-USFS-Bridger-Teton NF-Big Piney RD,338,,,,,,,,,,42.7,-110.48
+3156,CottonWood Unit 1,SMP-II,42.7,-110.48,USDA-USFS-Bridger-Teton NF-Big Piney RD,88,,,,,,,,,,42.7,-110.48
+3329,Cottonwood II - Unit 1,SMP-II,42.7,-110.48,USDA-USFS-Bridger-Teton NF-Big Piney RD,88,,,,,,,,,,42.7,-110.48
+3631,Wiggins Fork R5,SMP-II,42.7,-109.58,USDA-USFS-Shoshone NF-Wind River RD,397,,,,,,,,,,42.7,-109.58
+1748,,SMP-II,42.69,-106.22,Wyoming State Forestry Division,13,94650,,,,,,,,,42.69,-106.22
+1980,Pole Creek Salvage Sale Slash Pile Burn,SMP-II,42.69,-106.22,Wyoming State Forestry Division,13,94650,,,,,,,,,42.69,-106.22
+753,Washakie Aspen,SMP-II,42.6874761,-108.8664812,USDA-USFS-Shoshone NF-Dubois RD,585,,,,,,,,,,42.6874761,-108.8664812
+1056,Washakie Aspen,SMP-II,42.6874761,-108.8664812,USDA-USFS-Shoshone NF-Dubois RD,585,,,,,,,,,,42.6874761,-108.8664812
+531,Washakie Aspen,SMP-II,42.6874761,-108.8664812,USDA-USFS-Shoshone NF-Dubois RD,585,,,,,,,,,,42.6874761,-108.8664812
+754,Freak Mountain Unit 7,SMP-II,42.68583333,-108.8327778,USDA-USFS-Shoshone NF-Dubois RD,838,,,,,,,,,,42.68583333,-108.8327778
+617,Freak Mountain Unit 7,SMP-II,42.68583333,-108.8327778,USDA-USFS-Shoshone NF-Dubois RD,838,,,,,,,,,,42.68583333,-108.8327778
+565,Pole Creek Slash Piles,SMP-II,42.6852173,-106.2144633,Wyoming State Forestry Division,,52000,,,,,,,,,42.6852173,-106.2144633
+1530,Freak Mountain 7,SMP-II,42.68348889,-108.8355833,USDA-USFS-Shoshone NF-Washakie RD,838,,,,,,,,,,42.68348889,-108.8355833
+1054,Freak Mountain 7,SMP-II,42.68348889,-108.8355833,USDA-USFS-Shoshone NF-Lander RD,838,,,,,,,,,,42.68348889,-108.8355833
+1363,Freak Mountain 7,SMP-II,42.68348889,-108.8355833,USDA-USFS-Shoshone NF-Lander RD,838,,,,,,,,,,42.68348889,-108.8355833
+1952,Freak Mountain  7,SMP-II,42.68,-108.84,USDA-USFS,838,,,,,,,,,,42.68,-108.84
+1880,Muddy Mountain Road Fuel Break Slash Pile Burn,SMP-II,42.68,-106.27,Wyoming State Forestry Division,20,38400,Burned,11/23/2015,,,,,,,42.68,-106.27
+3079,Freak Mountain 7,SMP-II,42.68,-108.84,USDA-USFS-Shoshone NF-Washakie RD,838,,,,,,,,,,42.68,-108.84
+1455,Pile Burning,SMP-II,42.6726933,-109.2563485,USDA-USFS-Bridger-Teton NF-Big Piney RD,255,,,,,,,,,,42.6726933,-109.2563485
+3607,South La Bonte,SMP-II,42.67,-105.67,USFS,,11694,,,,,,,,,42.67,-105.67
+604,Red Canyon/Maki Creek,SMP-II,42.66813333,-110.4504833,USDI-BLM-Rock Springs Field Office,1000,,,,,,,,,,42.66813333,-110.4504833
+3728,Irish Canyon Landing Piles,SMP-II,42.66,-109.38,Wyoming State Forestry Division,97,45000,,,,,,,,,42.66,-109.38
+3737,Rock Creek Piles,SMP-II,42.66,-108.74,Wyoming State Forestry Division,,,,,,,,,,,42.66,-108.74
+3306,Tin Cup Pile Burn,SMP-II,42.66,-107.91,USDI-BLM-Lander Field Office,55,32500,,,,,,,,,42.66,-107.91
+3388,Tin Cup,SMP-II,42.66,-107.91,,5,8000,,,,,,,,,42.66,-107.91
+3815,Long Creek,SMP-II,42.66,-108.01,USDI-BLM-Lander Field Office,,25600,,,,,,,,,42.66,-108.01
+755,Freak Mountain 8 & 9,SMP-II,42.6522,-108.8067,USDA-USFS-Shoshone NF-Dubois RD,2480,,,,,,,,,,42.6522,-108.8067
+1057,Freak Mountain 9,SMP-II,42.6522,-108.8067,USDA-USFS-Shoshone NF-Lander RD,1030,,,,,,,,,,42.6522,-108.8067
+1364,Freak Mountain 9,SMP-II,42.6522,-108.8067,USDA-USFS-Shoshone NF-Lander RD,1030,,,,,,,,,,42.6522,-108.8067
+1405,West Zone Piles,SMP-II,42.645,-110.6682,USDA-USFS-Bridger-Teton NF-Greys River/Kemmerer RD,285,1500,,,,,,,,,42.645,-110.6682
+1250,Spring Creek Timber Sale,SMP-II,42.6445716,-110.5634096,USDA-USFS-Bridger-Teton NF-Greys River RD,156,12000,Burned,14-Nov-12,,,,,,,42.6445716,-110.5634096
+1719,Middle Fork F10,SMP-II,42.63,-108.82,USDA-USFS,1017,,,,,,,,,,42.63,-108.82
+1953,Middle Fork F10,SMP-II,42.63,-108.82,USDA-USFS,1017,,,,,,,,,,42.63,-108.82
+3758,Middle Fork F10,SMP-II,42.63,-108.82,,1017,,,,,,,,,,42.63,-108.82
+3080,Middle Fork F10,SMP-II,42.63,-108.82,USDA-USFS-Shoshone NF-Washakie RD,1017,,,,,,,,,,42.63,-108.82
+3266,Middle Fork F10,SMP-II,42.63,-108.82,USDA-USFS-Shoshone NF-Washakie RD,1017,,Burned,1/18/2018,1/19/2018,,,,,,42.63,-108.82
+3298,Bates Hole Juniper Broadcast,SMP-II,42.63,-106.37,USDI-BLM-Casper Field Office,450,,,,,,,,,,42.63,-106.37
+3444,Middle Fork F10,SMP-II,42.63,-108.82,USDA-USFS-Shoshone NF-Washakie RD,1017,,,,,,,,,,42.63,-108.82
+3469,Bates Hole Juniper Broadcast,SMP-II,42.63,-106.37,USDI-BLM-Casper Field Office,450,,,,,,,,,,42.63,-106.37
+3583,Middle Fork F10,SMP-II,42.63,-108.82,USDA Forest Service,1017,,,,,,,,,,42.63,-108.82
+756,Middle Fork F10,SMP-II,42.62759444,-108.8171778,USDA-USFS-Shoshone NF-Dubois RD,1017,,,,,,,,,,42.62759444,-108.8171778
+1055,Middle Fork F10,SMP-II,42.62759444,-108.8171778,USDA-USFS-Shoshone NF-Lander RD,1017,,,,,,,,,,42.62759444,-108.8171778
+1365,Middle Fork F10,SMP-II,42.62759444,-108.8171778,USDA-USFS-Shoshone NF-Lander RD,1017,,,,,,,,,,42.62759444,-108.8171778
+1531,Middle Fork F10,SMP-II,42.62759444,-108.8171778,USDA-USFS-Shoshone NF-Washakie RD,1017,,,,,,,,,,42.62759444,-108.8171778
+1532,Middle Fork F10,SMP-II,42.62759444,-108.8171778,USDA-USFS-Shoshone NF-Washakie RD,1017,,,,,,,,,,42.62759444,-108.8171778
+541,Lower Cottonwood Rx Burn,SMP-II,42.61143333,-110.8931389,USDA-USFS-Bridger-Teton NF-Greys River RD,400,,Burned,26-Sep-08,,,,,,,42.61143333,-110.8931389
+1666,Iron Mountain,SMP-II,42.58638,-105.297413,USDI-BLM-Rawlins Field Office,600,,,,,,,,,,42.58638,-105.297413
+674,Wet Fork of Sheep Creek,SMP-II,42.58083333,-106.2719444,USDI-BLM-Casper Field Office,1100,,Burned,2-Nov-10,3-Nov-10,4-Nov-10,,,,,42.58083333,-106.2719444
+750,Wet Fork of Sheep Creek,SMP-II,42.58083333,-106.2719444,USDI-BLM-Casper Field Office,1100,,,,,,,,,,42.58083333,-106.2719444
+537,Chicken Creek,SMP-II,42.58042222,-109.2269556,USDA-USFS-Bridger-Teton NF-Pinedale RD,2310,,,,,,,,,,42.58042222,-109.2269556
+3740,Twin Creek Piles,SMP-II,42.58,-108.68,Wyoming State Forestry Division,25,18900,,,,,,,,,42.58,-108.68
+2738,Twin Creek Piles,SMP-II,42.58,-108.68,Wyoming State Forestry Division,25,18900,,,,,,,,,42.58,-108.68
+1644,Blucher Piles,SMP-II,42.5604556,-109.1435028,USDI-BLM-Rock Springs Field Office,20,27143,Burned,19-Nov-14,20-Nov-14,21-Nov-14,22-Nov-14,23-Nov-14,,,42.5604556,-109.1435028
+542,Bell Draw,SMP-II,42.56040564,-106.2133024,USDI-BLM-Casper Field Office,1814,,,,,,,,,,42.56040564,-106.2133024
+1575,Blucher Piles,SMP-II,42.5603,-109.138,USDI-BLM-Rock Springs Field Office,20,27143,Burned,22-Feb-14,23-Feb-14,25-Feb-14,,,,,42.5603,-109.138
+3265,South Pass Aspen,SMP-II,42.55,-108.71,USDA-USFS-Shoshone NF-Washakie RD,300,313076,,,,,,,,,42.55,-108.71
+3447,South Pass Aspen: Beaver Creek Piles,SMP-II,42.55,-108.71,USDA-USFS-Shoshone NF-Washakie RD,300,313076,Burned,12/10/2019,12/17/2019,12/18/2019,,,,,42.55,-108.71
+3586,South Pass Aspen Beaver Creek,SMP-II,42.55,-108.71,USDA Forest Service,300,313076,Burned,1/9/2020,1/10/2020,12/2/2020,12/3/2020,12/7/2020,12/8/2020,12/9/2020,42.55,-108.71
+543,Bates Hole Big Sagebrush Restoration Rx,SMP-II,42.54814175,-106.4557419,"Fire Trax, LLC",578,,,,,,,,,,42.54814175,-106.4557419
+1113,Jay Collins Prescribed Burn 2012,SMP-II,42.54,-105.03,Wyoming Game and Fish Department,284,,,,,,,,,,42.54,-105.03
+1963,South Pass aspen,SMP-II,42.53,-108.72,USDA-USFS,112,19390,,,,,,,,,42.53,-108.72
+1869,South Pass aspen,SMP-II,42.53,-108.72,USDA-USFS,112,19390,,,,,,,,,42.53,-108.72
+3089,South Pass Aspen,SMP-II,42.53,-108.72,USDA-USFS-Shoshone NF-Washakie RD,113,19390,Burned,4/11/2017,4/12/2017,4/26/2017,11/21/2017,12/7/2017,12/8/2017,12/11/2017,42.53,-108.72
+3185,South Pine Aspen Piles,SMP-II,42.51,-108.13,USDI-BLM-Lander Field Office,220,40000,Burned,12/5/2017,12/6/2017,12/7/2017,12/12/2017,12/13/2017,,,42.51,-108.13
+874,Indian Springs,SMP-II,42.50014278,-106.2669375,USDI-BLM-Casper Field Office,1280,,Burned,19-Sep-11,20-Sep-11,21-Sep-11,22-Sep-11,23-Sep-11,24-Sep-11,25-Sep-11,42.50014278,-106.2669375
+3386,Atlantic City Fuels,SMP-II,42.49,-108.76,USDI-BLM-Lander Field Office,3,90000,Burned,11/14/2018,,,,,,,42.49,-108.76
+3535,South Pass Aspen FY20 Piles,SMP-II,42.48,-108.76,,39,60000,,,,,,,,,42.48,-108.76
+1878,Fort Fetterman Thinning Slash Pile Burn,SMP-II,42.45,-105.39,Wyoming State Forestry Division,21,31200,,,,,,,,,42.45,-105.39
+1982,Fort Fetterman Thinning Slash Pile Burn,SMP-II,42.45,-105.39,Wyoming State Forestry Division,21,31200,,,,,,,,,42.45,-105.39
+3324,LaBarge RX Burn,SMP-II,42.44,-110.58,USDA-USFS-Bridger-Teton NF-Kemmerer RD,1851,,,,,,,,,,42.44,-110.58
+3096,Wildcat Piles,SMP-II,42.43,-105.35,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,112,,,,,,,,,,42.43,-105.35
+3136,Pine Grove RX,SMP-II,42.43,-110.4,USDI-BLM-Rawlins Field Office,613,,,,,,,,,,42.43,-110.4
+3282,Wildcat Piles,SMP-II,42.43,-105.35,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,,89600,Burned,1/8/2018,1/9/2018,1/23/2018,1/24/2018,1/25/2018,,,42.43,-105.35
+3460,South Wildcate Piles,SMP-II,42.43,-105.35,USDA-USFS-Shoshone NF-Wind River RD,122,,,,,,,,,,42.43,-105.35
+3606,South Wildcat Piles,SMP-II,42.43,-105.35,USFS,224,735168,,,,,,,,,42.43,-105.35
+3662,Pine Grove,SMP-II,42.43,-110.4,,55,,,,,,,,,,42.43,-110.4
+1261,Laramie Peak - Harris Park,SMP-II,42.42066667,-105.3225833,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,42,,Burned,30-Jan-13,1-Feb-13,,,,,,42.42066667,-105.3225833
+1379,Laramie Peak-Harris Park,SMP-II,42.42066667,-105.3225833,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,42,,,,,,,,,,42.42066667,-105.3225833
+3878,Wildcat Burn 3,SMP-II,42.42,-105.34,,598,,,,,,,,,,42.42,-105.34
+3776,Wildcat RX,SMP-II,42.42,-105.33,,,,,,,,,,,,42.42,-105.33
+3097,Wildcat Broadcast,SMP-II,42.42,-105.34,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,400,,,,,,,,,,42.42,-105.34
+3251,Castle Rock Pile Burn,SMP-II,42.42,-105.34,Wyoming State Forestry Division,170,,,,,,,,,,42.42,-105.34
+3283,Wildcat Burn,SMP-II,42.42,-105.34,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,300,,Burned,10/23/2018,10/24/2018,,,,,,42.42,-105.34
+3286,Castle Rock Pile Burn,SMP-II,42.42,-105.34,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,,,,,,,,,,,42.42,-105.34
+3459,Castle Rock Pile Burn,SMP-II,42.42,-105.34,USDA-USFS-Shoshone NF-Wind River RD,170,,,,,,,,,,42.42,-105.34
+3538,Wildcat,SMP-II,42.42,-105.34,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,346,,,,,,,,,,42.42,-105.34
+1861,Paintrock Piles,SMP-II,42.4,-107.39,USDA-USFS-Bighorn NF,6,72500,Burned,12/1/2015,12/3/2015,12/7/2015,12/8/2015,12/9/2015,,,42.4,-107.39
+573,Crooks Mountain Aspen,SMP-II,42.3996007,-107.9789846,USDI-BLM-Fort Washakie Field Office,67,402000,Burned,15-Dec-08,16-Dec-08,,,,,,42.3996007,-107.9789846
+536,WYOFIRE Wildland Training Exercise,SMP-II,42.39722222,-104.7461111,Wyoming State Forestry Division,15,,Burned,31-May-08,1-Jun-08,,,,,,42.39722222,-104.7461111
+739,Esterbrook Broadcast,SMP-II,42.3969972,-105.3909226,USDI-BLM-WY High Plains District (Casper Field Office),200,,,,,,,,,,42.3969972,-105.3909226
+1417,Esterbrook Broadcast,SMP-II,42.3969972,-105.3909226,USDI-BLM-Casper Field Office,40,,,,,,,,,,42.3969972,-105.3909226
+1262,Laramie Peak - LaBonte Canyon,SMP-II,42.39636111,-105.6521667,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,160,,,,,,,,,,42.39636111,-105.6521667
+1380,Laramie Peak-Labonte Canyon,SMP-II,42.39636111,-105.6521667,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,160,,,,,,,,,,42.39636111,-105.6521667
+1549,Crooks Mountain Pile Burn (CY14),SMP-II,42.3848472,-107.9209346,USDI-BLM-Ft. Washakie Field Office,63,45250,Burned,11-Feb-14,15-Dec-14,,,,,,42.3848472,-107.9209346
+3877,Little Hornet,SMP-II,42.37,-110.55,,400,,Burned,11/4/2021,,,,,,,42.37,-110.55
+3855,Devil Pass RX,SMP-II,42.37,-105.65,,173,,,,,,,,,,42.37,-105.65
+3813,Cottonwood Campground,SMP-II,42.36,-107.68,,,4200,,,,,,,,,42.36,-107.68
+926,Green Mountain Pile Burn (CY11),SMP-II,42.354501,-107.7075661,USDI-BLM-Fort Washakie Field Office,72,94081,Burned,27-Oct-11,31-Oct-11,2-Nov-11,7-Nov-11,8-Nov-11,9-Nov-11,16-Nov-11,42.354501,-107.7075661
+1233,Green Mountain Pile Burn (CY12),SMP-II,42.354501,-107.7075661,USDI-BLM-Fort Washakie Field Office,92,118030,Burned,29-Oct-12,30-Oct-12,13-Nov-12,14-Nov-12,15-Nov-12,,,42.354501,-107.7075661
+812,West Zone Piles,SMP-II,42.340278,-110.6861,USDA-USFS-Bridger-Teton NF-Greys River/Kemmerer RD,100,59,,,,,,,,,42.340278,-110.6861
+3872,Big Park,SMP-II,42.33,-110.78,,9,9,Burned,11/9/2021,,,,,,,42.33,-110.78
+3397,Gentle Annie RX,SMP-II,42.33,-106.8,USDI-BLM-Pinedale Field Office,,5146219,Burned,11/16/2018,11/17/2018,11/18/2018,11/26/2018,11/27/2018,11/28/2018,11/29/2018,42.33,-106.8
+574,Green Mountain Aspen-Phase 2,SMP-II,42.326,-107.647,USDI-BLM-Fort Washakie Field Office,17,120000,Burned,9-Dec-08,10-Dec-08,,,,,,42.326,-107.647
+3814,Hadsell Watershed,SMP-II,42.32,-107.72,,500,,Burned,4/20/2021,4/29/2021,,,,,,42.32,-107.72
+1797,Hadsell Watershed Prescribed Burn_CY15,SMP-II,42.3,-107.71,USDI-BLM-Ft. Washakie Field Office,200,,,,,,,,,,42.3,-107.71
+2034,Hadsell Watershed Prescribed Burn_CY16,SMP-II,42.3,-107.71,USDI-BLM-Lander Field Office,500,,Burned,5/12/2016,,,,,,,42.3,-107.71
+1831,Smith Mountain,SMP-II,42.27,-105.72,USDI-BLM-Rawlins Field Office,819,,Burned,9/22/2015,9/23/2015,,,,,,42.27,-105.72
+3187,BLM Pinedale Pile burns,SMP-II,42.27,-110.45,USDI-BLM-Pinedale Field Office,307,2378568,Burned,11/7/2017,11/8/2017,11/9/2017,11/10/2017,11/11/2017,11/18/2017,11/19/2017,42.27,-110.45
+3407,Arkansas Creek Slash,SMP-II,42.27,-107.2,USDI-BLM-Rawlins Field Office,,30215,,,,,,,,,42.27,-107.2
+3472,Arkansas Creek Slash Piles,SMP-II,42.27,-107.2,USDI-BLM-Rawlins Field Office,,30215,,,,,,,,,42.27,-107.2
+928,KeSa,SMP-II,42.26985804,-105.8015323,"Fire Trax, LLC",1850,,Burned,21-Sep-11,22-Sep-11,23-Sep-11,,,,,42.26985804,-105.8015323
+620,Green Mountain Pile Burn,SMP-II,42.2690038,-107.707197,USDI-BLM-Ft. Washakie Field Office,207,1137040,Burned,23-Nov-09,24-Nov-09,24-Nov-09,,,,,42.2690038,-107.707197
+1665,Smith Mountain,SMP-II,42.267974,-105.724375,USDI-BLM-Rawlins Field Office,819,,,,,,,,,,42.267974,-105.724375
+1109,Miner Creek/East Ferris Rx,SMP-II,42.26500833,-107.1184444,USDI-BLM-Rawlins Field Office,8233,,,,,,,,,,42.26500833,-107.1184444
+924,West Zone Piles,SMP-II,42.26330833,-110.8016389,USDA-USFS-Bridger Teton NF-Greys River/Kemmerer RD,59,59,,,,,,,,,42.26330833,-110.8016389
+1086,West Zone Piles,SMP-II,42.2633,-110.8016,USDA-USFS-Bridger-Teton NF-Greys River/Kemmerer RD,100,1500,Burned,13-Oct-12,14-Nov-12,15-Nov-12,16-Nov-12,19-Nov-12,21-Nov-12,27-Nov-12,42.2633,-110.8016
+1260,Laramie Peak - Friend Park,SMP-II,42.26022222,-105.4978611,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,35,,,,,,,,,,42.26022222,-105.4978611
+1378,Laramie Peak-Friend Park,SMP-II,42.26022222,-105.4978611,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,35,,,,,,,,,,42.26022222,-105.4978611
+1115,Tinsley Prescribed Burn 2012,SMP-II,42.26,-104.94,Wyoming Game and Fish Department,120,,Burned,24-Mar-12,,,,,,,42.26,-104.94
+1770,Hamsfork Aspen RX Burn,SMP-II,42.26,-110.76,USDA-USFS-Bridger-Teton NF-Kemmerer RD,421,,,,,,,,,,42.26,-110.76
+1771,Laramie Peak-Friend Park,SMP-II,42.26,-105.5,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,80,2094,,,,,,,,,42.26,-105.5
+2016,Hamsfork Aspen Rx Burn,SMP-II,42.26,-110.76,USDA-USFS-Bridger-Teton NF-Kemmerer RD,421,,Burned,11/15/2016,11/16/2016,,,,,,42.26,-110.76
+3124,Hamsfork Aspen RX,SMP-II,42.26,-110.76,USDA-USFS-Bridger-Teton NF-Kemmerer RD,221,,,,,,,,,,42.26,-110.76
+3323,Hamsfork Aspen RX,SMP-II,42.26,-110.76,USDA-USFS-Bridger-Teton NF-Kemmerer RD,221,,,,,,,,,,42.26,-110.76
+3510,Hamsfork RX Basin Creek Unit,SMP-II,42.26,-110.77,USDA-USFS-Caribou-Targhee NF-Teton Basin RD,145,,Burned,6/12/2019,,,,,,,42.26,-110.77
+523,Monthly Pallet Burn,SMP-II,42.255957,-104.7422145,Wyoming Military Department,0,9600,,,,,,,,,42.255957,-104.7422145
+3857,Burdick,SMP-II,42.25,-110.45,,470,,,,,,,,,,42.25,-110.45
+3852,Hams Fork Aspen,SMP-II,42.25,-110.77,,27,,,,,,,,,,42.25,-110.77
+3332,Burdic Prescribe Burn 2018,SMP-II,42.25,-110.45,USDI-BLM-Pinedale Field Office,848,,,,,,,,,,42.25,-110.45
+3336,Perkins Creek Prescribed Burn 2018,SMP-II,42.25,-110.52,USDI-BLM-Pinedale Field Office,47,,,,,,,,,,42.25,-110.52
+3511,Burdick2019,SMP-II,42.25,-110.45,USDI-BLM-Pinedale Field Office,470,,,,,,,,,,42.25,-110.45
+774,Tinsley CRP 2011,SMP-II,42.2419314,-104.937771,Wyoming Game and Fish Department,290,,,,,,,,,,42.2419314,-104.937771
+1398,Fontenelle Willow Rx Burn Unit 2,SMP-II,42.2388,-110.5557,USDA-USFS-Bridger-Teton NF-Kemmerer RD,217,,,,,,,,,,42.2388,-110.5557
+1089,Fontenelle Willow Rx Burn Unit 2,SMP-II,42.2388,-110.5557,USDA-USFS-Bridger-Teton NF-Kemmerer RD,217,,,,,,,,,,42.2388,-110.5557
+1559,Fontenelle Willow Rx Burn Unit 2,SMP-II,42.2388,-110.5557,USDA-USFS-Bridger-Teton NF-Kemmerer RD,217,,,,,,,,,,42.2388,-110.5557
+810,Fontenelle Willow Rx Burn,SMP-II,42.23380556,-110.5515556,USDA-USFS-Bridger-Teton NF-Kemmerer RD,217,,,,,,,,,,42.23380556,-110.5515556
+662,Fontenelle Willow Rx Burn,SMP-II,42.23380556,-110.5515556,USDA-USFS-Bridger-Teton NF-Kemmerer RD,217,,,,,,,,,,42.23380556,-110.5515556
+2027,Miller Mountain Rx - Dutch George Creek Unit,SMP-II,42.2,-110.47,USDI-BLM-Pinedale Field Office,450,,,,,,,,,,42.2,-110.47
+1788,Halverson T.S Piles,SMP-II,42.18,-110.5,USDA-USFS-Bridger-Teton NF-Big Piney RD,151,140000,Burned,11/3/2015,11/16/2015,11/17/2015,11/19/2015,11/20/2015,11/24/2015,,42.18,-110.5
+1538,Morgan Creek Slash Piles,SMP-II,42.17302028,-106.9541225,USDI-BLM-Rawlins Field Office,,453240,,,,,,,,,42.17302028,-106.9541225
+1330,Morgan Creek Slash Piles,SMP-II,42.17302028,-106.9541225,USDI-BLM-Rawlins Field Office,71,453240,Burned,9-Jan-13,10-Jan-13,30-Jan-13,,,,,42.17302028,-106.9541225
+3851,Nugent Rx- Hams Fork Unit 2,SMP-II,42.17,-110.8,,68,,,,,,,,,,42.17,-110.8
+1409,Morgan Creek Broadcast Burn,SMP-II,42.16417278,-106.9428183,USDI-BLM-High Desert District (Rawlins Field Office),307,,Burned,6-May-13,,,,,,,42.16417278,-106.9428183
+1633,Smith Mountain,SMP-II,42.164167,-105.9428333,USDI-BLM-Rawlins Field Office,819,,,,,,,,,,42.164167,-105.9428333
+763,Pole Creek Rx Burn,SMP-II,42.15111111,-110.6897222,USDA-USFS-Bridger-Teton NF-Kemmerer RD,2000,,Burned,1-Nov-11,,,,,,,42.15111111,-110.6897222
+1087,Pole Creek Rx Burn,SMP-II,42.15111111,-110.6897222,USDA-USFS-Bridger-Teton NF-Kemmerer RD,2677,,Burned,22-Apr-12,23-Apr-12,23-Apr-12,,,,,42.15111111,-110.6897222
+1328,Pole Creek Rx Burn,SMP-II,42.15111111,-110.6897222,USDA-USFS-Bridger-Teton NF-Kemmerer RD,2677,,,,,,,,,,42.15111111,-110.6897222
+661,Pole Creek Rx,SMP-II,42.15111111,-110.6897222,USDA-USFS-Bridger-Teton NF-Kemmerer RD,5100,,Burned,3-Sep-10,3-Sep-10,4-Sep-10,4-Sep-10,5-Sep-10,6-Sep-10,6-Sep-10,42.15111111,-110.6897222
+1561,Pole Creek Rx Burn,SMP-II,42.15111111,-110.6897222,USDA-USFS-Bridger-Teton NF-Kemmerer RD,2677,,Burned,7-Jun-14,8-Jun-14,,,,,,42.15111111,-110.6897222
+1761,Pole Creek RX Burn,SMP-II,42.15,-110.69,USDA-USFS-Bridger-Teton NF-Kemmerer RD,1851,,,,,,,,,,42.15,-110.69
+2017,Pole Creek Rx Burn,SMP-II,42.15,-110.69,USDA-USFS-Bridger-Teton NF-Kemmerer RD,1851,,,,,,,,,,42.15,-110.69
+3125,Pole Creek RX,SMP-II,42.15,-110.69,USDA-USFS-Bridger-Teton NF-Kemmerer RD,1851,,,,,,,,,,42.15,-110.69
+3325,Pole Creek RX,SMP-II,42.15,-110.69,USDA-USFS-Bridger-Teton NF-Kemmerer RD,1851,,,,,,,,,,42.15,-110.69
+3408,Marking Pen Creek Slash Piles,SMP-II,42.15,-106.97,USDI-BLM-Rawlins Field Office,,180562,,,,,,,,,42.15,-106.97
+3656,Marking Pen Creek Slash,SMP-II,42.15,-106.93,USDI-BLM-Rawlins Field Office,,151075,,,,,,,,,42.15,-106.93
+1539,Sullivan Creek Slash Piles,SMP-II,42.14495556,-106.5180083,USDI-BLM-Rawlins Field Office,7,208260,,,,,,,,,42.14495556,-106.5180083
+1876,Sullivan Creek Slash Piles,SMP-II,42.14,-106.52,USDI-BLM-Rawlins Field Office,7,208260,,,,,,,,,42.14,-106.52
+3049,Sullivan Creek Slash Piles,SMP-II,42.14,-106.52,USDI-BLM-Rawlins Field Office,7,208260,,,,,,,,,42.14,-106.52
+3222,Sullivan Creek Slash Piles,SMP-II,42.14,-106.52,USDI-BLM-Rawlins Field Office,12,165989,,,,,,,,,42.14,-106.52
+1040,Airplane Park Slash Piles,SMP-II,42.12911944,-106.5001306,USDI-BLM-Rawlins Field Office,10,62000,Burned,5-Dec-12,13-Dec-12,,,,,,42.12911944,-106.5001306
+1540,Airplane Park Slash Piles,SMP-II,42.12911944,-106.5001306,USDI-BLM-Rawlins Field Office,5,62000,,,,,,,,,42.12911944,-106.5001306
+1114,Lovelace Prescribed Burn 2012,SMP-II,42.08,-104.99,Wyoming Game and Fish Department,20,,Burned,18-Mar-12,,,,,,,42.08,-104.99
+654,Commissary Ranch Pile Burn,SMP-II,42.05327778,-110.5849167,USDI-BLM-Rock Springs Field Office,10,8000,,,,,,,,,42.05327778,-110.5849167
+1787,Holmstrand CRP,SMP-II,42.02,-104.39,Wyoming Game and Fish Department,616,,Burned,3/14/2015,3/14/2015,,,,,,42.02,-104.39
+1112,Horblit Prescribed Burn 2012,SMP-II,42.01,-105.07,Wyoming Game and Fish Department,40,,Burned,10-Mar-12,,,,,,,42.01,-105.07
+3794,Commisary,SMP-II,42.01,-110.55,,,97600,,,,,,,,,42.01,-110.55
+3037,Commissary Ranches,SMP-II,42.01,-110.55,USDI-BLM-Kemmerer Field Office,60,19200,,,,,,,,,42.01,-110.55
+3227,Commissary Ranches,SMP-II,42.01,-110.55,USDI-BLM-Kemmerer Field Office,100,97600,,,,,,,,,42.01,-110.55
+3426,Commissary Ranches RX,SMP-II,42.01,-110.55,USDI-BLM-Kemmerer Field Office,100,97600,Burned,12/11/2018,12/12/2018,12/13/2018,12/14/2018,,,,42.01,-110.55
+3470,Commissary Ranches,SMP-II,42.01,-110.55,USDI-BLM-Kemmerer Field Office,100,97600,,,,,,,,,42.01,-110.55
+873,Cokeville Kiosk,SMP-II,41.98341,-110.9335547,USDI-USFWS-Cokeville Meadows National Wildlife Refuge,90,,,,,,,,,,41.98341,-110.9335547
+1093,Springer WHMA 2012,SMP-II,41.878264,-104.2958015,Wyoming Game and Fish Department,360,,Burned,15-Mar-12,16-Mar-12,21-Mar-12,,,,,41.878264,-104.2958015
+730,Springer WHMA 2011,SMP-II,41.8637189,-104.2957204,Wyoming Game and Fish Department,680,,Burned,28-Mar-11,,,,,,,41.8637189,-104.2957204
+2009,Springer WHMA 2016,SMP-II,41.86,-104.28,Wyoming Game and Fish Department,280,,Burned,3/12/2016,,,,,,,41.86,-104.28
+3490,Horse Creek,SMP-II,41.82,-110.53,USDA-USFS-Uinta-Wasatch-Cache NF-Evanston-Mountain View RD,250,942477,,,,,,,,,41.82,-110.53
+3793,Bear River SFA Pile,SMP-II,41.7,-111.02,,,648586,,,,,,,,,41.7,-111.02
+3308,Bear River SFA Conifer Encroachment Pile Burns,SMP-II,41.7,-111.02,USDI-BLM-Kemmerer Field Office,213,648585,Burned,3/6/2018,3/7/2018,12/4/2018,12/5/2018,12/6/2018,12/7/2018,,41.7,-111.02
+3464,Bear River SFA,SMP-II,41.7,-111.02,USDI-BLM-Kemmerer Field Office,213,648586,,,,,,,,,41.7,-111.02
+1629,Upper Separation Creek  Prescribed Burn,SMP-II,41.6301528,-107.3897194,USDI-BLM-Rawlins Field Office,409,,,,,,,,,,41.6301528,-107.3897194
+794,Upper Separation Creek Prescribed Burn,SMP-II,41.63015278,-107.3897194,USDI-BLM-High Desert District (Rawlins Field Office),2265,,,,,,,,,,41.63015278,-107.3897194
+1439,Upper Separation Creek Prescribed Burn,SMP-II,41.63015278,-107.3897194,USDI-BLM-High Desert District (Rawlins Field Office),2265,,,,,,,,,,41.63015278,-107.3897194
+2018,Iron Mountain Rx Burn – Limestone Ridge Unit,SMP-II,41.62,-105.33,USDI-BLM-Rawlins Field Office,650,,Burned,4/14/2016,,10/26/2017,10/27/2016,,,,41.62,-105.33
+1125,Iron Mountain,SMP-II,41.6061472,-105.3168133,USDI-BLM-Rawlins Field Office,1100,,,,,,,,,,41.6061472,-105.3168133
+610,Iron Mountain,SMP-II,41.6061472,-105.3168133,USDI-BLM-Rawlins Field Office,2700,,Burned,14-Apr-10,15-Apr-10,,,,,,41.6061472,-105.3168133
+909,Iron Mountain,SMP-II,41.6061455,-105.3361867,USDI-BLM-Rawlins Field Office,1100,,,,,,,,,,41.6061455,-105.3361867
+1795,Middle Canyon Rx Burn,SMP-II,41.59,-105.3,USDI-BLM-Rawlins Field Office,3640,,,,,,,,,,41.59,-105.3
+1427,Montgomery Pasture,SMP-II,41.56892222,-107.5195556,USDI-BLM-Rawlins Field Office,2089,,,,,,,,,,41.56892222,-107.5195556
+1628,Montgomery Pasture,SMP-II,41.5689222,-107.5195556,USDI-BLM-Rawlins Field Office,2089,,Burned,17-Sep-14,18-Sep-14,23-Sep-14,24-Sep-14,25-Sep-14,26-Sep-14,,41.5689222,-107.5195556
+1660,White Rocks Community Pile,SMP-II,41.555306,-106.306917,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,20,3280,Burned,19-Nov-14,,,,,,,41.555306,-106.306917
+1452,White Rocks Community Slash Pile Burning,SMP-II,41.55525556,-106.3075139,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,20,7241,,,,,,,,,41.55525556,-106.3075139
+1195,White Rocks Road Clearing Slash Pile Burning,SMP-II,41.54576111,-106.3082917,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,2,2290,Burned,13-Dec-12,,,,,,,41.54576111,-106.3082917
+1661,White Rocks unit 3&7,SMP-II,41.544333,-106.310556,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,34,19655,Burned,19-Dec-14,,,,,,,41.544333,-106.310556
+1877,White Rocks Fuels,SMP-II,41.54,-106.31,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,,122138,Burned,11/19/2015,,,,,,,41.54,-106.31
+3028,White Rock Fuels,SMP-II,41.54,-106.31,,82,1473,Burned,12/6/2016,,,,,,,41.54,-106.31
+3601,East Double Eight Timber Sale Slash Pile Burn,SMP-II,41.53,-106.38,USDI-BLM-Rawlins Field Office,77,58316,,,,,,,,,41.53,-106.38
+558,Bow River Camp Ground,SMP-II,41.52539722,-106.3889361,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,10,7860,Burned,9-Oct-09,3-Nov-09,,,,,,41.52539722,-106.3889361
+3285,Double Eight Timber,SMP-II,41.52,-106.38,USDI-BLM-Rawlins Field Office,,91891,,,,,,,,,41.52,-106.38
+1705,Finn Creek Salvage Sale Slash Pile Burn,SMP-II,41.513056,-106.454444,Wyoming State Forestry Division,,65000,Burned,17-Dec-14,,,,,,,41.513056,-106.454444
+559,Deep Creek Camp Ground,SMP-II,41.45788333,-106.2730194,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,20,33280,,,,,,,,,41.45788333,-106.2730194
+1653,NFSR 100,SMP-II,41.42,-106.47,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,97,34272,,,,,,,,,41.42,-106.47
+3565,FSR 100 Piles,SMP-II,41.42,-106.38,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,47100,Burned,11/15/2019,12/13/2019,,,,,,41.42,-106.38
+1442,100 Road Hazard Tree Slash Pile Burning,SMP-II,41.41691667,-106.4242333,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,62,16370,,,,,,,,,41.41691667,-106.4242333
+1208,Lincoln Park Camp Ground Pile Burning,SMP-II,41.37403333,-106.5137639,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,1,347,Burned,24-Oct-12,,,,,,,41.37403333,-106.5137639
+550,Lincoln Park Campground Slash Pile Burning,SMP-II,41.37385833,-106.5134,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,5,1600,,,,,,,,,41.37385833,-106.5134
+1624,Sugarloaf/Brooklyn Lake Piles,SMP-II,41.36305556,-106.2688889,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,10,7863,,,,,,,,,41.36305556,-106.2688889
+786,Bald Mountain/Mill Creek,SMP-II,41.36015556,-106.1168972,USDA-USFS-Medicine Bow-Routt NF-Laramie RD,,,,,,,,,,,41.36015556,-106.1168972
+1116,Bald Mountain/Mill Creek,SMP-II,41.36015556,-106.1168972,USDA-USFS-Medicine Bow-Routt NF-Laramie RD,110,,,,,,,,,,41.36015556,-106.1168972
+899,South Brush Campground Slash Pile Burning,SMP-II,41.34446111,-106.4984083,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,10,6144,,,,,,,,,41.34446111,-106.4984083
+634,South Brush Campground Slash Pile Burning,SMP-II,41.34446111,-106.4984083,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,10,107000,Burned,29-Oct-09,30-Oct-09,15-Nov-10,,,,,41.34446111,-106.4984083
+546,South Brush Campground Slash Pile Burning,SMP-II,41.34446111,-106.4984083,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,10,207000,,,,,,,,,41.34446111,-106.4984083
+931,200 Road Hazard Tree Slash Pile Burning,SMP-II,41.34375833,-106.5114139,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,17,8595,,,,,,,,,41.34375833,-106.5114139
+1196,200 Road Hazard Tree Slash Pile Burning,SMP-II,41.34375833,-106.5114139,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,17,8595,Burned,14-Nov-12,,,,,,,41.34375833,-106.5114139
+548,Brush Creek Visitor Center Slash Pile Burning,SMP-II,41.34294444,-106.5250611,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,5,43000,,,,,,,,,41.34294444,-106.5250611
+1445,Brush Creek Slash Pile Burning,SMP-II,41.34162222,-106.5230806,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,1,471,,,,,,,,,41.34162222,-106.5230806
+1387,Bald Mountain Rx,SMP-II,41.33972222,-106.1061111,USDA-USFS-Medicine Bow-Routt NF-Laramie RD,110,,,,,,,,,,41.33972222,-106.1061111
+1592,Snowy Range Slash Pile Burning 2,SMP-II,41.33883611,-106.5225056,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Brush Creek/Hayden RD,1,1650,,,,,,,,,41.33883611,-106.5225056
+905,South Brush Work Center Slash Pile Burning,SMP-II,41.33353056,-106.5179694,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,30,35342,Burned,14-Nov-11,,,,,,,41.33353056,-106.5179694
+930,School Bus Turn-around Slash Pile Burning,SMP-II,41.33353056,-106.5179694,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,30,35342,Burned,14-Nov-11,,,,,,,41.33353056,-106.5179694
+624,Sled Hill Trailhead Pile Burning,SMP-II,41.333525,-106.5184667,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,2,1440,,,,,,,,,41.333525,-106.5184667
+1446,French Creek Timber Sale Slash Pile Burning,SMP-II,41.33098889,-106.5070806,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,224,20627,,,,,,,,,41.33098889,-106.5070806
+677,Morgan Creek,SMP-II,41.33055556,-107.2794444,USDI-BLM-Rawlins Field Office,2000,,Burned,25-Aug-10,26-Aug-10,,,,,,41.33055556,-107.2794444
+898,Morgan Creek,SMP-II,41.33055556,-107.2794444,USDI-BLM-High Desert District (Rawlins Field Office),500,,,,,,,,,,41.33055556,-107.2794444
+1354,Highway 130-1 Hazard Tree Slash Pile Burning,SMP-II,41.33011111,-106.5161556,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,20,22656,Burned,29-Jan-13,,,,,,,41.33011111,-106.5161556
+1656,Ryan Park North,SMP-II,41.33,-106.51,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,3,1221,,,,,,,,,41.33,-106.51
+3223,Mill Creek Slash Piles,SMP-II,41.33,-107.22,USDI-BLM-Rawlins Field Office,38,12828,,,,,,,,,41.33,-107.22
+3284,Mill Creek,SMP-II,41.33,-107.22,USDI-BLM-Rawlins Field Office,38,12828,,,,,,,,,41.33,-107.22
+622,Ryan Park Snowmobile Parking Slash Pile Burning,SMP-II,41.3267,-106.4958972,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,3,7776,,,,,,,,,41.3267,-106.4958972
+544,Ryan Park Snowmobile Parking Slash Pile Burning,SMP-II,41.3267,-106.4958972,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,10,32000,,,,,,,,,41.3267,-106.4958972
+906,Snow Survey Cabin Slash Pile Burning,SMP-II,41.32636111,-106.3780944,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,5,15707,Burned,17-Oct-11,,,,,,,41.32636111,-106.3780944
+1206,Snow Survey Cabin Slash Pile Burning,SMP-II,41.32636111,-106.3780944,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,1,1375,Burned,24-Oct-12,,,,,,,41.32636111,-106.3780944
+633,Snow Survey Cabin Slash Pile Burning,SMP-II,41.32636111,-106.3780944,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,5,30000,,,,,,,,,41.32636111,-106.3780944
+1652,HWY 130,SMP-II,41.325979,-106.466539,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,2,410,Burned,18-Dec-14,,,,,,,41.325979,-106.466539
+623,Ryan Park Campground Slash Pile Burning,SMP-II,41.325825,-106.49185,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,5,42240,Burned,15-Nov-10,,,,,,,41.325825,-106.49185
+545,Ryan Park Camground Slash Pile Burning,SMP-II,41.325825,-106.49185,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,31,156000,,,,,,,,,41.325825,-106.49185
+1402,Red Wash Cattails Rx Burn,SMP-II,41.32518056,-107.7683361,USDI-BLM-Rawlins Field Office,328,,,,,,,,,,41.32518056,-107.7683361
+1448,Highway 130 Slash Pile Burning,SMP-II,41.32301389,-106.4573056,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,161,65751,,,,,,,,,41.32301389,-106.4573056
+1655,Ryan Park North,SMP-II,41.321319,-106.49,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,4,19,,,,,,,,,41.321319,-106.49
+1450,Ryan Park North Stewardship Slash Pile Burning,SMP-II,41.31394722,-106.4958722,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,62,8782,,,,,,,,,41.31394722,-106.4958722
+1204,Silver Lake Campground Slash Pile Burning,SMP-II,41.31135,-106.3597639,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,50,19473,Burned,24-Oct-12,,,,,,,41.31135,-106.3597639
+1590,Divide Peak Prescribed Burn,SMP-II,41.31020278,-107.1553278,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Brush Creek/Hayden RD,876,,,,,,,,,,41.31020278,-107.1553278
+3825,Divide Peak #1,SMP-II,41.31,-107.16,,876,,,,,,,,,,41.31,-107.16
+3347,Divide Peak #1 Prescribed Burn,SMP-II,41.31,-107.16,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Brush Creek/Hayden RD,876,,,,,,,,,,41.31,-107.16
+3677,Divide Peak,SMP-II,41.31,-107.16,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Brush Creek/Hayden RD,876,,,,,,,,,,41.31,-107.16
+1805,Divide Peak Prescribed Burn,SMP-II,41.31,-107.16,"USDA Forest Service, Brush Creek/Hayden Ranger District",876,,,,,,,,,,41.31,-107.16
+2024,Divide Peak #1 Prescribed Burn,SMP-II,41.31,-107.16,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Brush Creek/Hayden RD,876,,Burned,4/14/2016,,,,,,,41.31,-107.16
+3148,Divide Peak #1 Prescribed Burn,SMP-II,41.31,-107.16,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Brush Creek/Hayden RD,876,,,,,,,,,,41.31,-107.16
+1591,Snowy Range Slash Pile Burning 1,SMP-II,41.30631389,-106.4786833,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Brush Creek/Hayden RD,1,1675,,,,,,,,,41.30631389,-106.4786833
+3533,Divide Peak #1,SMP-II,41.3,-107.18,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Brush Creek/Hayden RD,300,,Burned,11/19/2019,,,,,,,41.3,-107.18
+650,Waste Water Plant Site Burn,SMP-II,41.28710278,-111.0044444,"City of Evanston, WY",,33426,,,,,,,,,41.28710278,-111.0044444
+575,Jack Creek Campground Slash Pile Burning,SMP-II,41.28461944,-107.1208028,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,10,57000,,,,,,,,,41.28461944,-107.1208028
+631,Jack Creek Campground Slash Pile Burning,SMP-II,41.28461944,-107.1208028,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,10,16000,Burned,26-Oct-10,,,,,,,41.28461944,-107.1208028
+627,Upper Tie Hack Trailhead Slash Pile Burning,SMP-II,41.28295833,-106.4599333,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,1,1296,Burned,13-Nov-09,,,,,,,41.28295833,-106.4599333
+690,Jack Creek Timber Sale BD Slash Pile Burning,SMP-II,41.28256111,-107.1114028,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,42,396000,Burned,19-Nov-10,,,,,,,41.28256111,-107.1114028
+632,Lower French Creek Trailhead Slash Pile Burning,SMP-II,41.28066111,-106.3474944,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,2,750,Burned,10-Nov-10,,,,,,,41.28066111,-106.3474944
+933,Jack Creek Work Center & Access Road Pile Burning,SMP-II,41.27405278,-107.1020722,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,10,1884,,,,,,,,,41.27405278,-107.1020722
+626,Jack Creek Workcenter Slash Pile Burning,SMP-II,41.27366389,-107.1091333,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,10,17740,Burned,5-Nov-09,,,,,,,41.27366389,-107.1091333
+1715,Pole Mtn Vegetation Project phase 1,SMP-II,41.26,-105.31,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,160,,Burned,2/20/2015,3/9/2015,6/18/2015,,,,,41.26,-105.31
+1947,Pole Mtn Vegetation Project phase 3,SMP-II,41.26,-105.31,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,320,,Burned,5/12/2016,6/9/2016,6/10/2016,6/15/2016,6/16/2016,,,41.26,-105.31
+1620,Pole Mtn Vegetation Project phase 1,SMP-II,41.2575,-105.3102778,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,80,,,,,,,,,,41.2575,-105.3102778
+1619,Pole Mtn Piles,SMP-II,41.2530556,-105.4152778,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,10,46119,,,,,,,,,41.2530556,-105.4152778
+1332,Pole Mountain Piles,SMP-II,41.25305556,-105.4152778,USDA-USFS-Medicine Bow-Routt NF-Laramie RD,35,40286,,,,,,,,,41.25305556,-105.4152778
+1714,Pole Mtn Piles,SMP-II,41.25,-105.42,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,10,46119,Burned,11/24/2015,,,,,,,41.25,-105.42
+3406,Corral Creek Slash Piles,SMP-II,41.25,-106.57,USDI-BLM-Rawlins Field Office,5,39122,,,,,,,,,41.25,-106.57
+1444,452 Road Hazard Tree Slash Pile Burning,SMP-II,41.24661389,-107.1635139,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,116,71674,,,,,,,,,41.24661389,-107.1635139
+625,Deep Jack Trail Head,SMP-II,41.24519722,-107.1166361,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,2,2000,Burned,26-Oct-10,,,,,,,41.24519722,-107.1166361
+1875,Dirtyman Creek Slash Piles,SMP-II,41.24,-107.2,USDI-BLM-Rawlins Field Office,650,453240,,,,,,,,,41.24,-107.2
+3061,Dirtyman Creek/Hansen Timber Sale Slash Piles,SMP-II,41.24,-107.2,USDI-BLM-Rawlins Field Office,,368093,Burned,12/14/2016,12/20/2016,,,,,,41.24,-107.2
+1266,Dirtyman Creek Slash Piles,SMP-II,41.23574111,-107.1951275,USDI-BLM-Rawlins Field Office,650,453240,Burned,20-Dec-12,,,,,,,41.23574111,-107.1951275
+1536,Dirtyman Creek Slash Piles,SMP-II,41.23574111,-107.1951275,USDI-BLM-Rawlins Field Office,650,453240,,,,,,,,,41.23574111,-107.1951275
+686,Sourdough Gravel Pit Slash Pile Burning,SMP-II,41.23291111,-106.418025,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,3,150000,,,,,,,,,41.23291111,-106.418025
+1654,NFSR500,SMP-II,41.23,-106.41,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,149,58927,,,,,,,,,41.23,-106.41
+552,Transfer Park Slash Pile Burning,SMP-II,41.22963056,-106.475925,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,1,1000,,,,,,,,,41.22963056,-106.475925
+1449,Recreation Residence Slash Pile Burning,SMP-II,41.22915833,-106.4765694,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,1,765,,,,,,,,,41.22915833,-106.4765694
+629,French Creek Campground Slash Pile Burning,SMP-II,41.22603333,-106.4809278,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,2,2048,Burned,26-Oct-10,,,,,,,41.22603333,-106.4809278
+1541,School Creek Slash Piles,SMP-II,41.22408611,-106.536775,USDI-BLM-Rawlins Field Office,1,208260,,,,,,,,,41.22408611,-106.536775
+1859,500 Road,SMP-II,41.22,-106.25,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,20,9233,Burned,11/25/2015,,,,,,,41.22,-106.25
+1873,School Creek Slash Piles,SMP-II,41.22,-106.54,USDI-BLM-Rawlins Field Office,2,150468,Burned,12/1/2015,,,,,,,41.22,-106.54
+3566,FSR500,SMP-II,41.22,-106.38,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,13040,Burned,11/25/2019,,,,,,,41.22,-106.38
+3020,Deep Creek Salvage Sale Slash Pile Burn,SMP-II,41.21,-107.2,Wyoming State Forestry Division,,300000,Burned,11/23/2016,,,,,,,41.21,-107.2
+3063,Teddy Creek Timber Sale Slash Piles,SMP-II,41.21,-106.92,USDI-BLM-Rawlins Field Office,,91891,Burned,12/19/2016,12/20/2016,,,,,,41.21,-106.92
+3116,Currant Creek Ridge RX,SMP-II,41.21,-109.44,USDI-BLM-Rock Springs Field Office,300,105000,,,,,,,,,41.21,-109.44
+3117,Lousy George Spring HFR RX,SMP-II,41.21,-109.44,USDI-BLM-Rock Springs Field Office,1000,40,Burned,11/7/2017,,,,,,,41.21,-109.44
+3291,Currant Creek Ridge RX,SMP-II,41.21,-109.44,USDI-BLM-Rock Springs Field Office,300,,,,,,,,,,41.21,-109.44
+1626,Rob Roy Piles,SMP-II,41.20777778,-106.2652778,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,50,39955,Burned,18-Nov-14,19-Nov-14,,,,,,41.20777778,-106.2652778
+3113,Teddy Creek Timber Sale Slash Piles,SMP-II,41.2,-106.9,USDI-BLM-Rawlins Field Office,,91891,,,,,,,,,41.2,-106.9
+3233,School Creek Slash Piles,SMP-II,41.2,-106.52,USDI-BLM-Rawlins Field Office,2,150468,,,,,,,,,41.2,-106.52
+1709,Currant Creek Ridge Juniper,SMP-II,41.19,-109.45,USDI-BLM-Rock Springs Field Office,320,157079,Burned,11/4/2015,11/12/2015,11/16/2015,,,,,41.19,-109.45
+3029,Hell Canyon,SMP-II,41.19,-107.29,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,24000,Burned,12/1/2016,,,,,,,41.19,-107.29
+3224,Hell Canyon,SMP-II,41.19,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Brush Creek/Hayden RD,,65000,Burned,11/7/2017,11/8/2017,,,,,,41.19,
+532,Deep Creek,SMP-II,41.1850817,-107.4690742,USDI-BLM-Rawlins Field Office,1500,,,,,,,,,,41.1850817,-107.4690742
+1712,2015 North WUI Units,SMP-II,41.18,-106.13,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,337,,,,,,,,,,41.18,-106.13
+2015,2015 North WUI Units,SMP-II,41.18,-106.13,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,337,,,,,,,,,,41.18,-106.13
+3040,Teddy Creek Salvage Sale Slash Pile Burn,SMP-II,41.18,-106.96,Wyoming State Forestry Division,,70000,,,,,,,,,41.18,-106.96
+3230,Highway 70 Roadside Piles,SMP-II,41.18,-106.9,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,45000,Burned,11/8/2017,11/13/2017,,,,,,41.18,-106.9
+3231,Soldier Summit#1 Piles,SMP-II,41.18,-106.9,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Parks RD,,13000,,,,,,,,,41.18,-106.9
+3396,Green Ridge Piles,SMP-II,41.18,-107.28,,,,,,,,,,,,41.18,-107.28
+3564,Green Ridge Piles,SMP-II,41.18,-107.28,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,13040,,,,,,,,,41.18,-107.28
+1201,801 Road Hazard Tree Slash Pile Burning,SMP-II,41.17909444,-107.2153833,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,82,28826,Burned,10-Nov-12,,,,,,,41.17909444,-107.2153833
+628,Bottle Creek Campground Slash Pile Burning,SMP-II,41.17638889,-106.9023611,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,15,114750,,,,,,,,,41.17638889,-106.9023611
+547,Bottle Creek Campground Slash Pile Burning,SMP-II,41.17638889,-106.9023611,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,10,104000,,,,,,,,,41.17638889,-106.9023611
+1207,Bottle Creek Camp Ground Pile Burning,SMP-II,41.17468333,-106.8995889,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,1,347,Burned,14-Dec-12,,,,,,,41.17468333,-106.8995889
+1092,Sandstone Prescribed Burn,SMP-II,41.17325,-106.2673361,USDA-USFS-Brush Creek/Hayden Ranger District,2775,,,,,,,,,,41.17325,-106.2673361
+602,Sandstone Prescribed Burn,SMP-II,41.17325,-106.2673361,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,1280,,,,,,,,,,41.17325,-106.2673361
+1390,Sandstone Prescribed Burn,SMP-II,41.17325,-106.2673361,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,2775,,,,,,,,,,41.17325,-106.2673361
+1576,Sandstone Prescribed Burn,SMP-II,41.17325,-106.2673361,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Brush Creek/Hayden RD,2575,,,,,,,,,,41.17325,-106.2673361
+1662,Solider Summit 1,SMP-II,41.172813,-106.814686,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,34,24452,,,,,,,,,41.172813,-106.814686
+1451,Soldier Summit Slash Pile Burning,SMP-II,41.17016389,-106.9068194,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,141,20999,,,,,,,,,41.17016389,-106.9068194
+1806,Sandstone Prescribed Burn,SMP-II,41.17,-106.27,"USDA Forest Service, Brush Creek/Hayden Ranger District",2575,,,,,,,,,,41.17,-106.27
+1658,NFSR 801,SMP-II,41.164917,-107.215917,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,33,7882,,,,,,,,,41.164917,-107.215917
+1625,Lake Owen Piles,SMP-II,41.16194444,-106.1375,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,50,25930,,,,,,,,,41.16194444,-106.1375
+561,Green Mountain Falls Trail Head,SMP-II,41.16001944,-106.8911667,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,1,1920,Burned,1-Oct-09,,,,,,,41.16001944,-106.8911667
+1867,Soldier Summit #1,SMP-II,41.16,-106.9,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Parks RD,679,49965,Burned,11/20/2015,,,,,,,41.16,-106.9
+3030,Soldier Summit 1,SMP-II,41.16,-106.9,,,50000,Burned,12/8/2016,,,,,,,41.16,-106.9
+3052,Highway 70 Piles,SMP-II,41.15,-106.95,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Brush Creek/Hayden RD,,37000,,,,,,,,,41.15,-106.95
+688,Lost Creek CG Slash Pile Burning,SMP-II,41.14250833,-107.0759639,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,3,2600,Burned,25-Oct-10,,,,,,,41.14250833,-107.0759639
+687,Baby Lakes Trail Head Slash Pile Burning,SMP-II,41.13833611,-107.0764306,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,3,2500,Burned,25-Oct-10,,,,,,,41.13833611,-107.0764306
+900,Road 550 Hazard Tree Slash Pile Burning,SMP-II,41.13280556,-106.8864639,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden Ranger District,,51199,Burned,1-Nov-11,,,,,,,41.13280556,-106.8864639
+3344,Tensleep Canyon 2,SMP-II,41.13,-107.26,USDA-USFS-Bighorn NF-Powder River RD,1500,,,,,,,,,,41.13,-107.26
+793,Prospect Mountain Prescribed Burn,SMP-II,41.11989444,-106.4360583,USDI-BLM-High Desert District (Rawlins Field Office),791,,,,,,,,,,41.11989444,-106.4360583
+660,Red Wash Wetlands,SMP-II,41.11989444,-106.4360583,USDI-BLM-Rock Springs Field Office,120,,,,,,,,,,41.11989444,-106.4360583
+526,Prospect Mountain Prescribed Burn,SMP-II,41.11989444,-106.4360583,USDI-BLM-Rawlins Field Office,791,,,,,,,,,,41.11989444,-106.4360583
+1407,Prospect Mountain Prescribed Burn,SMP-II,41.11989444,-106.4360583,USDI-BLM-High Desert District (Rawlins Field Office),360,,,,,,,,,,41.11989444,-106.4360583
+1596,Prospect Mountain Prescribed Burn,SMP-II,41.11989444,-106.4360583,USDI-BLM-Rawlins Field Office,360,,,,,,,,,,41.11989444,-106.4360583
+775,Brown's Spring Rx,SMP-II,41.11981944,-109.2183972,USDI-BLM-Rock Springs Office,250,,Burned,6-May-11,7-May-11,,,,,,41.11981944,-109.2183972
+939,Skyline Fuels Unit 3 Pile Burning,SMP-II,41.11707778,-106.6170639,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden Ranger District,10,933,,,,,,,,,41.11707778,-106.6170639
+938,Skyline Fuels Unit 4 Pile Burning,SMP-II,41.11451111,-106.6072194,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden Ranger District,10,5598,,,,,,,,,41.11451111,-106.6072194
+1205,Skyline Fuels Pile Burning,SMP-II,41.11416389,-106.6105556,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,50,3392,Burned,11-Dec-12,18-Dec-12,,,,,,41.11416389,-106.6105556
+553,Little Beaver Creek Slash Pile Burning,SMP-II,41.11156111,-106.6063667,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,5,4000,,,,,,,,,41.11156111,-106.6063667
+689,Sandstone Work Center Slash Pile Burning,SMP-II,41.11125833,-107.17155,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,3,3000,Burned,25-Nov-10,,,,,,,41.11125833,-107.17155
+557,Sandstone Work Center,SMP-II,41.11068889,-107.1712389,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,1,1920,,,,,,,,,41.11068889,-107.1712389
+551,Hog Park Campground Slash Pile Burning,SMP-II,41.11050833,-106.17075,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,5,3072,,,,,,,,,41.11050833,-106.17075
+683,Battle Hazardous Fuels Slash Pile Burning,SMP-II,41.11017222,-107.2057472,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,2000,3500000,Burned,25-Oct-10,9-Nov-10,,,,,,41.11017222,-107.2057472
+901,Battle Hazardous Fuels Slash Pile Burning,SMP-II,41.11017222,-107.2057472,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden Ranger District,,1085734,Burned,3-Nov-11,7-Nov-11,18-Nov-11,,,,,41.11017222,-107.2057472
+1202,Battle Hazardous Fuels Slash Pile Burning,SMP-II,41.11017222,-107.2057472,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,5,4000,Burned,10-Nov-12,,,,,,,41.11017222,-107.2057472
+1868,Soldier Summit #2,SMP-II,41.11,-106.9,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Parks RD,216,13128,Burned,11/20/2015,,,,,,,41.11,-106.9
+1659,HWY 70,SMP-II,41.10925,-107.204722,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,1,821,Burned,17-Dec-14,,,,,,,41.10925,-107.204722
+1443,409 Road Hazard Tree Slash Pile Burning,SMP-II,41.10851667,-106.7278278,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,15,10665,,,,,,,,,41.10851667,-106.7278278
+560,Green Mountain Trail Head,SMP-II,41.10849722,-106.9107417,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,1,1920,Burned,2-Oct-09,,,,,,,41.10849722,-106.9107417
+1447,Highway 70 Slash Pile Burning,SMP-II,41.10833056,-107.1820028,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,34,27133,,,,,,,,,41.10833056,-107.1820028
+670,Battle Unit 3 Prescribed Burn,SMP-II,41.10349444,-107.2351389,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,17,,,,,,,,,,41.10349444,-107.2351389
+2028,Lousey George,SMP-II,41.1,-109.35,USDI-BLM-Rock Springs Field Office,2100,,Burned,4/4/2016,12/12/2016,12/13/2016,12/14/2016,12/15/2016,12/16/2016,12/20/2016,41.1,-109.35
+1203,Carbon Power & Light Slash Pile Burning,SMP-II,41.09238611,-106.8571944,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,1,1200,Burned,25-Oct-12,,,,,,,41.09238611,-106.8571944
+907,Road 409 Hazard Tree Slash Pile Burning,SMP-II,41.08273611,-106.7364083,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,167,270852,,,,,,,,,41.08273611,-106.7364083
+1197,Road 409 Hazard Tree Slash Pile Burning,SMP-II,41.08273611,-106.7364083,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,70,270852,Burned,15-Nov-12,,,,,,,41.08273611,-106.7364083
+1858,Fox park,SMP-II,41.08,-106.18,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,10,3567,Burned,11/17/2015,,,,,,,41.08,-106.18
+1864,Blackhall,SMP-II,41.08,-106.71,"USDA Forest Service, Brush Creek/Hayden Ranger District",411,92795,Burned,11/9/2015,11/10/2015,,,,,,41.08,-106.71
+1874,Jelm Mountain Slash Piles,SMP-II,41.08,-105.99,USDI-BLM-Rawlins Field Office,,147518,,,,,,,,,41.08,-105.99
+3050,Jelm Mountain Slash Piles,SMP-II,41.08,-105.99,USDI-BLM-Rawlins Field Office,,147518,Burned,11/30/2016,12/20/2016,,,,,,41.08,-105.99
+1537,Jelm Mountain Slash Piles,SMP-II,41.07962222,-105.9886639,USDI-BLM-Rawlins Field Office,,147518,,,,,,,,,41.07962222,-105.9886639
+3232,Broadway Piles,SMP-II,41.07,-106.71,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,60000,Burned,11/15/2017,,,,,,,41.07,-106.71
+1638,HWY 230 Piles,SMP-II,41.0638889,-106.1383333,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,10,6443,,,,,,,,,41.0638889,-106.1383333
+691,Lower Sage,SMP-II,41.06277778,-110.3061111,USDA-USFS-UWF,450,,,,,,,,,,41.06277778,-110.3061111
+1713,HWY 230 Piles,SMP-II,41.06,-106.14,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,10,6443,Burned,11/17/2015,,,,,,,41.06,-106.14
+1639,530 and Pelton RC,SMP-II,41.0533333,-106.2077778,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,50,30159,Burned,5-Dec-14,6-Dec-14,,,,,,41.0533333,-106.2077778
+2002,Pelton Piles and Decks,SMP-II,41.05,-106.21,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,20,6291,,,,,,,,,41.05,-106.21
+3411,Chief Joseph Area Piles,SMP-II,41.05,-106.67,,,13696,,,,,,,,,41.05,-106.67
+903,Carbon Power & Light Tree Slash Pile Burning,SMP-II,41.04035278,-106.8699056,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,40,35994,Burned,1-Nov-11,2-Nov-11,,,,,,41.04035278,-106.8699056
+3381,Porcupine,SMP-II,41.04,-110.4,USDA-USFS-Uinta-Wasatch-Cache NF-Evanston-Mountain View RD,,28054,,,,,,,,,41.04,-110.4
+3515,Porcupine,SMP-II,41.04,-110.4,USDA-USFS-Uinta-Wasatch-Cache NF-Evanston-Mountain View RD,84,28054,,,,,,,,,41.04,-110.4
+3624,Porcupine,SMP-II,41.04,-110.4,USDA-USFS-Uinta-Wasatch-Cache NF-Evanston-Mountain View RD,,28054,,,,,,,,,41.04,-110.4
+630,Hog Park Picnic Ground Slash Pile Burning,SMP-II,41.039925,-106.8909972,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,6,27000,Burned,1-Oct-09,26-Oct-09,,,,,,41.039925,-106.8909972
+1198,Road 496 Hazard Tree Slash Pile Burning,SMP-II,41.036625,-106.7794389,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,70,27104,Burned,26-Oct-12,,,,,,,41.036625,-106.7794389
+1534,Tokewanna Slash Pile Disposal,SMP-II,41.03271389,-110.5908167,USDI-BLM-Kemmerer Field Office,100,116468,,,,,,,,,41.03271389,-110.5908167
+1384,Tokewanna Slash Pile Disposal,SMP-II,41.03271389,-110.5908167,USDI-BLM-Kemmerer Field Office,,173834,,,,,,,,,41.03271389,-110.5908167
+1708,Tokewanna Slash Pile Disposal,SMP-II,41.03,-110.59,USDI-BLM,100,116468,,,,,,,,,41.03,-110.59
+1918,Tokewanna Slash Pile Disposal,SMP-II,41.03,-110.59,USDI-BLM,60,4875,,,,,,,,,41.03,-110.59
+3209,Gilbert Meadow,SMP-II,41.03,-110.36,USDA-USFS-Uinta-Wasatch-Cache NF-Evanston-Mountain View RD,84,93825,Burned,11/20/2017,11/21/2017,,,,,,41.03,-110.36
+3255,Gilbert Meadows,SMP-II,41.03,-110.36,USDA-USFS-Uinta-Wasatch-Cache NF-Evanston-Mountain View RD,84,93825,,,,,,,,,41.03,-110.36
+3380,Thunder Bolt,SMP-II,41.03,-110.45,USDA-USFS-Uinta-Wasatch-Cache NF-Evanston-Mountain View RD,,37110,,,,,,,,,41.03,-110.45
+3514,Thunder Bolt,SMP-II,41.03,-110.45,USDA-USFS-Uinta-Wasatch-Cache NF-Evanston-Mountain View RD,84,37110,,,,,,,,,41.03,-110.45
+3623,Thunder Bolt,SMP-II,41.03,-110.45,USDA-USFS-Uinta-Wasatch-Cache NF-Evanston-Mountain View RD,,37110,,,,,,,,,41.03,-110.45
+904,Hog Park Campground Slash Pile Burning,SMP-II,41.02676111,-106.8619306,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,10,20635,,,,,,,,,41.02676111,-106.8619306
+549,Hog Park Campground Slash Pile Burning,SMP-II,41.02676111,-106.8619306,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,5,4100,,,,,,,,,41.02676111,-106.8619306
+684,Hog Park CG & Road Slash Pile Burning,SMP-II,41.02489722,-106.8637028,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,75,150000,Burned,27-Oct-10,,,,,,,41.02489722,-106.8637028
+932,Road 550-2 Hazard Tree Slash Pile Burning,SMP-II,41.02183333,-106.9158222,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,60,26485,,,,,,,,,41.02183333,-106.9158222
+1199,Road 550-2 Hazard Tree Slash Pile Burning,SMP-II,41.02183333,-106.9158222,USDA-USFS-Medicine Bow-Routt NF-Brush Creek/Hayden RD,61,26485,Burned,25-Oct-12,,,,,,,41.02183333,-106.9158222
+1331,Snowy Range Piles,SMP-II,41.01083333,-106.2558333,USDA-USFS-Medicine Bow-Routt NF-Laramie RD,100,144199,,,,,,,,,41.01083333,-106.2558333
+3786,Lousey George Spring HFR RX,SMP-II,41.01,-109.01,,,,,,,,,,,,41.01,-109.01
+3678,Badger Creek RX,SMP-II,41.01,-106.22,,102,,,,,,,,,,41.01,-106.22
+1857,Snowy Range Piles,SMP-II,41.01,-106.26,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,2,4519,,,,,,,,,41.01,-106.26
+3254,Horse Creek,SMP-II,41.01,-110.53,USDA-USFS-Uinta-Wasatch-Cache NF-Evanston-Mountain View RD,250,942477,,,,,,,,,41.01,-110.53
+3602,Lousy George Spring HFR RX,SMP-II,41.01,-109.02,USDI-BLM-Rock Springs Field Office,200,40000,,,,,,,,,41.01,-109.02
+3625,Horse Creek,SMP-II,41.01,-110.53,USDA-USFS-Uinta-Wasatch-Cache NF-Evanston-Mountain View RD,,942447,,,,,,,,,41.01,-110.53
+3639,Badger Creek RX,SMP-II,41.01,-106.22,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,102,,,,,,,,,,41.01,-106.22
+1574,Harriman Sale,SMP-II,41.0093983,-105.2390146,Wyoming State Forestry Division,22,11250,,,,,,,,,41.0093983,-105.2390146
+1194,Little Red Creek Rx,SMP-II,41.00523056,-109.0698861,USDI-BLM-Pinedale Field Office,400,,,,,,,,,,41.00523056,-109.0698861
+616,Little Red Creek Rx,SMP-II,41.00523056,-109.0698861,USDI-BLM-Rock Springs Field Office,1100,7000,,,,,,,,,41.00523056,-109.0698861
+3792,Little West Fork RX,SMP-II,41,-110.59,,,39040,Burned,1/28/2021,,,,,,,41,-110.59
+3228,Little West Fork Pile Burn,SMP-II,41,-110.59,USDI-BLM-Kemmerer Field Office,122,39040,,,,,,,,,41,-110.59
+3290,Lousy George Spring,SMP-II,41,-109.01,USDI-BLM-Rock Springs Field Office,1000,40,Burned,1/23/2018,1/24/2018,1/25/2018,1/29/2018,1/30/2018,2/1/2018,2/2/2018,41,-109.01
+3296,Little West Fork Pile Burn,SMP-II,41,-110.59,USDI-BLM-Kemmerer Field Office,122,39040,,,,,,,,,41,-110.59
+3399,Box Canyon Piles,SMP-II,41,-106.8,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,37699,,,,,,,,,41,-106.8
+3463,Lousy George,SMP-II,41,-109.01,USDI-BLM-Rock Springs Field Office,200,35000,Burned,2/5/2019,4/3/2019,,,,,,41,-109.01
+3465,Little West Fork RX,SMP-II,41,-110.59,USDI-BLM-Kemmerer Field Office,122,39040,,,,,,,,,41,-110.59
+1460,Little Red Creek,SMP-II,-109.0781306,41.0106083,USDI; BLM; High Desert District,800,,,,,,,,,,-109.0781306,41.0106083
+682,Snowy Range Pile Burn '10,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF-Laramie RD,,4000,,,,,,,,,,
+699,Pole Mountain Pile Burn FY 2011,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF-Laramie RD,,4000,,,,,,,,,,
+751,Snowy Range Piles 2011,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF- Laramie Ranger District,650,4000,Burned,5-Jan-11,26-Oct-11,27-Oct-11,28-Oct-11,3-Nov-11,16-Nov-11,22-Nov-11,,
+752,Pole Mountain Piles 2011,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF-Laramie RD,50,4000,Burned,3-Nov-11,,,,,,,,
+1078,Snowy Range Pile Burn FY 2012,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF-Laramie RD,650,4000,Burned,13-Nov-12,14-Nov-12,19-Nov-12,10-Dec-12,11-Dec-12,,,,
+1079,Pole Mountain Pile Burn FY 2012,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF-Laramie RD,100,4000,,,,,,,,,,
+1099,NE Quad,SMP-II,,,USDA-USFS-Bridger-Teton NF-Moran RD,,,,,,,,,,,,
+572,West Zone Piles,SMP-II,,,USDA-USFS-Bridger-Teton NF-Greys River/Kemmerer RD,100,59,Burned,17-Apr-09,13-May-09,6-Jun-09,,,,,,
+1465,Scab Creek Pile Burn,SMP-II,,,DOI - BLM - Pinedale Field Office,5,10000,,,,,,,,,,
+952,Grant Village Pile/Debris,SMP-II,,,,,,Burned,14-Nov-11,,,,,,,,
+1646,ZN Sheephead Mountain,SMP-II,,,,600,,,,,,,,,,,
+1663,Green Mountain Pile Burn (CY14),SMP-II,,,USDI-BLM-Ft. Washakie Field Office,22,28200,Burned,18-Nov-14,19-Nov-14,,,,,,,
+1701,Miller Creek Pile Burn,SMP-II,,,USDI-BLM-Pinedale Field Office,10,20000,Burned,11-Dec-14,,,,,,,,
+1544,Laramie District Programmatic Pile Burn,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,600,4000,,,,,,,,,,
+1648,Pinedale District Pile Burn,SMP-II,,,Bridger Teton National Forest,130,20,,,,,,,,,,
+1679,South Bearlodge Machine Piles 2014-15,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,,4000000,Burned,12-Nov-14,13-Nov-14,14-Nov-14,18-Nov-14,20-Nov-14,21-Nov-14,,,
+1682,,SMP-II,,,Town of Sundance,1,36000,Burned,15-Nov-14,16-Nov-14,,,,,,,
+1693,Pitch Pine Salvage Sale Slash Pile Burn,SMP-II,,,Wyoming State Forestry Division,,69000,Burned,17-Dec-14,,,,,,,,
+1699,South Cottonwood TS piles,SMP-II,,,,,,Burned,3-Dec-14,4-Dec-14,10-Dec-14,12-Dec-14,16-Dec-14,17-Dec-14,19-Dec-14,,
+1643,Currant Creek Ridge Juniper,SMP-II,,,,,,Burned,22-Oct-14,12-Nov-14,13-Nov-14,24-Nov-14,15-Dec-14,16-Dec-14,17-Dec-14,,
+3849,Casper Mountain Slash,SMP-II,,,,,150000,,,,,,,,,,
+3826,Pole MTN. Veg Project,SMP-II,,,,,,,,,,,,,,,
+3840,Teton Basin Piles,SMP-II,,,,,7900,,,,,,,,,,
+3796,Spring Creek,SMP-II,,,,,3200,,,,,,,,,,
+3797,South Fork Labonte,SMP-II,,,,,,,,,,,,,,,
+1745,North Bearlodge Machine Piles 2015,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,410,1200000,,,,,,,,,,
+1763,Breteche Creek Prescribed Burn,SMP-II,,,USDI-BLM-Cody Field Office,100,,,,,,,,,,,
+1764,Little Mountain/Moss Ranch Prescribed Burn,SMP-II,,,USDI-BLM-Cody Field Office,50,,,,,,,,,,,
+1765,North Little Mountain Prescribed Burn,SMP-II,,,USDI-BLM-Cody Field Office,300,,Burned,3/19/2015,3/20/2015,3/21/2015,3/22/2015,4/7/2015,,,,
+1767,Rattlesnake Mountain Pile Burn,SMP-II,,,USDI-BLM-Cody Field Office,10,9802,,,,,,,,,,
+1768,West Slope Riparian Prescribed Burn,SMP-II,,,USDI-BLM-Cody Field Office,25,,Burned,4/21/2015,4/22/2015,,,,,,,
+1769,West Slope habitat Enhancement Prescribed Burn,SMP-II,,,USDI-BLM-Cody Field Office,50,,,,,,,,,,,
+3371,MBRTB Pile Burn Plan,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,327250,Burned,11/29/2018,12/3/2018,12/6/2018,12/17/2018,12/18/2018,,,,
+3684,Buttes Area machine Pile Disposal,SMP-II,,,,,1099560,,,,,,,,,,
+3685,Ike Area Machine Pile,SMP-II,,,,,1200000,,,,,,,,,,
+3686,Rattlesnake Area Machine Pile Disposal,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,,4236956,,,,,,,,,,
+3704,MBRTB Progammatic Pile Burn,SMP-II,,,,,,,,,,,,,,,
+3708,Ryan Park,SMP-II,,,,,2500,Burned,12/14/2020,,,,,,,,
+3733,Mule Creek Salvage Sale Slash Pile Burn,SMP-II,,,Wyoming State Forestry Division,,65000,,,,,,,,,,
+3739,Rock Creek Piles,SMP-II,,,Wyoming State Forestry Division,20,15570,,,,,,,,,,
+3742,Buttes Area Machine Pile Disposal,SMP-II,,,,,15708,Burned,1/20/2021,2/10/2021,,,,,,,
+3743,Herman Area Machine Pile Disposal,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,,2120580,Burned,1/21/2021,1/28/2021,2/9/2021,2/10/2021,2/18/2021,2/22/2021,2/23/2021,,
+3744,Ike Area Machine Pile Disposal,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,,1200000,Burned,1/5/2021,,,,,,,,
+3745,North Bearlodge Area,SMP-II,,,,,820000,Burned,2/16/2021,2/17/2021,2/18/2021,2/22/2021,2/23/2021,2/24/2021,2/25/2021,,
+3747,Fish Mountain Area Hand Piles,SMP-II,,,,,,Burned,2/17/2021,2/18/2021,,,,,,,
+3750,MBRTB Programmatic Piles Burn,SMP-II,,,,,300000,,,,,,,,,,
+3751,MBRTB,SMP-II,,,,,2500,,,,,,,,,,
+1836,Upper Clarks Fork,SMP-II,,,,,,Burned,10/13/2015,10/17/2015,,,,,,,
+1849,Divide Peak #2,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,428,,,,,,,,,,,
+1870,Finn Creek Salvage Sale Slash Pile Burn,SMP-II,,,Wyoming State Forestry Division,,35000,Burned,11/23/2015,,,,,,,,
+1871,Crooks Mountain Pile Burn (CY15),SMP-II,,,USDI-BLM-Ft. Washakie Field Office,2,3100,Burned,12/16/2015,,,,,,,,
+1872,Mule Creek Salvage Sale Slash Pile Burn,SMP-II,,,Wyoming State Forestry Division,,65000,,,,,,,,,,
+1883,Rattle Snake Mountain Pile Burn,SMP-II,,,USDI-BLM-Cody Field Office,10,,,,,,,,,,,
+1983,Divide Peak #2,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,428,,,,,,,,,,,
+2003,Reuter Machine Piles 2016,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,,100000,Burned,2/4/2016,,,,,,,,
+2098,Programmatic Pile Burn FY2016/17,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,4000,Burned,11/30/2017,12/1/2017,12/2/2017,,,,,,
+2099,Bald Mtn,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,110,,,,,,,,,,,
+3000,South Fork Mill Creek,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,115,,,,,,,,,,,
+3039,Mule Creek Salvage Sale Slash Pile Burn,SMP-II,,,Wyoming State Forestry Division,,65000,,,,,,,,,,
+3048,North Bearlodge Machine Piles 2016,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,110,15708,,,,,,,,,,
+3059,Jelm Mountain FS,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,400,,,,,,,,,,
+3092,North Bearlodge Machine Piles 2016,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,,1727880,Burned,1/30/2017,2/2/2017,,,,,,,
+3115,Pole Mtn. Veg Project,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,1500,,Burned,6/19/2017,6/20/2017,6/21/2017,6/22/2017,,,,,
+3139,Tenton Basin Pile Burning,SMP-II,,,,16,9400,Burned,5/25/2017,10/30/2017,,,,,,,
+3141,BOR- Ocean Lake,SMP-II,,,USDI-BLM-Lander Field Office,89,,,,,,,,,,,
+3147,Programmatic Pile Burn FY2016/17,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,4000,Burned,3/20/2017,3/23/2017,,,,,,,
+3149,Hadsell Watershed Prescribed Burn_CY17,SMP-II,,,USDI-BLM-Lander Field Office,500,,Burned,4/14/2017,4/15/2017,4/18/2017,,,,,,
+3155,Casper Mountain Slash Pile Burn 2017,SMP-II,,,Casper Mountain Fire District,,165000,Burned,5/6/2017,,,,,,,,
+3160,Divide Peak #2,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Brush Creek/Hayden RD,428,,,,,,,,,,,
+3188,Foxborough,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,50,2000,Burned,11/7/2017,,,,,,,,
+3189,Hwy 130,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,50,2000,Burned,10/3/2017,11/15/2017,,,,,,,
+3190,Platte Ridge,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,300,2000,Burned,11/8/2017,11/13/2017,11/15/2017,12/22/2017,12/29/2017,,,,
+3193,Deep Creek Salvage Sale Slash Pile Burn,SMP-II,,,Wyoming State Forestry Division,,300000,Burned,12/4/2017,,,,,,,,
+3194,Mule Creek Salvage Sale Slash Pile Burn,SMP-II,,,Wyoming State Forestry Division,,65000,,,,,,,,,,
+3210,Suspender,SMP-II,,,USDA-USFS-Uinta-Wasatch-Cache NF-Evanston-Mountain View RD,70,942477,,,,,,,,,,
+3234,Double Eight Timber Sale Slash Piles,SMP-II,,,USDI-BLM-Rawlins Field Office,,,,,,,,,,,,
+3240,Rattlesnake Area Machine Pile Disposal,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,,1727880,,,,,,,,,,
+3253,Rattlesnake Area Machine Pile Disposal,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,,1727880,Burned,1/23/2018,1/25/2018,1/30/2018,1/31/2018,12/3/2018,12/4/2018,,,
+3256,Suspender,SMP-II,,,USDA-USFS-Uinta-Wasatch-Cache NF-Evanston-Mountain View RD,,84823,,,,,,,,,,
+3275,Vista Piles,SMP-II,,,USDA-USFS-Shoshone NF-Washakie RD,72,17056,,,,,,,,,,
+3288,Pole Mtn. Veg Project,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,2000,,,,,,,,,,,
+3297,WGFD Bud Love WHMA,SMP-II,,,Wyoming Game and Fish Department,1915,,,,,,,,,,,
+3309,Sourdough,SMP-II,,,Neiman Timber,,7840,Burned,2/24/2018,,,,,,,,
+3311,Davidson,SMP-II,,,Neiman Timber Company,2,850000,,,,,,,,,,
+3317,Teton Basin Pile Burning,SMP-II,,,USDA-USFS-Bridger-Teton NF-Buffalo RD,12,7900,Burned,5/11/2018,,,,,,,,
+3327,Beaver Creek North,SMP-II,,,USDA-USFS-Shoshone NF-Greybull RD,5285,,,,,,,,,,,
+3328,Beaver Creek South,SMP-II,,,USDA-USFS-Shoshone NF-Greybull RD,7142,,,,,,,,,,,
+3333,Hadsell Watershed,SMP-II,,,USDI-BLM-Lander Field Office,500,,,,,,,,,,,
+3337,Casper Mountain Slash Pile,SMP-II,,,Casper Mountain Fire District,,165000,Burned,4/21/2018,,,,,,,,
+3340,Philip Prescribed Fire,SMP-II,,,USDI-BLM-Pinedale Field Office,200,,,,,,,,,,,
+3374,Ike Area Machine Pile Disposal,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,20,314160,,,,,,,,,,
+3409,Buttes Area,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,170,15708,,,,,,,,,,
+3457,Buttes Area Machine Pile Disposal,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,,2670360,Burned,2/13/2019,1/29/2019,,,,,,,
+3458,Ike Area Machine Pile,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,,1200000,,,,,,,,,,
+3480,BOR - Ocean Lake,SMP-II,,,USDI-BLM-Lander Field Office,150,,Burned,2/28/2019,,,,,,,,
+3483,Pole Mnt Veg,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,2000,,Burned,6/13/2019,6/14/2019,,,,,,,
+3485,Mongoose Machine Pile Disposal,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,,,Burned,2/20/2019,,,,,,,,
+3495,Old Elk Ranch 2019,SMP-II,,,Old Elk Ranch,580,,,,,,,,,,,
+3501,Teton Basin Pile Burning,SMP-II,,,USDA-USFS-Caribou-Targhee NF-Teton Basin RD,10,7900,,,,,,,,,,
+3502,Casper Mountain Slash Pile Burn 2019,SMP-II,,,Casper Mountain Fire District,,165000,Burned,4/20/2019,,,,,,,,
+3507,MBRTB Progammatic Pile Burn,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,327250,Burned,11/4/2019,11/5/2019,11/12/2019,11/18/2019,12/4/2019,12/9/2019,12/10/2019,,
+3524,West Zone Piles,SMP-II,,,USDA-USFS-Bridger-Teton NF-Big Piney RD,,86400,,,,,,,,,,
+3542,Buttes Area Machine Pile Disposal,SMP-II,,,,,1099560,,,,,,,,,,
+3543,North Bearlodge,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,,820000,,,,,,,,,,
+3544,Rattlesnake Area,SMP-II,,,,,4326956,,,,,,,,,,
+3548,Herman Area,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,,2200000,,,,,,,,,,
+3578,Central Zone Piles,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,3000000,,,,,,,,,,
+3616,North Bearlodge Area Machine Pile Disposal,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,,820000,,,,,,,,,,
+3617,Herman Area Machine Pile Disposal,SMP-II,,,USDA-USFS-Black Hills NF-Bearlodge RD,,2200000,,,,,,,,,,
+3645,Pole Mtn. Veg Project,SMP-II,,,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,2000,,,,,,,,,,,
+3658,Teton Basin Pile,SMP-II,,,USDA-USFS-Caribou-Targhee NF-Teton Basin RD,,7900,,,,,,,,,,
+3661,Casper Mountain Slash Pile Burn 2020,SMP-II,,,Casper Mountain Fire District,,150000,Burned,4/18/2020,,,,,,,,
+3886,Dry Muddy,SMP-II,,,,,483295,,,,,,,,,,
+3837,Thunder Bolt,SMP-II,,,,,,Burned,4/20/2021,4/21/2021,,,,,,,
+1906,2015 Miller Creek Pile Burn,SMP-II,,,,,,Burned,12/29/2015,,,,,,,,
+3481,Philip RX,SMP-II,,,,,,Burned,4/24/2019,,,,,,,,
+3746,Rattlesnake Area,SMP-II,,,,,,Burned,1/5/2021,1/13/2021,1/19/2021,,,,,,
+3880,Phillips Ridge,SMP-II,,,,,,Burned,10/22/2021,10/24/2021,10/25/2021,10/26/2021,10/27/2021,10/28/2021,11/2/2021,,
+3879,Bitmore,SMP-II,,,,,,Burned,12/14/2021,12/16/2021,,,,,,,

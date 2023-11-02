@@ -1,0 +1,106 @@
+AgencyID,AdministrativeUnit,AgencyGroup,FETSAgencyGroup
+AFQ,U.S. Air Force Academy,DoD,DOD
+ALR,Alamosa National Wildlife Refuge,USFWS,USFWS
+ALS,Alamosa District Colo State Forest Svc,CSFS,STATE
+ARF,Arapaho/Roosevelt National Forests,USFS,USFS
+ARR,Arapaho National Wildlife Refuge,USFWS,USFWS
+BAP,Baca National Park,NPS,NPS
+BAR,Baca National Wildlife Refuge,USFWS,USFWS
+BCP,Black Canyon National Park,NPS,NPS
+BCX,City of Boulder,Local Gov't Agency,LOCAL
+BFP,Bent’s Old Fort National Historic Site,NPS,NPS
+BOS,Boulder District Colo State Forest Svc,CSFS,STATE
+BOX,Boulder County Open Space,Local Gov't Agency,LOCAL
+BPR,Browns Park National Wildlife Refuge,USFWS,USFWS
+BPT,Banded Peak Ranch,Private Land,PVT
+BRS,Broomfield District Colo State Forest Svc,CSFS,STATE
+BRW,"Brush Area, Colo Parks & Wildlife Div",CPW,STATE
+BVT,Blue Valley Ranch,Private Land,PVT
+CCP,Curecanti National Monument,NPS,NPS
+CCS,Canon City District Colo State Forest Svc,CSFS,STATE
+CDQ,Army Chemical Depot,DoD,DOD
+CNP,Colorado National Monument,NPS,NPS
+CRC,"Colorado River Region, Div Fire Prev & Ctrl",DFPC,STATE
+CRD,"Little Snake Office (Craig), BLM",BLM,BLM
+CSW,"Colorado Springs Area, Colo Pks Wildlife",CPW,STATE
+DEW,"Denver Area, Colo Parks & Wildlife Div",CPW,STATE
+DRS,Durango District Colo State Forest Svc,CSFS,STATE
+DSP,Dinosaur National Monument,NPS,NPS
+DUW,"Durango Area, Colo Parks & Wildlife Div",CPW,STATE
+FCQ,Fort Carson Army,DoD,DOD
+FCS,Fort Collins District Colo State Forest Svc,CSFS,STATE
+FCW,"Fort Collins Area, Colo Parks & Wildlife Div",CPW,STATE
+FCX,City of Fort Collins,Local Gov't Agency,LOCAL
+FFP,Florissant Fossil Beds National Monument,NPS,NPS
+FRS,Franktown District Colo State Forest Svc,CSFS,STATE
+GCX,City of Greeley,Local Gov't Agency,LOCAL
+GJS,Grand Junction District Colo State Forest Svc,CSFS,STATE
+GJW,Grand Junction Area,CPW,STATE
+GMF,Grand Mesa/Uncompahgre/Gunnison Nat'l Forests,USFS,USFS
+GOS,Golden District Colo State Forest Svc,CSFS,STATE
+GRD,"Grand Junction Office, BLM",BLM,BLM
+GRS,Granby District Colo State Forest Svc,CSFS,STATE
+GSP,Great Sand Dunes National Park,NPS,NPS
+GSW,"Glenwood Springs Area, Colo Pks Wildlife",CPW,STATE
+GUS,Gunnison District Colo State Forest Svc,CSFS,STATE
+GUW,"Gunnison Area, Colo Parks & Wildlife Div",CPW,STATE
+GWD,"Colo River Valley Office (Glenwood), BLM",BLM,BLM
+HSW,"Hot Sulphur Springs Area, Colo Pks Wildlife",CPW,STATE
+JEX,Jefferson County Open Space,Local Gov't Agency,LOCAL
+KRD,"Kremmling Office, BLM",BLM,BLM
+LAW,"Lamar Area, Colo Parks & Wildlife Div",CPW,STATE
+LCL,Local Government Agency,Local Gov't Agency,LOCAL
+LJD,"La Jara Office, BLM",BLM,BLM
+LJS,La Junta District Colo State Forest Svc,CSFS,STATE
+LRX,Larimer County,Local Gov't Agency,LOCAL
+LVS,La Veta District Colo State Forest Svc,CSFS,STATE
+MEW,"Meeker Area, Colo Parks & Wildlife Div",CPW,STATE
+MLF,Manti La Salle National Forests,USFS,USFS
+MOS,Montrose District Colo State Forest Svc,CSFS,STATE
+MOW,"Montrose Area, Colo Parks & Wildlife Div",CPW,STATE
+MUL,multiple agencies,Multiple Agencies,MULTI
+MVP,Mesa Verde National Park,NPS,NPS
+MVR,Monte Vista National Wildlife Refuge,USFWS,USFWS
+MVW,"Monte Vista Area, Colo Parks & Wildlife Div",CPW,STATE
+NEC,"Northeast Region, Div Fire Prev & Ctrl",DFPC,STATE
+NFC,"North Central Foothills Region, DFPC",DFPC,STATE
+NPC,"North Central Plains Region, DFPC",DFPC,STATE
+NWC,"Northwest Region, Div Fire Prev & Ctrl",DFPC,STATE
+OTR,Other,Non-Profits & Misc. Fed,PVT
+PSF,Pike/San Isabel National Forests,USFS,USFS
+PUW,"Pueblo Area, Colo Parks & Wildlife Div",CPW,STATE
+PVT,Privately-owned land being burned by owner,Private Land,PVT
+RFR,Rocky Flats Wildlife Refuge,USFWS,USFWS
+RGD,"Royal Gorge Office (Canon City), BLM",BLM,BLM
+RGF,Rio Grande National Forest,USFS,USFS
+RMP,Rocky Mountain National Park,NPS,NPS
+RMR,Rocky Mountain Arsenal Wildlife Refuge,USFWS,USFWS
+RTF,Routt National Forest,USFS,USFS
+SAS,Salida District Colo State Forest Svc,CSFS,STATE
+SAW,"Salida Area, Colo Parks & Wildlife Div",CPW,STATE
+SCC,"South Central Region, Div Fire Prev & Ctrl",DFPC,STATE
+SEC,"Southeast Region, Div Fire Prev & Ctrl",DFPC,STATE
+SGD,"Saguache Office, BLM",BLM,BLM
+SJF,San Juan National Forest,USFS,USFS
+SKI,Ski resort,Non-Profits & Misc. Fed,PVT
+SLB,State Land Board,SLB,STATE
+SLD,"San Luis Valley Field Office, BLM",BLM,BLM
+SOC,"Southern Region, Div Fire Prev & Ctrl",DFPC,STATE
+SOX,South Metro Fire Department,Local Gov't Agency,LOCAL
+SPW,Colorado State Parks,CPW,STATE
+SSS,Steamboat Springs Dist. Colo State Forest Svc,CSFS,STATE
+SSW,"Steamboat Springs Area, Colo Pks Wildlife",CPW,STATE
+SVC,"San Luis Valley Region, Div Fire Prev & Ctrl",DFPC,STATE
+SWC,"Southwest Region, Div Fire Prev & Ctrl",DFPC,STATE
+SWD,"Southwest District , BLM",BLM,BLM
+TNC,The Nature Conservancy,Non-Profits & Misc. Fed,PVT
+TRD,See SWD,BLM,BLM
+TRT,Trinchera Ranch,Private Land,PVT
+unk,temporary placeholder,,
+UPD,"Uncompaghre Field  Office (Montrose), BLM",BLM,BLM
+VRT,Vermejo Ranch,Private Land,PVT
+WEC,"Western Region, Div Fire Prev & Ctrl",DFPC,STATE
+WEX,West Metro Fire Department,Local Gov't Agency,LOCAL
+WPS,Woodland Park District Colo State Forest Svc,CSFS,STATE
+WRD,"White River Office, BLM",BLM,BLM
+WRF,White River National Forest,USFS,USFS
