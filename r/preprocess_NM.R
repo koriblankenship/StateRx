@@ -9,7 +9,8 @@ raw <- read_csv("in/NM_smoke_export all.csv") %>%
   select(DB_REG_ID, R_BURN_START, R_TOTAL_AREA_ACRES, R_TOTAL_VOLUME_CU_FT, T_TOTAL_AREA_ACRES, T_TOTAL_VOLUME_CU_FT, BURN_NAME, ORG_NAME, 
          R_LATITUDE, R_LONGITUDE, OWNERSHIP, REG_TYPE, T_WILDLAND_FIRE_USE, T_BURN_DAYS) %>%
   filter(REG_TYPE != "Wildfire") %>% #remove wildfires
-  filter(T_WILDLAND_FIRE_USE == "No") #remove wildland fire use fires
+  filter(T_WILDLAND_FIRE_USE == "No") %>% #remove wildland fire use fires
+  mutate_at("DB_REG_ID", as.character) #changing to character b/c that is the standard for the source id column
 
 
 ### PREPROCESS 

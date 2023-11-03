@@ -1,4 +1,4 @@
-BurnName,ShortPermitNum,AgencyID,AdministrativeUnit,PileBcst,Acres Max Permitted ,Piles Max Permitted,Lat,Lon,Actual Acres Burned,Act Pile Vol Consumed,ActPiles,PileActVolume,PilePctCons
+﻿BurnName,ShortPermitNum,AgencyID,AdministrativeUnit,PileBcst,Acres Max Permitted ,Piles Max Permitted,Lat,Lon,Actual Acres Burned,Act Pile Vol Consumed,ActPiles,PileActVolume,PilePctCons
 Alamosa NWR Unit B/L,163,ALR,Alamosa National Wildlife Refuge,b,815,,37.44,-105.81,813,,,,
 Alamosa Refuge Unit N2/Q,324,ALR,Alamosa National Wildlife Refuge,b,1800,,37.39,-105.75,,,,,
 SRD South Handpiles new,2,ARF,Arapaho/Roosevelt National Forests,p,,10000,39.92,-105.87,,0,,,
@@ -204,17 +204,17 @@ Gibson Piles,314,PSF,Pike/San Isabel National Forests,p,,200,38.12,-105.59,,"80,
 Sand Springs,332,PSF,Pike/San Isabel National Forests,b,280,,39.35,-105.25,,,,,
 Saloon Gulch,333,PSF,Pike/San Isabel National Forests,b,8800,,39.52,-105.54,,,,,
 Black Mtn Piles,352,PSF,Pike/San Isabel National Forests,p,,500,37.91,-105.19,,0,,,
-PrivatePiles,49,PVT,Privately-owned land being burned by owner,p,,250,37.85,-108.80,,"15,075",150,134,75
+PrivatePiles,49,PVT,Privately-owned land being burned by owner,p,,250,37.85,-108.8,,"15,075",150,134,75
 PrivatePiles,83,PVT,Privately-owned land being burned by owner,p,,1000,38.94,-105.04,,0,,,
 PrivatePiles,84,PVT,Privately-owned land being burned by owner,p,,525,38.47,-106.41,,"31,170",513,62,98
 PrivatePiles,99,PVT,Privately-owned land being burned by owner,p,,100,39.97,-104.71,,0,,,
 PrivatePiles,107,PVT,Privately-owned land being burned by owner,p,,800,37.53,-107.79,,"36,628",714,57,90
 PrivatePiles,112,PVT,Privately-owned land being burned by owner,p,,3,40.46,-106.81,,720,4,200,90
 PrivatePiles,135,PVT,Privately-owned land being burned by owner,p,,100,40.76,-105.51,,"31,232",61,512,100
-PrivatePiles,137,PVT,Privately-owned land being burned by owner,p,,4,37.54,-107.80,,"6,080",4,1600,95
+PrivatePiles,137,PVT,Privately-owned land being burned by owner,p,,4,37.54,-107.8,,"6,080",4,1600,95
 PrivatePiles,145,PVT,Privately-owned land being burned by owner,p,,15,40.64,-105.34,,0,,,
-PrivatePiles,178,PVT,Privately-owned land being burned by owner,p,,60,37.39,-108.30,,"28,500",25,1200,95
-PrivatePiles,183,PVT,Privately-owned land being burned by owner,p,,3,37.48,-105.20,,0,,,
+PrivatePiles,178,PVT,Privately-owned land being burned by owner,p,,60,37.39,-108.3,,"28,500",25,1200,95
+PrivatePiles,183,PVT,Privately-owned land being burned by owner,p,,3,37.48,-105.2,,0,,,
 PrivatePiles,184,PVT,Privately-owned land being burned by owner,p,,250,40.05,-105.36,,0,,,
 PrivatePiles,196,PVT,Privately-owned land being burned by owner,p,,29,30.08,-105.42,,"71,280",18,4000,99
 PrivatePiles,205,PVT,Privately-owned land being burned by owner,b,200,,38.16,-104.61,131,,,,
@@ -223,7 +223,7 @@ PrivatePiles,227,PVT,Privately-owned land being burned by owner,p,,99,40.29,-106
 PrivatePiles,235,PVT,Privately-owned land being burned by owner,p,,1,39.38,-105.81,,"54,000",1,54000,100
 PrivatePiles,256,PVT,Privately-owned land being burned by owner,p,,120,39.52,-106.06,,"129,283",25,5621,92
 PrivatePiles,282,PVT,Privately-owned land being burned by owner,p,,1,40.48,-106.81,,"1,257",1,1257,100
-PrivatePiles,296,PVT,Privately-owned land being burned by owner,p,,3,40.40,-106.80,,"2,610",1,2900,90
+PrivatePiles,296,PVT,Privately-owned land being burned by owner,p,,3,40.4,-106.8,,"2,610",1,2900,90
 PrivatePiles,297,PVT,Privately-owned land being burned by owner,p,,2,37.34,-107.85,,0,,,
 PrivatePiles,327,PVT,Privately-owned land being burned by owner,p,,250,39.94,-105.47,,0,,,
 Hole in the Rock,60,RGD,"Royal Gorge Office (Canon City), BLM",p,,2400,38.67,-105.27,,0,,,
@@ -346,7 +346,7 @@ Summit North,86,WRF,White River National Forest,p,,860,39.73,-106.13,,0,,,
 Breckenridge West Side,87,WRF,White River National Forest,p,,2000,39.5,-106.04,,"22,695",167,151,90
 Avalanche Creek,164,WRF,White River National Forest,b,600,,39.24,-107.21,,,,,
 Cattle Creek,198,WRF,White River National Forest,b,2500,,39.49,-107.02,1255,,,,
-Eagle Burn Blocks � French Creek,213,WRF,White River National Forest,b,2500,,39.71,-107.19,,,,,
+Eagle Burn Blocks – French Creek,213,WRF,White River National Forest,b,2500,,39.71,-107.19,,,,,
 Miller Creek,226,WRF,White River National Forest,b,2500,,39.83,-107.8,780,,,,
 Braderich Creek,242,WRF,White River National Forest,b,2065,,39.19,-107.3,,,,,
 Lower Snake TSI WUI,273,WRF,White River National Forest,p,,3000,39.6,-105.88,,"928,451",2613,378,94

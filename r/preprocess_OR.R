@@ -16,7 +16,7 @@ raw <- read_csv(file_list, id = "file_name") %>%
 
 ### PROCESS: MAKE MASTER TABLE ----
 
-#remove x characters from the registration number, this makes all valid registrations numbers as numbers
+#remove x characters from the registration number, this makes all registrations numbers numeric so I can separate out headers in next step
 process <- raw %>% 
   mutate(Reg2 = gsub('xx', '', Reg)) %>%
   mutate(Reg3 = gsub('XX', '', Reg2)) %>% 
@@ -26,11 +26,8 @@ process <- raw %>%
 #delete all rows where the registration contains non-numeric values (these are county heading rows)
 process <- process[!is.na(as.numeric(process$SOURCE_ID)), ]
 
-#change RegistationNum to numeric
-process$SOURCE_ID <- as.numeric(process$SOURCE_ID) 
-
 #remove empty and unneeded columns
-process <- process %>% discard(~all(is.na(.) | . =="")) #there were lots of hidden, empty columns in origional file
+process <- process %>% discard(~all(is.na(.) | . =="")) #there were lots of hidden, empty columns in original file
 process <- process %>% select(-c(file_name, M10, M1000, Rain, Time))
 
 

@@ -10,12 +10,15 @@ raw <- read_csv("in/ID_IDL Burn Permit Data - 2004 to current.csv")
 
 ### PROCESS ----
 
-process <- raw 
-
-#date, burn status
-process <- process %>%
+process <- raw %>%
+  #date
   mutate(DATE = mdy_hm(IssueDate)) %>%
   mutate(DATE = as.Date(DATE)) %>%
+  #permitted acres
+  mutate(PERMITTED_ACRES = case_when(BurnAcres == "NULL" ~ NA,
+                                     .default = BurnAcres)) %>%
+  mutate_at("PERMITTED_ACRES", as.numeric) %>%
+  #burn status
   mutate(BURN_STATUS = "Unknown")
 
 #xwalk to the rx database column names and formats 
@@ -23,7 +26,7 @@ process <- process %>%
 id_ready <- process %>%
   #rename("SOURCE_ID" = "") %>% 
   #rename("DATE" = "") %>%
-  rename("PERMITTED_ACRES" = "BurnAcres") %>%
+  #rename("PERMITTED_ACRES" = "") %>%
   #rename("COMPLETED_ACRES" = "") %>%
   #rename("PILE_VOLUME" = "") %>%
   #rename("BURN_NAME" = "") %>%

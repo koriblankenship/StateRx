@@ -1,4 +1,4 @@
-BurnID,Burn Name,Burn Type,Latitude,Longitude,Agency or Company,Daily Burn Information (DBI) Day 1 Date,DBI Day 1 Maximum Area Possible (Acres),DBI Day 1 Maximum Pile Volume Possible (cubic feet),DBI Day 2 Date,DBI Day 2 Maximum Area Possible (Acres),DBI Day 2 Maximum Pile Volume Possible (cubic feet),DBI Day 3 Date,DBI Day 3 Maximum Area Possible (Acres),DBI Day 3 Maximum Pile Volume Possible (cubic feet),DBI Day 4 Date,DBI Day 4 Maximum Area Possible (Acres),DBI Day 4 Maximum Pile Volume Possible (cubic feet),DBI Day 5 Date,DBI Day 5 Maximum Area Possible (Acres),DBI Day 5 Maximum Pile Volume Possible (cubic feet),DBI Day 6 Date,DBI Day 6 Maximum Area Possible (Acres),DBI Day 6 Maximum Pile Volume Possible (cubic feet),DBI Day 7 Date,DBI Day 7 Maximum Area Possible (Acres),DBI Day 7 Maximum Pile Volume Possible (cubic feet),Burned?,BURNTYPE,DAY1MAXACRES,DAY2MAXACRE,DAY3MAXACRE,DAY4MAXACRE,DAY5MAXACRE,DAY6MAXACRE,DAY7MAXACRE,DAY1MAXVOL,DAY2MAXVOL,DAY3MAXVOL,DAY4MAXVOL,DAY5MAXVOL,DAY6MAXVOL,DAY7MAXVOL,PERMITTED_ACRES,PILE_VOLUME
+ï»¿BurnID,Burn Name,Burn Type,Latitude,Longitude,Agency or Company,Daily Burn Information (DBI) Day 1 Date,DBI Day 1 Maximum Area Possible (Acres),DBI Day 1 Maximum Pile Volume Possible (cubic feet),DBI Day 2 Date,DBI Day 2 Maximum Area Possible (Acres),DBI Day 2 Maximum Pile Volume Possible (cubic feet),DBI Day 3 Date,DBI Day 3 Maximum Area Possible (Acres),DBI Day 3 Maximum Pile Volume Possible (cubic feet),DBI Day 4 Date,DBI Day 4 Maximum Area Possible (Acres),DBI Day 4 Maximum Pile Volume Possible (cubic feet),DBI Day 5 Date,DBI Day 5 Maximum Area Possible (Acres),DBI Day 5 Maximum Pile Volume Possible (cubic feet),DBI Day 6 Date,DBI Day 6 Maximum Area Possible (Acres),DBI Day 6 Maximum Pile Volume Possible (cubic feet),DBI Day 7 Date,DBI Day 7 Maximum Area Possible (Acres),DBI Day 7 Maximum Pile Volume Possible (cubic feet),Burned?,BURNTYPE,DAY1MAXACRES,DAY2MAXACRE,DAY3MAXACRE,DAY4MAXACRE,DAY5MAXACRE,DAY6MAXACRE,DAY7MAXACRE,DAY1MAXVOL,DAY2MAXVOL,DAY3MAXVOL,DAY4MAXVOL,DAY5MAXVOL,DAY6MAXVOL,DAY7MAXVOL,PERMITTED_ACRES,PILE_VOLUME
 521,Riverton FDN,SMP-I,43.0339068,-108.4103245,Riverton Sertoma FDN,3/14/2008,,4500,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,4500,,,,,,,0,4500
 522,"John ""Red"" Baker Property",SMP-I,41.89712778,-104.8605917,Wyoming Game and Fish Department,3/25/2008,200,,,,,,,,,,,,,,,,,,,,,,200,,,,,,,,,,,,,,200,0
 590,,SMP-I,41.8196136,-107.0127167,Sinclair Golf Club,5/2/2008,,8266,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,8266,,,,,,,0,8266
@@ -119,10 +119,10 @@ BurnID,Burn Name,Burn Type,Latitude,Longitude,Agency or Company,Daily Burn Infor
 1690,Yellowstone Mesa Piles,SMP-I,42.619444,-110.847778,USDI-NPS-Yellowstone NP,24-Nov-14,1,6500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,6500,0,0,0,0,0,0,1,6500
 1699,South Cottonwood Timber Piles,SMP-I,42.7531972,-110.5430194,USDA-USFS-Bridger-Teton NF-Big Piney RD,3-Dec-14,18000,18000,4-Dec-14,18000,18000,5-Dec-14,18000,18000,8-Dec-14,18000,18000,9-Dec-14,18000,18000,10-Dec-14,18000,18000,11-Dec-14,18000,18000,,,18000,18000,18000,18000,18000,18000,18000,18000,18000,18000,18000,18000,18000,18000,126000,126000
 1700,Hand Piles,SMP-I,44.7738889,-107.529075,USDA-USFS-Bighorn NF-Tongue RD,3-Dec-14,0,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,5000,0,0,0,0,0,0,0,5000
-1702,Logging Slash – Hand Piles,SMP-I,44.5597167,-110.4003667,USDI-NPS-Yellowstone NP,10-Dec-14,2,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,2,0,0,0,0,0,0,5000,0,0,0,0,0,0,2,5000
+1702,Logging Slash â€“ Hand Piles,SMP-I,44.5597167,-110.4003667,USDI-NPS-Yellowstone NP,10-Dec-14,2,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,2,0,0,0,0,0,0,5000,0,0,0,0,0,0,2,5000
 1724,Washakie Piles-Geology Camp,SMP-I,42.61,-108.76,,1/7/2015,,1124.65,12/15/2015,,1971.14,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,,,0,0,0,0,0,1124.65,1971.14,0,0,0,0,0,0,3095.79
 1736,"Park WUI Slash Piles, (WDEQ#1736)",SMP-I,44.73,-105.53,USDI-BLM-Buffalo Field Office,1/12/2015,28,288,1/13/2015,17,288,1/14/2015,10,288,,0,0,,0,0,,0,0,,0,0,Burned,,28,17,10,0,0,0,0,288,288,288,0,0,0,0,55,864
-1728,Washakie Piles – Pass Creek Community Pile,SMP-I,42.61,-108.76,USDA-USFS-Shoshone NF-Washakie RD,1/13/2015,,418.88,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,,0,0,0,0,0,0,418.88,0,0,0,0,0,0,0,418.88
+1728,Washakie Piles â€“ Pass Creek Community Pile,SMP-I,42.61,-108.76,USDA-USFS-Shoshone NF-Washakie RD,1/13/2015,,418.88,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,,0,0,0,0,0,0,418.88,0,0,0,0,0,0,0,418.88
 1758,"Park WUI Slash Piles, (WDEQ#1736)",SMP-I,44.12,-106.87,USDI-BLM-Buffalo Field Office,1/21/2015,1,412,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,412,0,0,0,0,0,0,1,412
 1738,Lost Creek,SMP-I,43.45,-107.07,USDI-BLM-Casper Field Office,2/15/2015,20,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0
 1784,NTA Fuel Reduction,SMP-I,,,Camp Guernsey Fire Department,2/27/2015,,1250,2/28/2015,,1250,3/1/2015,,750,3/30/2015,0,1250,4/8/2015,0,1250,6/1/2015,0,250,6/2/2015,0,350,Burned,,,,,0,0,0,0,1250,1250,750,1250,1250,250,350,0,6350
@@ -417,7 +417,7 @@ BurnID,Burn Name,Burn Type,Latitude,Longitude,Agency or Company,Daily Burn Infor
 3540,Beartrap,SMP-I,43.91,-107.04,USDI-BLM-Buffalo Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3541,Bitter Creek Piles,SMP-I,44.92,-105.79,USDI-BLM-Buffalo Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3563,Pitch Pine Pile Burn,SMP-I,42.67,-106.32,USDI-BLM-Casper Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-3583,Middle Fork F10,SMP-I,42.63,-108.82,US Forest Service – Shoshone National Forest,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3583,Middle Fork F10,SMP-I,42.63,-108.82,US Forest Service â€“ Shoshone National Forest,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3590,Baker,SMP-I,,,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3598,Slip Road,SMP-I,43.83,-106.89,USDI-BLM-Buffalo Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3599,Beartrap,SMP-I,43.91,-107.04,USDI-BLM-Buffalo Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -455,12 +455,12 @@ BurnID,Burn Name,Burn Type,Latitude,Longitude,Agency or Company,Daily Burn Infor
 3729,Shadow Mountain,SMP-I,43.73,-110.59,USDA-USFS-Bridger-Teton NF-Jackson RD,,10,452,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,10,0,0,0,0,0,0,452,0,0,0,0,0,0,10,452
 1547,Mattox,SMP-I,44.06756433,-106.909081,Wyoming State Forestry Division,,1,487,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,1,0,0,0,0,0,0,487,0,0,0,0,0,0,1,487
 3440,Fiddler's Lake Piles,SMP-I,42.62,-108.87,USDA-USFS-Shoshone NF-Washakie RD,,0,500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,500
-3585,Pass Creek,SMP-I,42.61,-108.76,US Forest Service – Shoshone National Forest,,0,500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,500
+3585,Pass Creek,SMP-I,42.61,-108.76,US Forest Service â€“ Shoshone National Forest,,0,500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,500
 3261,Dickinson Park,SMP-I,42.85,-109.06,USDA-USFS-Shoshone NF-Washakie RD,,0,600,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,600
 3262,Louis Lake,SMP-I,42.55,-108.85,USDA-USFS-Shoshone NF-Washakie RD,,0,600,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,600
 3439,Dickinson Park Administrative Piles,SMP-I,42.85,-109.06,USDA-USFS-Shoshone NF-Washakie RD,,0,600,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,600
 3443,Louis Lake Administrative Piles,SMP-I,42.6,-108.85,USDA-USFS-Shoshone NF-Washakie RD,,0,600,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,600
-3582,Louis Lake Administrative Piles,SMP-I,42.6,-108.84,US Forest Service – Shoshone National Forest,,0,600,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,600
+3582,Louis Lake Administrative Piles,SMP-I,42.6,-108.84,US Forest Service â€“ Shoshone National Forest,,0,600,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,600
 3781,L W-T39,SMP-I,43.55,-109.87,,,0,601.87,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,601.87,0,0,0,0,0,0,0,601.87
 3272,Spring Draw,SMP-I,43.66,-109.61,USDA-USFS-Shoshone NF-Washakie RD,,0,700,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,700,0,0,0,0,0,0,0,700
 3274,T-18 Hand Piles,SMP-I,43.51,-109.71,USDA-USFS-Shoshone NF-Washakie RD,,0,750,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,750,0,0,0,0,0,0,0,750
@@ -492,7 +492,7 @@ BurnID,Burn Name,Burn Type,Latitude,Longitude,Agency or Company,Daily Burn Infor
 3526,Elk Ranch,SMP-I,43.83,-110.5,USDI-NPS-Grand Teton NP,,0,4094.4,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,4094.4,0,0,0,0,0,0,0,4094.4
 3151,Sheffield Creek Campground,SMP-I,44.1,-110.67,USDA-USFS-Bridger-Teton NF-Jackson RD,,0,4250,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,4250,0,0,0,0,0,0,0,4250
 3756,Loop Road 72 Piles,SMP-I,42.7,-108.9,,,0,4250,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,4250,0,0,0,0,0,0,0,4250
-3581,Loop road 72 Piles,SMP-I,42.7,-108.9,US Forest Service – Shoshone National Forest,,5,4250,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,5,0,0,0,0,0,0,4250,0,0,0,0,0,0,5,4250
+3581,Loop road 72 Piles,SMP-I,42.7,-108.9,US Forest Service â€“ Shoshone National Forest,,5,4250,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,5,0,0,0,0,0,0,4250,0,0,0,0,0,0,5,4250
 3754,Loop Road 7,SMP-I,42.58,-108.85,,,0,4276,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,4276,0,0,0,0,0,0,0,4276
 3441,Loop Road 8 Piles,SMP-I,42.59,-108.86,USDA-USFS-Shoshone NF-Washakie RD,,15,4276,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,15,0,0,0,0,0,0,4276,0,0,0,0,0,0,15,4276
 3258,Mosier Gulch,SMP-I,44.34,-106.82,USDI-BLM-Buffalo Field Office,,20,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,20,0,0,0,0,0,0,5000,0,0,0,0,0,0,20,5000
@@ -502,7 +502,7 @@ BurnID,Burn Name,Burn Type,Latitude,Longitude,Agency or Company,Daily Burn Infor
 1510,Mallo Camp,SMP-I,44.0664136,-104.0571267,USDI-BLM-Casper Field Office,,0,7854,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,7854,0,0,0,0,0,0,0,7854
 3243,Kelly Slash Piles,SMP-I,42.53,-108.72,USDI-NPS-Grand Teton NP,,0.2,8000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0.2,0,0,0,0,0,0,8000,0,0,0,0,0,0,0.2,8000
 3442,Loop Road 70 Piles,SMP-I,42.7,-108.9,USDA-USFS-Shoshone NF-Washakie RD,,0,8552,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,8552,0,0,0,0,0,0,0,8552
-3580,Loop Road 70,SMP-I,42.7,-108.9,US Forest Service – Shoshone National Forest,,0,8552,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,8552,0,0,0,0,0,0,0,8552
+3580,Loop Road 70,SMP-I,42.7,-108.9,US Forest Service â€“ Shoshone National Forest,,0,8552,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,8552,0,0,0,0,0,0,0,8552
 3260,Trough Springs Pile,SMP-I,43.8,-106.87,USDI-BLM-Buffalo Field Office,,0,10000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,10000,0,0,0,0,0,0,0,10000
 3888,Sheridan Creek Piles,SMP-I,43.64,-109.93,,,0,12566.37,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,12566.37,0,0,0,0,0,0,0,12566.37
 3889,Warm Springs,SMP-I,43.57,-109.84,USDA-USFS-Shoshone NF-Wind River RD,,0,16775,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,16775,0,0,0,0,0,0,0,16775

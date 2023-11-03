@@ -6,8 +6,6 @@
 
 
 #>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> UNRESOLVED ISSUE
-#>burn names: Iron Mountain Rx Burn – Limestone Ridge Unit (ID 2018), North End Rx – Units 3 & 4 (ID 1850), 
-#Pappy's Pasture Unit 1 & 2 (ID 1497)
 #lat/lon stuff; some notes on this in the archive at the bottom of this script
 
 

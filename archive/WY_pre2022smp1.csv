@@ -1,0 +1,549 @@
+BurnID,Burn Name,Burn Type,Latitude,Longitude,Agency or Company,Daily Burn Information (DBI) Day 1 Date,DBI Day 1 Maximum Area Possible (Acres),DBI Day 1 Maximum Pile Volume Possible (cubic feet),DBI Day 2 Date,DBI Day 2 Maximum Area Possible (Acres),DBI Day 2 Maximum Pile Volume Possible (cubic feet),DBI Day 3 Date,DBI Day 3 Maximum Area Possible (Acres),DBI Day 3 Maximum Pile Volume Possible (cubic feet),DBI Day 4 Date,DBI Day 4 Maximum Area Possible (Acres),DBI Day 4 Maximum Pile Volume Possible (cubic feet),DBI Day 5 Date,DBI Day 5 Maximum Area Possible (Acres),DBI Day 5 Maximum Pile Volume Possible (cubic feet),DBI Day 6 Date,DBI Day 6 Maximum Area Possible (Acres),DBI Day 6 Maximum Pile Volume Possible (cubic feet),DBI Day 7 Date,DBI Day 7 Maximum Area Possible (Acres),DBI Day 7 Maximum Pile Volume Possible (cubic feet),Burned?,BURNTYPE,DAY1MAXACRES,DAY2MAXACRE,DAY3MAXACRE,DAY4MAXACRE,DAY5MAXACRE,DAY6MAXACRE,DAY7MAXACRE,DAY1MAXVOL,DAY2MAXVOL,DAY3MAXVOL,DAY4MAXVOL,DAY5MAXVOL,DAY6MAXVOL,DAY7MAXVOL,PERMITTED_ACRES,PILE_VOLUME
+521,Riverton FDN,SMP-I,43.0339068,-108.4103245,Riverton Sertoma FDN,3/14/2008,,4500,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,4500,,,,,,,0,4500
+522,"John ""Red"" Baker Property",SMP-I,41.89712778,-104.8605917,Wyoming Game and Fish Department,3/25/2008,200,,,,,,,,,,,,,,,,,,,,,,200,,,,,,,,,,,,,,200,0
+590,,SMP-I,41.8196136,-107.0127167,Sinclair Golf Club,5/2/2008,,8266,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,8266,,,,,,,0,8266
+536,WYOFIRE,SMP-I,42.39722222,-104.8127778,Wyoming State Forestry Division,6/30/2008,15,,7/1/2008,10,,,,,,,,,,,,,,,,,,,15,10,,,,,,,,,,,,,25,0
+613,,SMP-I,41.88333333,-110.075,,10/6/2009,,5237,10/14/2009,,5237,,,,,,,,,,,,,,,,,,,,,,,,,5237,5237,,,,,,0,10474
+572,West Zone Piles,SMP-I,43.0762643,-110.8256998,USDA-USFS-Bridger-Teton NF-Greys River/Kemmerer RD,10/19/2009,1,256,10/27/2009,1,2400,10/26/2009,2,200,10/28/2009,1,1000,10/29/2009,1,240,10/30/2009,1,1100,11/13/2009,6,9600,Burned,,1,1,2,1,1,1,6,256,2400,200,1000,240,1100,9600,13,14796
+795,,SMP-I,44.5975,-104.7027778,USDI-NPS-Wind Cave NP-Northern Great Plains Fire Management,11/10/2009,210,,,,,,,,,,,,,,,,,,,,,,210,,,,,,,,,,,,,,210,0
+596,Sunlight Creek,SMP-I,44.6877499,-109.5939442,"RY Timber, Inc.",12/15/2009,,<10000,12/16/2009,,<10000,12/17/2009,,<10000,12/21/2009,,<10000,12/22/2009,,<10000,12/23/2009,,<10000,2/3/2009,,<10000,,,,,,,,,,10000,10000,10000,10000,10000,10000,10000,0,70000
+656,,SMP-I,42.8944973,-108.5779302,"Town of Hudson, WY",2/16/2010,,32400,2/17/2010,,32400,2/18/2010,,32400,2/19/2010,,32400,2/20/2010,,32400,,,,,,,,,,,,,,,,32400,32400,32400,32400,32400,,,0,162000
+657,,SMP-I,43.50441667,-109.73975,USDA-USFS-Shoshone NF-Dubois RD,2/22/2010,,2500,,,,,,,,,,,,,,,,,,,,,,,,,,,,2500,,,,,,,0,2500
+659,,SMP-I,42.23833889,-104.9203028,Wyoming Game and Fish Department,3/5/2010,15,,3/6/2010,225,,,,,,,,,,,,,,,,,,,15,225,,,,,,,,,,,,,240,0
+693,,SMP-I,43.0339068,-108.4103245,REACH Foundation,11/9/2010,,4500,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,4500,,,,,,,0,4500
+694,Cold Springs Pile,SMP-I,44.32243889,-107.4120194,USDA-USFS-Big Horn NF-Lovell RD,11/10/2010,1,640,,,,,,,,,,,,,,,,,,,Burned,,1,,,,,,,640,,,,,,,1,640
+697,Steamboat SMP-I Burn,SMP-I,44.7836324,-107.3930255,Wyoming State Forestry Division,11/17/2010,,2000,,,,,,,,,,,,,,,,,,,,,,,,,,,,2000,,,,,,,0,2000
+696,Shell Piles,SMP-I,44.54991667,-107.4955556,USDA-USFS-Big Horn NF-Medicine Wheel/Paintrock RD,11/17/2010,5,2500,,,,,,,,,,,,,,,,,,,Burned,,5,,,,,,,2500,,,,,,,5,2500
+749,Muddy Mountain Piles,SMP-I,42.40865,-106.1515,USDI-BLM-Casper Field Office,1/18/2011,1260,2000,,,,,,,,,,,,,,,,,,,,,1260,,,,,,,2000,,,,,,,1260,2000
+772,Devils Tower,SMP-I,44.57944444,-104.7183333,USDI-NPS-Devils Tower NM,2/22/2011,,9450,,,,,,,,,,,,,,,,,,,,,,,,,,,,9450,,,,,,,0,9450
+791,,SMP-I,42.45892417,-104.2020583,"Fire Trax, LLC",3/19/2011,73,,,,,,,,,,,,,,,,,,,,,,73,,,,,,,,,,,,,,73,0
+790,,SMP-I,42.38190194,-104.0777514,"Fire Trax, LLC",3/20/2011,117,,,,,,,,,,,,,,,,,,,,,,117,,,,,,,,,,,,,,117,0
+807,Powell Landfill Burn,SMP-I,44.7383,-108.6763,Landfill Department,5/6/2011,,"<10,000",5/16/2011,,"<10,000",,,,,,,,,,,,,,,,Burned,,,,,,,,,10000,10000,,,,,,0,20000
+806,Cody Landfill Burn,SMP-I,44.9433,-109.175,Landfill Department,5/7/2011,,<10000,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000,,,,,,,0,10000
+805,Teton Village Burn,SMP-I,43.6,-110.85,Jackson Hole Mountain Resort,5/9/2011,0.05,1500,5/12/2011,0.05,1500,5/16/2011,0.05,1500,5/19/2011,0.05,1500,,,,,,,,,,,,0.05,0.05,0.05,0.05,,,,1500,1500,1500,1500,,,,0.2,6000
+808,Cody Landfill,SMP-I,44.4708,-109.0338,Landfill Department,5/14/2011,,"<10,000",,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,10000,,,,,,,0,10000
+809,Sinks Canyon Burn,SMP-I,42.73184444,-108.8505,USDA-USFS-Shoshone NF-Dubois RD,5/23/2011,1,2120,,,,,,,,,,,,,,,,,,,Burned,,1,,,,,,,2120,,,,,,,1,2120
+813,Dickinson Park,SMP-I,42.83578889,-109.0576278,USDA-USFS-Shoshone NF-Lander RD,7/22/2011,25 piles,,,,,,,,,,,,,,,,,,,,,Pile,,,,,,,,,,,,,,,0,0
+902,Wind River Pile Burn - Brooks Lake Area,SMP-I,43.66283333,-109.8791944,USDA-USFS-Shoshone NF-Douglas RD,9/13/2011,,1200,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,1200,,,,,,,0,1200
+914,Washakie Pile-Youth Camp,SMP-I,42.698925,-108.8588194,USDA-USFS-Shoshone NF-Dubois RD,9/20/2011,30 piles,1000-1500,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,1250,,,,,,,0,1250
+927,Deer Creek,SMP-I,43.06996944,-110.8331389,USDA-USFS-Bridger-Teton NF-Afton RD,10/13/2011,,216,10/14/2011,,648,,,,,,,,,,,,,,,,,,,,,,,,,216,648,,,,,,0,864
+925,Antelope Butte,SMP-I,44.61341667,-107.5090556,USDA-USFS-Big Horn NF-Medicine Wheel/Paintrock RD,10/13/2011,5,2500,,,,,,,,,,,,,,,,,,,,,5,,,,,,,2500,,,,,,,5,2500
+812,West Zone Piles,SMP-I,43.12670556,-110.8645194,USDA-USFS-Bridger-Teton NF,10/18/2011,1,648,,,,,,,,,,,,,,,,,,,Burned,,1,,,,,,,648,,,,,,,1,648
+934,Pussyfoot Piles,SMP-I,44.54058333,-107.50375,USDA-USFS-Big Horn NF-Medicine Wheel/Paintrock RD,10/25/2011,5,2500,,,,,,,,,,,,,,,,,,,,,5,,,,,,,2500,,,,,,,5,2500
+940,Dickinson Park,SMP-I,42.8313753,-109.0678268,USDA-USFS-Shoshone NF-Lander RD,10/31/2011,130 max. piles,5000,,,,,,,,,,,,,,,,,,,Burned,Pile,,,,,,,,5000,,,,,,,0,5000
+946,,SMP-I,43.084575,-110.8420306,USDA-USFS-Bridger-Teton NF-Afton RD,11/1/2011,2,432,,,,,,,,,,,,,,,,,,,,,2,,,,,,,432,,,,,,,2,432
+949,Double Cabin,SMP-I,43.80686111,-109.5603611,USDA-USFS-Shoshone NF-Dubois RD,11/8/2011,,1200,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,1200,,,,,,,0,1200
+950,East Fork,SMP-I,43.69163889,-109.36125,USDA-USFS-Shoshone NF-Dubois RD,11/9/2011,,1200,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,1200,,,,,,,0,1200
+924,West Zone Piles,SMP-I,42.2833,-110.8016,USDA-USFS-Bridger Teton NF-Greys River RD,11/10/2011,2,716,,,,,,,,,,,,,,,,,,,Burned,,2,,,,,,,716,,,,,,,2,716
+952,Grant Village Piles,SMP-I,44.38508333,-110.567,USDI-NPS-Grand Teton NP,11/14/2011,,32,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,32,,,,,,,0,32
+954,Timberline Stimulus Area,SMP-I,43.61963889,-109.8791944,USDA-USFS-Shoshone NF-Dubois RD,11/17/2011,,1200,11/18/2011,,1200,11/19/2011,,1200,,,,,,,,,,,,,Burned,,,,,,,,,1200,1200,1200,,,,,0,3600
+1035,Fiddlers Lake Trailhead Pile Burn,SMP-I,42.62691111,-108.8765944,USDA-USFS-Shoshone NF-Lander RD,12/8/2011,,775,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,775,,,,,,,0,775
+1037,Passcreek Community Pile,SMP-I,42.61140556,-108.7543778,USDA-USFS-Shoshone NF-Lander RD,12/8/2011,,1633,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,1633,,,,,,,0,1633
+1038,Wildcat Stimulus,SMP-I,43.52644444,-109.7745,USDA-USFS-Shoshone NF-Dubois Ranger District,12/12/2011,,1200,12/13/2011,,1200,12/14/2011,,1200,12/15/2011,,1200,12/16/2011,,1200,,,,,,,Burned,,,,,,,,,1200,1200,1200,1200,1200,,,0,6000
+1043,Walton Quarry - Snake River,SMP-I,43.534,-110.812,Teton County Road & Levee,12/29/2011,,4500,,,,,,,,,,,,,,,,,,,,,,,,,,,,4500,,,,,,,0,4500
+1045,Christina TH 2012,SMP-I,42.62691111,-108.8765944,USDA-USFS-Shoshone NF-Lander RD,1/4/2012,15 hand piles,,,,,,,,,,,,,,,,,7/31/2012,15 hand piles,,,Pile,,,,,,,,,,,,,,,0,0
+1047,Louis Lake 2012,SMP-I,42.59913056,-108.8453028,USDA-USFS-Shoshone NF-Lander RD,1/4/2012,20 hand piles,,,,,,,,,,,,,,,,,7/31/2012,,,,Pile,,,,,,,,,,,,,,,0,0
+1048,Dickinson Park 2012,SMP-I,42.83737778,-109.0582,USDA-USFS-Shoshone NF-Lander RD,1/4/2012,200 hand piles,,,,,,,,,,,,,,,,,7/31/2012,,,,Pile,,,,,,,,,,,,,,,0,0
+1046,Washakie Piles,SMP-I,42.73283611,-108.8462722,USDA-USFS-Shoshone NF-Lander RD,1/4/2012,75 hand piles,,,,,,,,,,,,,,,,,7/31/2012,,,Burned,Pile,,,,,,,,,,,,,,,0,0
+1073,Lower Wind T-18 Hand,SMP-I,43.51708333,-109.7099444,USDA-USFS-Shoshone NF-Dubois Ranger District,1/10/2012,,10000,1/11/2012,,10000,1/18/2012,,10000,1/19/2012,,10000,,,,,,,,,,Burned,,,,,,,,,10000,10000,10000,10000,,,,0,40000
+1124,Mort,SMP-I,41.33,-105.68,USDI-USFWS,4/3/2012,20,,,,,,,,,,,,,,,,,,,,Burned,,20,,,,,,,,,,,,,,20,0
+1129,Flying A Piles,SMP-I,43.14,-110.16,Sublette County Firefighters,4/6/2012,0.6,8600,,,,,,,,,,,,,,,,,,,Burned,,0.6,,,,,,,8600,,,,,,,0.6,8600
+540,Hudson Burn,SMP-I,42.8944973,-108.5779302,,6/23/2012,,32400,6/24/2012,,,6/25/2012,,,6/26/2012,,,6/27/2012,,,6/28/2012,,,6/29/2012,,,,,,,,,,,,32400,,,,,,,0,32400
+1216,Sinks Canyon-Geology Camp,SMP-I,42.734375,-108.8449278,USDA-USFS-Shoshone NF-Washakie RD,10/1/2012,,50 piles,,,,,,,,,,,,,,,,,,,,Pile,,,,,,,,,,,,,,,0,0
+1212,Dickinson Park,SMP-I,42.85386944,-109.0586861,USDA-USFS-Shoshone NF-Washakie RD,10/1/2012,,30 piles,,,,,,,,,,,,,,,,,,,Burned,Pile,,,,,,,,,,,,,,,0,0
+1211,Youth Camp,SMP-I,42.69632778,-108.8995778,USDA-USFS-Shoshone NF-Washakie RD,10/1/2012,,20 piles,,,,,,,,,,,,,,,,,,,Burned,Pile,,,,,,,,,,,,,,,0,0
+1215,Sinks Canyon-Bruce's Parking Lot,SMP-I,42.72788056,-108.860975,USDA-USFS-Shoshone NF-Washakie RD,10/1/2012,,150 piles,,,,,,,,,,,,,,,,,,,,Pile,,,,,,,,,,,,,,,0,0
+1214,Louis Lake,SMP-I,42.59465556,-108.8539306,USDA-USFS-Shoshone NF-Washakie RD,10/1/2012,,15 piles,,,,,,,,,,,,,,,,,,,Burned,Pile,,,,,,,,,,,,,,,0,0
+1217,Pass Creek Community Pile,SMP-I,42.61036667,-108.758,USDA-USFS-Shoshone NF-Washakie RD,10/1/2012,,1 large pile,,,,,,,,,,,,,,,,,,,,Pile,,,,,,,,,,,,,,,0,0
+1213,Fairfield Hill-Homestead Park,SMP-I,42.747275,-108.8528083,USDA-USFS-Shoshone NF-Washakie RD,10/1/2012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+1223,Brooks Lake,SMP-I,43.66283333,-109.8791944,USDA-USFS-Shoshone NF-Dubois RD,10/22/2012,,1500,10/23/2012,,1500,10/24/2012,,1500,,,,,,,,,,,,,Burned,,,,,,,,,1500,1500,1500,,,,,0,4500
+1229,Fawn Pass,SMP-I,44.92833333,-110.8916667,USDI-NPS-Yellowstone NP,10/23/2012,9,7000,10/24/2012,9,7000,,,,,,,,,,,,,,,,,,9,9,,,,,,7000,7000,,,,,,18,14000
+1242,Canyon Village,SMP-I,44.74258333,-110.4961111,USDI-NPS-Yellowstone NP,10/29/2012,1,9000,,,,,,,,,,,,,,,,,,,Burned,,1,,,,,,,9000,,,,,,,1,9000
+1243,Swan Lake-Canyon Village,SMP-I,44.89258333,-110.7377778,USDI-NPS-Yellowstone NP,10/30/2012,1,7500,,,,,,,,,,,,,,,,,,,Burned,,1,,,,,,,7500,,,,,,,1,7500
+1230,Grant Village Hand Piles,SMP-I,44.39666667,-110.57,USDI-NPS-Yellowstone NP,11/6/2012,10,7000,11/7/2012,10,7000,11/9/2012,10,7000,,,,,,,,,,,,,Burned,,10,10,10,,,,,7000,7000,7000,,,,,30,21000
+1251,Mesa Gravel Pit Slash Pile,SMP-I,44.61944444,-110.8477778,USDI-NPS-Yellowstone NP,11/14/2012,1,6500,,,,,,,,,,,,,,,,,,,Burned,,1,,,,,,,6500,,,,,,,1,6500
+1249,Voss Hand Piles,SMP-I,44.77055556,-107.5088889,USDA-USFS-Big Horn NF-Tongue RD,11/20/2012,2,353,11/26/2012,10,3108,,,,,,,,,,,,,,,,Burned,,2,10,,,,,,353,3108,,,,,,12,3461
+1227,Swamp Creek Timber Sale Hand Piles,SMP-I,44.59138889,-107.1619444,USDA-USFS-Big Horn NF-Tongue RD,11/27/2012,,1557,11/28/2012,,1631,11/29/2012,,1998,,,,,,,,,,,,,Burned,,,,,,,,,1557,1631,1998,,,,,0,5186
+1271,,SMP-I,42.84111111,-108.7077778,Wyoming Life Resource Center,12/13/2012,,4800,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,4800,,,,,,,0,4800
+1272,Teton Village Burn,SMP-I,43.56,-110.83,Wyoming State Forestry Division,12/17/2012,0.1,2500,,,,,,,,,,,,,,,,,,,Burned,,0.1,,,,,,,2500,,,,,,,0.1,2500
+1333,,SMP-I,41.0324339,-110.5364967,USDA-USFS-Bridger-Teton NF-Mountain View RD,1/10/2013,,8000,1/11/2013,,8000,,,,,,,,,,,,,,,,,,,,,,,,,8000,8000,,,,,,0,16000
+1335,Billy Creek Project Area,SMP-I,44.1179,-106.8762,USDI-BLM-Buffalo Field Office,1/14/2013,10,3000,1/15/2013,10,3000,1/16/2013,10,3000,,,,,,,,,,,,,Burned,,10,10,10,,,,,3000,3000,3000,,,,,30,9000
+1334,Powder River Properties Project Area,SMP-I,44.032851,-107.08032,USDI-BLM-Buffalo Field Office,1/14/2013,2 piles,9000,1/15/2013,2 piles,9000,,,,,,,,,,,,,,,,Burned,Pile,,,,,,,,9000,9000,,,,,,0,18000
+1340,Homestead Park 2013,SMP-I,42.76083333,-108.839275,USDA-USFS-Shoshone NF-Lander RD,1/15/2013,,4909,,,,,,,,,,,,,,,,12/31/2013,,4909,,,,,,,,,,4909,,,,,,4909,0,9818
+1339,Youth Camp 2013,SMP-I,42.69638889,-108.8991417,USDA-USFS-Shoshone NF-Lander RD,1/15/2013,5,990,,,,,,,,,,,,,,,,12/31/2013,5,990,,,5,,,,,,5,990,,,,,,990,10,1980
+1342,Pass Creek 2013,SMP-I,42.61111111,-108.7558333,USDA-USFS-Shoshone NF-Lander RD,1/15/2013,,503,,,,,,,,,,,,,,,,12/31/2013,,503,,,,,,,,,,503,,,,,,503,0,1006
+1341,Middlefork Cow Camp 2013,SMP-I,42.72527778,-108.955,USDA-USFS-Shoshone NF-Lander RD,1/15/2013,,254,,,,,,,,,,,,,,,,12/31/2013,,254,,,,,,,,,,254,,,,,,254,0,508
+1343,South Pass 2013,SMP-I,42.51555556,-108.7772222,USDA-USFS-Shoshone NF-Lander RD,1/15/2013,,31,,,,,,,,,,,,,,,,12/31/2013,,31,,,,,,,,,,31,,,,,,31,0,62
+1337,Geology Camp,SMP-I,42.73277778,-108.8461111,USDA-USFS-Shoshone NF-Lander RD,1/15/2013,70,4000,,,,,,,,,,,,,,,,,,,,,70,,,,,,,4000,,,,,,,70,4000
+1344,Powder River,SMP-I,44.03083333,-107.0808333,USDI-BLM-Buffalo Field Office,1/16/2013,1,275,,,,,,,,,,,,,,,,,,,,,1,,,,,,,275,,,,,,,1,275
+1336,Red Grade Project Area,SMP-I,44.6173,-107.0928,USDI-BLM-Buffalo Field Office,1/22/2013,3,1000,,,,,,,,,,,,,,,,,,,Burned,,3,,,,,,,1000,,,,,,,3,1000
+1345,Fawn Pass,SMP-I,44.92833333,-110.8916667,USDI-NPS-Yellowstone NP,2/4/2013,9,7000,,,,,,,,,,,,,,,,2/21/2013,,,,,9,,,,,,,7000,,,,,,,9,7000
+1392,Headrick CRP,SMP-I,41.97361111,-104.2038889,Wyoming Game and Fish Department,3/9/2013,150,,3/16/2013,150,,,,,,,,,,,,,,,,,Burned,,150,150,,,,,,,,,,,,,300,0
+1403,Buckskin Mine SMP-I Burn,SMP-I,44.46588706,-105.5147719,Buckskin Mining Company,3/19/2013,14,,,,,,,,,,,,,,,,,,,,Burned,,14,,,,,,,,,,,,,,14,0
+1400,Sinclair Golf Course SMP-I,SMP-I,41.8196136,-107.0127167,Sinclair Golf Club,3/20/2013,,8500,3/21/2013,,,3/22/2013,,,3/23/2013,,,3/24/2013,,,3/25/2013,,,3/28/2013,,,Burned,,,,,,,,,8500,,,,,,,0,8500
+1458,2013 Burn,SMP-I,41.2563966,-105.6241999,"Lodgepole Products, Inc.",10/4/2013,1,5760,,,,,,,,,,,,,,,,,,,Burned,,1,,,,,,,5760,,,,,,,1,5760
+1459,Wyoming Life Resource Center,SMP-I,42.84111111,-108.7077778,Wyoming Life Resource Center,10/10/2013,,4000,,,,,,,,,,,,,,,,,,,,,,,,,,,,4000,,,,,,,0,4000
+1545,EZ Piles,SMP-I,42.7325,-110.5205556,USDA-USFS-Bridger-Teton NF-Buffalo RD,9-Jan-14,0,10000,10-Jan-14,0,10000,14-Jan-14,0,10000,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,10000,10000,10000,0,0,0,0,0,30000
+1553,Lodgepole Products SMP-I Burn,SMP-I,41.2563966,-105.6241999,"Lodgepole Products, Inc.",21-Jan-14,0,1152,22-Jan-14,0,1152,23-Jan-14,0,1152,24-Jan-14,0,1152,27-Jan-14,0,1152,,0,0,,0,0,,,0,0,0,0,0,0,0,1152,1152,1152,1152,1152,0,0,0,5760
+1573,Esterbrook Piles,SMP-I,42.40166667,-105.4002778,USDI-BLM-Casper Field Office,4-Feb-14,20,25,5-Feb-14,0,0,6-Feb-14,0,0,7-Feb-14,0,0,,0,0,,0,0,,0,0,,,20,0,0,0,0,0,0,25,0,0,0,0,0,0,20,25
+1657,City of Torrington Baler,SMP-I,42.050978,-104.171456,City of Torrington,11-Feb-14,0,9500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,9500,0,0,0,0,0,0,0,9500
+1588,Stumpy Ridge SMP-I Burn,SMP-I,44.60833,-107.08458,Sheridan County,15-Feb-14,0.33,4700,16-Feb-14,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0.33,0,0,0,0,0,0,4700,0,0,0,0,0,0,0.33,4700
+1589,Sinclair Landfill Burn,SMP-I,41.80035556,-107.1252222,,3-Mar-14,0,7020,4-Mar-14,0,7020,5-Mar-14,0,7020,6-Mar-14,0,7020,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,7020,7020,7020,7020,0,0,0,0,28080
+1594,P.O. Ranch SMP-I Burn,SMP-I,41.341642,-104.7979683,P.O. Ranch,19-Apr-14,75,0,20-Apr-14,75,0,21-Apr-14,75,0,22-Apr-14,75,0,,0,0,,0,0,,0,0,,,75,75,75,75,0,0,0,0,0,0,0,0,0,0,300,0
+1560,Lower Palmer Prescribed Burn,SMP-I,43.31611111,-110.7319444,USDA-USFS-Bridger-Teton NF-Jackson RD,2-May-14,68,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,68,0,0,0,0,0,0,0,0,0,0,0,0,0,68,0
+1599,Horse Creek Irrigation Ditch Burn,SMP-I,41.5423368,-104.3341863,,6-May-14,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1600,Wyoming Life Resource Center,SMP-I,42.84111111,-108.7077778,Wyoming Life Resource Center,8-May-14,0,4000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,4000,0,0,0,0,0,0,0,4000
+1602,Colter Bay Burn,SMP-I,43.90138889,-110.6413889,USDI-NPS-Grand Teton NP,16-May-14,12.5,9775,4-Nov-14,12.5,9775,13-Nov-14,12.5,9775,,0,0,,0,0,,0,0,,0,0,Burned,,12.5,12.5,12.5,0,0,0,0,9775,9775,9775,0,0,0,0,37.5,29325
+1604,Camp Guernsey Piles,SMP-I,42.38215833,-104.8148083,Wyoming Military Department,29-May-14,0,1250,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1250,0,0,0,0,0,0,0,1250
+1605,Yellowstone Pile Burn,SMP-I,44.89258333,-110.7377778,USDI-NPS-Yellowstone NP,2-Jun-14,1,1500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,1500,0,0,0,0,0,0,1,1500
+1606,North Zone Piles,SMP-I,42.74,-110.42,USDA-USFS-Bridger-Teton NF-Big Piney RD,10-Jun-14,0,309,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,309,0,0,0,0,0,0,0,309
+1610,Turpin,SMP-I,43.85861111,-110.2772222,USDA-USFS-Bridger-Teton NF-Jackson RD,19-Jun-14,0,1875,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,1875,0,0,0,0,0,0,0,1875
+1611,Fawn Pass Cabin Hand Piles,SMP-I,44.91686111,-110.8834722,USDI-NPS-Yellowstone NP,23-Jun-14,9,7000,24-Jun-14,9,7000,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,9,9,0,0,0,0,0,7000,7000,0,0,0,0,0,18,14000
+1616,Camp Guernsey Sage/Grass Burn,SMP-I,,,Camp Guernsey,12-Jul-14,10,0,13-Jul-14,10,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,10,10,0,0,0,0,0,0,0,0,0,0,0,0,20,0
+1630,Swan Lake Piles,SMP-I,44.8925833,-110.7377778,USDI-NPS-Yellowstone NP,11-Sep-14,1,1500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,1500,0,0,0,0,0,0,1,1500
+1627,Planting Rx - Unit 3,SMP-I,,,USDA-USFS-Black Hills NF-Bearlodge RD,15-Sep-14,50,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0
+1650,Forest Piles,SMP-I,,,USDA-USFS-Bridger-Teton NF-Pinedale RD,1-Oct-14,0,7500,2-Oct-14,0,375,3-Oct-14,0,647,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,7500,375,647,0,0,0,0,0,8522
+1649,North Zone Piles,SMP-I,,,USDA-USFS-Bridger-Teton NF-Jackson RD,11-Oct-14,0.1,10000,12-Oct-14,1,10000,13-Oct-14,1,10000,14-Oct-14,1,10000,15-Oct-14,1,10000,16-Oct-14,1,10000,18-Oct-14,1,10000,Burned,,0.1,1,1,1,1,1,1,10000,10000,10000,10000,10000,10000,10000,6.1,70000
+1651,Snow King Resort,SMP-I,43.464125,-110.759286,Forest Service,12-Oct-14,2,8025,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,2,0,0,0,0,0,0,8025,0,0,0,0,0,0,2,8025
+1664,Norris,SMP-I,44.757222,-110.7,USDI-NPS-Yellowstone NP,29-Oct-14,3,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,3,0,0,0,0,0,0,5000,0,0,0,0,0,0,3,5000
+1677,Grand Teton NP,SMP-I,43.65638,-110.77326,USDI-NPS-Grand Teton NP,3-Nov-14,0,2688,12-Nov-14,0,1920,18-Nov-14,27,7600,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,27,0,0,0,0,2688,1920,7600,0,0,0,0,27,12208
+1681,Sublette Piles,SMP-I,,,USDA-USFS-Bridger-Teton NF-Pinedale RD,12-Nov-14,0,4500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,4500,0,0,0,0,0,0,0,4500
+1683,Murie Center,SMP-I,43.65052,-110.72963,USDI-NPS-Grand Teton NP,14-Nov-14,0,2688,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,2688,0,0,0,0,0,0,0,2688
+1684,Triangle X,SMP-I,43.770917,-110.569556,USDI-NPS-Grand Teton NP,14-Nov-14,0,7600,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,7600,0,0,0,0,0,0,0,7600
+1685,Pinedale Piles,SMP-I,,,USDA-USFS-Bridger-Teton NF-Greys River RD,17-Nov-14,0.5,9000,18-Nov-14,0.5,9000,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0.5,0.5,0,0,0,0,0,9000,9000,0,0,0,0,0,1,18000
+1688,Fremont Lake Spillway,SMP-I,,,USDA-USFS-Bridger-Teton NF-Pinedale RD,19-Nov-14,0.5,9000,20-Nov-14,0.5,9000,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0.5,0.5,0,0,0,0,0,9000,9000,0,0,0,0,0,1,18000
+1686,Lander Piles,SMP-I,,,USDA-USFS-Shoshone NF,19-Nov-14,0,540,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,540,0,0,0,0,0,0,0,540
+1689,Fisherman Creek Pile,SMP-I,,,USDA-USFS-Bridger-Teton NF-Big Piney RD,19-Nov-14,0,900,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,900,0,0,0,0,0,0,0,900
+1687,Teton Science School,SMP-I,43.670833,-110.596667,USDI-NPS-Grand Teton NP,19-Nov-14,0,3072,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,3072,0,0,0,0,0,0,0,3072
+1691,Fremont Lake,SMP-I,,,USDA-USFS-Bridger-Teton NF-Pinedale RD,24-Nov-14,1,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,5000,0,0,0,0,0,0,1,5000
+1690,Yellowstone Mesa Piles,SMP-I,42.619444,-110.847778,USDI-NPS-Yellowstone NP,24-Nov-14,1,6500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,6500,0,0,0,0,0,0,1,6500
+1699,South Cottonwood Timber Piles,SMP-I,42.7531972,-110.5430194,USDA-USFS-Bridger-Teton NF-Big Piney RD,3-Dec-14,18000,18000,4-Dec-14,18000,18000,5-Dec-14,18000,18000,8-Dec-14,18000,18000,9-Dec-14,18000,18000,10-Dec-14,18000,18000,11-Dec-14,18000,18000,,,18000,18000,18000,18000,18000,18000,18000,18000,18000,18000,18000,18000,18000,18000,126000,126000
+1700,Hand Piles,SMP-I,44.7738889,-107.529075,USDA-USFS-Bighorn NF-Tongue RD,3-Dec-14,0,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,5000,0,0,0,0,0,0,0,5000
+1702,Logging Slash – Hand Piles,SMP-I,44.5597167,-110.4003667,USDI-NPS-Yellowstone NP,10-Dec-14,2,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,2,0,0,0,0,0,0,5000,0,0,0,0,0,0,2,5000
+1724,Washakie Piles-Geology Camp,SMP-I,42.61,-108.76,,1/7/2015,,1124.65,12/15/2015,,1971.14,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,,,0,0,0,0,0,1124.65,1971.14,0,0,0,0,0,0,3095.79
+1736,"Park WUI Slash Piles, (WDEQ#1736)",SMP-I,44.73,-105.53,USDI-BLM-Buffalo Field Office,1/12/2015,28,288,1/13/2015,17,288,1/14/2015,10,288,,0,0,,0,0,,0,0,,0,0,Burned,,28,17,10,0,0,0,0,288,288,288,0,0,0,0,55,864
+1728,Washakie Piles – Pass Creek Community Pile,SMP-I,42.61,-108.76,USDA-USFS-Shoshone NF-Washakie RD,1/13/2015,,418.88,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,,0,0,0,0,0,0,418.88,0,0,0,0,0,0,0,418.88
+1758,"Park WUI Slash Piles, (WDEQ#1736)",SMP-I,44.12,-106.87,USDI-BLM-Buffalo Field Office,1/21/2015,1,412,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,412,0,0,0,0,0,0,1,412
+1738,Lost Creek,SMP-I,43.45,-107.07,USDI-BLM-Casper Field Office,2/15/2015,20,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0
+1784,NTA Fuel Reduction,SMP-I,,,Camp Guernsey Fire Department,2/27/2015,,1250,2/28/2015,,1250,3/1/2015,,750,3/30/2015,0,1250,4/8/2015,0,1250,6/1/2015,0,250,6/2/2015,0,350,Burned,,,,,0,0,0,0,1250,1250,750,1250,1250,250,350,0,6350
+1772,Sheridan VAMC Wood Piles,SMP-I,44.83,-106.99,Department of Veterans Affairs,3/11/2015,1,10000,3/12/2015,1,10000,3/13/2015,1,10000,,0,0,,0,0,,0,0,,0,0,Burned,,1,1,1,0,0,0,0,10000,10000,10000,0,0,0,0,3,30000
+1789,Billy Creek Community Pile,SMP-I,44.12,-106.87,Wyoming State Forestry Division,3/26/2015,0.25,3272.49,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0.25,0,0,0,0,0,0,3272.49,0,0,0,0,0,0,0.25,3272.49
+1814,Naughton  Plant,SMP-I,,,"Pacificorp, Naughton Plant",6/24/2015,0,54,6/24/2015,0,110,6/24/2015,0.1,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0.1,0,0,0,0,54,110,0,0,0,0,0,0.1,164
+1813,OP Area 1 Fuel Reduction,SMP-I,,,Camp Guernsey Fire Department,7/2/2015,75,0,7/3/2015,25,0,7/6/2015,60,0,,0,0,,0,0,,0,0,,0,0,Burned,,75,25,60,0,0,0,0,0,0,0,0,0,0,0,160,0
+1815,Curt Gowdy Piles,SMP-I,41.2,-105.25,Granite Springs Retreat Association,7/11/2015,0,1000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,1000,0,0,0,0,0,0,0,1000
+1844,GTNP- Signal Mtn,SMP-I,43.85,-110.57,USDI-NPS-Grand Teton NP,10/26/2015,4,5100,10/27/2015,10,9640,10/29/2015,11,7125,11/2/2015,10,7125,,0,0,,0,0,,0,0,Burned,,4,10,11,10,0,0,0,5100,9640,7125,7125,0,0,0,35,28990
+1744,North Zone BTNF Piles:  Snow King/Buffalo Valley Road,SMP-I,43.46,-110.76,USDA-USFS-Bridger-Teton NF-Jackson RD,11/3/2015,14,3200,11/20/2015,9,4268,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,14,9,0,0,0,0,0,3200,4268,0,0,0,0,0,23,7468
+1843,GTNP- Moran,SMP-I,43.84,-110.51,USDI-NPS-Grand Teton NP,11/9/2015,4,2125,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,4,0,0,0,0,0,0,2125,0,0,0,0,0,0,4,2125
+1846,GTNP- Exum,SMP-I,43.74,-110.73,USDI-NPS-Grand Teton NP,11/10/2015,1,255,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,255,0,0,0,0,0,0,1,255
+1847,GTNP- Whitegrass,SMP-I,43.65,-110.73,USDI-NPS-Grand Teton NP,11/10/2015,1,425,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,425,0,0,0,0,0,0,1,425
+1884,Mesa Pit Logging Slash,SMP-I,44.62,-110.85,USDI-NPS-Yellowstone NP,11/17/2015,1,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,5000,0,0,0,0,0,0,1,5000
+1716,Wold Piles,SMP-I,41.04,-106.17,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,11/17/2015,50,19026,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,50,0,0,0,0,0,0,19026,0,0,0,0,0,0,50,19026
+1717,WyColo Piles,SMP-I,41.01,-106.17,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,11/17/2015,50,54560,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,50,0,0,0,0,0,0,54560,0,0,0,0,0,0,50,54560
+1885,GTNP- Murie Ranch,SMP-I,43.65,-110.73,USDI-NPS-Grand Teton NP,11/18/2015,2.5,935,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,2.5,0,0,0,0,0,0,935,0,0,0,0,0,0,2.5,935
+1881,Gourley,SMP-I,,,,11/19/2015,0,1500,12/28/2015,0,6000,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,1500,6000,0,0,0,0,0,0,7500
+1887,Mesa Pit Logging Slash,SMP-I,44.96,-110.55,USDI-NPS-Yellowstone NP,11/23/2015,1,1500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,1500,0,0,0,0,0,0,1,1500
+1845,GTNP- Triangle X,SMP-I,43.77,-110.57,USDI-NPS-Grand Teton NP,11/23/2015,3,9600,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,3,0,0,0,0,0,0,9600,0,0,0,0,0,0,3,9600
+1888,BLM Fremont Camp Ground,SMP-I,43.37,-107.7,USDI-BLM-Lander Field Office,11/24/2015,1,2000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,2000,0,0,0,0,0,0,1,2000
+1901,Wish Handpiles,SMP-I,44.29,-104.23,USDA-USFS-Black Hills NF-Bearlodge RD,12/1/2015,0,10000,12/2/2015,0,10000,12/3/2015,0,10000,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,10000,10000,10000,0,0,0,0,0,30000
+1902,St. Lawrence GS Pile Burn (CY15),SMP-I,43.03,-109.18,USDI-BLM-Ft. Washakie Field Office,12/2/2015,0,7000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,7000,0,0,0,0,0,0,0,7000
+1863,Red Cliff WUI,SMP-I,43.27,-109.99,USDA-USFS-Bridger-Teton NF-Big Piney RD,12/11/2015,0,7000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,7000,0,0,0,0,0,0,0,7000
+1737,Muddy Mountain Slash Piles,SMP-I,42.68,-106.23,USDI-BLM-Casper Field Office,12/14/2015,20,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0
+1908,Hwy 14 Burn Piles,SMP-I,42.78,-108.4,Wyoming State Forestry Division,12/16/2015,0.5,6244.75,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0.5,0,0,0,0,0,0,6244.75,0,0,0,0,0,0,0.5,6244.75
+1773,City of Torrington Baler,SMP-I,42.05,-104.17,City of Torrington,12/17/2015,0,8700,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,8700,0,0,0,0,0,0,0,8700
+1907,Bates Creek,SMP-I,42.62,-106.37,USDI-BLM-Casper Field Office,12/21/2015,25,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,25,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0
+1759,"Wind River Piles- lower wind t39delta, echo, Charlie",SMP-I,43.56,-109.84,USDA-USFS-Shoshone NF-Washakie RD,12/29/2015,10,5438,12/30/2015,12,6959,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,10,12,0,0,0,0,0,5438,6959,0,0,0,0,0,22,12397
+1973,Billy Creek Burn Piles,SMP-I,44.14,-106.9,Wyoming State Forestry Division,1/12/2016,0.5,3856.28,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0.5,0,0,0,0,0,0,3856.28,0,0,0,0,0,0,0.5,3856.28
+1972,Youth Camp Burn Piles,SMP-I,44.15,-106.89,Wyoming State Forestry Division,1/12/2016,1,5332.79,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,5332.79,0,0,0,0,0,0,1,5332.79
+1935,Teton Village Pile State School Section,SMP-I,43.56,-110.83,,1/13/2016,0,5000,1/14/2016,0,2500,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,5000,2500,0,0,0,0,0,0,7500
+1987,Middle Piney Lake Pile,SMP-I,42.6,-110.57,USDA-USFS-Bridger-Teton NF-Big Piney RD,1/15/2016,0,8800,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,8800,0,0,0,0,0,0,0,8800
+1933,Parks WUI Slash Piles Unit 4&1 (DEQ # 1933),SMP-I,44.73,-105.53,USDI-BLM-Buffalo Field Office,1/16/2016,35,30,1/17/2016,25,30,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,35,25,0,0,0,0,0,30,30,0,0,0,0,0,60,60
+1931,Billy Creek Public Pile,SMP-I,44.12,-106.87,USDI-BLM-Buffalo Field Office,1/21/2016,1,170,12/15/2016,1,170,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,1,0,0,0,0,0,170,170,0,0,0,0,0,2,340
+2010,Sinclair Landfill/Compost Pile,SMP-I,41.79,-105.03,Town of Sinclair,1/26/2016,0,11200,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,11200,0,0,0,0,0,0,0,11200
+1992,Black Tail Ranch,SMP-I,,,Neiman Timber Co.,1/27/2016,0,2250,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,2250,0,0,0,0,0,0,0,2250
+1956,Middle Fork M2 Geology Camp,SMP-I,42.73,-108.84,USDA-USFS-Shoshone NF-Washakie RD,2/1/2016,30,523.55,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,30,0,0,0,0,0,0,523.55,0,0,0,0,0,0,30,523.55
+1932,Mosier Gulch South Unit,SMP-I,44.34,-106.82,USDI-BLM-Buffalo Field Office,2/2/2016,13,2400,12/6/2016,30,4460,12/7/2016,15,6596,,0,0,,0,0,,0,0,,0,0,Burned,,13,30,15,0,0,0,0,2400,4460,6596,0,0,0,0,58,13456
+1971,Clear Creek Burn Piles,SMP-I,44.34,-106.71,Wyoming State Forestry Division,2/2/2016,0.5,969.53,12/7/2016,1,6014.91,12/9/2016,0.5,3820.87,,0,0,,0,0,,0,0,,0,0,Burned,,0.5,1,0.5,0,0,0,0,969.53,6014.91,3820.87,0,0,0,0,2,10805.31
+1954,Christina Trail Head,SMP-I,42.73,-108.93,,2/9/2016,1,488,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,488,0,0,0,0,0,0,1,488
+1962,Worthen,SMP-I,42.73,-108.93,USDA-USFS-Shoshone NF-Washakie RD,2/9/2016,1,977,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,977,0,0,0,0,0,0,1,977
+1961,Pass Creek,SMP-I,42.61,-108.76,USDA-USFS-Shoshone NF-Washakie RD,2/12/2016,1,545,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,545,0,0,0,0,0,0,1,545
+1982,Fort Fetterman Thinning Slash Pile Burn,SMP-I,42.45,-105.39,Wyoming State Forestry Division,2/17/2016,0,7500,2/18/2016,0,7500,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,7500,7500,0,0,0,0,0,0,15000
+2008,Russian Olive Pile - Hot Springs,SMP-I,43.73,-108.19,"Wyo-Ben, Inc.",2/23/2016,0,11988,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,11988,0,0,0,0,0,0,0,11988
+2032,Canyon Hand Piles,SMP-I,44.74,-110.49,USDI-NPS-Yellowstone NP,4/19/2016,5,4000,4/20/2016,5,3000,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,5,5,0,0,0,0,0,4000,3000,0,0,0,0,0,10,7000
+2033,Frog Rock Pit Logging Slash,SMP-I,44.96,-110.55,USDI-NPS-Yellowstone NP,4/19/2016,1,1500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,1500,0,0,0,0,0,0,1,1500
+2036,Sweetwater Lift Line,SMP-I,43.6,-110.85,Jackson Hole Mtn. Resort,4/26/2016,0,3140,4/27/2016,0,2512,4/28/2016,0,1570,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,3140,2512,1570,0,0,0,0,0,7222
+2031,Buckskin Controlled Burn #2031,SMP-I,44.48,-105.52,Buckskin Mining Co.,5/4/2016,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2037,Grant Village Slash Pile,SMP-I,44.4,-110.57,USDI-NPS-Yellowstone NP,5/4/2016,1,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,5000,0,0,0,0,0,0,1,5000
+2038,Sweetwater Lift Line 2038,SMP-I,43.6,-110.85,Jackson Hole Mtn Resort,5/9/2016,0,4710,5/10/2016,0,4710,5/25/2016,0,2512,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,4710,4710,2512,0,0,0,0,0,11932
+2041,Bare Mtn Post and Pole Pile,SMP-I,,,,5/28/2016,0,2000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,2000,0,0,0,0,0,0,0,2000
+2091,White Pine Piles,SMP-I,42.97,-109.75,US Forest Service,10/11/2016,8.3,8514.56,10/12/2016,8.3,8514.56,10/13/2016,8.3,8514.56,,0,0,,0,0,,0,0,,0,0,Burned,,8.3,8.3,8.3,0,0,0,0,8514.56,8514.56,8514.56,0,0,0,0,24.9,25543.68
+2096,White Grass,SMP-I,43.65,-110.77,USDI-NPS-Grand Teton NP,10/12/2016,1,85,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,85,0,0,0,0,0,0,1,85
+3005,North Zone Piles,SMP-I,43.49,-110.9,USDA-USFS-Bridger-Teton NF-Jackson RD,10/17/2016,0,1955,10/18/2016,0,340,10/20/2016,0,0.0085,10/25/2016,0,90,11/21/2016,0,425,11/21/2016,0,170,11/22/2016,0,650,Burned,,0,0,0,0,0,0,0,1955,340,0.0085,90,425,170,650,0,3630.0085
+3004,Jenny Lake,SMP-I,43.77,-110.75,USDI-NPS-Grand Teton NP,10/17/2016,2,85,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,2,0,0,0,0,0,0,85,0,0,0,0,0,0,2,85
+3003,Highland Ranch,SMP-I,43.71,-110.73,USDI-NPS-Grand Teton NP,10/18/2016,2,85,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,2,0,0,0,0,0,0,85,0,0,0,0,0,0,2,85
+3008,Nylander & Kleinstick Piles,SMP-I,42.83,-110.55,US Forest Service,10/19/2016,0,4100,10/20/2016,0,4100,10/26/2016,0,4100,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,4100,4100,4100,0,0,0,0,0,12300
+2086,Dew Ranch,SMP-I,43.53,-110.22,USDA-USFS-Bridger-Teton NF-Jackson RD,10/23/2016,0.5,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0
+3013,Grant Village Hand Piles,SMP-I,44.4,-110.57,USDI-NPS-Yellowstone NP,10/24/2016,500,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,500,0,0,0,0,0,0,5000,0,0,0,0,0,0,500,5000
+3002,Bradley Lake Pile Burn,SMP-I,43.72,-110.75,USDI-NPS-Grand Teton NP,10/25/2016,0,340,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,340,0,0,0,0,0,0,0,340
+1464,Dry Quad,SMP-I,43.774444,-110.532222,USDA - USFS - Jackson RD,10/25/2016,50,,10/26/2013,50,,10/27/2013,50,,,,,,,,,,,,,,,,50,50,50,,,,,,,,,,,,150,0
+3022,Sheriden Grass Burn,SMP-I,,,LJWright Inc,11/10/2016,0,35,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,35
+3023,Scab Pile,SMP-I,42.82,-109.56,USDI-BLM-Pinedale Field Office,11/14/2016,0,1100,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,1100,0,0,0,0,0,0,0,1100
+3053,Mesa Pit Logging Slash,SMP-I,44.62,-110.85,USDI-NPS-Yellowstone NP,11/17/2016,1,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,5000,0,0,0,0,0,0,1,5000
+3038,Canyon Hand Piles,SMP-I,44.73,-110.48,USDI-NPS-Yellowstone NP,11/22/2016,5,4000,11/30/2016,5,4000,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,5,5,0,0,0,0,0,4000,4000,0,0,0,0,0,10,8000
+3042,Muddy Mountain Fuel Break Slash Pile Burn,SMP-I,42.68,-106.27,Wyoming State Forestry Division,11/28/2016,0,6700,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,6700,0,0,0,0,0,0,0,6700
+3021,Gourley,SMP-I,,,,11/29/2016,0,1000,11/29/2016,0,3000,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,1000,3000,0,0,0,0,0,0,4000
+3046,Rattlesnake MNT Piles Prescribed Burn,SMP-I,,,USDI-BLM-Cody Field Office,12/1/2016,5,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+3051,Middle Piney Gravel Pit,SMP-I,42.6,-110.48,USDA-USFS-Bridger-Teton NF-Big Piney RD,12/1/2016,0,2500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,2500,0,0,0,0,0,0,0,2500
+3044,Middy Ridge Piles,SMP-I,,,Wyoming State Forestry Division,12/8/2016,0,500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,500
+3025,Billy Creek,SMP-I,44.13,-106.9,Wyoming State Forestry Division,12/9/2016,0.5,1696.46,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0.5,0,0,0,0,0,0,1696.46,0,0,0,0,0,0,0.5,1696.46
+3035,Duck Ponds,SMP-I,44.03,-106.93,Wyoming State Forestry Division,12/9/2016,1,8052.29,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,8052.29,0,0,0,0,0,0,1,8052.29
+3062,Grey Rocks TSI Slash Pile Burn,SMP-I,42.42,-105.42,Wyoming State Forestry Division,12/13/2016,0,7400,12/15/2016,0,7000,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,7400,7000,0,0,0,0,0,0,14400
+3024,Muddy Creek 6,SMP-I,44.15,-106.87,Wyoming State Forestry Division,12/15/2016,1,1948.1,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,1948.1,0,0,0,0,0,0,1,1948.1
+3065,Guernsey Debris Pile,SMP-I,,,,12/16/2016,0,4500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,4500,0,0,0,0,0,0,0,4500
+3078,,SMP-I,44.07,-104.06,USDI-BLM-Newcastle Field Office,12/28/2016,0,3989.9,12/29/2016,0,8000,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,3989.9,8000,0,0,0,0,0,0,11989.9
+3070,Trees R Us,SMP-I,43.55,-110.82,"Trees R US Tree Service, Inc.",1/2/2017,0,90,1/3/2017,0,0,1/4/2017,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,90
+3093,Hynds Lodge Restoration & Resiliency Project Slash Pile Burn,SMP-I,41.2,-105.26,Wyoming State Forestry Division,1/5/2017,0,10000,1/6/2017,0,10000,2/23/2017,0,10000,2/24/2017,0,10000,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,10000,10000,10000,10000,0,0,0,0,40000
+3096,Hynds Lodge Restoration & Resiliency Project Slash Pile Burn,SMP-I,41.2,-105.26,Wyoming State Forestry Division,1/5/2017,0,10000,1/6/2017,0,10000,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,10000,10000,0,0,0,0,0,0,20000
+3087,Pass Creek,SMP-I,42.61,-108.76,USFS,1/13/2017,0.25,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0
+3127,Sinclair Landfill,SMP-I,,,Town of Sinclair,1/16/2017,0,800,1/17/2017,0,800,1/17/2017,0,800,1/17/2017,0,800,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,800,800,800,800,0,0,0,0,3200
+3118,Grey Rocks 2 TSI Slash Pile Burn,SMP-I,42.42,-105.42,Wyoming State Forestry Division,1/31/2017,0,7000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,7000,0,0,0,0,0,0,0,7000
+3138,Hynds Lodge Restoration & Resiliency Project Slash Pile Burn,SMP-I,41.2,-105.26,Wyoming State Forestry Division,2/23/2017,0,10000,2/24/2017,0,10000,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,10000,10000,0,0,0,0,0,0,20000
+3145,East Range Road,SMP-I,,,Camp Guernsey Fire Dept,3/11/2017,200,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,200,0,0,0,0,0,0,0,0,0,0,0,0,0,200,0
+3153,Slyvan Bay Pile Burn,SMP-I,,,USFS Bridger Teton NF,4/13/2017,5,5365.1,4/14/2017,5,5365.1,4/19/2017,0,0,4/20/2017,0,0,4/21/2017,0,0,,0,0,,0,0,,,5,5,0,0,0,0,0,5365.1,5365.1,0,0,0,0,0,10,10730.2
+3157,OP Area,SMP-I,,,Camp Guernsey,5/8/2017,200,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,200,0,0,0,0,0,0,0,0,0,0,0,0,0,200,0
+3159,Sylvan Bay Summer Homes,SMP-I,,,USDA-USFS-Bridger-Teton NF-Pinedale RD,5/17/2017,5,5365.1,5/18/2017,5,5365.1,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,5,5,0,0,0,0,0,5365.1,5365.1,0,0,0,0,0,10,10730.2
+3172,OP Area 1,SMP-I,,,,8/22/2017,200,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,200,0,0,0,0,0,0,0,0,0,0,0,0,0,200,0
+3179,White Pine Piles,SMP-I,42.98,-109.76,USDA-USFS-Bridger-Teton NF-Pinedale RD,9/20/2017,7,3878,9/21/2017,7,3878,9/22/2017,7,3878,,0,0,,0,0,,0,0,,0,0,Burned,,7,7,7,0,0,0,0,3878,3878,3878,0,0,0,0,21,11634
+3183,Jackson Hole Trail Burn,SMP-I,43,-110,Jackson Hole Mountain Resort,9/21/2017,0,4500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,4500,0,0,0,0,0,0,0,4500
+3088,Worthen Unit,SMP-I,42.68,-108.93,USFS,9/26/2017,2,0,10/2/2017,2,0,10/3/2017,0,0,10/11/2017,0,100,,0,0,,0,0,,0,0,Burned,,2,2,0,0,0,0,0,0,0,0,100,0,0,0,4,100
+3084,Frye Lake,SMP-I,42.7,-108.89,,9/26/2017,1,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+3186,2017 Piles,SMP-I,44.1,-110.67,USDA-USFS-Bridger-Teton NF-Jackson RD,9/28/2017,0,8925,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,8925,0,0,0,0,0,0,0,8925
+3195,Horse Creek Parking Lot,SMP-I,42.95,-110.38,USDA-USFS-Bridger-Teton NF-Pinedale RD,10/3/2017,0,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,5000,0,0,0,0,0,0,0,5000
+3196,Half Moon Campground,SMP-I,42.93,-109.75,USDA-USFS-Bridger-Teton NF-Big Piney RD,10/3/2017,0,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,5000,0,0,0,0,0,0,0,5000
+3192,Teddy Creek Salvage Sale Pile Burn,SMP-I,,,Wyoming State Forestry Division,10/3/2017,0,10000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,10000,0,0,0,0,0,0,0,10000
+3197,Fremont Lake Campground,SMP-I,42.94,-109.8,USDA-USFS-Bridger-Teton NF-Big Piney RD,10/4/2017,0,2500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,2500,0,0,0,0,0,0,0,2500
+3206,Signal Mountain,SMP-I,43.85,-110.58,USDI-NPS-Grand Teton NP,10/18/2017,27,13600,10/24/2017,27,3825,11/3/2017,3,3825,,0,0,,0,0,,0,0,,0,0,,,27,27,3,0,0,0,0,13600,3825,3825,0,0,0,0,57,21250
+3212,Snow King Ski Area,SMP-I,43.47,-110.75,Snow King Mountain Resort LLC,10/23/2017,0,2000,10/24/2017,0,2000,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,2000,2000,0,0,0,0,0,0,4000
+3211,Canyon Piles,SMP-I,44.74,-110.49,USDI-NPS-Yellowstone NP,10/23/2017,10,7000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,10,0,0,0,0,0,0,7000,0,0,0,0,0,0,10,7000
+3217,Crook Lake Handpiles,SMP-I,44.58,-104.4,USDA-USFS-Black Hills NF-Bearlodge RD,10/30/2017,0,9999,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,9999,0,0,0,0,0,0,0,9999
+3207,South Landing,SMP-I,43.82,-110.46,USDI-NPS-Grand Teton NP,11/2/2017,1,510,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,1,0,0,0,0,0,0,510,0,0,0,0,0,0,1,510
+3204,Pacific Creek,SMP-I,43.89,-110.47,USDI-NPS-Grand Teton NP,11/5/2017,27,6375,11/6/2017,20,4250,11/7/2017,10,2125,,0,0,,0,0,,0,0,,0,0,,,27,20,10,0,0,0,0,6375,4250,2125,0,0,0,0,57,12750
+3226,Osprey Road Piles,SMP-I,42.95,-109.79,USDA-USFS-Bridger-Teton NF-Pinedale RD,11/6/2017,1,387,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,387,0,0,0,0,0,0,1,387
+3229,Concrete Ridge,SMP-I,,,USDA-USFS-Black Hills NF-Bearlodge RD,11/7/2017,0,9999,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,9999,0,0,0,0,0,0,0,9999
+3237,Sylvan Bay Day Use piles,SMP-I,42.95,-109.79,USDA-USFS-Bridger-Teton NF-Pinedale RD,11/13/2017,18,38371,11/14/2017,18,38371,11/15/2017,18,38371,11/16/2017,18,38317,11/17/2017,18,38317,,0,0,,0,0,Burned,,18,18,18,18,18,0,0,38371,38371,38371,38317,38317,0,0,90,191747
+3235,Hog Park Campground Piles,SMP-I,41.03,-106.86,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,11/13/2017,0,5000,11/14/2017,0,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,5000,5000,0,0,0,0,0,0,10000
+3236,White Rocks Community Pile,SMP-I,41.56,-106.3,,11/15/2017,0,20000,11/16/2017,0,4000,11/17/2017,0,10000,11/30/2017,0,20000,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,20000,4000,10000,20000,0,0,0,0,54000
+3238,Nylander TS Piles,SMP-I,42.83,-110.53,USDA-USFS-Bridger-Teton NF-Big Piney RD,11/15/2017,0,8000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,8000,0,0,0,0,0,0,0,8000
+3244,Colter Bay Slash Pile,SMP-I,43.91,-110.62,USDI-NPS-Grand Teton NP,11/21/2017,0,5655,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,5655,0,0,0,0,0,0,0,5655
+3081,Brett heller,SMP-I,42.67,-108.88,,11/27/2017,2,3200,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,2,0,0,0,0,0,0,3200,0,0,0,0,0,0,2,3200
+3247,Upper Horseshoe Creek Fuel Break Slash Pile Burn,SMP-I,42.36,-105.44,Wyoming State Forestry Division,12/5/2017,0,7000,12/21/2017,0,7500,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,7000,7500,0,0,0,0,0,0,14500
+3246,FSR 225 Pile Burning,SMP-I,41.33,-106.48,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Brush Creek/Hayden RD,12/5/2017,0,15000,12/6/2017,0,0,12/7/2017,0,0,12/8/2017,0,0,12/11/2017,0,0,12/13/2017,0,0,12/14/2017,0,0,Burned,,0,0,0,0,0,0,0,15000,0,0,0,0,0,0,0,15000
+3248,Warren Peak,SMP-I,,,Nieman Sawmills,12/7/2017,0,10000,12/13/2017,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,10000,0,0,0,0,0,0,0,10000
+3249,Fox Park Salvage Sale Pile Burn,SMP-I,,,Wyoming State Forestry Division,12/8/2017,5,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,5,0,0,0,0,0,0,5000,0,0,0,0,0,0,5,5000
+3250,Muddy Mountain Fuel Brak Slash Pile Burn,SMP-I,42.68,-106.27,Wyoming State Forestry Division,12/12/2017,0,5500,12/13/2017,0,5500,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,5500,5500,0,0,0,0,0,0,11000
+3083,Fiddler Unit,SMP-I,42.62,-108.87,USFS,12/13/2017,,3267,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,,0,0,0,0,0,0,3267,0,0,0,0,0,0,0,3267
+3252,Coal Creek TS,SMP-I,42.53,-110.53,USDA-USFS-Bridger-Teton NF-Big Piney RD,12/15/2017,0,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,5000,0,0,0,0,0,0,0,5000
+3215,Mosier Gulch Pile Burn,SMP-I,44.34,-106.82,USDI-BLM-Buffalo Field Office,12/21/2017,20,30,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,20,0,0,0,0,0,0,30,0,0,0,0,0,0,20,30
+3257,Neiman,SMP-I,,,,1/2/2018,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3259,Bitter Creek,SMP-I,44.92,-105.79,USDI-BLM-Buffalo Field Office,1/10/2018,0,60,1/11/2018,0,3000,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,60,3000,0,0,0,0,0,0,3060
+3293,Cook Lake,SMP-I,44.58,-104.4,USDA-USFS-Black Hills NF-Bearlodge RD,1/16/2018,0,9999,1/17/2018,0,0,1/18/2018,0,0,1/19/2018,0,0,1/29/2018,0,0,1/30/2018,0,0,2/5/2018,0,9999,Burned,,0,0,0,0,0,0,0,9999,0,0,0,0,0,9999,0,19998
+3264,Pass Creek,SMP-I,42.61,-108.76,USDA-USFS-Shoshone NF-Washakie RD,1/17/2018,0,500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,500
+3294,Coal Creek TS pile,SMP-I,42.53,-110.53,USDA-USFS-Bridger-Teton NF-Big Piney RD,1/18/2018,0,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,5000,0,0,0,0,0,0,0,5000
+3295,Range Complex,SMP-I,42.38,-104.83,Camp Guernsey Fire Dept,1/19/2018,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3281,North Forks Piles,SMP-I,44.46,-109.73,USDA-USFS-Shoshone NF-Wind River RD,1/24/2018,0,6944,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,6944,0,0,0,0,0,0,0,6944
+3310,Neiman Timber,SMP-I,,,Neiman Timber Co,1/28/2018,0,70685.83,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,70685.83,0,0,0,0,0,0,0,70685.83
+3331,Beaver Ridge Piles 2,SMP-I,,,Wyoming State Forestry Division,3/2/2018,0,2400,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,2400,0,0,0,0,0,0,0,2400
+3312,Whitehouse Draw Slash Pile Burn,SMP-I,42.45,-105.37,Wyoming State Forestry Division,3/6/2018,0,1600,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1600,0,0,0,0,0,0,0,1600
+3313,Red Cliff Bible Camp,SMP-I,,,USDA-USFS-Bridger-Teton NF-Pinedale RD,3/7/2018,0,2437,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,2437,0,0,0,0,0,0,0,2437
+3314,,SMP-I,,,,3/8/2018,0,625,3/10/2018,0,625,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,625,625,0,0,0,0,0,0,1250
+3315,Nieman Timber,SMP-I,44.59,-104.48,Neiman Timber Company,3/12/2018,625,1343,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,625,0,0,0,0,0,0,1343,0,0,0,0,0,0,625,1343
+3316,Guensey Burn,SMP-I,42.46,-104.84,Camp Guernsey,3/13/2018,200,0,3/14/2018,200,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,200,200,0,0,0,0,0,0,0,0,0,0,0,0,400,0
+3330,Trail Creek Fuel Break,SMP-I,42.36,-105.44,Wyoming State Forestry Division,3/29/2018,0,5500,12/4/2018,0,5500,12/6/2018,0,0,12/7/2108,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,5500,5500,0,0,0,0,0,0,11000
+3334,Sylvan Bay Unit 4,SMP-I,42.79,-109.78,USDA-USFS-Bridger-Teton NF-Big Piney RD,4/10/2018,0,3500,4/11/2018,0,3500,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,3500,3500,0,0,0,0,0,0,7000
+3335,French Creek Ranch Pile,SMP-I,41.23,-106.46,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,4/12/2018,0,1680,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1680,0,0,0,0,0,0,0,1680
+3339,Mosquito Creek,SMP-I,43.46,-110.94,USDA-USFS-Bridger-Teton NF-Jackson RD,4/24/2018,5,0,4/25/2018,5,0,4/26/2018,0,0,4/27/2018,0,0,,0,0,,0,0,,0,0,Burned,,5,5,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+3348,White Pine Ski Area,SMP-I,42.98,-109.76,USDA-USFS-Bridger-Teton NF-Pinedale RD,6/8/2018,0,500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,500
+3376,White Pine Piles RX,SMP-I,42.96,-109.74,USDA-USFS-Bridger-Teton NF-Pinedale RD,10/22/2018,10,17671.46,10/23/2018,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,10,0,0,0,0,0,0,17671.46,0,0,0,0,0,0,10,17671.46
+3385,Union Pass Piles,SMP-I,43.34,-110.19,USDA-USFS-Bridger-Teton NF-Pinedale RD,10/30/2018,10,12534,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,10,0,0,0,0,0,0,12534,0,0,0,0,0,0,10,12534
+3383,Turpin Summer Homes Piles,SMP-I,43.86,-110.26,,10/31/2018,0,16964,11/1/2018,0,166,11/2/2018,0,166,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,16964,166,166,0,0,0,0,0,17296
+3389,Nylander Timber Sales Piles,SMP-I,42.83,-110.53,USDA-USFS-Bridger-Teton NF-Pinedale RD,11/2/2018,0,12534,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,12534,0,0,0,0,0,0,0,12534
+3384,Teton to Snake: T-11 Piles,SMP-I,,,USDA-USFS-Bridger-Teton NF-Jackson RD,11/5/2018,0,83051,11/6/2018,0,0,11/7/2018,0,0,12/4/2018,0,10670,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,83051,0,0,10670,0,0,0,0,93721
+3391,Mountain Home Community Slash Pile,SMP-I,41.01,-106.16,Wyoming State Forestry Division,11/5/2018,0,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,5000,0,0,0,0,0,0,0,5000
+3392,Trough Springs Timber,SMP-I,43.8,-106.87,USDI-BLM-Casper Field Office,11/5/2018,0,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,5000,0,0,0,0,0,0,0,5000
+3390,West Fort Piles,SMP-I,42.96,-109.74,USDA-USFS-Bridger-Teton NF-Pinedale RD,11/5/2018,25,62050,11/6/2018,0,0,11/7/2018,0,0,11/8/2018,0,0,,0,0,,0,0,,0,0,Burned,,25,0,0,0,0,0,0,62050,0,0,0,0,0,0,25,62050
+3393,Muddy Mountain Fuel Break Slash Pile,SMP-I,42.68,-106.27,Wyoming State Forestry Division,11/6/2018,0,5500,11/7/2018,0,5500,11/8/2018,0,5500,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,5500,5500,5500,0,0,0,0,0,16500
+3394,Signal Mountain Piles,SMP-I,43.85,-110.58,USDI-NPS-Grand Teton NP,11/7/2018,0,4000,11/9/2018,0,4000,11/13/2018,0,4000,11/14/2018,0,4000,11/15/2018,0,4000,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,4000,4000,4000,4000,4000,0,0,0,20000
+3395,Murie Ranch,SMP-I,43.65,-110.73,USDI-NPS-Grand Teton NP,11/8/2018,0,1020,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1020,0,0,0,0,0,0,0,1020
+3398,Fiddler's Lake Piles,SMP-I,42.62,-108.87,,11/13/2018,0,3800,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,3800,0,0,0,0,0,0,0,3800
+3400,White Grass,SMP-I,43.65,-110.77,,11/16/2018,2,850,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,2,0,0,0,0,0,0,850,0,0,0,0,0,0,2,850
+3401,Elk Ranch,SMP-I,43.83,-110.5,USDI-NPS-Grand Teton NP,11/19/2018,0,5000,11/20/2018,0,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,5000,5000,0,0,0,0,0,0,10000
+3403,McCollister,SMP-I,43.68,-110.64,,11/19/2018,0,1530,11/20/2018,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1530,0,0,0,0,0,0,0,1530
+3402,4 Lazy F,SMP-I,43.66,-110.71,USDI-NPS-Grand Teton NP,11/19/2018,0,1875,11/20/2018,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1875,0,0,0,0,0,0,0,1875
+3404,Sylvan Bay,SMP-I,42.96,-109.77,,11/19/2018,15,112317,11/20/2018,0,0,###############################################################################################################################################################################################################################################################,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,15,0,0,0,0,0,0,112317,0,0,0,0,0,0,15,112317
+3410,McAnulty Piles,SMP-I,41.05,-106.67,,11/28/2018,0,2261,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,2261,0,0,0,0,0,0,0,2261
+3415,Teddy Creek Timber Slash Piles,SMP-I,41.2,-106.9,USDI-BLM-Rawlins Field Office,11/29/2018,0,9425,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,9425,0,0,0,0,0,0,0,9425
+3419,Soldier Summit,SMP-I,41.07,-106.83,,12/3/2018,0,2968,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,2968,0,0,0,0,0,0,0,2968
+3420,White Rocks,SMP-I,41.55,-106.3,,12/7/2018,0,8377,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,8377,0,0,0,0,0,0,0,8377
+3589,FSR 100,SMP-I,41.38,-106.5,USFS,1/6/2019,0,1400,1/7/2019,0,1400,1/8/2019,0,1400,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1400,1400,1400,0,0,0,0,0,4200
+3430,Curt Gowdy Restoration & Resiliency Project,SMP-I,41.17,-105.24,Wyoming State Forestry Division,1/22/2019,0,10000,1/23/2019,0,10000,1/24/2019,0,10000,1/25/2019,0,10000,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,10000,10000,10000,10000,0,0,0,0,40000
+3427,Nieman Burn,SMP-I,,,Neiman Timber Company,1/22/2019,15917,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,15917,0,0,0,0,0,0,0,0,0,0,0,0,0,15917,0
+3431,WBI Burn,SMP-I,44.13,-107.91,,1/23/2019,0,2400,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,2400,0,0,0,0,0,0,0,2400
+3479,Curt Gowdy Restoration & Resiliency Project Slash Pile Burn,SMP-I,41.17,-105.24,Wyoming State Forestry Division,2/5/2019,0,10000,2/6/2019,0,0,2/7/2019,0,0,2/8/2019,0,0,3/2/2019,0,10000,3/6/2019,0,0,,0,0,,,0,0,0,0,0,0,0,10000,0,0,0,10000,0,0,0,20000
+3486,Indian Mill Fuel Break,SMP-I,42.42,-105.42,Wyoming State Forestry Division,2/20/2019,0,5500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,5500,0,0,0,0,0,0,0,5500
+3487,Curt Gowdy,SMP-I,41.17,-105.24,Wyoming State Forestry Division,2/22/2019,0,10000,3/13/2019,0,10000,3/14/2019,0,10000,3/15/2019,0,10000,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,10000,10000,10000,10000,0,0,0,0,40000
+3484,Horse Creek Handpiles,SMP-I,44.72,-105.53,USDI-BLM-Buffalo Field Office,2/25/2019,30,1800,12/10/2019,0,1800,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,30,0,0,0,0,0,0,1800,1800,0,0,0,0,0,30,3600
+3491,Indian Mill Fuel Break,SMP-I,42.42,-105.42,Wyoming State Forestry Division,2/26/2019,0,5500,2/27/2019,0,4000,3/5/2019,0,5000,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,5500,4000,5000,0,0,0,0,0,14500
+3492,Arkansas Creek Slash Piles,SMP-I,42.27,-107.2,USDI-BLM-Rawlins Field Office,2/26/2019,1,30215,4/9/2019,1,30215,,0,0,,0,0,,0,0,,0,0,,0,0,,,1,1,0,0,0,0,0,30215,30215,0,0,0,0,0,2,60430
+3471,Yellowtail,SMP-I,,,USDI-BLM-Cody Field Office,2/28/2019,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3494,Moriah Ranch Slash,SMP-I,41.02,-105.57,Wyoming State Forestry Division,3/5/2019,0,10000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,10000,0,0,0,0,0,0,0,10000
+3499,Trail Creek Fuel 2,SMP-I,42.36,-105.44,Wyoming State Forestry Division,3/20/2019,0,5500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,5500,0,0,0,0,0,0,0,5500
+3505,"West Fork Unit 4, Unit 5, and Sweeney Force Unit",SMP-I,42.97,-109.75,USDA-USFS-Bridger-Teton NF-Pinedale RD,4/29/2019,25,62050,4/30/2019,0,0,5/1/2019,0,0,5/2/2019,0,0,5/3/2019,0,0,,0,0,,0,0,,,25,0,0,0,0,0,0,62050,0,0,0,0,0,0,25,62050
+3506,2019 Teton to Snake T-11 Piles,SMP-I,43.5,-110.9,,5/1/2019,0,10000,5/2/2019,0,4500,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,10000,4500,0,0,0,0,0,0,14500
+3508,"West Fork Unit 4, 5 and Sweeney Force Unit",SMP-I,42.97,-109.75,USDA-USFS-Bridger-Teton NF-Pinedale RD,5/9/2019,0,62050,5/17/2019,0,0,6/7/2019,,5000,,0,0,,0,0,,0,0,,0,0,,,0,0,,0,0,0,0,62050,0,5000,0,0,0,0,0,67050
+3509,Buckskin,SMP-I,44.47,-105.53,Buckskin Minign Company,5/15/2019,56,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,56,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0
+3525,Recreation Trails,SMP-I,43.49,-110.9,,9/18/2019,0,10000,9/19/2019,0,10000,9/20/2019,0,10000,9/21/2019,0,10000,9/27/2019,0,37169,10/1/2019,0,37169,10/3/2019,0,37169,Burned,,0,0,0,0,0,0,0,10000,10000,10000,10000,37169,37169,37169,0,151507
+3536,Sylvan Bay Unit 4,SMP-I,42.97,-109.75,,10/2/2019,5,20144.24,10/9/2019,5,20144.24,,0,0,,0,0,,0,0,,0,0,,0,0,,,5,5,0,0,0,0,0,20144.24,20144.24,0,0,0,0,0,10,40288.48
+3537,Phillips Bench Unit 2 North,SMP-I,43.54,-110.87,USDA-USFS-Bridger-Teton NF-Jackson RD,10/3/2019,0,37169,10/4/2019,0,37169,10/21/2019,0,37169,10/25/2019,0,37169,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,37169,37169,37169,37169,0,0,0,0,148676
+3547,Hoback Campground,SMP-I,43.28,-110.59,USDA-USFS-Bridger-Teton NF-Jackson RD,10/9/2019,0,30,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,30
+3546,Jack Pine,SMP-I,43.32,-110.44,USDA-USFS-Bridger-Teton NF-Jackson RD,10/9/2019,0,50,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,50
+3532,Climbers Ranch,SMP-I,43.98,-110.64,USDI-NPS-Grand Teton NP,10/9/2019,0,452.39,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,452.39,0,0,0,0,0,0,0,452.39
+3529,Triangle X,SMP-I,43.76,-110.59,USDI-NPS-Grand Teton NP,10/9/2019,0,2261.95,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,2261.95,0,0,0,0,0,0,0,2261.95
+3549,Hidden hills,SMP-I,43.39,-110.85,USDA-USFS-Bridger-Teton NF-Jackson RD,10/15/2019,3,1600,11/25/2019,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,3,0,0,0,0,0,0,1600,0,0,0,0,0,0,3,1600
+3550,Sjhoberg,SMP-I,42.87,-110.55,USDA-USFS-Bridger-Teton NF-Pinedale RD,10/17/2019,120,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,120,0,0,0,0,0,0,0,0,0,0,0,0,0,120,0
+3551,White Pine and Sweeny Creek,SMP-I,42.08,-109.73,USDA-USFS-Bridger-Teton NF-Pinedale RD,10/19/2019,0,10000,10/20/2019,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,10000,0,0,0,0,0,0,0,10000
+3552,Sleeping Giant Burn,SMP-I,,,Sleeping Giant Ski Area,10/23/2019,0,1000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1000,0,0,0,0,0,0,0,1000
+3555,Baker,SMP-I,,,,10/25/2019,0,625,10/26/2019,0,625,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,625,625,0,0,0,0,0,0,1250
+3556,Sweeny Ridge,SMP-I,,,USDA-USFS-Bridger-Teton NF-Big Piney RD,10/26/2019,25,62050,11/1/2019,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,25,0,0,0,0,0,0,62050,0,0,0,0,0,0,25,62050
+3557,Wilderness Ranch,SMP-I,43.85,-110.45,USDA-USFS-Bridger-Teton NF-Jackson RD,10/28/2019,0,120,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,120
+3558,Surveyon Ridge,SMP-I,42.97,-109.75,USDA-USFS-Bridger-Teton NF-Pinedale RD,11/2/2019,0,82050,11/3/2019,0,0,11/4/2019,0,0,11/5/2019,0,0,11/6/2019,0,0,11/7/2019,0,0,11/8/2019,0,0,,,0,0,0,0,0,0,0,82050,0,0,0,0,0,0,0,82050
+3559,Trail Creek Fuel Break,SMP-I,42.36,-105.44,Wyoming State Forestry Division,11/4/2019,0,5500,11/5/2019,0,5500,11/6/2019,0,5500,11/7/2019,0,5500,12/10/2019,0,5500,12/11/2019,0,2500,,0,0,,,0,0,0,0,0,0,0,5500,5500,5500,5500,5500,2500,0,0,30000
+3560,Dana Cook,SMP-I,,,,11/5/2019,4,1330,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,4,0,0,0,0,0,0,1330,0,0,0,0,0,0,4,1330
+3561,School Creek South Slash Piles,SMP-I,41.2,-106.53,USDI-BLM-Rawlins Field Office,11/6/2019,13.33,102920.17,12/17/2019,13.33,7747.78,,0,0,,0,0,,0,0,,0,0,,0,0,,,13.33,13.33,0,0,0,0,0,102920.17,7747.78,0,0,0,0,0,26.66,110667.95
+3568,Kelly Park,SMP-I,42.95,-109.75,,11/15/2019,0,500,11/16/2019,0,500,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,500,500,0,0,0,0,0,0,1000
+3569,North Corridor,SMP-I,43,-109.75,USDA-USFS-Bridger-Teton NF-Pinedale RD,11/18/2019,11,35991.13,11/19/2019,0,0,11/20/2019,0,0,11/21/2019,0,0,11/22/2019,0,0,,0,0,,0,0,,,11,0,0,0,0,0,0,35991.13,0,0,0,0,0,0,11,35991.13
+3446,Pass Creek Community Pile,SMP-I,42.61,-108.76,USDA-USFS-Shoshone NF-Washakie RD,12/3/2019,0,500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,500
+3528,Signal Mountain,SMP-I,43.83,-110.61,,12/4/2019,21,77358.58,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,21,0,0,0,0,0,0,77358.58,0,0,0,0,0,0,21,77358.58
+3527,Pacific Creek,SMP-I,43.87,-110.47,,12/6/2019,0,160708.6,12/12/2019,0,160708.6,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,160708.6,160708.6,0,0,0,0,0,0,321417.2
+3573,Marking Pen Creek Slash Piles,SMP-I,42.15,-106.93,USDI-BLM-Rawlins Field Office,12/17/2019,6.23,90280.94,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,6.23,0,0,0,0,0,0,90280.94,0,0,0,0,0,0,6.23,90280.94
+3574,Salt Lick Ridge TSI Slash Pile Burn,SMP-I,42.43,-105.44,Wyoming State Forestry Division,12/18/2019,0,5500,12/19/2019,0,2500,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,5500,2500,0,0,0,0,0,0,8000
+3575,Spinner Timber Sale,SMP-I,41.27,-107.08,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,12/19/2019,0,22500,12/20/2019,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,22500,0,0,0,0,0,0,0,22500
+3576,Patton Creek Slash Piles,SMP-I,42.45,-104.74,Camp Guernsey Fire Department,12/26/2019,0,1000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1000,0,0,0,0,0,0,0,1000
+3577,Patton Creek Slash Piles,SMP-I,42.45,-104.74,Camp Guernsey Fire Department,12/27/2019,0,1000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1000,0,0,0,0,0,0,0,1000
+3620,Neiman Timber,SMP-I,,,Neiman Timber CO,1/14/2020,0,14137.17,1/21/2020,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,14137.17,0,0,0,0,0,0,0,14137.17
+3628,Spinner,SMP-I,41.27,-107.1,US Forest Service,1/27/2020,0,3769,1/28/2020,0,3769,1/29/2020,0,3769,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,3769,3769,3769,0,0,0,0,0,11307
+3629,Methodist Timber Sale Slash Pile,SMP-I,41.32,-107.05,USDI-BLM-Rawlins Field Office,1/27/2020,0,18555.03,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,18555.03,0,0,0,0,0,0,0,18555.03
+3640,Curt Gowdy Restoraton&resilency Slash Pile Burn,SMP-I,41.17,-105.24,Wyoming State Forestry Division,2/3/2020,0,10000,2/4/2020,0,10000,2/5/2020,0,10000,2/6/2020,0,10000,2/7/2020,0,10000,2/8/2020,0,10000,2/9/2020,0,0,,,0,0,0,0,0,0,0,10000,10000,10000,10000,10000,10000,0,0,60000
+3641,Sherwood,SMP-I,43.88,-104.05,USDI-BLM-Buffalo Field Office,2/10/2020,0,76000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,76000,0,0,0,0,0,0,0,76000
+3642,Nieman 2,SMP-I,,,Neiman Timber Company,2/11/2020,0,4712.39,2/28/2020,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,4712.39,0,0,0,0,0,0,0,4712.39
+3643,Pitch Pine Creek Juniper Slash Pile Burn,SMP-I,42.63,-106.38,Wyoming State Forestry Division,2/12/2020,0,5500,2/13/2020,0,4500,2/19/2020,0,7500,2/20/2020,0,6500,2/21/2020,0,7500,3/3/2020,0,8500,3/4/2020,0,6500,Burned,,0,0,0,0,0,0,0,5500,4500,7500,6500,7500,8500,6500,0,46500
+3604,Pitch Pine Pile burn,SMP-I,42.67,-106.32,USDI-BLM-Casper Field Office,2/12/2020,0,5500,2/13/2020,0,4500,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,5500,4500,0,0,0,0,0,0,10000
+3644,Hynds Lodge Restoration,SMP-I,41.2,-105.26,Wyoming State Forestry Division,2/17/2020,0,10000,2/18/2020,0,,2/19/2020,0,0,3/2/2020,0,10000,3/19/2020,0,10000,4/15/2020,0,10000,,0,0,,,0,0,0,0,0,0,0,10000,,0,10000,10000,10000,0,0,40000
+3654,Camp Guernsey Impact Area,SMP-I,42.37,-104.84,Camp Guernsey Fire Department,3/25/2020,200,0,4/1/2020,200,0,4/8/2020,200,0,,0,0,,0,0,,0,0,,0,0,,,200,200,200,0,0,0,0,0,0,0,0,0,0,0,600,0
+3663,Pile Burning,SMP-I,42.64,-110.82,USDA-USFS-Bridger-Teton NF-Greys River RD,6/8/2020,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3690,Taylor Mountain,SMP-I,43.39,-110.85,,10/21/2020,1,0,10/27/2020,3,0,10/28/2020,3,0,10/29/2020,3,0,,0,0,,0,0,,0,0,,,1,3,3,3,0,0,0,0,0,0,0,0,0,0,10,0
+3693,Pacific Creek,SMP-I,43.87,-110.47,USDI-NPS-Grand Teton NP,10/27/2020,0,500,10/28/2020,0,500,10/29/2020,0,500,11/9/2020,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,500,500,500,0,0,0,0,0,1500
+3703,White Pine Unit 6,SMP-I,42.97,-109.75,USDA-USFS-Bridger-Teton NF-Pinedale RD,10/27/2020,0,1600,10/28/2020,0,1600,10/29/2020,0,0,10/30/2020,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1600,1600,0,0,0,0,0,0,3200
+3701,Brooks Lake,SMP-I,43.75,-110,,10/28/2020,0,1272.35,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,1272.35,0,0,0,0,0,0,0,1272.35
+3713,Flat Creek Ranch,SMP-I,43.52,-110.53,,11/4/2020,1.4,3392,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1.4,0,0,0,0,0,0,3392,0,0,0,0,0,0,1.4,3392
+3715,Phillips Ridge,SMP-I,43.54,-110.87,,11/10/2020,0,452,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,452,0,0,0,0,0,0,0,452
+3714,Elk Ranch,SMP-I,43.83,-110.5,USDI-NPS-Grand Teton NP,11/10/2020,0,2094.4,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,2094.4,0,0,0,0,0,0,0,2094.4
+3694,RKO Pit,SMP-I,43.82,-110.61,,11/10/2020,0,4188.79,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,4188.79,0,0,0,0,0,0,0,4188.79
+3716,Turpin Meadow,SMP-I,43.86,-110.28,,11/11/2020,0,37095.98,11/12/2020,0,80073.03,11/13/2020,0,633.46,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,37095.98,80073.03,633.46,0,0,0,0,0,117802.47
+3717,Wilderness Ranch,SMP-I,43.83,-110.43,,11/12/2020,0,1178,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,1178,0,0,0,0,0,0,0,1178
+3723,Black Rock Admin Site,SMP-I,43.83,-110.35,USDA-USFS-Bridger-Teton NF-Jackson RD,11/17/2020,0,500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,500
+3579,Loop Road 8 Piles,SMP-I,42.59,-108.86,US Forest Service Shoshone National Forest,11/24/2020,0,1200.5,11/25/2020,0,1200.5,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,1200.5,1200.5,0,0,0,0,0,0,2401
+3731,South Corral Creek Slash Piles,SMP-I,41.25,-106.53,USDI-BLM-Rawlins Field Office,12/2/2020,0,86616,12/3/2020,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,86616,0,0,0,0,0,0,0,86616
+3727,Sky Line Drive,SMP-I,43,-109.75,USDA-USFS-Bridger-Teton NF-Pinedale RD,12/2/2020,20,25446,12/3/2020,20,,12/4/2020,20,,,0,0,,0,0,,0,0,,0,0,,,20,20,20,0,0,0,0,25446,,,0,0,0,0,60,25446
+3732,Teddy Creek Salvage,SMP-I,,,Wyoming State Forestry Division,12/8/2020,0,10000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,10000,0,0,0,0,0,0,0,10000
+3734,Arkansas Creek,SMP-I,,,,12/9/2020,0,15107.54,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,15107.54,0,0,0,0,0,0,0,15107.54
+3735,Loop Road 84,SMP-I,42.55,-108.76,,12/9/2020,0,32169,12/10/2020,0,0,12/11/2020,0,0,12/14/2020,0,0,12/15/2020,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,32169,0,0,0,0,0,0,0,32169
+3741,Upper Oil Creek,SMP-I,44.08,-104.23,Wyoming State Forestry Division,12/30/2020,0,1500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1500,0,0,0,0,0,0,0,1500
+3777,Mill Creek Fuel Break Slash,SMP-I,42.42,-105.42,,1/6/2021,0,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,5000,0,0,0,0,0,0,0,5000
+3779,Methodist Timber Sale Slash Piles,SMP-I,41.32,-107.05,,1/6/2021,0,18555.03,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,18555.03,0,0,0,0,0,0,0,18555.03
+3821,Billy Creek,SMP-I,44.13,-106.9,,1/6/2021,0,105289.17,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,105289.17,0,0,0,0,0,0,0,105289.17
+3760,Pass Creek Community Pile,SMP-I,42.61,-108.76,,1/11/2021,0,500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,500
+3804,Moutain Home,SMP-I,41.01,-106.16,Wyoming State Forestry Division,1/12/2021,0,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,5000,0,0,0,0,0,0,0,5000
+3753,Banjo Piles Unit 11,SMP-I,42.61,-108.86,,1/15/2021,0,201.6,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,201.6,0,0,0,0,0,0,0,201.6
+3757,Louis Lake Admin,SMP-I,42.6,-108.85,,1/15/2021,0,600,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,600
+3755,Loop Road,SMP-I,42.7,-108.9,,1/21/2021,0,1292.5,1/22/2021,0,0,1/25/2021,0,0,1/26/2021,0,0,10/28/2021,0,2945.24,,0,0,,0,0,,,0,0,0,0,0,0,0,1292.5,0,0,0,2945.24,0,0,0,4237.74
+3828,Loop Road 70,SMP-I,,,,1/21/2021,0,0,1/25/2021,0,0,1/26/2021,0,0,10/28/2021,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3820,Wolf Creek Fuel Break,SMP-I,42.73,-106.37,,1/21/2021,0,7500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,7500,0,0,0,0,0,0,0,7500
+3823,Telephone Canyon Slash,SMP-I,41.27,-108.48,,1/25/2021,0,5000,1/26/2021,0,5000,1/27/2021,0,5000,1/28/2021,0,5000,1/29/2021,0,0,12/9/2021,0,5000,12/15/2021,0,5000,,,0,0,0,0,0,0,0,5000,5000,5000,5000,0,5000,5000,0,30000
+3848,Ullman Park Fuelbreak,SMP-I,42.4,-105.35,,4/6/2021,0,8500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,8500,0,0,0,0,0,0,0,8500
+3884,West Zone Piles,SMP-I,42.25,-110.8,,10/24/2021,0,1047,10/30/2021,3.5,1047,11/3/2021,3.5,1047,11/4/2021,0,1047,11/5/2021,3.5,1047,,0,0,,0,0,Burned,,0,3.5,3.5,0,3.5,0,0,1047,1047,1047,1047,1047,0,0,10.5,5235
+3895,South Spring Creek,SMP-I,,,,11/1/2021,0,10000,11/2/2021,0,10000,11/3/2021,0,10000,11/23/2021,0,10000,11/24/2021,0,10000,12/7/2021,0,10000,12/10/2021,0,0,,,0,0,0,0,0,0,0,10000,10000,10000,10000,10000,10000,0,0,60000
+3892,White Pine,SMP-I,,,,11/1/2021,0,25000,11/5/2021,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,25000,0,0,0,0,0,0,0,25000
+3893,Gros Ventre,SMP-I,43.55,-110.28,,11/2/2021,10,1480,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,10,0,0,0,0,0,0,1480,0,0,0,0,0,0,10,1480
+3896,Camp Guernsey,SMP-I,42.38,-104.82,,11/6/2021,200,0,11/7/2021,0,0,11/8/2021,0,0,11/9/2021,0,0,,0,0,,0,0,,0,0,,,200,0,0,0,0,0,0,0,0,0,0,0,0,0,200,0
+3898,Bryan Flats,SMP-I,,,,11/18/2021,0,3534.5,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,3534.5,0,0,0,0,0,0,0,3534.5
+3900,Elk Ranch,SMP-I,,,,11/29/2021,0,4241,12/9/2021,0,4241,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,4241,4241,0,0,0,0,0,0,8482
+3899,Beaver Creek North,SMP-I,,,,11/30/2021,0,1374,12/7/2021,0,1374,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1374,1374,0,0,0,0,0,0,2748
+3854,Skyline Piles,SMP-I,,,,12/7/2021,30,0,12/12/2021,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+3562,Coal Mountain Juniper,SMP-I,42.68,-106.45,USDI-BLM-Casper Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1556,Beaver Mountain Prescribed Burn,SMP-I,43.2684494,-110.6338675,USDA-USFS-Bridger-Teton NF-Pinedale RD,,46,0,,46,0,,46,0,,46,0,,46,0,,46,0,,46,0,,,46,46,46,46,46,46,46,0,0,0,0,0,0,0,322,0
+1535,Clear Creek Piles,SMP-I,44.06756433,-106.909081,Wyoming State Forestry Division,,1,7054.3,,1,7054.3,,1,7054.3,,0,0,,0,0,,0,0,,0,0,,,1,1,1,0,0,0,0,7054.3,7054.3,7054.3,0,0,0,0,3,21162.9
+3094,Heald Road Piles,SMP-I,44.7,-105.22,Wyoming State Forestry Division,,1,8745.63,,1,8456.74,,0.5,4956.84,,0,0,,0,0,,0,0,,0,0,Burned,,1,1,0.5,0,0,0,0,8745.63,8456.74,4956.84,0,0,0,0,2.5,22159.21
+3882,Gardner Mountain Area,SMP-I,43.82,-106.87,,,0,40840,,0,40840,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,40840,40840,0,0,0,0,0,0,81680
+3095,Beartrap Timber Sale Burn Piles,SMP-I,43.9,-107.07,Wyoming State Forestry Division,,0,12609.31,10/31/2017,0,6304.655,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,12609.31,6304.655,0,0,0,0,0,0,18913.965
+3241,Trough Springs Piles,SMP-I,43.8,-106.87,USDI-BLM-Buffalo Field Office,,,6000,,0,2250,,0,0,,0,0,,0,0,,0,0,,0,0,,,,0,0,0,0,0,0,6000,2250,0,0,0,0,0,0,8250
+3468,Mosier Gulch Pile Burn,SMP-I,44.34,-106.82,USDI-BLM-Buffalo Field Office,,20,30,2/21/2019,0,300,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,20,0,0,0,0,0,0,30,300,0,0,0,0,0,20,330
+1593,Stateline South Summit Meadow Burn,SMP-I,43.83987222,-104.0561528,USDI-BLM-Casper Field Office,,9,0,,7,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,9,7,0,0,0,0,0,0,0,0,0,0,0,0,16,0
+1645,Torrington Branch Pile,SMP-I,,,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1642,Miller Lake Piles,SMP-I,41.0597222,-106.1780556,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1641,Wold Piles,SMP-I,41.0366667,-106.1877778,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1640,WyColo Piles,SMP-I,41.01,-106.1894444,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1678,Sinclair Piles,SMP-I,,,Town of Sinclair,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3810,Beartrap Piles,SMP-I,43.91,-107.04,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3811,Slip Road,SMP-I,43.83,-106.89,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3805,Weston Hills,SMP-I,,,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3806,Trough Springs Timber Sale,SMP-I,43.8,-106.87,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3807,Pyrenees,SMP-I,,,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3808,Billy Creek Tsi,SMP-I,44.12,-106.88,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3809,Billy Creek TSI,SMP-I,44.12,-106.87,USDI-BLM-Buffalo Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3778,Pitch Pine,SMP-I,42.67,-106.32,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3824,Trail Lake Meadow,SMP-I,43.43,-109.57,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3875,Sawmill Creek Piles,SMP-I,43.89,-107.07,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3876,Dull Knife Mahogany,SMP-I,43.8,-106.83,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3225,State School Section,SMP-I,45,-110.82,Trees R US Tree Service,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3289,HWY130 Piles,SMP-I,41.35,-106.21,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Laramie RD,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3300,Coal Mountain Jupiter,SMP-I,42.68,-106.45,USDI-BLM-Casper Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3363,Grouse Mountain,SMP-I,43.7,-110.25,USDA-USFS-Bridger-Teton NF-Jackson RD,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3373,Little aRed Creek,SMP-I,42.72,-106.35,USDI-BLM-Casper Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3377,State School Section,SMP-I,45,-110,Trees R Us Tree Service,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3382,Slip Road,SMP-I,43.83,-106.89,USDI-BLM-Casper Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3429,Rattlesnake Hand Piles,SMP-I,,,USDA-USFS-Black Hills NF-Bearlodge RD,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3445,White Pine Force 3,SMP-I,42.97,-109.75,USDA-USFS-Bridger-Teton NF-Pinedale RD,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3467,Trough Springs Timber Sales,SMP-I,43.8,-106.87,USDI-BLM-Buffalo Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3539,Slip Road,SMP-I,43.83,-106.89,USDI-BLM-Buffalo Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3540,Beartrap,SMP-I,43.91,-107.04,USDI-BLM-Buffalo Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3541,Bitter Creek Piles,SMP-I,44.92,-105.79,USDI-BLM-Buffalo Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3563,Pitch Pine Pile Burn,SMP-I,42.67,-106.32,USDI-BLM-Casper Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3583,Middle Fork F10,SMP-I,42.63,-108.82,US Forest Service – Shoshone National Forest,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3590,Baker,SMP-I,,,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3598,Slip Road,SMP-I,43.83,-106.89,USDI-BLM-Buffalo Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3599,Beartrap,SMP-I,43.91,-107.04,USDI-BLM-Buffalo Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3600,Bitter Creek Piles,SMP-I,44.92,-105.79,USDI-BLM-Buffalo Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3666,Town of Afton Spring Cleanup,SMP-I,,,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3679,Weston hills,SMP-I,44.62,-105.38,USDI-BLM-Buffalo Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3680,Pyrenees Slash Piles,SMP-I,43.95,-107.05,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3681,Billy Creek,SMP-I,44.12,-106.87,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3683,Trough Springs,SMP-I,43.8,-106.87,USDI-BLM-Buffalo Field Office,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3695,Sky Ranch,SMP-I,43.67,-110.77,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3697,Billy Creek,SMP-I,44.13,-106.9,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3698,Banjo Piles - Unit 11,SMP-I,42.61,-108.86,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3699,Loop Road 84,SMP-I,43.55,-108.76,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3736,Skyline/Elkhart Park Piles,SMP-I,42.75,-109.75,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3901,Blackrock Admin Site,SMP-I,,,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3902,Jackpot RX,SMP-I,,,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3856,,SMP-I,,,,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1515,Little Popo Agie,SMP-I,42.60834722,-108.8560583,USDA-USFS-Shoshone NF-Washakie RD,,0.5,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0
+3082,Dickinson park 2017,SMP-I,42.86,-109.05,US FS,,3,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+3085,Louis Lake,SMP-I,42.6,-108.85,USFS,,4,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+3176,Grouse Mountain,SMP-I,43.7,-110.25,USDA-USFS-Bridger-Teton NF-Jackson RD,,10,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+3379,Mosier Gulch,SMP-I,,,BLM,,20,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0
+3603,Coal Mountain Juniper,SMP-I,42.68,-106.45,USDI-BLM-Casper Field Office,,50,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0
+3086,Middle Fork,SMP-I,42.76,-108.84,USFS,,80,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,80,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+3819,Sherwood Phase 1,SMP-I,43.88,-104.05,,,208,0,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,208,0,0,0,0,0,0,0,0,0,0,0,0,0,208,0
+3199,Mormon Cricket Hand Piles,SMP-I,44.11,-106.86,USDI-BLM-Buffalo Field Office,,20,30,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,20,0,0,0,0,0,0,30,0,0,0,0,0,0,20,30
+3214,Bitter Creek Pile Burn,SMP-I,44.92,-105.79,USDI-BLM-Buffalo Field Office,,130,30,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,130,0,0,0,0,0,0,30,0,0,0,0,0,0,130,30
+1513,South Pass,SMP-I,42.51555556,-108.7772222,USDA-USFS-Shoshone NF-Washakie RD,,0.25,58.9,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0.25,0,0,0,0,0,0,58.9,0,0,0,0,0,0,0.25,58.9
+3702,Pinnacles,SMP-I,43.72,-109.97,USDA-USFS-Shoshone NF-Wind River RD,,0,84.82,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,84.82,0,0,0,0,0,0,0,84.82
+1520,Middlefork Cow Camp 2014,SMP-I,42.72527778,-108.955,USDA-USFS-Shoshone NF-Washakie RD,,1,125.68,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,1,0,0,0,0,0,0,125.68,0,0,0,0,0,0,1,125.68
+1514,Dickinson Park,SMP-I,42.86035556,-109.0510028,USDA-USFS-Shoshone NF-Washakie RD,,3,251.3,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,3,0,0,0,0,0,0,251.3,0,0,0,0,0,0,3,251.3
+3202,Colter Bay,SMP-I,43.7,-110.7,,,0,340,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,340,0,0,0,0,0,0,0,340
+3205,Phelps Lake,SMP-I,43.63,-110.79,USDI-NPS-Grand Teton NP,,1,340,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,1,0,0,0,0,0,0,340,0,0,0,0,0,0,1,340
+3208,White Grass,SMP-I,43.65,-110.77,,,0,425,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,425,0,0,0,0,0,0,0,425
+3729,Shadow Mountain,SMP-I,43.73,-110.59,USDA-USFS-Bridger-Teton NF-Jackson RD,,10,452,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,10,0,0,0,0,0,0,452,0,0,0,0,0,0,10,452
+1547,Mattox,SMP-I,44.06756433,-106.909081,Wyoming State Forestry Division,,1,487,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,1,0,0,0,0,0,0,487,0,0,0,0,0,0,1,487
+3440,Fiddler's Lake Piles,SMP-I,42.62,-108.87,USDA-USFS-Shoshone NF-Washakie RD,,0,500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,500
+3585,Pass Creek,SMP-I,42.61,-108.76,US Forest Service – Shoshone National Forest,,0,500,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,500
+3261,Dickinson Park,SMP-I,42.85,-109.06,USDA-USFS-Shoshone NF-Washakie RD,,0,600,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,600
+3262,Louis Lake,SMP-I,42.55,-108.85,USDA-USFS-Shoshone NF-Washakie RD,,0,600,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,600
+3439,Dickinson Park Administrative Piles,SMP-I,42.85,-109.06,USDA-USFS-Shoshone NF-Washakie RD,,0,600,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,600
+3443,Louis Lake Administrative Piles,SMP-I,42.6,-108.85,USDA-USFS-Shoshone NF-Washakie RD,,0,600,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,600
+3582,Louis Lake Administrative Piles,SMP-I,42.6,-108.84,US Forest Service – Shoshone National Forest,,0,600,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,600
+3781,L W-T39,SMP-I,43.55,-109.87,,,0,601.87,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,601.87,0,0,0,0,0,0,0,601.87
+3272,Spring Draw,SMP-I,43.66,-109.61,USDA-USFS-Shoshone NF-Washakie RD,,0,700,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,700,0,0,0,0,0,0,0,700
+3274,T-18 Hand Piles,SMP-I,43.51,-109.71,USDA-USFS-Shoshone NF-Washakie RD,,0,750,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,750,0,0,0,0,0,0,0,750
+1516,Christina TH 2014,SMP-I,42.62691111,-108.8765944,USDA-USFS-Shoshone NF-Washakie RD,,0,753.9,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,753.9,0,0,0,0,0,0,0,753.9
+1519,Louis Lake 2014,SMP-I,42.59913056,-108.8453028,USDA-USFS-Shoshone NF-Washakie RD,,4,753.9,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,4,0,0,0,0,0,0,753.9,0,0,0,0,0,0,4,753.9
+3201,Bar BC,SMP-I,43.7,-110.7,USDI-NPS-Grand Teton NP,,1,765,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,1,0,0,0,0,0,0,765,0,0,0,0,0,0,1,765
+3783,Long Creek Roadside,SMP-I,43.66,-109.91,,,0,1072.33,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1072.33,0,0,0,0,0,0,0,1072.33
+3101,Beartrap Slash Piles,SMP-I,43.91,-107.04,USDI-BLM-Buffalo Field Office,,0,1200,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1200,0,0,0,0,0,0,0,1200
+3378,Billy Creek,SMP-I,44.12,-106.87,USDI-BLM-Buffalo Field Office,,0,1200,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1200,0,0,0,0,0,0,0,1200
+3200,Billy Creek Public Pile,SMP-I,44.12,-106.87,USDI-BLM-Buffalo Field Office,,1,1200,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,1,0,0,0,0,0,0,1200,0,0,0,0,0,0,1,1200
+3466,Billy Creek Public Pile,SMP-I,44.12,-106.87,USDI-BLM-Buffalo Field Office,,1,1200,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,1,0,0,0,0,0,0,1200,0,0,0,0,0,0,1,1200
+3216,Beartrap,SMP-I,43.91,-107.04,USDI-BLM-Buffalo Field Office,,5,1200,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,5,0,0,0,0,0,0,1200,0,0,0,0,0,0,5,1200
+3203,McCollister,SMP-I,43.87,-110.47,USDI-NPS-Grand Teton NP,,2,1530,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,2,0,0,0,0,0,0,1530,0,0,0,0,0,0,2,1530
+1521,Pass Creek 2014,SMP-I,42.61111111,-108.7558333,USDA-USFS-Shoshone NF-Washakie RD,,0.25,1570.8,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0.25,0,0,0,0,0,0,1570.8,0,0,0,0,0,0,0.25,1570.8
+3110,Fischer Ranch,SMP-I,,,Timberscapes,,0,1800,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1800,0,0,0,0,0,0,0,1800
+3280,Fischer Ranch,SMP-I,,,Timberscapes,,0,1800,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,1800,0,0,0,0,0,0,0,1800
+1695,Horse Shoe Bend Pile,SMP-I,44.9598333,-108.2666111,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,,0.1,1800,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0.1,0,0,0,0,0,0,1800,0,0,0,0,0,0,0.1,1800
+3099,Parks WUI hand piles Unit 1,SMP-I,44.73,-105.53,USDI-BLM-Buffalo Field Office,,21,1800,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,21,0,0,0,0,0,0,1800,0,0,0,0,0,0,21,1800
+1509,Mosier Gulch,SMP-I,44.3318316,-106.810797,USDI-BLM-Casper Field Office,,0,1979.2,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,1979.2,0,0,0,0,0,0,0,1979.2
+3890,Horse Creek,SMP-I,43.67,-109.64,,,0,2094.4,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,2094.4,0,0,0,0,0,0,0,2094.4
+3530,White Grass Piles,SMP-I,43.65,-110.77,USDI-NPS-Grand Teton NP,,0,2261.95,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,2261.95,0,0,0,0,0,0,0,2261.95
+3696,White Grass Pile,SMP-I,43.65,-110.77,,,0,2261.95,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,2261.95,0,0,0,0,0,0,0,2261.95
+1517,Geology Camp 2014,SMP-I,42.73277778,-108.8461111,USDA-USFS-Shoshone NF-Washakie RD,,35,2513,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,35,0,0,0,0,0,0,2513,0,0,0,0,0,0,35,2513
+3473,New Haven Pile,SMP-I,44.73,-104.82,USDI-BLM-Buffalo Field Office,,0,2700,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,2700,0,0,0,0,0,0,0,2700
+3449,Boggy TSI,SMP-I,42.62,-108.87,USDA-USFS-Shoshone NF-Washakie RD,,0,3200,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,3200,0,0,0,0,0,0,0,3200
+1694,Manville Brush Pile,SMP-I,,,,,0.1,3200,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0.1,0,0,0,0,0,0,3200,0,0,0,0,0,0,0.1,3200
+3630,Boggy TSI Piles,SMP-I,42.62,-108.87,USDA-USFS-Shoshone NF-Wind River RD,,50,3200,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,50,0,0,0,0,0,0,3200,0,0,0,0,0,0,50,3200
+3780,Union Pass,SMP-I,43.57,-109.84,,,0,3304.58,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,3304.58,0,0,0,0,0,0,0,3304.58
+3526,Elk Ranch,SMP-I,43.83,-110.5,USDI-NPS-Grand Teton NP,,0,4094.4,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,4094.4,0,0,0,0,0,0,0,4094.4
+3151,Sheffield Creek Campground,SMP-I,44.1,-110.67,USDA-USFS-Bridger-Teton NF-Jackson RD,,0,4250,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,4250,0,0,0,0,0,0,0,4250
+3756,Loop Road 72 Piles,SMP-I,42.7,-108.9,,,0,4250,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,4250,0,0,0,0,0,0,0,4250
+3581,Loop road 72 Piles,SMP-I,42.7,-108.9,US Forest Service – Shoshone National Forest,,5,4250,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,5,0,0,0,0,0,0,4250,0,0,0,0,0,0,5,4250
+3754,Loop Road 7,SMP-I,42.58,-108.85,,,0,4276,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,4276,0,0,0,0,0,0,0,4276
+3441,Loop Road 8 Piles,SMP-I,42.59,-108.86,USDA-USFS-Shoshone NF-Washakie RD,,15,4276,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,15,0,0,0,0,0,0,4276,0,0,0,0,0,0,15,4276
+3258,Mosier Gulch,SMP-I,44.34,-106.82,USDI-BLM-Buffalo Field Office,,20,5000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,20,0,0,0,0,0,0,5000,0,0,0,0,0,0,20,5000
+3245,North Fork Piles,SMP-I,44.46,-109.73,USDA-USFS-Shoshone NF-Clarks Fork RD,,0,6944,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,6944,0,0,0,0,0,0,0,6944
+3891,Vista Timber Sales,SMP-I,43.72,-109.98,,,0,7068.58,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,7068.58,0,0,0,0,0,0,0,7068.58
+3700,Union Pass,SMP-I,43.57,-109.84,,,0,7068.58,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,7068.58,0,0,0,0,0,0,0,7068.58
+1510,Mallo Camp,SMP-I,44.0664136,-104.0571267,USDI-BLM-Casper Field Office,,0,7854,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,7854,0,0,0,0,0,0,0,7854
+3243,Kelly Slash Piles,SMP-I,42.53,-108.72,USDI-NPS-Grand Teton NP,,0.2,8000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0.2,0,0,0,0,0,0,8000,0,0,0,0,0,0,0.2,8000
+3442,Loop Road 70 Piles,SMP-I,42.7,-108.9,USDA-USFS-Shoshone NF-Washakie RD,,0,8552,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,8552,0,0,0,0,0,0,0,8552
+3580,Loop Road 70,SMP-I,42.7,-108.9,US Forest Service – Shoshone National Forest,,0,8552,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,8552,0,0,0,0,0,0,0,8552
+3260,Trough Springs Pile,SMP-I,43.8,-106.87,USDI-BLM-Buffalo Field Office,,0,10000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,10000,0,0,0,0,0,0,0,10000
+3888,Sheridan Creek Piles,SMP-I,43.64,-109.93,,,0,12566.37,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,12566.37,0,0,0,0,0,0,0,12566.37
+3889,Warm Springs,SMP-I,43.57,-109.84,USDA-USFS-Shoshone NF-Wind River RD,,0,16775,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,16775,0,0,0,0,0,0,0,16775
+3100,Bitter Creek Pile Burn,SMP-I,44.89,-106.77,USDI-BLM-Buffalo Field Office,,0,24000,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,24000,0,0,0,0,0,0,0,24000
+3531,Arizona Creek,SMP-I,43.98,-110.64,USDI-NPS-Grand Teton NP,,0,47953.27,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,47953.27,0,0,0,0,0,0,0,47953.27
+1511,Billy Creek,SMP-I,44.1146973,-106.8781823,USDA-USFS-Shoshone NF-Wapiti RD,,0,54978,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,0,0,0,0,0,0,0,54978,0,0,0,0,0,0,0,54978
+3887,Tie Camp Piles,SMP-I,43.52,-109.76,,,0,58978,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,0,0,0,0,0,0,0,58978,0,0,0,0,0,0,0,58978
+1518,Homestead 2014,SMP-I,42.76083333,-108.839275,USDA-USFS-Shoshone NF-Washakie RD,,80,165557,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,,,80,0,0,0,0,0,0,165557,0,0,0,0,0,0,80,165557
+1680,BLM Campbell Piles,SMP-I,44.72975,-105.531139,USDI-BLM-Casper Field Office,,165,751680,,0,0,,0,0,,0,0,,0,0,,0,0,,0,0,Burned,,165,0,0,0,0,0,0,751680,0,0,0,0,0,0,165,751680
+1105,Mattox Creek,SMP-I,44.06756433,-106.909081,Wyoming State Forestry Division,,1,1700,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1700,,,,,,,1,1700
+1310,Mattox 2013,SMP-I,44.06756433,-106.909081,Wyoming State Forestry Division,,1,1700,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1700,,,,,,,1,1700
+1133,Wyoming Hereford Ranch Reservoir Number 2,SMP-I,41.12,-104.64,Private Ranch,,2,256 per pile; 8 piles,,,,,,,,,,,,,,,,,,,Burned,Pile,2,,,,,,,2048,,,,,,,2,2048
+1273,Beetle Kill Burn,SMP-I,41.0475243,-110.3643612,,,,2500,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,2500,,,,,,,0,2500
+1267,Youth Camp Sale,SMP-I,44.1580786,-106.878318,Wyoming State Forestry Division,,0.25,3000,,,,,,,,,,,,,,,,,,,,,0.25,,,,,,,3000,,,,,,,0.25,3000
+1311,Youth Camp 2013,SMP-I,44.15244538,-106.8840931,Wyoming State Forestry Division,,0.25,3000,,,,,,,,,,,,,,,,,,,,,0.25,,,,,,,3000,,,,,,,0.25,3000
+586,,SMP-I,41.0033499,-110.5365134,,,,4000,,,,,,,,,,,,,,,,,,,,,,,,,,,,4000,,,,,,,0,4000
+1221,Red Grade,SMP-I,44.61713889,-107.0935,USDI-BLM-Buffalo Field Office,,,4375,,,,,,,,,,,,,,,,,,,,,,,,,,,,4375,,,,,,,0,4375
+587,Hamilton,SMP-I,41.0475243,-110.3643612,,,,4500,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,4500,,,,,,,0,4500
+601,,SMP-I,44.15268282,-106.887722,Wyoming State Forestry Division,,1,5000,,,,,,,,,,,,,,,,,,,,,1,,,,,,,5000,,,,,,,1,5000
+585,Barton,SMP-I,41.0475243,-110.3643612,,,,5000,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,5000,,,,,,,0,5000
+1036,Louis Lake SMP-I Burn,SMP-I,42.59913056,-108.8453028,USDA-USFS-Shoshone NF-Lander RD,,,5615,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,5615,,,,,,,0,5615
+1106,Clear Creek,SMP-I,44.06756433,-106.909081,Wyoming State Forestry Division,,0.25,7500,,,,,,,,,,,,,,,,,,,,,0.25,,,,,,,7500,,,,,,,0.25,7500
+1307,Clear Creek 2013,SMP-I,44.06756433,-106.909081,Wyoming State Forestry Division,,0.25,7500,,,,,,,,,,,,,,,,,,,Burned,,0.25,,,,,,,7500,,,,,,,0.25,7500
+1274,Mountain View Burn,SMP-I,41.0330801,-110.4217394,USDA-USFS-Bridger-Teton NF-Greys River/Kemmerer RD,,,8000,,,,,,,,,,,,,,,,,,,,,,,,,,,,8000,,,,,,,0,8000
+1222,Fuel Reduction Piles,SMP-I,43.68611111,-110.7380556,USDI-NPS-Grand Teton NP,,100 (270 piles),22950,,,,,,,,,,,,,,,,,,,Burned,Pile,100,,,,,,,22950,,,,,,,100,22950
+668,,SMP-I,41.91680556,-109.8834389,USDI-USFWS-Seedskadee National Wildlife Refuge,,80,,,,,,,,,,,,,,,,,,,,,,80,,,,,,,,,,,,,,80,0
+728,Buffalo Greenbelt Piles 2011,SMP-I,44.34268,-106.70789,Johnson County Mitigation Coordinator,,,,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,,,,,,,,0,0
+582,Le Prele Work Center,SMP-I,42.452589,-105.8362321,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+580,Esterbrook Campground,SMP-I,42.4254497,-105.3132809,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+579,Bobcat Creek,SMP-I,43.2253594,-105.0486145,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+578,Black Mountain L. O. Road,SMP-I,42.3116833,-105.3885864,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+577,Thunder Basin WC Burn Piles,SMP-I,43.6724882,-105.1516782,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+571,,SMP-I,42.59138889,-108.8480556,USDA-USFS-Shoshone NF-Lander RD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+570,,SMP-I,42.60872222,-108.7626944,USDA-USFS-Shoshone NF-Lander RD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+569,,SMP-I,43.66283333,-109.9588889,USDA-USFS-Shoshone NF-Dubois RD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+568,,SMP-I,43.66283333,-109.8791944,USDA-USFS-Shoshone NF-Dubois RD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+567,,SMP-I,43.634,-109.919,USDA-USFS-Shoshone NF-Dubois RD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+566,,SMP-I,43.6856,-109.3682,USDA-USFS-Shoshone NF-Dubois RD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+1302,Muddy Mountain,SMP-I,42.68108333,-106.2525,USDI-BLM-Casper Field Office,,,,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,,,,,,,,0,0
+1303,Esterbrook,SMP-I,42.40166667,-105.4002778,USDI-BLM-Casper Field Office,,,,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,,,,,,,,0,0
+1304,,SMP-I,43.87796667,-104.22905,USDI-BLM-Casper Field Office,,,,,,,,,,,,,,,,,,,,,,Burned,,,,,,,,,,,,,,,,0,0
+583,Piney Creek,SMP-I,43.2257018,-104.9891213,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+584,Harris Park Road,SMP-I,42.4121994,-105.3326602,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+581,Esterbrook Compound Piles,SMP-I,42.4121154,-105.3518965,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0

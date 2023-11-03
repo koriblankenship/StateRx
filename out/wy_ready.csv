@@ -452,7 +452,7 @@ SOURCE_ID,DATE,PERMITTED_ACRES,COMPLETED_ACRES,PILE_VOLUME,BURN_NAME,ENTITY_REQU
 1568,NA,50,0,NA,West Slope Riparian Prescribed Burn,USDI-BLM-Cody Field Office,44.6722938,-107.8107208,Incomplete
 1597,NA,107,0,NA,Woodrock Clear-cut Units 10 & 12,USDA-USFS-Bighorn NF-Tongue RD,44.66555556,-107.4591667,Incomplete
 1632,NA,175,0,NA,North End Rx,USDA-USFS-Black Hills NF-Bearlodge RD,44.6625,-104.3472222,Incomplete
-1850,NA,175,0,NA,North End Rx – Units 3 & 4,USDA-USFS-Black Hills NF-Bearlodge RD,44.66,-104.35,Incomplete
+1850,NA,175,0,NA,North End Rx â€“ Units 3 & 4,USDA-USFS-Black Hills NF-Bearlodge RD,44.66,-104.35,Incomplete
 2088,NA,175,0,NA,North End Rx,USDA-USFS-Black Hills NF-Bearlodge RD,44.66,-104.35,Incomplete
 1419,NA,58,0,NA,Woodrock Clear-cut Units 12 & 14,USDA-USFS-Bighorn NF-Tongue RD,44.65472222,-107.4719444,Incomplete
 3773,NA,7142,0,NA,Beaver Creek South,NA,44.65,-107.68,Incomplete
@@ -469,7 +469,7 @@ SOURCE_ID,DATE,PERMITTED_ACRES,COMPLETED_ACRES,PILE_VOLUME,BURN_NAME,ENTITY_REQU
 1418,NA,1400,0,NA,Prospect/Cedar,USDA-USFS-Bighorn NF-Tongue RD,44.64944444,-107.5152778,Incomplete
 1552,2014-09-24,8115,8115,NA,Beaver Creek South,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,44.6478,-107.6874,Complete
 700,2010-11-18,6,6,7000,Woodrock Piles,USDA-USFS-Big Horn NF-Sheridan RD,44.64666667,-107.4491667,Complete
-1753,2015-03-10,450,450,NA,Pappy’s Pasture Unit 1&2,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,44.64,-105.33,Complete
+1753,2015-03-10,450,450,NA,Pappyâ€™s Pasture Unit 1&2,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,44.64,-105.33,Complete
 1171,NA,8265,0,NA,Beaver Creek South 2012,USDA-USFS-Big Horn NF-Lovell RD,44.6371,-107.6874,Incomplete
 1368,2013-09-21,8265,8265,NA,Beaver Creek South,USDA-USFS-Big Horn NF-Medicine Wheel/Paintrock RD,44.6371,-107.6874,Complete
 1497,NA,400,0,NA,Pappy's Pasture Unit 1 & 2,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,44.63666667,-105.33,Incomplete
@@ -1341,7 +1341,7 @@ SOURCE_ID,DATE,PERMITTED_ACRES,COMPLETED_ACRES,PILE_VOLUME,BURN_NAME,ENTITY_REQU
 1629,NA,409,0,NA,Upper Separation Creek  Prescribed Burn,USDI-BLM-Rawlins Field Office,41.6301528,-107.3897194,Incomplete
 794,NA,2265,0,NA,Upper Separation Creek Prescribed Burn,USDI-BLM-High Desert District (Rawlins Field Office),41.63015278,-107.3897194,Incomplete
 1439,NA,2265,0,NA,Upper Separation Creek Prescribed Burn,USDI-BLM-High Desert District (Rawlins Field Office),41.63015278,-107.3897194,Incomplete
-2018,2016-04-14,650,650,NA,Iron Mountain Rx Burn – Limestone Ridge Unit,USDI-BLM-Rawlins Field Office,41.62,-105.33,Complete
+2018,2016-04-14,650,650,NA,Iron Mountain Rx Burn â€“ Limestone Ridge Unit,USDI-BLM-Rawlins Field Office,41.62,-105.33,Complete
 1125,NA,1100,0,NA,Iron Mountain,USDI-BLM-Rawlins Field Office,41.6061472,-105.3168133,Incomplete
 610,2010-04-14,2700,2700,NA,Iron Mountain,USDI-BLM-Rawlins Field Office,41.6061472,-105.3168133,Complete
 909,NA,1100,0,NA,Iron Mountain,USDI-BLM-Rawlins Field Office,41.6061455,-105.3361867,Incomplete
@@ -1794,10 +1794,10 @@ SOURCE_ID,DATE,PERMITTED_ACRES,COMPLETED_ACRES,PILE_VOLUME,BURN_NAME,ENTITY_REQU
 1690,2014-11-24,1,1,6500,Yellowstone Mesa Piles,USDI-NPS-Yellowstone NP,42.619444,-110.847778,Complete
 1699,2014-12-03,126000,0,126000,South Cottonwood Timber Piles,USDA-USFS-Bridger-Teton NF-Big Piney RD,42.7531972,-110.5430194,Incomplete
 1700,2014-12-03,0,NA,5000,Hand Piles,USDA-USFS-Bighorn NF-Tongue RD,44.7738889,-107.529075,Complete
-1702,2014-12-10,2,2,5000,Logging Slash – Hand Piles,USDI-NPS-Yellowstone NP,44.5597167,-110.4003667,Complete
+1702,2014-12-10,2,2,5000,Logging Slash â€“ Hand Piles,USDI-NPS-Yellowstone NP,44.5597167,-110.4003667,Complete
 1724,2015-01-07,0,NA,3095.79,Washakie Piles-Geology Camp,NA,42.61,-108.76,Complete
 1736,2015-01-12,55,55,864,"Park WUI Slash Piles, (WDEQ#1736)",USDI-BLM-Buffalo Field Office,44.73,-105.53,Complete
-1728,2015-01-13,0,NA,418.88,Washakie Piles – Pass Creek Community Pile,USDA-USFS-Shoshone NF-Washakie RD,42.61,-108.76,Complete
+1728,2015-01-13,0,NA,418.88,Washakie Piles â€“ Pass Creek Community Pile,USDA-USFS-Shoshone NF-Washakie RD,42.61,-108.76,Complete
 1758,2015-01-21,1,1,412,"Park WUI Slash Piles, (WDEQ#1736)",USDI-BLM-Buffalo Field Office,44.12,-106.87,Complete
 1738,2015-02-15,20,20,0,Lost Creek,USDI-BLM-Casper Field Office,43.45,-107.07,Complete
 1784,2015-02-27,0,NA,6350,NTA Fuel Reduction,Camp Guernsey Fire Department,NA,NA,Complete
@@ -2092,7 +2092,7 @@ SOURCE_ID,DATE,PERMITTED_ACRES,COMPLETED_ACRES,PILE_VOLUME,BURN_NAME,ENTITY_REQU
 3540,NA,0,0,0,Beartrap,USDI-BLM-Buffalo Field Office,43.91,-107.04,Incomplete
 3541,NA,0,0,0,Bitter Creek Piles,USDI-BLM-Buffalo Field Office,44.92,-105.79,Incomplete
 3563,NA,0,0,0,Pitch Pine Pile Burn,USDI-BLM-Casper Field Office,42.67,-106.32,Incomplete
-3583,NA,0,0,0,Middle Fork F10,US Forest Service – Shoshone National Forest,42.63,-108.82,Incomplete
+3583,NA,0,0,0,Middle Fork F10,US Forest Service â€“ Shoshone National Forest,42.63,-108.82,Incomplete
 3590,NA,0,0,0,Baker,NA,NA,NA,Incomplete
 3598,NA,0,0,0,Slip Road,USDI-BLM-Buffalo Field Office,43.83,-106.89,Complete
 3599,NA,0,0,0,Beartrap,USDI-BLM-Buffalo Field Office,43.91,-107.04,Incomplete
@@ -2130,12 +2130,12 @@ SOURCE_ID,DATE,PERMITTED_ACRES,COMPLETED_ACRES,PILE_VOLUME,BURN_NAME,ENTITY_REQU
 3729,NA,10,0,452,Shadow Mountain,USDA-USFS-Bridger-Teton NF-Jackson RD,43.73,-110.59,Incomplete
 1547,NA,1,0,487,Mattox,Wyoming State Forestry Division,44.06756433,-106.909081,Incomplete
 3440,NA,0,0,500,Fiddler's Lake Piles,USDA-USFS-Shoshone NF-Washakie RD,42.62,-108.87,Incomplete
-3585,NA,0,0,500,Pass Creek,US Forest Service – Shoshone National Forest,42.61,-108.76,Incomplete
+3585,NA,0,0,500,Pass Creek,US Forest Service â€“ Shoshone National Forest,42.61,-108.76,Incomplete
 3261,NA,0,0,600,Dickinson Park,USDA-USFS-Shoshone NF-Washakie RD,42.85,-109.06,Incomplete
 3262,NA,0,0,600,Louis Lake,USDA-USFS-Shoshone NF-Washakie RD,42.55,-108.85,Incomplete
 3439,NA,0,0,600,Dickinson Park Administrative Piles,USDA-USFS-Shoshone NF-Washakie RD,42.85,-109.06,Incomplete
 3443,NA,0,NA,600,Louis Lake Administrative Piles,USDA-USFS-Shoshone NF-Washakie RD,42.6,-108.85,Complete
-3582,NA,0,0,600,Louis Lake Administrative Piles,US Forest Service – Shoshone National Forest,42.6,-108.84,Incomplete
+3582,NA,0,0,600,Louis Lake Administrative Piles,US Forest Service â€“ Shoshone National Forest,42.6,-108.84,Incomplete
 3781,NA,0,0,601.87,L W-T39,NA,43.55,-109.87,Incomplete
 3272,NA,0,0,700,Spring Draw,USDA-USFS-Shoshone NF-Washakie RD,43.66,-109.61,Incomplete
 3274,NA,0,NA,750,T-18 Hand Piles,USDA-USFS-Shoshone NF-Washakie RD,43.51,-109.71,Complete
@@ -2167,7 +2167,7 @@ SOURCE_ID,DATE,PERMITTED_ACRES,COMPLETED_ACRES,PILE_VOLUME,BURN_NAME,ENTITY_REQU
 3526,NA,0,0,4094.4,Elk Ranch,USDI-NPS-Grand Teton NP,43.83,-110.5,Incomplete
 3151,NA,0,0,4250,Sheffield Creek Campground,USDA-USFS-Bridger-Teton NF-Jackson RD,44.1,-110.67,Incomplete
 3756,NA,0,0,4250,Loop Road 72 Piles,NA,42.7,-108.9,Incomplete
-3581,NA,5,0,4250,Loop road 72 Piles,US Forest Service – Shoshone National Forest,42.7,-108.9,Incomplete
+3581,NA,5,0,4250,Loop road 72 Piles,US Forest Service â€“ Shoshone National Forest,42.7,-108.9,Incomplete
 3754,NA,0,0,4276,Loop Road 7,NA,42.58,-108.85,Incomplete
 3441,NA,15,15,4276,Loop Road 8 Piles,USDA-USFS-Shoshone NF-Washakie RD,42.59,-108.86,Complete
 3258,NA,20,0,5000,Mosier Gulch,USDI-BLM-Buffalo Field Office,44.34,-106.82,Incomplete
@@ -2177,7 +2177,7 @@ SOURCE_ID,DATE,PERMITTED_ACRES,COMPLETED_ACRES,PILE_VOLUME,BURN_NAME,ENTITY_REQU
 1510,NA,0,0,7854,Mallo Camp,USDI-BLM-Casper Field Office,44.0664136,-104.0571267,Incomplete
 3243,NA,0.2,0,8000,Kelly Slash Piles,USDI-NPS-Grand Teton NP,42.53,-108.72,Incomplete
 3442,NA,0,0,8552,Loop Road 70 Piles,USDA-USFS-Shoshone NF-Washakie RD,42.7,-108.9,Incomplete
-3580,NA,0,0,8552,Loop Road 70,US Forest Service – Shoshone National Forest,42.7,-108.9,Incomplete
+3580,NA,0,0,8552,Loop Road 70,US Forest Service â€“ Shoshone National Forest,42.7,-108.9,Incomplete
 3260,NA,0,0,10000,Trough Springs Pile,USDI-BLM-Buffalo Field Office,43.8,-106.87,Incomplete
 3888,NA,0,0,12566.37,Sheridan Creek Piles,NA,43.64,-109.93,Incomplete
 3889,NA,0,0,16775,Warm Springs,USDA-USFS-Shoshone NF-Wind River RD,43.57,-109.84,Incomplete

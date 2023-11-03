@@ -7,7 +7,8 @@ library(tidyverse)
 
 raw <- read_csv("in/MT_Rx_burns_Majors.csv") %>%
   select("ID", "Proposal Date", "Proposed Acres", "Acres Burned", "Unit Name", "Burn Type", "Member", "Latitude", "Longitude", 
-         "Tons/Acre", "Status", "No Burn Reason") 
+         "Tons/Acre", "Status", "No Burn Reason") %>%
+  mutate_at("ID", as.character) #changing to character b/c that is the standard for the source id column
 #remove spaces in column names
 names(raw) <- make.names(names(raw), unique=TRUE) 
 
@@ -22,7 +23,7 @@ process <- raw %>%
                                      .default = Acres.Burned)) %>%
   mutate_at("COMPLETED_ACRES", as.numeric) %>%
 #tons
-  mutate(TONS = Tons.Acre * COMPLETED_ACRES) 
+  mutate(TONS = Tons.Acre * COMPLETED_ACRES)
 
 
 #Status, no burn reason? ***********************************************************?

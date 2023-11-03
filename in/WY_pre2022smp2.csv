@@ -1,4 +1,4 @@
-BurnID,BurnName,Burn Type,Latitude,Longitude,AgencyOrCompany,TotalArea,TotalPileVolume,Burned?,Date1,Date2,Date3,Date4,Date5,Date6,Date7,LAT_PERMIT,LON_PERMIT
+ï»¿BurnID,BurnName,Burn Type,Latitude,Longitude,AgencyOrCompany,TotalArea,TotalPileVolume,Burned?,Date1,Date2,Date3,Date4,Date5,Date6,Date7,LAT_PERMIT,LON_PERMIT
 736,Pile Burning 2011,SMP-II,Variable,Variable,USDA-USFS-Bridger Teton NF,250,,Burned,14-Oct-11,17-Oct-11,18-Oct-11,31-Oct-11,1-Nov-11,7-Nov-11,8-Nov-11,,
 1094,Pile Burning,SMP-II,Variable,Variable,USDA-USFS-Bridger-Teton NF-Moran RD,290,,Burned,9-Nov-12,10-Nov-12,12-Nov-12,13-Nov-12,14-Nov-12,15-Nov-12,19-Nov-12,,
 1325,Pile Burning,SMP-II,Variable,Variable,USDA-USFS-Caribou-Targhee NF-Driggs RD,5,,,,,,,,,,,
@@ -167,7 +167,7 @@ BurnID,BurnName,Burn Type,Latitude,Longitude,AgencyOrCompany,TotalArea,TotalPile
 1568,West Slope Riparian Prescribed Burn,SMP-II,44.6722938,-107.8107208,USDI-BLM-Cody Field Office,50,,,,,,,,,,44.6722938,-107.8107208
 1597,Woodrock Clear-cut Units 10 & 12,SMP-II,44.66555556,-107.4591667,USDA-USFS-Bighorn NF-Tongue RD,107,,,,,,,,,,44.66555556,-107.4591667
 1632,North End Rx,SMP-II,44.6625,-104.3472222,USDA-USFS-Black Hills NF-Bearlodge RD,175,,,,,,,,,,44.6625,-104.3472222
-1850,North End Rx – Units 3 & 4,SMP-II,44.66,-104.35,USDA-USFS-Black Hills NF-Bearlodge RD,175,,,,,,,,,,44.66,-104.35
+1850,North End Rx â€“ Units 3 & 4,SMP-II,44.66,-104.35,USDA-USFS-Black Hills NF-Bearlodge RD,175,,,,,,,,,,44.66,-104.35
 2088,North End Rx,SMP-II,44.66,-104.35,USDA-USFS-Black Hills NF-Bearlodge RD,175,,,,,,,,,,44.66,-104.35
 1419,Woodrock Clear-cut Units 12 & 14,SMP-II,44.65472222,-107.4719444,USDA-USFS-Bighorn NF-Tongue RD,58,,,,,,,,,,44.65472222,-107.4719444
 3773,Beaver Creek South,SMP-II,44.65,-107.68,,7142,,,,,,,,,,44.65,-107.68
@@ -184,7 +184,7 @@ BurnID,BurnName,Burn Type,Latitude,Longitude,AgencyOrCompany,TotalArea,TotalPile
 1418,Prospect/Cedar,SMP-II,44.64944444,-107.5152778,USDA-USFS-Bighorn NF-Tongue RD,1400,,,,,,,,,,44.64944444,-107.5152778
 1552,Beaver Creek South,SMP-II,44.6478,-107.6874,USDA-USFS-Bighorn NF-Medicine Wheel/Paintrock RD,8115,,Burned,24-Sep-14,,,,,,,44.6478,-107.6874
 700,Woodrock Piles,SMP-II,44.64666667,-107.4491667,USDA-USFS-Big Horn NF-Sheridan RD,6,7000,Burned,18-Nov-10,,,,,,,44.64666667,-107.4491667
-1753,Pappy’s Pasture Unit 1&2,SMP-II,44.64,-105.33,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,450,,Burned,3/10/2015,,,,,,,44.64,-105.33
+1753,Pappyâ€™s Pasture Unit 1&2,SMP-II,44.64,-105.33,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,450,,Burned,3/10/2015,,,,,,,44.64,-105.33
 1171,Beaver Creek South 2012,SMP-II,44.6371,-107.6874,USDA-USFS-Big Horn NF-Lovell RD,8265,,,,,,,,,,44.6371,-107.6874
 1368,Beaver Creek South,SMP-II,44.6371,-107.6874,USDA-USFS-Big Horn NF-Medicine Wheel/Paintrock RD,8265,,Burned,21-Sep-13,24-Sep-13,,,,,,44.6371,-107.6874
 1497,Pappy's Pasture Unit 1 & 2,SMP-II,44.63666667,-105.33,USDA-USFS-Medicine Bow-Routt NF & Thunder Basin NG-Douglas RD,400,,,,,,,,,,44.63666667,-105.33
@@ -1056,7 +1056,7 @@ BurnID,BurnName,Burn Type,Latitude,Longitude,AgencyOrCompany,TotalArea,TotalPile
 1629,Upper Separation Creek  Prescribed Burn,SMP-II,41.6301528,-107.3897194,USDI-BLM-Rawlins Field Office,409,,,,,,,,,,41.6301528,-107.3897194
 794,Upper Separation Creek Prescribed Burn,SMP-II,41.63015278,-107.3897194,USDI-BLM-High Desert District (Rawlins Field Office),2265,,,,,,,,,,41.63015278,-107.3897194
 1439,Upper Separation Creek Prescribed Burn,SMP-II,41.63015278,-107.3897194,USDI-BLM-High Desert District (Rawlins Field Office),2265,,,,,,,,,,41.63015278,-107.3897194
-2018,Iron Mountain Rx Burn – Limestone Ridge Unit,SMP-II,41.62,-105.33,USDI-BLM-Rawlins Field Office,650,,Burned,4/14/2016,,10/26/2017,10/27/2016,,,,41.62,-105.33
+2018,Iron Mountain Rx Burn â€“ Limestone Ridge Unit,SMP-II,41.62,-105.33,USDI-BLM-Rawlins Field Office,650,,Burned,4/14/2016,,10/26/2017,10/27/2016,,,,41.62,-105.33
 1125,Iron Mountain,SMP-II,41.6061472,-105.3168133,USDI-BLM-Rawlins Field Office,1100,,,,,,,,,,41.6061472,-105.3168133
 610,Iron Mountain,SMP-II,41.6061472,-105.3168133,USDI-BLM-Rawlins Field Office,2700,,Burned,14-Apr-10,15-Apr-10,,,,,,41.6061472,-105.3168133
 909,Iron Mountain,SMP-II,41.6061455,-105.3361867,USDI-BLM-Rawlins Field Office,1100,,,,,,,,,,41.6061455,-105.3361867
