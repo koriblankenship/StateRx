@@ -54,7 +54,7 @@ pal <- colorFactor("viridis", levels = burns_west$BURNTYPE_CLASSIFIED)
 ## basic burn type
 leaflet() %>%
   addTiles() %>%
-  setView(-114.029336, 42.087209, zoom = 6) %>%
+  setView(-114.029336, 42.087209, zoom = 5.5) %>%
   addCircleMarkers(data = burns_west,
                    #weight = 1,
                    #fillColor = "blue",
