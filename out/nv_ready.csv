@@ -1,761 +1,760 @@
-SOURCE_ID,ENTITY_REQUESTING,LAT_PERMIT,LON_PERMIT,BURNTYPE_REPORTED,DATE,PERMITTED_ACRES,COMPLETED_ACRES,PILE_VOLUME,BURN_STATUS
-2021_0036,USDA Forest Service Jarbidge Ranger District,40.068,-115.665306,Pile Burn,2021-01-11,NA,NA,NA,Complete
-2021_0036,USDA Forest Service Jarbidge Ranger District,40.068,-115.665306,Pile Burn,2021-02-01,NA,NA,NA,Complete
-2021_0037,USDA Forest Service Humboldt-Toiyabe NF,41.765806,-115.701485,Pile Burn,2021-04-14,NA,NA,NA,Complete
-2022_0038,USDA Forest Service Humboldt-Toiyabe NF,41.877891,-115.246235,Pile Burn,2022-01-24,NA,NA,NA,Complete
-2022_0099,McEwen Mining Nevada Inc,39.766257,-116.32828,Pile Burn,2022-05-05,NA,NA,NA,Complete
-2022_0099,McEwen Mining Nevada Inc,39.766257,-116.32828,Pile Burn,2022-05-06,NA,NA,NA,Complete
-2023_0053,Tahoe Douglas Fire Protection District,38.974132,-119.888112,Pile Burn,2023-03-30,NA,NA,NA,Complete
-2021_0067,LTBMU,39.080467,-119.894362,Pile Burn,2021-02-11,NA,NA,NA,Complete
-2021_0066,LTBMU,39.081667,-119.889953,Pile Burn,2021-02-11,NA,NA,NA,Complete
-2021_0032,USDA Forest Service Carson Ranger District,38.9967,-119.855,Pile Burn,2021-02-08,NA,NA,NA,Complete
-2022_0015,USDA Forest Service Carson Ranger District,39.1036,-119.883,Pile Burn,2022-02-01,NA,NA,NA,Complete
-2021_0042,USDA Forest Service Humboldt-Toiyabe NF,40.693026,-115.476428,Broadcast Burn,2021-03-15,NA,NA,NA,Complete
-2021_0042,USDA Forest Service Humboldt-Toiyabe NF,40.693026,-115.476428,Broadcast Burn,2021-04-13,NA,NA,NA,Complete
-2021_0104,Bureau of Land Management,38.575637,-115.637831,Broadcast Burn,2021-03-10,NA,NA,NA,Complete
-2023_0030,USDA Forest Service Carson Ranger District,38.9967,-119.855,Pile Burn,2023-01-24,NA,NA,NA,Complete
-2023_0030,USDA Forest Service Carson Ranger District,38.9967,-119.855,Pile Burn,2023-01-30,NA,NA,NA,Complete
-2022_0015,USDA Forest Service Carson Ranger District,39.1036,-119.883,Pile Burn,2022-03-08,NA,NA,NA,Complete
-2021_0031,Us Forest Service,38.546087,-119.215236,Pile Burn,2021-02-02,NA,NA,NA,Complete
-2022_0015,USDA Forest Service Carson Ranger District,39.1036,-119.883,Pile Burn,2022-01-31,NA,NA,NA,Complete
-2021_0032,USDA Forest Service Carson Ranger District,38.9967,-119.855,Pile Burn,2021-02-04,NA,NA,NA,Complete
-2021_0032,USDA Forest Service Carson Ranger District,38.9967,-119.855,Pile Burn,2021-02-05,NA,NA,NA,Complete
-2022_0029,Bureau of Land Management,39.629194,-116.06885,Pile Burn,2022-01-06,NA,NA,NA,Complete
-2022_0032,Bureau of Land Management,39.896333,-116.130021,Pile Burn,2022-01-06,NA,NA,NA,Complete
-2023_0030,USDA Forest Service Carson Ranger District,38.9967,-119.855,Pile Burn,2023-01-25,NA,NA,NA,Complete
-2022_0042,Bureau of Land Management,39.716847,-116.11531600000001,Pile Burn,2022-01-06,NA,NA,NA,Complete
-2021_0031,Us Forest Service,38.546087,-119.215236,Pile Burn,2021-02-08,NA,NA,NA,Complete
-2022_0015,USDA Forest Service Carson Ranger District,39.1036,-119.883,Pile Burn,2022-03-07,NA,NA,NA,Complete
-2020-0034,Hawthorne Army Depot,38.547,-118.654,Broadcast Burn,2020-12-17,0.042,0.042,NA,Complete
-2020-0036,Hawthorne Army Depot,38.547,-118.654,Broadcast Burn,2020-03-31,1,1,NA,Complete
-2022_0033,BLM Battle Mountain District,40.247623,-117.005937,Pile Burn,2022-01-05,NA,NA,NA,Complete
-2021_0031,Us Forest Service,38.64599,-119.280906,Pile Burn,2021-02-01,NA,NA,NA,Complete
-2023_0030,USDA Forest Service Carson Ranger District,38.9967,-119.855,Pile Burn,2023-01-31,NA,NA,NA,Complete
-2023_0030,USDA Forest Service Carson Ranger District,38.9967,-119.855,Pile Burn,2023-02-06,NA,NA,NA,Complete
-2023_0030,USDA Forest Service Carson Ranger District,38.9967,-119.855,Pile Burn,2023-04-10,NA,NA,NA,Complete
-2021_0065,LTBMU,39.165908,-119.92709,Pile Burn,2021-02-22,NA,NA,NA,Complete
-2022_0004,USFS LTBMU,39.141034,-119.933351,Pile Burn,2022-02-14,NA,NA,NA,Complete
-2022_0013,USFS LTBMU,39.141034,-119.933351,Pile Burn,2022-02-14,NA,NA,NA,Complete
-2022_0014,USFS LTBMU,39.135509,-119.940226,Pile Burn,2022-02-07,NA,NA,NA,Complete
-2022_0049,USFS LTBMU,39.142703,-119.925225,Pile Burn,2022-02-14,NA,NA,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-02-23,1,1,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-02-24,1,1,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-02-26,1,1,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-03-02,1,1,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-03-03,1,1,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-03-04,1,1,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-03-05,1,1,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-03-08,1,1,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-03-09,1,1,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-03-10,1,1,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-03-11,1,1,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-03-12,1,1,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-03-15,1,1,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-03-16,1,1,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-03-17,1,1,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-03-18,1,1,NA,Complete
-2021_0001,Other entity,39.125417,-119.127931,Broadcast Burn,2021-03-19,1,1,NA,Complete
-2022_0078,USDA Forest Service Lake Tahoe Basin Management Unit,39.086696,-119.911782,Pile Burn,2022-12-08,NA,NA,NA,Complete
-2022_0030,Bureau of Land Management,39.772278,-117.225632,Pile Burn,2022-01-05,NA,NA,NA,Complete
-2020_0085,USDA Forest Service Humboldt-Toiyabe NF,41.877891,-115.246235,Pile Burn,2020-11-30,NA,NA,NA,Complete
-2020_0085,USDA Forest Service Humboldt-Toiyabe NF,41.877891,-115.246235,Pile Burn,2020-12-12,NA,NA,NA,Complete
-2020_0086,USDA Forest Service Humboldt-Toiyabe NF,41.840964,-115.457417,Pile Burn,2020-11-30,NA,NA,NA,Complete
-2020_0086,USDA Forest Service Humboldt-Toiyabe NF,41.840964,-115.457417,Pile Burn,2020-12-12,NA,NA,NA,Complete
-2020_0089,USDA Forest Service Humboldt-Toiyabe NF,41.02598,-115.085133,Pile Burn,2020-12-16,NA,NA,NA,Complete
-2021_0014,USDA Forest Service Ely Ranger District,38.1162,-115.656,Pile Burn,2021-01-27,NA,NA,NA,Complete
-2023_0073,BLM - Ely District,39.926811,-114.994031,Pile Burn,2023-04-25,NA,NA,NA,Complete
-2023_0073,BLM - Ely District,39.760755,-115.587226,Pile Burn,2023-04-21,NA,NA,NA,Complete
-2023_0073,BLM - Ely District,39.926811,-114.994031,Pile Burn,2023-04-21,NA,NA,NA,Complete
-2022_0062,City of Ely Landfill,39.269674,-114.872412,Pile Burn,2022-02-09,0.25,0.25,NA,Complete
-2022_0062,City of Ely Landfill,39.269674,-114.872412,Pile Burn,2022-02-09,0.25,0.25,NA,Complete
-2023_0053,Tahoe Douglas Fire Protection District,38.974132,-119.888112,Pile Burn,2023-02-15,0.75,0.75,NA,Complete
-2020_0073,"Nevada Copper, Inc",38.937648,-119.043656,Pile Burn,2020-05-28,0.115,0.115,NA,Complete
-2021_0135,Tahoe Douglas Fire Protection District,39.030026,-119.94545,Pile Burn,2021-12-02,1,1,NA,Complete
-2020_0073,"Nevada Copper, Inc",38.937648,-119.043656,Pile Burn,2020-05-28,NA,NA,NA,Complete
-2020_0074,Cyanco,40.940868,-117.861248,Pile Burn,2020-06-08,NA,NA,NA,Complete
-2020_0074,Cyanco,40.940868,-117.861248,Pile Burn,2020-06-10,NA,NA,NA,Complete
-2020-0044,Premier Magnesia,38.8724,-117.905,Pile Burn,2020-07-15,NA,NA,NA,Complete
-2021_0010,Storey County Fire Protection District,39.38892,-119.631835,Pile Burn,2021-01-05,NA,NA,NA,Complete
-2023_0069,National Park Service Lake Mead NRA,38.99464,-114.210775,Pile Burn,2023-04-05,NA,NA,NA,Complete
-2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,39.097679,-119.90181,Pile Burn,2021-02-03,10,10,NA,Complete
-2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,39.097679,-119.90181,Pile Burn,2021-04-08,10,10,NA,Complete
-2022_0016,USDA Forest Service Carson Ranger District,38.9967,-119.855,Pile Burn,2022-01-06,10,10,NA,Complete
-2022_0118,Tahoe Douglas Fire Protection District,38.974132,-119.888112,Pile Burn,2022-12-01,10,10,NA,Complete
-2023_0012,USDA Forest Service Lake Tahoe Basin Management Unit,39.086696,-119.911782,Pile Burn,2023-04-19,10,10,NA,Complete
-2021_0034,Nevada Division of Forestry Washoe Valley,39.106169,-119.848002,Pile Burn,2021-03-23,10,10,NA,Complete
-2022_0111,Nevada Division of Forestry Washoe Valley,39.105399,-119.903719,Pile Burn,2022-11-07,10,10,NA,Complete
-2022_0111,Nevada Division of Forestry Washoe Valley,39.105399,-119.903719,Pile Burn,2022-12-06,10,10,NA,Complete
-2022_0112,Nevada Division of Forestry Washoe Valley,39.125438,-119.835718,Pile Burn,2022-11-15,10,10,NA,Complete
-2022_0112,Nevada Division of Forestry Washoe Valley,39.106169,-119.848002,Pile Burn,2022-12-06,10,10,NA,Complete
-2023_0027,Nevada Division of Forestry Washoe Valley,39.105399,-119.903719,Pile Burn,2023-01-03,10,10,NA,Complete
-2021_0035,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311,Pile Burn,2021-04-06,10,10,NA,Complete
-2022_0002,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311,Pile Burn,2022-02-09,10,10,NA,Complete
-2022_0002,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311,Pile Burn,2022-02-16,10,10,NA,Complete
-2022_0003,Nevada Division of Forestry Washoe Valley,39.113332,-119.822542,Pile Burn,2022-01-05,10,10,NA,Complete
-2022_0003,Nevada Division of Forestry Washoe Valley,39.113332,-119.822542,Pile Burn,2022-01-10,10,10,NA,Complete
-2022_0003,Nevada Division of Forestry Washoe Valley,39.113332,-119.822542,Pile Burn,2022-02-01,10,10,NA,Complete
-2022_0002,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311,Pile Burn,2022-01-12,10,10,NA,Complete
-2020_0094,Storey County Fire District,39.308483,-119.634268,Broadcast Burn,2020-11-10,NA,NA,2700,Complete
-2022_0054,Hawthorne Army Depot,38.547,-118.654,Broadcast Burn,2022-12-28,NA,NA,NA,Complete
-2021_0035,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311,Pile Burn,2021-03-16,10,10,NA,Complete
-2022_0063,NGM - Twin Creeks,41.277107,-117.136942,Pile Burn,2022-02-08,0.05,0.05,NA,Complete
-2022_0063,NGM - Twin Creeks,41.221601,-117.167511,Pile Burn,2022-02-08,0.05,0.05,NA,Complete
-2020-0021,Naval Air Station Fallon,39.4094,-118.711,Pile Burn,2020-04-23,NA,NA,NA,Complete
-2021_0135,Tahoe Douglas Fire Protection District,39.030026,-119.94545,Pile Burn,2021-10-28,NA,NA,NA,Complete
-2022_0047,Storey County Fire Protection District,39.561907,-119.514859,Pile Burn,2022-02-03,NA,NA,NA,Complete
-2021_0014,USDA Forest Service Ely Ranger District,38.1162,-115.656,Pile Burn,2021-01-06,100,100,NA,Complete
-2021_0014,USDA Forest Service Ely Ranger District,38.1162,-115.656,Pile Burn,2021-01-31,100,100,NA,Complete
-2022_0027,Pershing County Landfill,40.453481,-118.10425,Pile Burn,2022-12-22,NA,NA,2700,Complete
-2020-0015,Naval Air Station Fallon,39.424,-118.716,Pile Burn,2020-05-04,NA,NA,NA,Complete
-2020-0065,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.254501,-117.166048,Pile Burn,2020-06-04,NA,NA,NA,Complete
-2021_0064,Carson City Fire Department,39.127968,-119.779361,Pile Burn,2021-02-02,NA,NA,NA,Complete
-2020_0097,BLM - Ely District,38.875383,-114.711387,Pile Burn,2020-12-17,NA,NA,NA,Complete
-2020-0042,Storey County Fire Protection District,39.3884,-119.631,Pile Burn,2020-11-11,NA,NA,NA,Complete
-2020-0042,Storey County Fire Protection District,39.3884,-119.631,Pile Burn,2020-11-23,NA,NA,NA,Complete
-2020-0042,Storey County Fire Protection District,39.3884,-119.631,Pile Burn,2020-11-30,NA,NA,NA,Complete
-2020-0042,Storey County Fire Protection District,39.3884,-119.631,Pile Burn,2020-12-14,NA,NA,NA,Complete
-2021_0113,Nevada Gold Mines LLC,40.94872,-116.37395,Pile Burn,2021-03-27,NA,NA,NA,Complete
-2022_0034,Eureka County Landfill,39.523833,-115.957744,Pile Burn,2022-08-11,NA,NA,NA,Complete
-2020-0042,Storey County Fire Protection District,39.3884,-119.631,Pile Burn,2020-03-26,NA,NA,NA,Complete
-2021_0060,BLM - Ely District,39.142557,-114.858096,Pile Burn,2021-01-26,134,134,NA,Complete
-2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,39.168717,-119.921427,Pile Burn,2021-01-12,15,15,NA,Complete
-2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,39.168717,-119.921427,Pile Burn,2021-01-20,15,15,NA,Complete
-2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,39.101466,-119.901111,Pile Burn,2021-02-17,15,15,NA,Complete
-2023_0046,"BLM-NV, Battle Mountain District",38.542753,-115.73265,Broadcast Burn,2023-02-09,160,160,NA,Complete
-2021_0134,Carson City Fire Department,39.122695,-119.778333,Pile Burn,2021-12-21,15,15,NA,Complete
-2022_0028,Carson City Fire Department,39.122695,-119.778333,Pile Burn,2022-01-12,15,15,NA,Complete
-2021_0035,Nevada Division of Forestry Washoe Valley,39.109273,-119.882938,Pile Burn,2021-01-06,2,2,NA,Complete
-2021_0110,KG Mining (Bald Mountain) Inc,39.94291,-115.613766,Firefighter Training,2021-03-17,NA,NA,NA,Complete
-2021_0110,KG Mining (Bald Mountain) Inc,39.94291,-115.613766,Firefighter Training,2021-03-22,NA,NA,NA,Complete
-2021_0135,Tahoe Douglas Fire Protection District,39.030026,-119.94545,Pile Burn,2021-10-29,2,2,NA,Complete
-2021_0114,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.204113,-117.243502,Firefighter Training,2021-05-03,NA,NA,NA,Complete
-2021_0114,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.204113,-117.243502,Firefighter Training,2021-05-17,NA,NA,NA,Complete
-2021_0114,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.204113,-117.243502,Firefighter Training,2021-06-09,NA,NA,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-02-09,2,2,NA,Complete
-2021_0122,East Fork Fire Protection District as host Agency,39.058304,-119.714664,Firefighter Training,2021-06-10,NA,NA,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-02-10,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-02-14,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-02-15,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-02-16,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-02-17,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-02-21,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-02-23,2,2,NA,Complete
-2022_0056,Hawthorne Army Depot,38.547,-118.654,Broadcast Burn,2022-12-28,2.8,2.8,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-02-24,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-02-25,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-02-28,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-03-01,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-03-02,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-03-07,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-03-08,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-03-14,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-03-15,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-03-17,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-03-21,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-03-23,2,2,NA,Complete
-2022_0065,NV Energy,39.125338,-119.131878,Pile Burn,2022-03-24,2,2,NA,Complete
-2021_0035,Nevada Division of Forestry Washoe Valley,39.109176,-119.903482,Pile Burn,2021-04-05,2,2,NA,Complete
-2020-0016,Naval Air Station Fallon,39.4094,-118.7,Pile Burn,2020-08-01,NA,NA,NA,Complete
-2020-0020,Naval Air Station Fallon,39.4094,-118.7,Pile Burn,2020-08-01,NA,NA,NA,Complete
-2022_0014,USFS LTBMU,39.135509,-119.940226,Pile Burn,2022-01-31,20,20,NA,Complete
-2023_0030,USDA Forest Service Carson Ranger District,39.000127,-119.848229,Pile Burn,2023-04-06,20,20,NA,Complete
-2022_0002,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311,Pile Burn,2022-03-29,20,20,NA,Complete
-2022_0111,Nevada Division of Forestry Washoe Valley,39.105399,-119.903719,Pile Burn,2022-11-29,20,20,NA,Complete
-2022_0111,Nevada Division of Forestry Washoe Valley,39.105399,-119.903719,Pile Burn,2022-12-13,20,20,NA,Complete
-2022_0002,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311,Pile Burn,2022-02-01,20,20,NA,Complete
-2021_0060,BLM - Ely District,38.854885,-114.757937,Pile Burn,2021-01-30,20,20,NA,Complete
-2021_0060,BLM - Ely District,38.854885,-114.757937,Pile Burn,2021-01-26,20,20,NA,Complete
-2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,39.097679,-119.90181,Pile Burn,2021-03-02,20,20,NA,Complete
-2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,39.097679,-119.90181,Pile Burn,2021-02-24,20,20,NA,Complete
-2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,39.097679,-119.90181,Pile Burn,2021-01-19,20,20,NA,Complete
-2022_0045,Storey County Fire Protection District,39.388634,-119.630278,Pile Burn,2022-02-02,NA,NA,NA,Complete
-2022_0045,Storey County Fire Protection District,39.388634,-119.630278,Pile Burn,2022-01-19,NA,NA,NA,Complete
-2022_0045,Storey County Fire Protection District,39.388634,-119.630278,Pile Burn,2022-11-07,NA,NA,NA,Complete
-2022_0027,Pershing County Landfill,40.792624000000004,-117.756076,Pile Burn,2022-03-11,NA,NA,5400,Complete
-2021_0060,BLM - Ely District,38.854885,-114.757937,Pile Burn,2021-01-13,NA,NA,NA,Complete
-2022_0113,NGM - Twin Creeks,41.284702,-117.143348,Pile Burn,2022-10-26,NA,NA,NA,Complete
-2021_0124,Premier Magnesia,38.871104,-117.905157,Pile Burn,2021-08-19,NA,NA,NA,Complete
-2021_0034,Nevada Division of Forestry Washoe Valley,39.106169,-119.848002,Pile Burn,2021-02-22,23,23,NA,Complete
-2022_0111,Nevada Division of Forestry Washoe Valley,39.109176,-119.903482,Pile Burn,2022-12-27,5,5,NA,Complete
-2022_0122,Storey County Fire Protection District,39.345608,-119.639678,Pile Burn,2022-12-20,NA,NA,NA,Complete
-2023_0056,Storey County Fire Protection District,39.308481,-119.634296,Pile Burn,2023-02-14,NA,NA,NA,Complete
-2021_0061,Eureka County Landfill,39.523833,-115.957744,Pile Burn,2021-10-13,NA,NA,25000,Complete
-2020_0077,Eureka County Landfill,39.523833,-115.957744,Pile Burn,2020-12-16,NA,NA,25000,Complete
-2021_0143,U.S. Fish and Wildlife Service,40.21836,-115.478238,Broadcast Burn,2021-12-07,318,318,NA,Complete
-2020_0093,Tahoe Douglas Fire Protection District,39.097419,-119.934543,Broadcast Burn,2020-12-15,NA,NA,NA,Complete
-2020-0030,Nevada Gold Mines LLC,40.5758,-116.226,Pile Burn,2020-04-04,NA,NA,25000,Complete
-2020-0030,Nevada Gold Mines LLC,40.5758,-116.226,Pile Burn,2020-12-04,NA,NA,25000,Complete
-2022_0118,Tahoe Douglas Fire Protection District,38.974132,-119.888112,Pile Burn,2022-12-03,3,3,NA,Complete
-2022_0045,Storey County Fire Protection District,39.388634,-119.630278,Pile Burn,2022-01-18,NA,NA,NA,Complete
-2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,39.168717,-119.921427,Pile Burn,2021-01-24,30,30,NA,Complete
-2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,39.168717,-119.921427,Pile Burn,2021-01-26,30,30,NA,Complete
-2022_0002,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311,Pile Burn,2022-01-15,30,30,NA,Complete
-2022_0002,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311,Pile Burn,2022-01-25,30,30,NA,Complete
-2022_0127,Storey County Fire Protection District,39.35811,-119.660868,Pile Burn,2022-12-12,NA,NA,NA,Complete
-2021_0036,USDA Forest Service Jarbidge Ranger District,40.068,-115.665306,Pile Burn,2021-04-24,NA,NA,NA,Complete
-2022_0027,Pershing County Landfill,40.663504,-118.178188,Pile Burn,2022-12-15,NA,NA,8100,Complete
-2022_0118,Tahoe Douglas Fire Protection District,38.974132,-119.888112,Pile Burn,2022-11-17,4,4,NA,Complete
-2021_0012,Storey County Fire Protection District,39.347516,-119.64624,Pile Burn,2021-01-26,NA,NA,NA,Complete
-2021_0012,Storey County Fire Protection District,39.347516,-119.64624,Pile Burn,2021-02-23,NA,NA,NA,Complete
-2021_0069,McEwen Mining Inc,39.775002,-116.320267,Pile Burn,2021-02-17,NA,NA,NA,Complete
-2022_0118,Tahoe Douglas Fire Protection District,38.974132,-119.888112,Pile Burn,2022-11-03,40,40,NA,Complete
-2020-0020,Naval Air Station Fallon,39.4094,-118.7,Pile Burn,2020-04-24,NA,NA,NA,Complete
-2020-0016,Naval Air Station Fallon,39.4094,-118.7,Pile Burn,2020-10-07,NA,NA,NA,Complete
-2020-0020,Naval Air Station Fallon,39.4094,-118.7,Pile Burn,2020-10-07,NA,NA,NA,Complete
-2020-0017,Naval Air Station Fallon,39.4508,-118.71,Pile Burn,2020-03-13,5,5,NA,Complete
-2021_0033,USDA Forest Service Carson Ranger District,39.1036,-119.883,Pile Burn,2021-01-20,5,5,NA,Complete
-2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,39.101466,-119.901111,Pile Burn,2021-01-13,5,5,NA,Complete
-2021_0135,Tahoe Douglas Fire Protection District,39.030026,-119.94545,Pile Burn,2021-11-02,5,5,NA,Complete
-2022_0029,Bureau of Land Management,39.629194,-116.06885,Pile Burn,2022-02-23,5,5,NA,Complete
-2022_0112,Nevada Division of Forestry Washoe Valley,39.125438,-119.835718,Pile Burn,2022-11-15,5,5,NA,Complete
-2022_0118,Tahoe Douglas Fire Protection District,38.974132,-119.888112,Pile Burn,2022-11-29,5,5,NA,Complete
-2022_0118,Tahoe Douglas Fire Protection District,38.974132,-119.888112,Pile Burn,2022-12-13,5,5,NA,Complete
-2023_0012,USDA Forest Service Lake Tahoe Basin Management Unit,39.086696,-119.911782,Pile Burn,2023-04-20,5,5,NA,Complete
-2023_0023,USFS LTBMU,39.141034,-119.933351,Pile Burn,2023-04-11,5,5,NA,Complete
-2023_0023,USFS LTBMU,39.141034,-119.933351,Pile Burn,2023-04-12,5,5,NA,Complete
-2023_0030,USDA Forest Service Carson Ranger District,38.9967,-119.855,Pile Burn,2023-01-23,5,5,NA,Complete
-2020-0016,Naval Air Station Fallon,39.4094,-118.7,Pile Burn,2020-09-12,NA,NA,NA,Complete
-2021_0119,Central Lyon County Fire Protection District,39.386111,-119.235185,Pile Burn,2021-04-15,NA,NA,NA,Complete
-2020_0104,Carson City Fire Department,39.127968,-119.779361,Pile Burn,2020-12-29,NA,NA,NA,Complete
-2020-0042,Storey County Fire Protection District,39.3884,-119.631,Pile Burn,2020-12-23,NA,NA,NA,Complete
-2021_0010,Storey County Fire Protection District,39.38892,-119.631835,Pile Burn,2021-01-12,NA,NA,NA,Complete
-2021_0010,Storey County Fire Protection District,39.38892,-119.631835,Pile Burn,2021-01-26,NA,NA,NA,Complete
-2021_0010,Storey County Fire Protection District,39.38892,-119.631835,Pile Burn,2021-02-16,NA,NA,NA,Complete
-2021_0010,Storey County Fire Protection District,39.38892,-119.631835,Pile Burn,2021-03-02,NA,NA,NA,Complete
-2021_0010,Storey County Fire Protection District,39.38892,-119.631835,Pile Burn,2021-03-17,NA,NA,NA,Complete
-2021_0010,Storey County Fire Protection District,39.38892,-119.631835,Pile Burn,2021-04-09,NA,NA,NA,Complete
-2022_0027,Pershing County Landfill,40.182347,-118.544927,Pile Burn,2022-11-09,NA,NA,13500,Complete
-2020-0042,Storey County Fire Protection District,39.3884,-119.631,Pile Burn,2020-12-28,NA,NA,NA,Complete
-2021_0010,Storey County Fire Protection District,39.38892,-119.631835,Pile Burn,2021-01-06,NA,NA,NA,Complete
-2021_0010,Storey County Fire Protection District,39.38892,-119.631835,Pile Burn,2021-01-11,NA,NA,NA,Complete
-2021_0010,Storey County Fire Protection District,39.38892,-119.631835,Pile Burn,2021-01-20,NA,NA,NA,Complete
-2021_0010,Storey County Fire Protection District,39.38892,-119.631835,Pile Burn,2021-02-01,NA,NA,NA,Complete
-2021_0010,Storey County Fire Protection District,39.38892,-119.631835,Pile Burn,2021-02-08,NA,NA,NA,Complete
-2021_0010,Storey County Fire Protection District,39.38892,-119.631835,Pile Burn,2021-02-22,NA,NA,NA,Complete
-2022_0125,NGM-Phoenix Mine,40.513782,-117.14037,Firefighter Training,2022-11-28,NA,NA,NA,Complete
-2021_0010,Storey County Fire Protection District,39.38892,-119.631835,Pile Burn,2021-03-23,NA,NA,NA,Complete
-2021_0010,Storey County Fire Protection District,39.38892,-119.631835,Pile Burn,2021-03-30,NA,NA,NA,Complete
-2021_0010,Storey County Fire Protection District,39.38892,-119.631835,Pile Burn,2021-04-06,NA,NA,NA,Complete
-2021_0065,LTBMU,39.165908,-119.92709,Pile Burn,2021-02-08,55,55,NA,Complete
-2021_0035,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311,Pile Burn,2021-01-12,6,6,NA,Complete
-2021_0135,Tahoe Douglas Fire Protection District,39.030026,-119.94545,Pile Burn,2021-11-10,6,6,NA,Complete
-2022_0076,Carson City Fire Dept,39.206061,-119.818601,Pile Burn,2022-03-28,7,7,NA,Complete
-2021_0064,Carson City Fire Department,39.127968,-119.779361,Pile Burn,2021-02-09,NA,NA,NA,Complete
-2022_0016,USDA Forest Service Carson Ranger District,38.9967,-119.855,Pile Burn,2022-01-05,8,8,NA,Complete
-2021_0013,Storey County Fire Protection District,39.340552,-119.640702,Pile Burn,2021-03-16,NA,NA,NA,Complete
-2021_0058,USDA Forest Service Lake Tahoe Basin Management Unit,39.097679,-119.90181,Pile Burn,2021-03-31,9,9,NA,Complete
-2022_0036,USDA Forest Service Humboldt-Toiyabe NF,40.732078,-115.22991,Pile Burn,2022-01-31,NA,NA,NA,Complete
-2022_0046,Storey County Fire Protection District,39.308481,-119.634296,Pile Burn,2022-02-16,NA,NA,NA,Complete
-2022_0094,Nevada Gold Mines LLC,40.575768,-116.225718,Pile Burn,2022-05-14,0.09,0.09,NA,Complete
-2020_0096,U.S. Fish and Wildlife Service,40.206111,-115.479167,Broadcast Burn,2020-11-17,1300,1300,NA,Complete
-2022_0123,Nevada Gold Mines LLC,40.575768,-116.225718,Pile Burn,2022-12-03,0.09,0.09,NA,Complete
-2021_0105,City of Ely,39.2853,-114.8687,Pile Burn,2021-03-08,0.5,0.5,NA,Complete
-2021_0105,City of Ely,39.2853,-114.8687,Pile Burn,2021-03-09,0.5,0.5,NA,Complete
-2021_0105,City of Ely,39.2853,-114.8687,Pile Burn,2021-03-10,0.5,0.5,NA,Complete
-2023_0072,Tahoe Douglas Fire Protection District,39.026694,-119.934355,Community Open Burn,2023-04-25,20,20,NA,Complete
-2020_0081,Hawthorne Army Depot,38.545261000000004,-118.690063,Pile Burn,2020-10-28,NA,NA,NA,Complete
-2020-0041,Storey County Fire Protection District,39.375,-119.657,Pile Burn,2020-04-07,NA,NA,NA,Complete
-2022_0048,Storey County Fire Protection District,39.359224,-119.603784,Pile Burn,2022-04-13,NA,NA,NA,Complete
-17-65,US Fish and Wildlife Service,40.17842778,-115.4888889,Pile Burn,2017-11-29,NA,NA,NA,Complete
-19-31,Nevada Department of Transportation - Winnemucca,41.698105,-118.502442,Pile Burn,2019-03-26,NA,NA,NA,Complete
-17-47,Tahoe Douglas Fire District,39.100247,-119.946309,Pile Burn,2017-11-10,NA,NA,NA,Complete
-20-59,Nevada Department of Transportation - Winnemucca,41.989297,-118.635371,Pile Burn,2020-02-25,NA,NA,NA,Complete
-18-57,Cyanco,40.944592,-117.860967,Pile Burn,2018-04-10,NA,NA,NA,Complete
-18-45,Naval Air Station Fallon,39.409407,-118.700087,Pile Burn,2018-06-25,NA,NA,NA,Complete
-18-12,NV Energy,39.128545,-119.1325,Pile Burn,2018-01-30,NA,NA,NA,Complete
-17-27,Naval Air Station Fallon,39.409407,-118.700087,Pile Burn,2017-12-02,NA,NA,NA,Complete
-17-02,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.254501,-117.166048,Pile Burn,2017-11-30,NA,NA,NA,Complete
-18-82,NV Energy,39.128545,-119.1325,Pile Burn,2018-11-30,NA,NA,NA,Complete
-17-03,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.254501,-117.166048,Pile Burn,2017-09-06,NA,NA,NA,Complete
-19-17,Naval Air Station Fallon,39.409407,-118.700087,Pile Burn,2019-05-06,NA,NA,NA,Complete
-18-45,Naval Air Station Fallon,39.409407,-118.700087,Pile Burn,2018-06-13,NA,NA,NA,Complete
-20-65,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.254501,-117.166048,Pile Burn,2020-04-09,NA,NA,NA,Complete
-18-45,Naval Air Station Fallon,39.409407,-118.700087,Pile Burn,2018-07-23,NA,NA,NA,Complete
-19-37,Hawthorne Army Depot,38.547034,-118.653925,Pile Burn,2019-04-05,NA,NA,NA,Complete
-19-61,Cyanco,40.943058,-117.862602,Pile Burn,2019-04-03,NA,NA,NA,Complete
-18-46,Naval Air Station Fallon,39.409407,-118.700087,Pile Burn,2018-05-07,NA,NA,NA,Complete
-19-01,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.254501,-117.166048,Pile Burn,2019-11-07,NA,NA,NA,Complete
-19-25,Marigold Mining Company,40.44484,-117.103097,Pile Burn,2019-01-26,NA,NA,NA,Complete
-17-27,Naval Air Station Fallon,39.4094,-118.7001,Pile Burn,2017-09-25,NA,NA,NA,Complete
-19-17,Naval Air Station Fallon,39.409407,-118.700087,Pile Burn,2019-10-21,NA,NA,NA,Complete
-19-36,Hawthorne Army Depot,38.547034,-118.653925,Pile Burn,2019-04-05,NA,NA,NA,Complete
-19-08,Premier Magnesia,38.872405,-117.904557,Pile Burn,2019-04-09,NA,NA,NA,Complete
-19-08,Premier Magnesia,38.872405,-117.904557,Pile Burn,2019-10-29,NA,NA,NA,Complete
-20-02,DAF/Tonopah Test Range Operations Office,37.110292,-116.231654,Pile Burn,2020-03-28,NA,NA,NA,Complete
-19-08,Premier Magnesia,38.872405,-117.904557,Pile Burn,2019-06-04,NA,NA,NA,Complete
-20-44,Premier Magnesia,38.872405,-117.904557,Pile Burn,2020-03-04,NA,NA,NA,Complete
-19-08,Premier Magnesia,38.872405,-117.904557,Pile Burn,2019-07-09,NA,NA,NA,Complete
-19-08,Premier Magnesia,38.872405,-117.904557,Pile Burn,2019-08-30,NA,NA,NA,Complete
-17-58,Newmont Mining Corporation,40.943925,-116.357619,Pile Burn,2017-10-30,NA,NA,NA,Complete
-19-08,Premier Magnesia,38.872405,-117.904557,Pile Burn,2019-10-02,NA,NA,NA,Complete
-19-42,Nevada Division of Forestry,38.82661,-115.2713,Pile Burn,2019-02-11,NA,NA,NA,Complete
-19-08,Premier Magnesia,38.872405,-117.904557,Pile Burn,2019-08-01,NA,NA,NA,Complete
-19-08,Premier Magnesia,38.872405,-117.904557,Pile Burn,2019-02-11,NA,NA,NA,Complete
-19-08,Premier Magnesia,38.872405,-117.904557,Pile Burn,2019-12-31,NA,NA,NA,Complete
-18-49,USDA Forest Service Humboldt-Toiyabe NF,41.786111,-115.952222,Pile Burn,2018-10-08,NA,NA,8000,Complete
-18-27,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.216761,-117.245365,Pile Burn,2018-11-19,NA,NA,3,Complete
-18-22,Eureka Landfill,39.523111,-115.955906,Pile Burn,2018-11-29,NA,NA,25000,Complete
-18-22,Eureka Landfill,39.523111,-115.955906,Pile Burn,2018-05-26,NA,NA,25000,Complete
-19-09,Eureka Landfill,39.523111,-115.955906,Pile Burn,2019-11-23,NA,NA,25000,Complete
-18-49,USDA Forest Service Humboldt-Toiyabe NF,41.786111,-115.952222,Pile Burn,2018-12-04,NA,NA,8000,Complete
-19-46ext,National Nuclear Security Administration,37.094071,-116.102667,Pile Burn,2019-06-04,NA,NA,NA,Complete
-18-61,Newmont USA Limited,40.513678,-117.140617,Pile Burn,2018-04-18,NA,NA,NA,Complete
-18-61,Newmont USA Limited,40.513678,-117.140617,Pile Burn,2018-04-30,NA,NA,NA,Complete
-19-05,DAF/Tonopah Test Range Operations Office,37.110292,-116.231654,Pile Burn,2019-05-25,NA,NA,NA,Complete
-18-67,Newmont USA Limited,40.509831,-117.138273,Pile Burn,2018-07-19,NA,NA,NA,Complete
-19-21,Naval Air Station Fallon,39.409407,-118.700087,Pile Burn,2019-04-09,NA,NA,NA,Complete
-19-46ext,National Nuclear Security Administration,37.094071,-116.102667,Pile Burn,2019-05-21,NA,NA,NA,Complete
-18-43,Naval Air Station Fallon,39.409407,-118.700087,Pile Burn,2018-10-27,NA,NA,NA,Complete
-17-25,Naval Air Station Fallon,39.409407,-118.700087,Pile Burn,2017-10-23,NA,NA,NA,Complete
-18-67,Newmont USA Limited,40.509831,-117.138273,Pile Burn,2018-07-05,NA,NA,NA,Complete
-19-46ext,National Nuclear Security Administration,37.094071,-116.102667,Pile Burn,2019-05-26,NA,NA,NA,Complete
-18-67,Newmont USA Limited,40.509831,-117.138273,Pile Burn,2018-07-12,NA,NA,NA,Complete
-18-67,Newmont USA Limited,40.509831,-117.138273,Pile Burn,2018-07-26,NA,NA,NA,Complete
-17-25,Naval Air Station Fallon,39.409407,-118.700087,Pile Burn,2017-12-02,NA,NA,NA,Complete
-18-16a,Storey County Fire Protection District,39.305794,-119.617143,Pile Burn,2018-03-19,NA,NA,NA,Complete
-18-51,US Fish and Wildlife Service - Las Vegas,37.262778,-115.123611,Pile Burn,2018-04-17,NA,NA,NA,Complete
-19-55,Storey County Fire Protection District,39.375925,-119.68234,Pile Burn,2019-03-11,NA,NA,NA,Complete
-18-16,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2018-03-14,NA,NA,NA,Complete
-18-16,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2018-03-21,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.657222,Pile Burn,2018-04-18,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.657222,Pile Burn,2018-12-10,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.657222,Pile Burn,2018-04-23,NA,NA,NA,Complete
-19-55,Storey County Fire Protection District,39.375925,-119.68234,Pile Burn,2019-03-05,NA,NA,NA,Complete
-18-16a,Storey County Fire Protection District,39.305794,-119.617143,Pile Burn,2018-03-20,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.657222,Pile Burn,2018-04-17,NA,NA,NA,Complete
-APCP190029,USDA Forest Service Carson Ranger District,39.3024,-119.84,Pile Burn,2019-03-11,NA,NA,NA,Complete
-18-16,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2018-03-20,NA,NA,NA,Complete
-APCP180161,USDA FS Lake Tahoe Basin Management Unit,39.262609,-119.934344,Pile Burn,2019-12-10,NA,NA,NA,Complete
-19-55,Storey County Fire Protection District,39.375925,-119.68234,Pile Burn,2019-03-14,NA,NA,NA,Complete
-APCP190162,NA,39.262207,-119.929631,Pile Burn,2019-12-10,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.6572222,Pile Burn,2018-04-09,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.657222,Pile Burn,2018-05-07,NA,NA,NA,Complete
-18-16a,Storey County Fire Protection District,39.305794,-119.617143,Pile Burn,2018-03-26,NA,NA,NA,Complete
-18-16a,Storey County Fire Protection District,39.305794,-119.617143,Pile Burn,2018-03-27,NA,NA,NA,Complete
-19-55,Storey County Fire Protection District,39.375925,-119.68234,Pile Burn,2019-03-13,NA,NA,NA,Complete
-18-16a,Storey County Fire Protection District,39.305794,-119.617143,Pile Burn,2018-03-28,NA,NA,NA,Complete
-19-66,Storey County Fire Protection District,39.34972,-119.6469,Pile Burn,2019-12-04,NA,NA,NA,Complete
-19-66,Storey County Fire Protection District,39.34972,-119.6469,Pile Burn,2019-05-31,NA,NA,NA,Complete
-18-81ext,USDA Forest Service Jarbidge Ranger District,41.72447,-115.894179,Pile Burn,2018-12-04,NA,NA,NA,Complete
-19-66,Storey County Fire Protection District,39.34972,-119.6469,Pile Burn,2019-04-10,NA,NA,NA,Complete
-19-66,Storey County Fire Protection District,39.34972,-119.6469,Pile Burn,2019-04-11,NA,NA,NA,Complete
-19-66,Storey County Fire Protection District,39.34972,-119.6469,Pile Burn,2019-04-16,NA,NA,NA,Complete
-18-49,USDA Forest Service Humboldt-Toiyabe NF,41.786111,-115.952222,Pile Burn,2018-10-26,NA,NA,NA,Complete
-19-66,Storey County Fire Protection District,39.34972,-119.6469,Pile Burn,2019-04-17,NA,NA,NA,Complete
-18-83,East Fork Fire Protection Disctrict,38.995356,-119.75338,Pile Burn,2018-10-23,NA,NA,NA,Complete
-18-07,NA,37.110292,-116.231654,Pile Burn,2018-10-20,NA,NA,NA,Complete
-18-68,Premier Magnesia,38.872405,-117.904557,Pile Burn,2018-09-13,NA,NA,NA,Complete
-18-09,Pershing County Landfill,40.184005,-118.495257,Pile Burn,2018-11-29,NA,NA,NA,Complete
-19-57,Nevada Division of Forestry,38.395249,-114.350688,Pile Burn,2019-04-02,NA,NA,NA,Complete
-19-05,DAF/Tonopah Test Range Operations Office,37.110292,-116.231654,Pile Burn,2019-03-30,NA,NA,NA,Complete
-19-66,Storey County Fire Protection District,39.34972,-119.6469,Pile Burn,2019-06-03,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.657222,Pile Burn,2018-05-14,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.657222,Pile Burn,2018-04-24,NA,NA,NA,Complete
-19-82,FTLB LLC,36.132796,-115.967173,Pile Burn,2019-07-20,NA,NA,NA,Complete
-19-04,Pershing County Landfill,40.184005,-118.495257,Pile Burn,2019-03-22,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.657222,Pile Burn,2018-05-03,NA,NA,NA,Complete
-19-24,Carson City Fire Department,39.185638,-119.815697,Pile Burn,2019-03-21,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.6572222,Pile Burn,2018-12-04,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.657222,Pile Burn,2018-12-05,NA,NA,NA,Complete
-18-77,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-12-06,NA,NA,NA,Complete
-19-31,Nevada Department of Transportation - Winnemucca,41.698105,-118.502442,Pile Burn,2019-03-20,NA,NA,NA,Complete
-19-05,DAF/Tonopah Test Range Operations Office,37.110292,-116.231654,Pile Burn,2019-10-27,NA,NA,NA,Complete
-18-76,Barrick Goldstrike,40.966022,-116.38255,Pile Burn,2018-12-10,NA,NA,NA,Complete
-APCP170115,NA,39.253887,-119.916218,Pile Burn,2018-04-16,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.657222,Pile Burn,2018-04-26,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.657222,Pile Burn,2018-04-25,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.657222,Pile Burn,2018-05-28,NA,NA,NA,Complete
-20-42,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2020-01-30,NA,NA,NA,Complete
-APCP170137,USDA FS Humboldt-Toiyabe,39.40274,-119.863503,Pile Burn,2018-11-28,NA,NA,NA,Complete
-20-41,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2020-02-04,NA,NA,NA,Complete
-20-42,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2020-03-05,NA,NA,NA,Complete
-18-19,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2018-01-20,NA,NA,NA,Complete
-18-17,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-01-20,NA,NA,NA,Complete
-20-49,Nevada Division of Forestry,38.816214,-115.288369,Pile Burn,2020-02-01,NA,NA,NA,Complete
-20-30,Nevada Gold Mines LLC,40.575768,-116.225718,Pile Burn,2020-02-01,NA,NA,NA,Complete
-20-42,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2020-01-27,NA,NA,NA,Complete
-19-10,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2019-01-22,NA,NA,NA,Complete
-20-49,Nevada Division of Forestry,38.816214,-115.288369,Pile Burn,2020-02-05,NA,NA,NA,Complete
-19-33,Barrick Goldstrike,40.575768,-116.225718,Pile Burn,2019-01-22,NA,NA,NA,Complete
-20-41,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2020-01-29,NA,NA,NA,Complete
-19-10,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2019-01-23,NA,NA,NA,Complete
-20-06,Bureau of Land Management - Battle Mountain Dist.,38.532053,-117.067246,Pile Burn,2020-01-28,NA,NA,NA,Complete
-19-10,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2019-01-24,NA,NA,NA,Complete
-20-42,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2020-01-28,NA,NA,NA,Complete
-20-42,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2020-02-20,NA,NA,NA,Complete
-19-33,Barrick Goldstrike,40.575768,-116.225718,Pile Burn,2019-01-19,NA,NA,NA,Complete
-19-33,Barrick Goldstrike,40.575768,-116.225718,Pile Burn,2019-01-11,NA,NA,NA,Complete
-19-10,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2019-01-08,NA,NA,NA,Complete
-19-10,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2019-01-09,NA,NA,NA,Complete
-19-26,Tahoe Douglas Fire District,38.99737,-119.944465,Pile Burn,2019-01-05,NA,NA,NA,Complete
-20-41,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2020-02-18,NA,NA,NA,Complete
-17-60,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2017-12-14,NA,NA,NA,Complete
-17-60,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2017-12-15,NA,NA,NA,Complete
-20-41,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2020-02-11,NA,NA,NA,Complete
-18-16a,Storey County Fire Protection District,39.305794,-119.617143,Pile Burn,2018-03-12,NA,NA,NA,Complete
-19-26,Tahoe Douglas Fire District,38.99737,-119.944465,Pile Burn,2019-01-04,NA,NA,NA,Complete
-20-41,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2020-03-03,NA,NA,NA,Complete
-18-76,Barrick Goldstrike,40.966022,-116.38255,Pile Burn,2018-12-21,NA,NA,NA,Complete
-20-42,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2020-02-06,NA,NA,NA,Complete
-20-60,USDA Forest Service Jarbidge Ranger District,40.177417,-115.493917,Pile Burn,2020-02-26,NA,NA,NA,Complete
-19-10,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2019-01-03,NA,NA,NA,Complete
-20-41,Storey County Fire Protection District,39.975,-119.6573,Pile Burn,2020-02-26,NA,NA,NA,Complete
-19-10,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2019-01-14,NA,NA,NA,Complete
-20-42,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2020-02-27,NA,NA,NA,Complete
-19-26,Tahoe Douglas Fire District,38.99737,-119.944465,Pile Burn,2019-01-03,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.657222,Pile Burn,2018-12-26,NA,NA,NA,Complete
-19-42,Nevada Division of Forestry,38.82661,-115.2713,Pile Burn,2019-03-04,NA,NA,NA,Complete
-19-39,USDA Forest Service Jarbidge Ranger District,41.72447,-115.894179,Pile Burn,2019-01-30,NA,NA,NA,Complete
-20-42,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2020-04-02,NA,NA,NA,Complete
-19-94,City of Ely Landfill,39.2853,-114.8687,Pile Burn,2020-01-15,NA,NA,NA,Complete
-19-42,Nevada Division of Forestry,38.82661,-115.2713,Pile Burn,2019-02-19,NA,NA,NA,Complete
-19-42,Nevada Division of Forestry,38.82661,-115.2713,Pile Burn,2019-02-25,NA,NA,NA,Complete
-20-44,Premier Magnesia,38.872406,-117.904557,Pile Burn,2020-04-02,NA,NA,NA,Complete
-17-28,Naval Air Station Fallon,39.42047,-118.724216,Pile Burn,2018-03-04,NA,NA,NA,Complete
-20-42,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2020-03-26,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.657222,Pile Burn,2018-12-11,NA,NA,NA,Complete
-19-94,City of Ely Landfill,39.2853,-114.8687,Pile Burn,2020-01-16,NA,NA,NA,Complete
-18-16a,Storey County Fire Protection District,39.305794,-119.617143,Pile Burn,2018-03-05,NA,NA,NA,Complete
-18-16a,Storey County Fire Protection District,39.305794,-119.617143,Pile Burn,2018-03-06,NA,NA,NA,Complete
-19-55,Storey County Fire Protection District,39.375925,-119.68234,Pile Burn,2019-03-04,NA,NA,NA,Complete
-18-16,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2018-03-07,NA,NA,NA,Complete
-18-34,US Fish and Wildlife Service - Las Vegas,37.26277778,-115.1236111,Pile Burn,2018-03-12,NA,NA,NA,Complete
-20-41,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2020-04-06,NA,NA,NA,Complete
-20-42,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2020-04-09,NA,NA,NA,Complete
-19-53,Nevada Division of Forestry,38.35967,-114.4155,Pile Burn,2019-03-05,NA,NA,NA,Complete
-18-76,Barrick Goldstrike,40.966022,-116.38255,Pile Burn,2018-12-12,NA,NA,NA,Complete
-20-42,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2020-03-16,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.657222,Pile Burn,2018-12-19,NA,NA,NA,Complete
-20-60,USDA Forest Service Jarbidge Ranger District,40.177417,-115.493917,Pile Burn,2020-03-11,NA,NA,NA,Complete
-18-76,Barrick Goldstrike,40.966022,-116.38255,Pile Burn,2018-12-18,NA,NA,NA,Complete
-20-42,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2020-03-11,NA,NA,NA,Complete
-20-42,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2020-03-12,NA,NA,NA,Complete
-20-17,Naval Air Station Fallon,39.450837,-118.709578,Pile Burn,2020-03-13,NA,NA,NA,Complete
-18-59,Storey County Fire Protection District,39.375,-119.657222,Pile Burn,2018-12-17,NA,NA,NA,Complete
-17-49,Coeur Rochester Inc.,40.28944,-118.1419,Pile Burn,2017-10-19,NA,NA,NA,Complete
-19-10,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2019-01-15,NA,NA,NA,Complete
-20-41,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2020-03-16,NA,NA,NA,Complete
-20-43,Storey County Fire Protection District,39.375925,-119.68234,Pile Burn,2020-03-18,NA,NA,NA,Complete
-20-42,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2020-03-19,NA,NA,NA,Complete
-20-42,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2020-01-20,NA,NA,NA,Complete
-17-01,Eureka Landfill,39.523111,-115.955906,Pile Burn,2017-09-23,NA,NA,NA,Complete
-18-06,NA,38.951589,-117.589149,Pile Burn,2018-02-27,NA,NA,NA,Complete
-20-41,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2020-01-22,NA,NA,NA,Complete
-19-29,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2019-04-19,NA,NA,2700,Complete
-17-04,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.219175,-117.247344,Pile Burn,2017-10-09,NA,NA,81,Complete
-20-30,Nevada Gold Mines LLC,40.966022,-116.38255,Pile Burn,2020-04-04,NA,NA,67500,Complete
-20-01,Pershing County Landfill,40.184005,-118.425257,Pile Burn,2020-03-20,NA,NA,270,Complete
-19-29,Storey County Fire Protection District,39.388469,-119.63091,Pile Burn,2019-01-17,NA,NA,2700,Complete
-19-04,Pershing County Landfill,40.184005,-118.495257,Pile Burn,2019-06-01,NA,NA,270,Complete
-18-16,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2018-02-28,NA,NA,2700,Complete
-19-29,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2019-05-01,NA,NA,2700,Complete
-19-29,Storey County Fire Protection District,39.388469,-119.63091,Pile Burn,2019-02-11,NA,NA,2700,Complete
-19-29,Storey County Fire Protection District,39.388469,-119.63091,Pile Burn,2019-02-06,NA,NA,2700,Complete
-19-30,Storey County Fire Protection District,39.305794,-119.617143,Pile Burn,2019-12-03,NA,NA,2700,Complete
-19-04,Pershing County Landfill,40.184005,-118.425257,Pile Burn,2019-11-30,NA,NA,2700,Complete
-19-29,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2019-12-02,NA,NA,2700,Complete
-18-16,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2018-02-27,NA,NA,2700,Complete
-19-29,Storey County Fire Protection District,39.388469,-119.63091,Pile Burn,2019-01-31,NA,NA,2700,Complete
-19-29,Storey County Fire Protection District,39.388469,-119.63091,Pile Burn,2019-02-04,NA,NA,2700,Complete
-18-68,Premier Magnesia,38.872405,-117.904557,Pile Burn,2018-12-20,NA,NA,135,Complete
-19-29,Storey County Fire Protection District,39.388469,-119.63091,Pile Burn,2019-03-07,NA,NA,2700,Complete
-19-29,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2019-05-31,NA,NA,2700,Complete
-19-29,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2019-05-26,NA,NA,2700,Complete
-19-66,Storey County Fire Protection District,39.2059,-119.3849,Pile Burn,2019-05-25,NA,NA,2700,Complete
-19-66,Storey County Fire Protection District,39.2059,-119.3849,Pile Burn,2019-05-24,NA,NA,2700,Complete
-18-09,Pershing County Landfill,40.183845,-118.545684,Pile Burn,2018-01-11,NA,NA,405,Complete
-19-30,Storey County Fire Protection District,39.305794,-119.617143,Pile Burn,2019-01-10,NA,NA,2700,Complete
-19-61,Cyanco,40.943058,-117.862602,Broadcast Burn,2019-04-08,3,3,NA,Complete
-18-79,Tahoe Douglas Fire District,39.101271,-119.946428,Broadcast Burn,2018-11-30,2,2,NA,Complete
-18-93,Cyanco,40.944592,-117.860967,Broadcast Burn,2018-12-11,2,2,NA,Complete
-18-78,Tahoe Douglas Fire District,38.99737,-119.944465,Broadcast Burn,2018-12-14,5,5,NA,Complete
-APCP190159,North Lake Tahoe Fire Protection District,39.265726,-119.974517,Broadcast Burn,2019-10-14,90,90,NA,Complete
-19-60,US Fish and Wildlife Service - Las Vegas,39.5506,-118.4878,Broadcast Burn,2019-03-12,5,5,NA,Complete
-19-65,National Park Service - Lake Mead NRA,38.98916111,-114.2405556,Broadcast Burn,2019-04-08,15,15,NA,Complete
-18-79,Tahoe Douglas Fire District,39.101271,-119.946428,Broadcast Burn,2018-12-12,6,6,NA,Complete
-18-79,Tahoe Douglas Fire District,39.098572,-119.929657,Broadcast Burn,2018-12-13,5,5,NA,Complete
-19-28,Tahoe Douglas Fire District,39.098572,-119.929657,Broadcast Burn,2019-04-04,3,3,NA,Complete
-18-78,Tahoe Douglas Fire District,38.99737,-119.944465,Broadcast Burn,2018-12-15,1,1,NA,Complete
-APCP170155,NA,39.2587,-119.986,Broadcast Burn,2018-12-17,16,16,NA,Complete
-18-78,Tahoe Douglas Fire District,38.99737,-119.944465,Broadcast Burn,2018-12-07,2,2,NA,Complete
-19-69,US Fish and Wildlife Service - Las Vegas,40.17572,-115.4792,Broadcast Burn,2019-04-03,375,375,NA,Complete
-19-28,Tahoe Douglas Fire District,39.098572,-119.929657,Broadcast Burn,2019-04-03,2,2,NA,Complete
-18-77,Tahoe Douglas Fire District,38.973676,-119.898806,Broadcast Burn,2018-11-29,3,3,NA,Complete
-17-30,Naval Air Station Fallon,39.42047,-118.724216,Broadcast Burn,2018-03-20,500,500,NA,Complete
-APCP190159,North Lake Tahoe Fire Protection District,39.265726,-119.974517,Broadcast Burn,2019-10-07,90,90,NA,Complete
-18-12a,NA,39.128545,-119.1325,Broadcast Burn,2018-01-09,1,1,NA,Complete
-20-36,Hawthorne Army Depot,38.547034,-118.653925,Broadcast Burn,2020-02-10,1,1,NA,Complete
-18-06,NA,38.951589,-117.589149,Broadcast Burn,2018-03-06,60,60,NA,Complete
-APCP190159,North Lake Tahoe Fire Protection District,39.2514,-119.921,Broadcast Burn,2019-10-28,90,90,NA,Complete
-19-96,Bureau of Land Management - Ely District Office,38.692817,-114.742072,Broadcast Burn,2019-10-30,300,300,NA,Complete
-18-03,USDA Forest Service Ely Ranger District,39.638151,-114.722704,Broadcast Burn,2018-01-10,50,50,NA,Complete
-18-57,Cyanco,40.944592,-117.860967,Broadcast Burn,2018-04-16,2,2,NA,Complete
-18-37,Naval Air Station Fallon,39.450837,-118.709578,Broadcast Burn,2018-04-10,1,1,NA,Complete
-19-87,US Fish and Wildlife Service,37.2397222,-115.1061111,Broadcast Burn,2019-09-25,540,540,NA,Complete
-17-28,Naval Air Station Fallon,39.42047,-118.724216,Broadcast Burn,2018-03-22,500,500,NA,Complete
-APCP190159,North Lake Tahoe Fire Protection District,39.265726,-119.974517,Broadcast Burn,2019-10-21,90,90,NA,Complete
-18-03,USDA Forest Service Ely Ranger District,39.638151,-114.722704,Broadcast Burn,2018-01-11,60,60,NA,Complete
-17-28,Naval Air Station Fallon,39.42047,-118.724216,Broadcast Burn,2018-03-16,300,300,NA,Complete
-18-03,USDA Forest Service Ely Ranger District,39.638151,-114.722704,Broadcast Burn,2018-01-12,50,50,NA,Complete
-18-05,Bureau of Land Management - Battle Mountain Dist.,39.502702,-115.953465,Broadcast Burn,2018-03-10,50,50,NA,Complete
-18-03,USDA Forest Service Ely Ranger District,39.638151,-114.722704,Broadcast Burn,2018-01-17,25,25,NA,Complete
-18-03,USDA Forest Service Ely Ranger District,39.638151,-114.722704,Broadcast Burn,2018-01-19,50,50,NA,Complete
-APCP190158,North Lake Tahoe Fire Protection District,39.277347,-119.95285,Broadcast Burn,2019-10-07,99,99,NA,Complete
-18-03,USDA Forest Service Ely Ranger District,39.638151,-114.722704,Broadcast Burn,2018-01-28,50,50,NA,Complete
-18-03,USDA Forest Service Ely Ranger District,39.638151,-114.722704,Broadcast Burn,2018-01-30,20,20,NA,Complete
-20-33,US Fish and Wildlife Service - Las Vegas,36.416799,-116.293091,Broadcast Burn,2020-01-15,18,18,NA,Complete
-18-37,Naval Air Station Fallon,39.450837,-118.709578,Broadcast Burn,2018-03-29,200,200,NA,Complete
-17-47,Tahoe Douglas Fire District,39.046405,-119.942002,Broadcast Burn,2017-12-02,18,18,NA,Complete
-20-36,Hawthorne Army Depot,38.547034,-118.653925,Broadcast Burn,2020-03-31,1,1,NA,Complete
-19-63,Nevada Division of Forestry,39.12486,-119.831,Broadcast Burn,2019-04-10,5,5,NA,Complete
-19-64,Nevada Division of Forestry,39.10743,-119.8539,Broadcast Burn,2019-04-10,5,5,NA,Complete
-18-87,US Fish and Wildlife Service - Las Vegas,40.175614,-115.479444,Broadcast Burn,2018-11-27,700,700,NA,Complete
-17-60,Tahoe Douglas Fire District,38.973676,-119.898806,Broadcast Burn,2017-11-17,12,12,NA,Complete
-20-07,Bureau of Land Management - Battle Mountain Dist.,38.568833,-115.6575,Broadcast Burn,2020-02-25,200,200,NA,Complete
-18-01,USDA Forest Service Ely Ranger District,39.4,-114.6333,Broadcast Burn,2018-01-09,20,20,NA,Complete
-19-61,Cyanco,40.943058,-117.862602,Broadcast Burn,2019-04-16,1,1,NA,Complete
-19-23,Round Mountain Gold Corporation,38.717619,-117.0377006,Broadcast Burn,2019-04-17,1,1,NA,Complete
-19-23,Round Mountain Gold Corporation,38.717619,-117.037701,Broadcast Burn,2019-04-22,2,2,NA,Complete
-19-23,Round Mountain Gold Corporation,38.7179619,-117.0377006,Broadcast Burn,2019-04-23,2,2,NA,Complete
-19-77ext,East Fork Fire Protection Disctrict,39.001029,-119.744945,Broadcast Burn,2019-05-20,1,1,NA,Complete
-19-85,Tahoe Douglas Fire District,38.973676,-119.898806,Broadcast Burn,2019-09-24,2,2,NA,Complete
-18-84,Bureau of Land Management - Ely District Office,38.918611,-114.334722,Broadcast Burn,2018-11-01,190,190,NA,Complete
-19-23,Round Mountain Gold Corporation,38.717962,-117.037701,Broadcast Burn,2019-06-04,3,3,NA,Complete
-19-47,USDA Forest Service Carson Ranger District,39.115048,-119.8855,Broadcast Burn,2019-04-22,10,10,NA,Complete
-18-65,Cyanco,40.944592,-117.860967,Broadcast Burn,2018-05-29,2,2,NA,Complete
-17-06,USDA Forest Service Ely Ranger District,39.638151,-114.722704,Broadcast Burn,2017-12-05,10,10,NA,Complete
-19-23,Round Mountain Gold Corporation,38.7179619,-117.0377006,Broadcast Burn,2019-04-24,1,1,NA,Complete
-18-65ext2,Cyanco,40.944592,-117.860967,Broadcast Burn,2018-06-01,2,2,NA,Complete
-17-06,USDA Forest Service Ely Ranger District,39.638151,-114.722704,Broadcast Burn,2017-12-04,20,20,NA,Complete
-19-23,Round Mountain Gold Corporation,38.717962,-117.037701,Broadcast Burn,2019-04-29,1,1,NA,Complete
-18-17,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-02-08,4,4,NA,Complete
-18-28,US Fish and Wildlife Service - Stillwater,39.595933,-118.478074,Pile Burn,2018-02-06,30,30,NA,Complete
-18-19,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2018-02-03,2,2,NA,Complete
-18-17,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-02-02,10,10,NA,Complete
-18-17,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-02-01,7,7,NA,Complete
-18-20,Bureau of Land Management - Ely District Office,38.990112,-114.672996,Pile Burn,2018-02-01,7,7,NA,Complete
-18-78,Tahoe Douglas Fire District,38.99737,-119.944465,Pile Burn,2018-12-20,2,2,NA,Complete
-18-17,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-01-31,5,5,NA,Complete
-18-17,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-02-09,10,10,NA,Complete
-18-19,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2018-01-29,7,7,NA,Complete
-18-79,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2018-12-21,2,2,NA,Complete
-18-17,Tahoe Douglas Fire District,39.973646,-119.898806,Pile Burn,2018-01-26,40,40,NA,Complete
-17-61,Tahoe Douglas Fire District,38.99737,-119.944465,Pile Burn,2017-12-07,2,2,NA,Complete
-18-77,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-12-27,3,3,NA,Complete
-18-89,Carson City Fire Department,39.160674,-119.793166,Pile Burn,2018-12-04,17,17,NA,Complete
-18-29,City of Winnemucca,39.185638,-119.815697,Pile Burn,2018-03-06,35,35,NA,Complete
-APCP170165,Bureau of Land Management - Applegate Field Office,41.930902,-119.676599,Pile Burn,2018-12-10,160,160,NA,Complete
-18-17,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-04-19,10,10,NA,Complete
-18-03,USDA Forest Service Ely Ranger District,39.638151,-114.722704,Pile Burn,2018-12-06,10,10,NA,Complete
-19-47,USDA Forest Service Carson Ranger District,39.11505,-119.8855,Pile Burn,2019-03-25,2,2,NA,Complete
-18-17,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-03-15,1,1,NA,Complete
-18-77,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-12-28,1,1,NA,Complete
-18-19,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2018-03-09,1,1,NA,Complete
-APCP170155,North Lake Tahoe Fire Protection District,39.2583,-119.987,Pile Burn,2018-12-04,30,30,NA,Complete
-APCP170155,NA,39.2393,-120.005,Pile Burn,2018-12-03,9,9,NA,Complete
-18-70,USDA FS Lake Tahoe Basin Management Unit,39.167154,-119.926242,Pile Burn,2018-10-08,13,13,NA,Complete
-18-71,USDA Forest Service Jarbidge Ranger District,41.86816,-115.453426,Pile Burn,2018-11-05,100,100,NA,Complete
-18-85,Bureau of Land Management - Ely District Office,39.724858,-114.231265,Pile Burn,2018-11-02,24,24,NA,Complete
-18-89,Carson City Fire Department,39.160674,-119.7931662,Pile Burn,2018-11-27,17,17,NA,Complete
-18-89,Carson City Fire Department,39.160674,-119.793166,Pile Burn,2018-12-05,17,17,NA,Complete
-18-89,Carson City Fire Department,39.160674,-119.793166,Pile Burn,2018-12-12,15,15,NA,Complete
-18-17,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-02-15,3,3,NA,Complete
-18-17,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-02-17,3,3,NA,Complete
-18-25,Bureau of Land Management - Carson City District,39.134479,-119.510212,Pile Burn,2018-02-23,17,17,NA,Complete
-18-21,USDA Forest Service Jarbidge Ranger District,41.8505,-115.453083,Pile Burn,2018-02-26,50,50,NA,Complete
-18-29,City of Winnemucca,39.185638,-119.815697,Pile Burn,2018-02-27,35,35,NA,Complete
-APCP170137,USDA FS Humboldt-Toiyabe,39.40274,-119.863503,Pile Burn,2018-12-10,1,1,NA,Complete
-18-17,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-02-28,5,5,NA,Complete
-18-17,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-02-14,5,5,NA,Complete
-18-17,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-03-01,3,3,NA,Complete
-18-25,Bureau of Land Management - Carson City District,39.134479,-119.510212,Pile Burn,2018-03-02,17,17,NA,Complete
-18-05,Bureau of Land Management - Battle Mountain Dist.,39.502702,-115.953465,Pile Burn,2018-03-02,50,50,NA,Complete
-18-17,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2018-03-08,1,1,NA,Complete
-18-25,Bureau of Land Management - Carson City District,39.134479,-119.510212,Pile Burn,2018-03-06,67,67,NA,Complete
-APCP170155,North Lake Tahoe Fire Protection District,39.253887,-119.916218,Pile Burn,2018-11-26,30,30,NA,Complete
-18-25,Bureau of Land Management - Carson City District,39.134479,-119.510212,Pile Burn,2018-02-28,17,17,NA,Complete
-APCP180161,USDA FS Lake Tahoe Basin Management Unit,39.262609,-119.934344,Pile Burn,2020-01-20,NA,NA,NA,Complete
-19-99,USDA Forest Service Ely Ranger District,39.638151,-114.722704,Pile Burn,2019-12-05,40,40,NA,Complete
-APCP180162,USDA FS Lake Tahoe Basin Management Unit,39.167154,-119.926242,Pile Burn,2020-01-09,129,129,NA,Complete
-20-22,Tahoe Douglas Fire District,38.99732,-119.944465,Pile Burn,2020-01-09,1,1,NA,Complete
-20-23,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2020-01-10,1,1,NA,Complete
-19-94,City of Ely Landfill,39.2853,-114.8687,Pile Burn,2020-01-13,1,1,NA,Complete
-20-06,Bureau of Land Management - Battle Mountain Dist.,38.532053,-117.067246,Pile Burn,2020-01-14,20,20,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098573,-119.929657,Pile Burn,2020-01-14,3,3,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098573,-119.929657,Pile Burn,2020-01-15,2,2,NA,Complete
-APCP190047,Bureau of Land Management - Applegate Field Office,41.962569,-119.706219,Pile Burn,2020-01-08,1000,1000,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098573,-119.929657,Pile Burn,2020-01-17,7,7,NA,Complete
-20-22,Tahoe Douglas Fire District,38.99732,-119.944465,Pile Burn,2020-01-07,1,1,NA,Complete
-APCP190162,NA,39.262207,-119.929631,Pile Burn,2020-01-20,4,4,NA,Complete
-APCP190157,North Lake Tahoe Fire Protection District,39.262884,-119.989244,Pile Burn,2020-01-20,20,20,NA,Complete
-20-34,Hawthorne Army Depot,38.547034,-118.653925,Pile Burn,2020-01-20,1,1,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098573,-119.929657,Pile Burn,2020-01-21,7,7,NA,Complete
-20-25,Carson City Fire Department,39.185638,-119.815697,Pile Burn,2020-01-22,35,35,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098573,-119.929657,Pile Burn,2020-01-22,5,5,NA,Complete
-20-10,Naval Air Station Fallon,39.1554726,-118.7364324,Pile Burn,2020-01-22,2,2,NA,Complete
-20-11,Naval Air Station Fallon,39.2343925,-118.284953,Pile Burn,2020-01-22,2,2,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098573,-119.929657,Pile Burn,2020-01-16,10,10,NA,Complete
-19-85,Tahoe Douglas Fire District,38.97367,-119.8988,Pile Burn,2019-12-13,5,5,NA,Complete
-19-29,Storey County Fire Protection District,39.388407,-119.63112,Pile Burn,2019-12-05,20,20,NA,Complete
-19-85,Tahoe Douglas Fire District,39.973676,-119.898806,Pile Burn,2019-12-06,10,10,NA,Complete
-18-79,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2018-12-29,2,2,NA,Complete
-19-99,USDA Forest Service Ely Ranger District,39.63815,-114.7227,Pile Burn,2019-12-08,40,40,NA,Complete
-19-63,Nevada Division of Forestry,39.12486,-119.831,Pile Burn,2019-03-25,11,11,NA,Complete
-19-10,Storey County Fire Protection District,39.375,-119.6573,Pile Burn,2019-12-09,30,30,NA,Complete
-19-99,USDA Forest Service Ely Ranger District,39.63815,-114.7227,Pile Burn,2019-12-09,20,20,NA,Complete
-19-99,USDA Forest Service Ely Ranger District,39.63815,-114.7227,Pile Burn,2019-12-11,40,40,NA,Complete
-20-22,Tahoe Douglas Fire District,38.99732,-119.944465,Pile Burn,2020-01-08,1,1,NA,Complete
-19-85,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2019-12-12,5,5,NA,Complete
-20-47,National Park Service - Lake Mead NRA,39.015442,-114.234097,Pile Burn,2020-01-27,14,14,NA,Complete
-19-10,Storey County Fire Protection District,39.34972,-119.6469,Pile Burn,2019-12-16,20,20,NA,Complete
-19-104,Carson City Fire Department,39.185638,-119.815697,Pile Burn,2019-12-16,35,35,NA,Complete
-19-85,Tahoe Douglas Fire District,38.97367,-119.8988,Pile Burn,2019-12-17,5,5,NA,Complete
-19-89,USDA Forest Service Carson Ranger District,38.97367,-119.8988,Pile Burn,2019-12-19,3,3,NA,Complete
-19-103,Bureau of Land Management - Ely District Office,39.674504,-114.145304,Pile Burn,2019-12-19,27,27,NA,Complete
-APCP190157,North Lake Tahoe Fire Protection District,39.262884,-119.989244,Pile Burn,2020-01-06,38,38,NA,Complete
-APCP190162,NA,39.262207,-119.929631,Pile Burn,2020-01-06,10,10,NA,Complete
-APCP180161,USDA FS Lake Tahoe Basin Management Unit,39.262609,-119.934344,Pile Burn,2020-01-06,NA,NA,NA,Complete
-19-85,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2019-12-11,3,3,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2020-03-05,5,5,NA,Complete
-20-17,Naval Air Station Fallon,39.450837,-118.709578,Pile Burn,2020-02-22,40,40,NA,Complete
-APCP190157,North Lake Tahoe Fire Protection District,39.262884,-119.989244,Pile Burn,2020-02-18,20,20,NA,Complete
-APCP180161,USDA FS Lake Tahoe Basin Management Unit,39.262604,-119.934344,Pile Burn,2020-02-18,547,547,NA,Complete
-20-17,Naval Air Station Fallon,39.450837,-118.709578,Pile Burn,2020-02-24,40,40,NA,Complete
-APCP190047,Bureau of Land Management - Applegate Field Office,41.962569,-119.706219,Pile Burn,2020-02-20,900,900,NA,Complete
-20-28,USDA FS Lake Tahoe Basin Management Unit,39.087346,-119.896815,Pile Burn,2020-03-01,10,10,NA,Complete
-20-32,USDA Forest Service Carson Ranger District,38.996724,-119.854657,Pile Burn,2020-03-02,5,5,NA,Complete
-19-91,USDA FS Lake Tahoe Basin Management Unit,39.101769,-119.900199,Pile Burn,2020-03-03,10,10,NA,Complete
-20-06,Bureau of Land Management - Battle Mountain Dist.,38.532053,-117.067246,Pile Burn,2020-01-23,150,150,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2020-03-04,5,5,NA,Complete
-19-98,USDA Forest Service Ely Ranger District,38.11621,-115.6226,Pile Burn,2020-02-10,200,200,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2020-03-06,5,5,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2020-03-10,4,4,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2020-03-11,4,4,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2020-03-12,5,5,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2020-03-13,2,2,NA,Complete
-20-57,Carson City Fire Department,39.156833,-119.814597,Pile Burn,2020-03-17,7,7,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098573,-119.929657,Pile Burn,2020-03-18,5,5,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098573,-119.292657,Pile Burn,2020-03-19,3,3,NA,Complete
-20-54,Nevada Division of Forestry,38.396636,-114.351043,Pile Burn,2020-03-03,4,4,NA,Complete
-APCP180161,USDA FS Lake Tahoe Basin Management Unit,39.262604,-119.934344,Pile Burn,2020-02-03,547,547,NA,Complete
-19-99,USDA Forest Service Ely Ranger District,39.63815,-114.7227,Pile Burn,2019-12-07,40,40,NA,Complete
-20-32,USDA Forest Service Carson Ranger District,38.996724,-119.854657,Pile Burn,2020-01-27,68,68,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2020-01-28,1,1,NA,Complete
-20-47,National Park Service - Lake Mead NRA,39.015442,-114.234097,Pile Burn,2020-01-28,12,12,NA,Complete
-20-46,National Park Service - Lake Mead NRA,39.004386,-114.2314,Pile Burn,2020-01-28,15,15,NA,Complete
-20-45,National Park Service - Lake Mead NRA,38.960219,-114.157758,Pile Burn,2020-01-29,15,15,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2020-01-29,1,1,NA,Complete
-20-45,National Park Service - Lake Mead NRA,38.960219,-114.157758,Pile Burn,2020-01-29,25,25,NA,Complete
-19-98,USDA Forest Service Ely Ranger District,38.11621,-115.6226,Pile Burn,2020-02-12,200,200,NA,Complete
-20-23,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2020-01-31,2,2,NA,Complete
-19-98,USDA Forest Service Ely Ranger District,38.11621,-115.6226,Pile Burn,2020-02-11,200,200,NA,Complete
-APCP190162,NA,39.260207,-119.929631,Pile Burn,2020-02-03,129,129,NA,Complete
-APCP190157,North Lake Tahoe Fire Protection District,39.262884,-119.989244,Pile Burn,2020-02-03,20,20,NA,Complete
-19-98,USDA Forest Service Ely Ranger District,38.11621,-115.6226,Pile Burn,2020-02-04,20,20,NA,Complete
-20-28,USDA FS Lake Tahoe Basin Management Unit,39.087346,-119.896815,Pile Burn,2020-02-05,7,7,NA,Complete
-19-98,USDA Forest Service Ely Ranger District,38.11621,-115.6226,Pile Burn,2020-02-05,20,20,NA,Complete
-20-28,USDA FS Lake Tahoe Basin Management Unit,39.087346,-119.896815,Pile Burn,2020-02-06,7,7,NA,Complete
-19-98,USDA Forest Service Ely Ranger District,38.11621,-115.6226,Pile Burn,2020-02-07,40,40,NA,Complete
-20-28,USDA FS Lake Tahoe Basin Management Unit,39.087346,-119.896815,Pile Burn,2020-02-10,10,10,NA,Complete
-20-22,Tahoe Douglas Fire District,38.99732,-119.944465,Pile Burn,2020-01-23,1,1,NA,Complete
-20-24,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2020-01-30,1,1,NA,Complete
-19-26,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2019-04-02,5,5,NA,Complete
-19-61ext,Cyanco,40.943058,-117.862602,Pile Burn,2019-03-18,40,40,NA,Complete
-19-47,USDA Forest Service Carson Ranger District,39.11505,-119.8855,Pile Burn,2019-03-18,2,2,NA,Complete
-19-47,USDA Forest Service Carson Ranger District,39.11505,-119.8855,Pile Burn,2019-03-19,3,3,NA,Complete
-19-47,USDA Forest Service Carson Ranger District,39.11505,-119.8855,Pile Burn,2019-03-20,3,3,NA,Complete
-19-28,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2019-03-20,50,50,NA,Complete
-19-61ext,Cyanco,40.943058,-117.862602,Pile Burn,2019-03-21,2,2,NA,Complete
-19-28,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2019-03-21,50,50,NA,Complete
-19-63,Nevada Division of Forestry,39.12486,-119.831,Pile Burn,2019-04-16,5,5,NA,Complete
-19-61ext,Cyanco,40.943058,-117.862602,Pile Burn,2019-03-26,2,2,NA,Complete
-19-53,Nevada Division of Forestry,38.35967,-114.4155,Pile Burn,2019-03-07,4,4,NA,Complete
-19-47,USDA Forest Service Carson Ranger District,39.115048,-119.8855,Pile Burn,2019-04-08,10,10,NA,Complete
-19-71,USDA FS Lake Tahoe Basin Management Unit,38.96575,-119.9209,Pile Burn,2019-04-09,1.4,1.4,NA,Complete
-APCP190029,USDA Forest Service Carson Ranger District,39.387058,-119.865599,Pile Burn,2019-12-09,177,177,NA,Complete
-19-65,National Park Service - Lake Mead NRA,38.98916111,-114.2405556,Pile Burn,2019-04-09,15,15,NA,Complete
-19-99,USDA Forest Service Ely Ranger District,39.638151,-114.722704,Pile Burn,2019-12-06,50,50,NA,Complete
-19-47,USDA Forest Service Carson Ranger District,39.115048,-119.8855,Pile Burn,2019-04-11,10,10,NA,Complete
-19-63,Nevada Division of Forestry,39.12486,-119.831,Pile Burn,2019-04-11,2,2,NA,Complete
-19-28,Tahoe Douglas Fire District,39.098573,-119.929657,Pile Burn,2019-04-11,2,2,NA,Complete
-19-64,Nevada Division of Forestry,39.10743,-119.8534,Pile Burn,2019-03-25,20,20,NA,Complete
-19-44,USDA Forest Service Ely Ranger District,39.638151,-114.722704,Pile Burn,2019-02-06,20,20,NA,Complete
-19-24,Carson City Fire Department,39.185638,-119.825697,Pile Burn,2019-01-02,10,10,NA,Complete
-19-26,Tahoe Douglas Fire District,38.99737,-119.944465,Pile Burn,2019-01-09,75,75,NA,Complete
-19-26,Tahoe Douglas Fire District,38.99737,-119.944465,Pile Burn,2019-01-10,5,5,NA,Complete
-19-26,Tahoe Douglas Fire District,38.99737,-119.944465,Pile Burn,2019-01-11,5,5,NA,Complete
-19-26,Tahoe Douglas Fire District,38.99737,-119.944465,Pile Burn,2019-01-12,3,3,NA,Complete
-19-26,Tahoe Douglas Fire District,38.99737,-119.944465,Pile Burn,2019-01-16,5,5,NA,Complete
-19-24,Carson City Fire Department,39.185638,-119.825697,Pile Burn,2019-01-22,10,10,NA,Complete
-APCP170165,Bureau of Land Management - Applegate Field Office,41.930902,-119.676599,Pile Burn,2019-02-04,240,240,NA,Complete
-19-61,Cyanco,40.944592,-117.860967,Pile Burn,2019-03-13,40,40,NA,Complete
-APCP170137,USDA FS Humboldt-Toiyabe,39.40274,-119.863503,Pile Burn,2019-02-05,NA,NA,NA,Complete
-19-53,Nevada Division of Forestry,38.35967,-114.4155,Pile Burn,2019-03-11,5,5,NA,Complete
-19-03,Bureau of Land Management - Battle Mountain Dist.,39.951589,-117.589149,Pile Burn,2019-02-06,25,25,NA,Complete
-19-44,USDA Forest Service Ely Ranger District,39.638151,-114.722704,Pile Burn,2019-02-07,20,20,NA,Complete
-19-44,USDA Forest Service Ely Ranger District,39.638151,-114.722704,Pile Burn,2019-02-08,30,30,NA,Complete
-19-44,USDA Forest Service Ely Ranger District,39.638151,-114.722704,Pile Burn,2019-02-12,30,30,NA,Complete
-19-53,Nevada Division of Forestry,38.35967,-114.4155,Pile Burn,2019-02-26,3,3,NA,Complete
-19-53,Nevada Division of Forestry,38.35967,-114.4155,Pile Burn,2019-02-27,3,3,NA,Complete
-19-53,Nevada Division of Forestry,38.35967,-114.4155,Pile Burn,2019-03-04,3,3,NA,Complete
-19-18,Naval Air Station Fallon,39.450837,-118.709578,Pile Burn,2019-04-09,20,20,NA,Complete
-19-43,Bureau of Land Management - Ely District Office,39.135317,-114.841116,Pile Burn,2019-02-06,50,50,NA,Complete
-APCP190157,North Lake Tahoe Fire Protection District,39.262884,-119.989244,Pile Burn,2019-11-11,125,125,NA,Complete
-19-64,Nevada Division of Forestry,39.10743,-119.8534,Pile Burn,2019-04-16,5,5,NA,Complete
-19-26,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2019-05-06,1,1,NA,Complete
-19-76,Nevada Division of Forestry,39.108217,-119.912225,Pile Burn,2019-05-08,348,348,NA,Complete
-19-28,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2019-05-10,1,1,NA,Complete
-19-24,Carson City Fire Department,39.185638,-119.815697,Pile Burn,2019-05-22,35,35,NA,Complete
-19-27,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2019-05-22,5,5,NA,Complete
-19-24,Carson City Fire Department,39.185638,-119.815697,Pile Burn,2019-05-28,35,35,NA,Complete
-19-85,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2019-09-25,1,1,NA,Complete
-19-28,Tahoe Douglas Fire District,39.098573,-119.929657,Pile Burn,2019-04-24,2,2,NA,Complete
-APCP190157,North Lake Tahoe Fire Protection District,39.262884,-119.989244,Pile Burn,2019-10-28,125,125,NA,Complete
-19-26,Tahoe Douglas Fire District,38.99737,-119.944465,Pile Burn,2019-05-04,1,1,NA,Complete
-19-85,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2019-11-21,2,2,NA,Complete
-19-85,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2019-11-22,2,2,NA,Complete
-19-86,Tahoe Douglas Fire District,39.098572,-119.929657,Pile Burn,2019-11-26,2,2,NA,Complete
-19-104,Carson City Fire Department,39.185638,-119.815697,Pile Burn,2019-12-03,20,20,NA,Complete
-APCP190029,USDA Forest Service Carson Ranger District,39.387058,-119.865599,Pile Burn,2019-12-02,177,177,NA,Complete
-APCP190047,Bureau of Land Management - Applegate Field Office,41.962569,-119.706219,Pile Burn,2019-12-04,150,150,NA,Complete
-APCP190157,North Lake Tahoe Fire Protection District,39.262884,-119.989244,Pile Burn,2019-12-02,75,75,NA,Complete
-19-85,Tahoe Douglas Fire District,38.973676,-119.898806,Pile Burn,2019-12-05,4,4,NA,Complete
-APCP170165,Bureau of Land Management - Applegate Field Office,41.930902,-119.676599,Pile Burn,2019-09-30,400,400,NA,Complete
-19-63,Nevada Division of Forestry,39.12486,-119.831,Pile Burn,2019-04-17,3,3,NA,Complete
-19-47,USDA Forest Service Carson Ranger District,39.115048,-119.8855,Pile Burn,2019-04-22,10,10,NA,Complete
-19-28,Tahoe Douglas Fire District,39.098573,-119.929657,Pile Burn,2019-04-18,2,2,NA,Complete
-19-28,Tahoe Douglas Fire District,39.098573,-119.929657,Pile Burn,2019-04-17,2,2,NA,Complete
-19-67,City of Winnemucca,39.10743,-119.8534,Pile Burn,2019-04-17,2,2,NA,Complete
-18-38,Naval Air Station Fallon,39.412537,-118.726074,Pile Burn,2018-04-07,NA,NA,NA,Complete
-20-36,Hawthorne Army Depot,38.547034,-118.653925,Pile Burn,2020-01-20,NA,NA,NA,Complete
-19-73,Nevada Department of Transportation - Winnemucca,40.736982,-118.02908,Pile Burn,2019-04-15,NA,NA,NA,Complete
-19-31,Nevada Department of Transportation - Winnemucca,41.698105,-118.502442,Pile Burn,2019-04-16,NA,NA,NA,Complete
-19-18,Naval Air Station Fallon,39.450837,-118.709578,Pile Burn,2019-04-09,NA,NA,NA,Complete
-17-30,Naval Air Station Fallon,39.42047,-118.724216,Pile Burn,2018-02-22,NA,NA,NA,Complete
-19-18,Naval Air Station Fallon,39.450837,-118.709578,Pile Burn,2019-04-27,NA,NA,NA,Complete
-19-18,Naval Air Station Fallon,39.450837,-118.709578,Pile Burn,2019-11-19,NA,NA,NA,Complete
-18-56,Hawthorne Army Depot,38.547034,-118.653925,Pile Burn,2018-04-09,NA,NA,NA,Complete
-20-62,Nevada Department of Transportation - Winnemucca,40.687148,-118.057502,Pile Burn,2020-03-02,NA,NA,NA,Complete
-19-34,Hawthorne Army Depot,38.547034,-118.653925,Pile Burn,2019-02-07,NA,NA,NA,Complete
-19-34,Hawthorne Army Depot,38.547034,-118.653925,Pile Burn,2019-04-17,NA,NA,NA,Complete
-17-30,Naval Air Station Fallon,39.42047,-118.724216,Pile Burn,2018-02-26,NA,NA,NA,Complete
-20-17,Naval Air Station Fallon,39.450837,-118.709578,Pile Burn,2020-04-01,NA,NA,NA,Complete
-19-34,Hawthorne Army Depot,38.547034,-118.653925,Pile Burn,2019-04-16,NA,NA,NA,Complete
-20-34,Hawthorne Army Depot,38.547034,-118.653925,Pile Burn,2020-01-27,NA,NA,NA,Complete
-17-30,Naval Air Station Fallon,39.42047,-118.724216,Pile Burn,2018-01-22,NA,NA,NA,Complete
-19-31,Nevada Department of Transportation - Winnemucca,41.698105,-118.502442,Pile Burn,2019-04-22,NA,NA,NA,Complete
-19-31,Nevada Department of Transportation - Winnemucca,41.698105,-118.502442,Pile Burn,2019-04-23,NA,NA,NA,Complete
-17-30,Naval Air Station Fallon,39.42047,-118.724216,Pile Burn,2018-01-18,NA,NA,NA,Complete
-19-18,Naval Air Station Fallon,39.450837,-118.709578,Pile Burn,2019-03-30,NA,NA,NA,Complete
-19-18,Naval Air Station Fallon,39.450837,-118.709578,Pile Burn,2019-03-24,NA,NA,NA,Complete
-19-04,Pershing County Landfill,40.184005,-118.495257,Pile Burn,2019-10-23,NA,NA,NA,Complete
-19-18,Naval Air Station Fallon,39.450837,-118.709578,Pile Burn,2019-04-22,NA,NA,NA,Complete
-17-30,Naval Air Station Fallon,39.42047,-118.898806,Pile Burn,2018-02-05,NA,NA,NA,Complete
-19-31,Nevada Department of Transportation - Winnemucca,41.698105,-118.502442,Pile Burn,2019-04-02,NA,NA,NA,Complete
-19-31,Nevada Department of Transportation - Winnemucca,41.698105,-118.502442,Pile Burn,2019-04-04,NA,NA,NA,Complete
-18-38,Naval Air Station Fallon,39.412537,-118.726074,Pile Burn,2018-09-06,NA,NA,NA,Complete
-19-31,Nevada Department of Transportation - Winnemucca,41.698105,-118.502442,Pile Burn,2019-04-09,NA,NA,NA,Complete
-17-30,Naval Air Station Fallon,39.42047,-118.724216,Pile Burn,2018-03-12,NA,NA,NA,Complete
-20-59,Nevada Department of Transportation - Winnemucca,41.989297,-118.635371,Pile Burn,2020-02-20,NA,NA,NA,Complete
-18-37,Naval Air Station Fallon,39.450837,-118.709578,Pile Burn,2018-05-10,NA,NA,NA,Complete
-17-30,Naval Air Station Fallon,39.42047,-118.724216,Pile Burn,2018-01-29,NA,NA,NA,Complete
+SOURCE_ID,DATE,COMPLETED_ACRES,PILE_VOLUME,BURNTYPE_REPORTED,ENTITY_REQUESTING,LAT_PERMIT,LON_PERMIT
+2021_0036,2021-01-11,NA,NA,Pile Burn,USDA Forest Service Jarbidge Ranger District,40.068,-115.665306
+2021_0036,2021-02-01,NA,NA,Pile Burn,USDA Forest Service Jarbidge Ranger District,40.068,-115.665306
+2021_0037,2021-04-14,NA,NA,Pile Burn,USDA Forest Service Humboldt-Toiyabe NF,41.765806,-115.701485
+2022_0038,2022-01-24,NA,NA,Pile Burn,USDA Forest Service Humboldt-Toiyabe NF,41.877891,-115.246235
+2022_0099,2022-05-05,NA,NA,Pile Burn,McEwen Mining Nevada Inc,39.766257,-116.32828
+2022_0099,2022-05-06,NA,NA,Pile Burn,McEwen Mining Nevada Inc,39.766257,-116.32828
+2023_0053,2023-03-30,NA,NA,Pile Burn,Tahoe Douglas Fire Protection District,38.974132,-119.888112
+2021_0067,2021-02-11,NA,NA,Pile Burn,LTBMU,39.080467,-119.894362
+2021_0066,2021-02-11,NA,NA,Pile Burn,LTBMU,39.081667,-119.889953
+2021_0032,2021-02-08,NA,NA,Pile Burn,USDA Forest Service Carson Ranger District,38.9967,-119.855
+2022_0015,2022-02-01,NA,NA,Pile Burn,USDA Forest Service Carson Ranger District,39.1036,-119.883
+2021_0042,2021-03-15,NA,NA,Broadcast Burn,USDA Forest Service Humboldt-Toiyabe NF,40.693026,-115.476428
+2021_0042,2021-04-13,NA,NA,Broadcast Burn,USDA Forest Service Humboldt-Toiyabe NF,40.693026,-115.476428
+2021_0104,2021-03-10,NA,NA,Broadcast Burn,Bureau of Land Management,38.575637,-115.637831
+2023_0030,2023-01-24,NA,NA,Pile Burn,USDA Forest Service Carson Ranger District,38.9967,-119.855
+2023_0030,2023-01-30,NA,NA,Pile Burn,USDA Forest Service Carson Ranger District,38.9967,-119.855
+2022_0015,2022-03-08,NA,NA,Pile Burn,USDA Forest Service Carson Ranger District,39.1036,-119.883
+2021_0031,2021-02-02,NA,NA,Pile Burn,Us Forest Service,38.546087,-119.215236
+2022_0015,2022-01-31,NA,NA,Pile Burn,USDA Forest Service Carson Ranger District,39.1036,-119.883
+2021_0032,2021-02-04,NA,NA,Pile Burn,USDA Forest Service Carson Ranger District,38.9967,-119.855
+2021_0032,2021-02-05,NA,NA,Pile Burn,USDA Forest Service Carson Ranger District,38.9967,-119.855
+2022_0029,2022-01-06,NA,NA,Pile Burn,Bureau of Land Management,39.629194,-116.06885
+2022_0032,2022-01-06,NA,NA,Pile Burn,Bureau of Land Management,39.896333,-116.130021
+2023_0030,2023-01-25,NA,NA,Pile Burn,USDA Forest Service Carson Ranger District,38.9967,-119.855
+2022_0042,2022-01-06,NA,NA,Pile Burn,Bureau of Land Management,39.716847,-116.11531600000001
+2021_0031,2021-02-08,NA,NA,Pile Burn,Us Forest Service,38.546087,-119.215236
+2022_0015,2022-03-07,NA,NA,Pile Burn,USDA Forest Service Carson Ranger District,39.1036,-119.883
+2020-0034,2020-12-17,0.042,NA,Broadcast Burn,Hawthorne Army Depot,38.547,-118.654
+2020-0036,2020-03-31,1,NA,Broadcast Burn,Hawthorne Army Depot,38.547,-118.654
+2022_0033,2022-01-05,NA,NA,Pile Burn,BLM Battle Mountain District,40.247623,-117.005937
+2021_0031,2021-02-01,NA,NA,Pile Burn,Us Forest Service,38.64599,-119.280906
+2023_0030,2023-01-31,NA,NA,Pile Burn,USDA Forest Service Carson Ranger District,38.9967,-119.855
+2023_0030,2023-02-06,NA,NA,Pile Burn,USDA Forest Service Carson Ranger District,38.9967,-119.855
+2023_0030,2023-04-10,NA,NA,Pile Burn,USDA Forest Service Carson Ranger District,38.9967,-119.855
+2021_0065,2021-02-22,NA,NA,Pile Burn,LTBMU,39.165908,-119.92709
+2022_0004,2022-02-14,NA,NA,Pile Burn,USFS LTBMU,39.141034,-119.933351
+2022_0013,2022-02-14,NA,NA,Pile Burn,USFS LTBMU,39.141034,-119.933351
+2022_0014,2022-02-07,NA,NA,Pile Burn,USFS LTBMU,39.135509,-119.940226
+2022_0049,2022-02-14,NA,NA,Pile Burn,USFS LTBMU,39.142703,-119.925225
+2021_0001,2021-02-23,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2021_0001,2021-02-24,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2021_0001,2021-02-26,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2021_0001,2021-03-02,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2021_0001,2021-03-03,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2021_0001,2021-03-04,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2021_0001,2021-03-05,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2021_0001,2021-03-08,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2021_0001,2021-03-09,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2021_0001,2021-03-10,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2021_0001,2021-03-11,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2021_0001,2021-03-12,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2021_0001,2021-03-15,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2021_0001,2021-03-16,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2021_0001,2021-03-17,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2021_0001,2021-03-18,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2021_0001,2021-03-19,1,NA,Broadcast Burn,Other entity,39.125417,-119.127931
+2022_0078,2022-12-08,NA,NA,Pile Burn,USDA Forest Service Lake Tahoe Basin Management Unit,39.086696,-119.911782
+2022_0030,2022-01-05,NA,NA,Pile Burn,Bureau of Land Management,39.772278,-117.225632
+2020_0085,2020-11-30,NA,NA,Pile Burn,USDA Forest Service Humboldt-Toiyabe NF,41.877891,-115.246235
+2020_0085,2020-12-12,NA,NA,Pile Burn,USDA Forest Service Humboldt-Toiyabe NF,41.877891,-115.246235
+2020_0086,2020-11-30,NA,NA,Pile Burn,USDA Forest Service Humboldt-Toiyabe NF,41.840964,-115.457417
+2020_0086,2020-12-12,NA,NA,Pile Burn,USDA Forest Service Humboldt-Toiyabe NF,41.840964,-115.457417
+2020_0089,2020-12-16,NA,NA,Pile Burn,USDA Forest Service Humboldt-Toiyabe NF,41.02598,-115.085133
+2021_0014,2021-01-27,NA,NA,Pile Burn,USDA Forest Service Ely Ranger District,38.1162,-115.656
+2023_0073,2023-04-25,NA,NA,Pile Burn,BLM - Ely District,39.926811,-114.994031
+2023_0073,2023-04-21,NA,NA,Pile Burn,BLM - Ely District,39.760755,-115.587226
+2023_0073,2023-04-21,NA,NA,Pile Burn,BLM - Ely District,39.926811,-114.994031
+2022_0062,2022-02-09,0.25,NA,Pile Burn,City of Ely Landfill,39.269674,-114.872412
+2023_0053,2023-02-15,0.75,NA,Pile Burn,Tahoe Douglas Fire Protection District,38.974132,-119.888112
+2020_0073,2020-05-28,0.115,NA,Pile Burn,"Nevada Copper, Inc",38.937648,-119.043656
+2021_0135,2021-12-02,1,NA,Pile Burn,Tahoe Douglas Fire Protection District,39.030026,-119.94545
+2020_0073,2020-05-28,NA,NA,Pile Burn,"Nevada Copper, Inc",38.937648,-119.043656
+2020_0074,2020-06-08,NA,NA,Pile Burn,Cyanco,40.940868,-117.861248
+2020_0074,2020-06-10,NA,NA,Pile Burn,Cyanco,40.940868,-117.861248
+2020-0044,2020-07-15,NA,NA,Pile Burn,Premier Magnesia,38.8724,-117.905
+2021_0010,2021-01-05,NA,NA,Pile Burn,Storey County Fire Protection District,39.38892,-119.631835
+2023_0069,2023-04-05,NA,NA,Pile Burn,National Park Service Lake Mead NRA,38.99464,-114.210775
+2021_0058,2021-02-03,10,NA,Pile Burn,USDA Forest Service Lake Tahoe Basin Management Unit,39.097679,-119.90181
+2021_0058,2021-04-08,10,NA,Pile Burn,USDA Forest Service Lake Tahoe Basin Management Unit,39.097679,-119.90181
+2022_0016,2022-01-06,10,NA,Pile Burn,USDA Forest Service Carson Ranger District,38.9967,-119.855
+2022_0118,2022-12-01,10,NA,Pile Burn,Tahoe Douglas Fire Protection District,38.974132,-119.888112
+2023_0012,2023-04-19,10,NA,Pile Burn,USDA Forest Service Lake Tahoe Basin Management Unit,39.086696,-119.911782
+2021_0034,2021-03-23,10,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.106169,-119.848002
+2022_0111,2022-11-07,10,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.105399,-119.903719
+2022_0111,2022-12-06,10,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.105399,-119.903719
+2022_0112,2022-11-15,10,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.125438,-119.835718
+2022_0112,2022-12-06,10,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.106169,-119.848002
+2023_0027,2023-01-03,10,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.105399,-119.903719
+2021_0035,2021-04-06,10,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311
+2022_0002,2022-02-09,10,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311
+2022_0002,2022-02-16,10,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311
+2022_0003,2022-01-05,10,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.113332,-119.822542
+2022_0003,2022-01-10,10,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.113332,-119.822542
+2022_0003,2022-02-01,10,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.113332,-119.822542
+2022_0002,2022-01-12,10,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311
+2020_0094,2020-11-10,NA,2700,Broadcast Burn,Storey County Fire District,39.308483,-119.634268
+2022_0054,2022-12-28,NA,NA,Broadcast Burn,Hawthorne Army Depot,38.547,-118.654
+2021_0035,2021-03-16,10,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311
+2022_0063,2022-02-08,0.05,NA,Pile Burn,NGM - Twin Creeks,41.277107,-117.136942
+2022_0063,2022-02-08,0.05,NA,Pile Burn,NGM - Twin Creeks,41.221601,-117.167511
+2020-0021,2020-04-23,NA,NA,Pile Burn,Naval Air Station Fallon,39.4094,-118.711
+2021_0135,2021-10-28,NA,NA,Pile Burn,Tahoe Douglas Fire Protection District,39.030026,-119.94545
+2022_0047,2022-02-03,NA,NA,Pile Burn,Storey County Fire Protection District,39.561907,-119.514859
+2021_0014,2021-01-06,100,NA,Pile Burn,USDA Forest Service Ely Ranger District,38.1162,-115.656
+2021_0014,2021-01-31,100,NA,Pile Burn,USDA Forest Service Ely Ranger District,38.1162,-115.656
+2022_0027,2022-12-22,NA,2700,Pile Burn,Pershing County Landfill,40.453481,-118.10425
+2020-0015,2020-05-04,NA,NA,Pile Burn,Naval Air Station Fallon,39.424,-118.716
+2020-0065,2020-06-04,NA,NA,Pile Burn,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.254501,-117.166048
+2021_0064,2021-02-02,NA,NA,Pile Burn,Carson City Fire Department,39.127968,-119.779361
+2020_0097,2020-12-17,NA,NA,Pile Burn,BLM - Ely District,38.875383,-114.711387
+2020-0042,2020-11-11,NA,NA,Pile Burn,Storey County Fire Protection District,39.3884,-119.631
+2020-0042,2020-11-23,NA,NA,Pile Burn,Storey County Fire Protection District,39.3884,-119.631
+2020-0042,2020-11-30,NA,NA,Pile Burn,Storey County Fire Protection District,39.3884,-119.631
+2020-0042,2020-12-14,NA,NA,Pile Burn,Storey County Fire Protection District,39.3884,-119.631
+2021_0113,2021-03-27,NA,NA,Pile Burn,Nevada Gold Mines LLC,40.94872,-116.37395
+2022_0034,2022-08-11,NA,NA,Pile Burn,Eureka County Landfill,39.523833,-115.957744
+2020-0042,2020-03-26,NA,NA,Pile Burn,Storey County Fire Protection District,39.3884,-119.631
+2021_0060,2021-01-26,134,NA,Pile Burn,BLM - Ely District,39.142557,-114.858096
+2021_0058,2021-01-12,15,NA,Pile Burn,USDA Forest Service Lake Tahoe Basin Management Unit,39.168717,-119.921427
+2021_0058,2021-01-20,15,NA,Pile Burn,USDA Forest Service Lake Tahoe Basin Management Unit,39.168717,-119.921427
+2021_0058,2021-02-17,15,NA,Pile Burn,USDA Forest Service Lake Tahoe Basin Management Unit,39.101466,-119.901111
+2023_0046,2023-02-09,160,NA,Broadcast Burn,"BLM-NV, Battle Mountain District",38.542753,-115.73265
+2021_0134,2021-12-21,15,NA,Pile Burn,Carson City Fire Department,39.122695,-119.778333
+2022_0028,2022-01-12,15,NA,Pile Burn,Carson City Fire Department,39.122695,-119.778333
+2021_0035,2021-01-06,2,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.109273,-119.882938
+2021_0110,2021-03-17,NA,NA,Firefighter Training,KG Mining (Bald Mountain) Inc,39.94291,-115.613766
+2021_0110,2021-03-22,NA,NA,Firefighter Training,KG Mining (Bald Mountain) Inc,39.94291,-115.613766
+2021_0135,2021-10-29,2,NA,Pile Burn,Tahoe Douglas Fire Protection District,39.030026,-119.94545
+2021_0114,2021-05-03,NA,NA,Firefighter Training,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.204113,-117.243502
+2021_0114,2021-05-17,NA,NA,Firefighter Training,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.204113,-117.243502
+2021_0114,2021-06-09,NA,NA,Firefighter Training,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.204113,-117.243502
+2022_0065,2022-02-09,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2021_0122,2021-06-10,NA,NA,Firefighter Training,East Fork Fire Protection District as host Agency,39.058304,-119.714664
+2022_0065,2022-02-10,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-02-14,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-02-15,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-02-16,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-02-17,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-02-21,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-02-23,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0056,2022-12-28,2.8,NA,Broadcast Burn,Hawthorne Army Depot,38.547,-118.654
+2022_0065,2022-02-24,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-02-25,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-02-28,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-03-01,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-03-02,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-03-07,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-03-08,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-03-14,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-03-15,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-03-17,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-03-21,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-03-23,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2022_0065,2022-03-24,2,NA,Pile Burn,NV Energy,39.125338,-119.131878
+2021_0035,2021-04-05,2,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.109176,-119.903482
+2020-0016,2020-08-01,NA,NA,Pile Burn,Naval Air Station Fallon,39.4094,-118.7
+2020-0020,2020-08-01,NA,NA,Pile Burn,Naval Air Station Fallon,39.4094,-118.7
+2022_0014,2022-01-31,20,NA,Pile Burn,USFS LTBMU,39.135509,-119.940226
+2023_0030,2023-04-06,20,NA,Pile Burn,USDA Forest Service Carson Ranger District,39.000127,-119.848229
+2022_0002,2022-03-29,20,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311
+2022_0111,2022-11-29,20,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.105399,-119.903719
+2022_0111,2022-12-13,20,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.105399,-119.903719
+2022_0002,2022-02-01,20,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311
+2021_0060,2021-01-30,20,NA,Pile Burn,BLM - Ely District,38.854885,-114.757937
+2021_0060,2021-01-26,20,NA,Pile Burn,BLM - Ely District,38.854885,-114.757937
+2021_0058,2021-03-02,20,NA,Pile Burn,USDA Forest Service Lake Tahoe Basin Management Unit,39.097679,-119.90181
+2021_0058,2021-02-24,20,NA,Pile Burn,USDA Forest Service Lake Tahoe Basin Management Unit,39.097679,-119.90181
+2021_0058,2021-01-19,20,NA,Pile Burn,USDA Forest Service Lake Tahoe Basin Management Unit,39.097679,-119.90181
+2022_0045,2022-02-02,NA,NA,Pile Burn,Storey County Fire Protection District,39.388634,-119.630278
+2022_0045,2022-01-19,NA,NA,Pile Burn,Storey County Fire Protection District,39.388634,-119.630278
+2022_0045,2022-11-07,NA,NA,Pile Burn,Storey County Fire Protection District,39.388634,-119.630278
+2022_0027,2022-03-11,NA,5400,Pile Burn,Pershing County Landfill,40.792624000000004,-117.756076
+2021_0060,2021-01-13,NA,NA,Pile Burn,BLM - Ely District,38.854885,-114.757937
+2022_0113,2022-10-26,NA,NA,Pile Burn,NGM - Twin Creeks,41.284702,-117.143348
+2021_0124,2021-08-19,NA,NA,Pile Burn,Premier Magnesia,38.871104,-117.905157
+2021_0034,2021-02-22,23,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.106169,-119.848002
+2022_0111,2022-12-27,5,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.109176,-119.903482
+2022_0122,2022-12-20,NA,NA,Pile Burn,Storey County Fire Protection District,39.345608,-119.639678
+2023_0056,2023-02-14,NA,NA,Pile Burn,Storey County Fire Protection District,39.308481,-119.634296
+2021_0061,2021-10-13,NA,25000,Pile Burn,Eureka County Landfill,39.523833,-115.957744
+2020_0077,2020-12-16,NA,25000,Pile Burn,Eureka County Landfill,39.523833,-115.957744
+2021_0143,2021-12-07,318,NA,Broadcast Burn,U.S. Fish and Wildlife Service,40.21836,-115.478238
+2020_0093,2020-12-15,NA,NA,Broadcast Burn,Tahoe Douglas Fire Protection District,39.097419,-119.934543
+2020-0030,2020-04-04,NA,25000,Pile Burn,Nevada Gold Mines LLC,40.5758,-116.226
+2020-0030,2020-12-04,NA,25000,Pile Burn,Nevada Gold Mines LLC,40.5758,-116.226
+2022_0118,2022-12-03,3,NA,Pile Burn,Tahoe Douglas Fire Protection District,38.974132,-119.888112
+2022_0045,2022-01-18,NA,NA,Pile Burn,Storey County Fire Protection District,39.388634,-119.630278
+2021_0058,2021-01-24,30,NA,Pile Burn,USDA Forest Service Lake Tahoe Basin Management Unit,39.168717,-119.921427
+2021_0058,2021-01-26,30,NA,Pile Burn,USDA Forest Service Lake Tahoe Basin Management Unit,39.168717,-119.921427
+2022_0002,2022-01-15,30,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311
+2022_0002,2022-01-25,30,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311
+2022_0127,2022-12-12,NA,NA,Pile Burn,Storey County Fire Protection District,39.35811,-119.660868
+2021_0036,2021-04-24,NA,NA,Pile Burn,USDA Forest Service Jarbidge Ranger District,40.068,-115.665306
+2022_0027,2022-12-15,NA,8100,Pile Burn,Pershing County Landfill,40.663504,-118.178188
+2022_0118,2022-11-17,4,NA,Pile Burn,Tahoe Douglas Fire Protection District,38.974132,-119.888112
+2021_0012,2021-01-26,NA,NA,Pile Burn,Storey County Fire Protection District,39.347516,-119.64624
+2021_0012,2021-02-23,NA,NA,Pile Burn,Storey County Fire Protection District,39.347516,-119.64624
+2021_0069,2021-02-17,NA,NA,Pile Burn,McEwen Mining Inc,39.775002,-116.320267
+2022_0118,2022-11-03,40,NA,Pile Burn,Tahoe Douglas Fire Protection District,38.974132,-119.888112
+2020-0020,2020-04-24,NA,NA,Pile Burn,Naval Air Station Fallon,39.4094,-118.7
+2020-0016,2020-10-07,NA,NA,Pile Burn,Naval Air Station Fallon,39.4094,-118.7
+2020-0020,2020-10-07,NA,NA,Pile Burn,Naval Air Station Fallon,39.4094,-118.7
+2020-0017,2020-03-13,5,NA,Pile Burn,Naval Air Station Fallon,39.4508,-118.71
+2021_0033,2021-01-20,5,NA,Pile Burn,USDA Forest Service Carson Ranger District,39.1036,-119.883
+2021_0058,2021-01-13,5,NA,Pile Burn,USDA Forest Service Lake Tahoe Basin Management Unit,39.101466,-119.901111
+2021_0135,2021-11-02,5,NA,Pile Burn,Tahoe Douglas Fire Protection District,39.030026,-119.94545
+2022_0029,2022-02-23,5,NA,Pile Burn,Bureau of Land Management,39.629194,-116.06885
+2022_0112,2022-11-15,5,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.125438,-119.835718
+2022_0118,2022-11-29,5,NA,Pile Burn,Tahoe Douglas Fire Protection District,38.974132,-119.888112
+2022_0118,2022-12-13,5,NA,Pile Burn,Tahoe Douglas Fire Protection District,38.974132,-119.888112
+2023_0012,2023-04-20,5,NA,Pile Burn,USDA Forest Service Lake Tahoe Basin Management Unit,39.086696,-119.911782
+2023_0023,2023-04-11,5,NA,Pile Burn,USFS LTBMU,39.141034,-119.933351
+2023_0023,2023-04-12,5,NA,Pile Burn,USFS LTBMU,39.141034,-119.933351
+2023_0030,2023-01-23,5,NA,Pile Burn,USDA Forest Service Carson Ranger District,38.9967,-119.855
+2020-0016,2020-09-12,NA,NA,Pile Burn,Naval Air Station Fallon,39.4094,-118.7
+2021_0119,2021-04-15,NA,NA,Pile Burn,Central Lyon County Fire Protection District,39.386111,-119.235185
+2020_0104,2020-12-29,NA,NA,Pile Burn,Carson City Fire Department,39.127968,-119.779361
+2020-0042,2020-12-23,NA,NA,Pile Burn,Storey County Fire Protection District,39.3884,-119.631
+2021_0010,2021-01-12,NA,NA,Pile Burn,Storey County Fire Protection District,39.38892,-119.631835
+2021_0010,2021-01-26,NA,NA,Pile Burn,Storey County Fire Protection District,39.38892,-119.631835
+2021_0010,2021-02-16,NA,NA,Pile Burn,Storey County Fire Protection District,39.38892,-119.631835
+2021_0010,2021-03-02,NA,NA,Pile Burn,Storey County Fire Protection District,39.38892,-119.631835
+2021_0010,2021-03-17,NA,NA,Pile Burn,Storey County Fire Protection District,39.38892,-119.631835
+2021_0010,2021-04-09,NA,NA,Pile Burn,Storey County Fire Protection District,39.38892,-119.631835
+2022_0027,2022-11-09,NA,13500,Pile Burn,Pershing County Landfill,40.182347,-118.544927
+2020-0042,2020-12-28,NA,NA,Pile Burn,Storey County Fire Protection District,39.3884,-119.631
+2021_0010,2021-01-06,NA,NA,Pile Burn,Storey County Fire Protection District,39.38892,-119.631835
+2021_0010,2021-01-11,NA,NA,Pile Burn,Storey County Fire Protection District,39.38892,-119.631835
+2021_0010,2021-01-20,NA,NA,Pile Burn,Storey County Fire Protection District,39.38892,-119.631835
+2021_0010,2021-02-01,NA,NA,Pile Burn,Storey County Fire Protection District,39.38892,-119.631835
+2021_0010,2021-02-08,NA,NA,Pile Burn,Storey County Fire Protection District,39.38892,-119.631835
+2021_0010,2021-02-22,NA,NA,Pile Burn,Storey County Fire Protection District,39.38892,-119.631835
+2022_0125,2022-11-28,NA,NA,Firefighter Training,NGM-Phoenix Mine,40.513782,-117.14037
+2021_0010,2021-03-23,NA,NA,Pile Burn,Storey County Fire Protection District,39.38892,-119.631835
+2021_0010,2021-03-30,NA,NA,Pile Burn,Storey County Fire Protection District,39.38892,-119.631835
+2021_0010,2021-04-06,NA,NA,Pile Burn,Storey County Fire Protection District,39.38892,-119.631835
+2021_0065,2021-02-08,55,NA,Pile Burn,LTBMU,39.165908,-119.92709
+2021_0035,2021-01-12,6,NA,Pile Burn,Nevada Division of Forestry Washoe Valley,39.10367,-119.911311
+2021_0135,2021-11-10,6,NA,Pile Burn,Tahoe Douglas Fire Protection District,39.030026,-119.94545
+2022_0076,2022-03-28,7,NA,Pile Burn,Carson City Fire Dept,39.206061,-119.818601
+2021_0064,2021-02-09,NA,NA,Pile Burn,Carson City Fire Department,39.127968,-119.779361
+2022_0016,2022-01-05,8,NA,Pile Burn,USDA Forest Service Carson Ranger District,38.9967,-119.855
+2021_0013,2021-03-16,NA,NA,Pile Burn,Storey County Fire Protection District,39.340552,-119.640702
+2021_0058,2021-03-31,9,NA,Pile Burn,USDA Forest Service Lake Tahoe Basin Management Unit,39.097679,-119.90181
+2022_0036,2022-01-31,NA,NA,Pile Burn,USDA Forest Service Humboldt-Toiyabe NF,40.732078,-115.22991
+2022_0046,2022-02-16,NA,NA,Pile Burn,Storey County Fire Protection District,39.308481,-119.634296
+2022_0094,2022-05-14,0.09,NA,Pile Burn,Nevada Gold Mines LLC,40.575768,-116.225718
+2020_0096,2020-11-17,1300,NA,Broadcast Burn,U.S. Fish and Wildlife Service,40.206111,-115.479167
+2022_0123,2022-12-03,0.09,NA,Pile Burn,Nevada Gold Mines LLC,40.575768,-116.225718
+2021_0105,2021-03-08,0.5,NA,Pile Burn,City of Ely,39.2853,-114.8687
+2021_0105,2021-03-09,0.5,NA,Pile Burn,City of Ely,39.2853,-114.8687
+2021_0105,2021-03-10,0.5,NA,Pile Burn,City of Ely,39.2853,-114.8687
+2023_0072,2023-04-25,20,NA,Community Open Burn,Tahoe Douglas Fire Protection District,39.026694,-119.934355
+2020_0081,2020-10-28,NA,NA,Pile Burn,Hawthorne Army Depot,38.545261000000004,-118.690063
+2020-0041,2020-04-07,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657
+2022_0048,2022-04-13,NA,NA,Pile Burn,Storey County Fire Protection District,39.359224,-119.603784
+17-65,2017-11-29,NA,NA,Pile Burn,US Fish and Wildlife Service,40.17842778,-115.4888889
+19-31,2019-03-26,NA,NA,Pile Burn,Nevada Department of Transportation - Winnemucca,41.698105,-118.502442
+17-47,2017-11-10,NA,NA,Pile Burn,Tahoe Douglas Fire District,39.100247,-119.946309
+20-59,2020-02-25,NA,NA,Pile Burn,Nevada Department of Transportation - Winnemucca,41.989297,-118.635371
+18-57,2018-04-10,NA,NA,Pile Burn,Cyanco,40.944592,-117.860967
+18-45,2018-06-25,NA,NA,Pile Burn,Naval Air Station Fallon,39.409407,-118.700087
+18-12,2018-01-30,NA,NA,Pile Burn,NV Energy,39.128545,-119.1325
+17-27,2017-12-02,NA,NA,Pile Burn,Naval Air Station Fallon,39.409407,-118.700087
+17-02,2017-11-30,NA,NA,Pile Burn,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.254501,-117.166048
+18-82,2018-11-30,NA,NA,Pile Burn,NV Energy,39.128545,-119.1325
+17-03,2017-09-06,NA,NA,Pile Burn,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.254501,-117.166048
+19-17,2019-05-06,NA,NA,Pile Burn,Naval Air Station Fallon,39.409407,-118.700087
+18-45,2018-06-13,NA,NA,Pile Burn,Naval Air Station Fallon,39.409407,-118.700087
+20-65,2020-04-09,NA,NA,Pile Burn,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.254501,-117.166048
+18-45,2018-07-23,NA,NA,Pile Burn,Naval Air Station Fallon,39.409407,-118.700087
+19-37,2019-04-05,NA,NA,Pile Burn,Hawthorne Army Depot,38.547034,-118.653925
+19-61,2019-04-03,NA,NA,Pile Burn,Cyanco,40.943058,-117.862602
+18-46,2018-05-07,NA,NA,Pile Burn,Naval Air Station Fallon,39.409407,-118.700087
+19-01,2019-11-07,NA,NA,Pile Burn,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.254501,-117.166048
+19-25,2019-01-26,NA,NA,Pile Burn,Marigold Mining Company,40.44484,-117.103097
+17-27,2017-09-25,NA,NA,Pile Burn,Naval Air Station Fallon,39.4094,-118.7001
+19-17,2019-10-21,NA,NA,Pile Burn,Naval Air Station Fallon,39.409407,-118.700087
+19-36,2019-04-05,NA,NA,Pile Burn,Hawthorne Army Depot,38.547034,-118.653925
+19-08,2019-04-09,NA,NA,Pile Burn,Premier Magnesia,38.872405,-117.904557
+19-08,2019-10-29,NA,NA,Pile Burn,Premier Magnesia,38.872405,-117.904557
+20-02,2020-03-28,NA,NA,Pile Burn,DAF/Tonopah Test Range Operations Office,37.110292,-116.231654
+19-08,2019-06-04,NA,NA,Pile Burn,Premier Magnesia,38.872405,-117.904557
+20-44,2020-03-04,NA,NA,Pile Burn,Premier Magnesia,38.872405,-117.904557
+19-08,2019-07-09,NA,NA,Pile Burn,Premier Magnesia,38.872405,-117.904557
+19-08,2019-08-30,NA,NA,Pile Burn,Premier Magnesia,38.872405,-117.904557
+17-58,2017-10-30,NA,NA,Pile Burn,Newmont Mining Corporation,40.943925,-116.357619
+19-08,2019-10-02,NA,NA,Pile Burn,Premier Magnesia,38.872405,-117.904557
+19-42,2019-02-11,NA,NA,Pile Burn,Nevada Division of Forestry,38.82661,-115.2713
+19-08,2019-08-01,NA,NA,Pile Burn,Premier Magnesia,38.872405,-117.904557
+19-08,2019-02-11,NA,NA,Pile Burn,Premier Magnesia,38.872405,-117.904557
+19-08,2019-12-31,NA,NA,Pile Burn,Premier Magnesia,38.872405,-117.904557
+18-49,2018-10-08,NA,8000,Pile Burn,USDA Forest Service Humboldt-Toiyabe NF,41.786111,-115.952222
+18-27,2018-11-19,NA,3,Pile Burn,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.216761,-117.245365
+18-22,2018-11-29,NA,25000,Pile Burn,Eureka Landfill,39.523111,-115.955906
+18-22,2018-05-26,NA,25000,Pile Burn,Eureka Landfill,39.523111,-115.955906
+19-09,2019-11-23,NA,25000,Pile Burn,Eureka Landfill,39.523111,-115.955906
+18-49,2018-12-04,NA,8000,Pile Burn,USDA Forest Service Humboldt-Toiyabe NF,41.786111,-115.952222
+19-46ext,2019-06-04,NA,NA,Pile Burn,National Nuclear Security Administration,37.094071,-116.102667
+18-61,2018-04-18,NA,NA,Pile Burn,Newmont USA Limited,40.513678,-117.140617
+18-61,2018-04-30,NA,NA,Pile Burn,Newmont USA Limited,40.513678,-117.140617
+19-05,2019-05-25,NA,NA,Pile Burn,DAF/Tonopah Test Range Operations Office,37.110292,-116.231654
+18-67,2018-07-19,NA,NA,Pile Burn,Newmont USA Limited,40.509831,-117.138273
+19-21,2019-04-09,NA,NA,Pile Burn,Naval Air Station Fallon,39.409407,-118.700087
+19-46ext,2019-05-21,NA,NA,Pile Burn,National Nuclear Security Administration,37.094071,-116.102667
+18-43,2018-10-27,NA,NA,Pile Burn,Naval Air Station Fallon,39.409407,-118.700087
+17-25,2017-10-23,NA,NA,Pile Burn,Naval Air Station Fallon,39.409407,-118.700087
+18-67,2018-07-05,NA,NA,Pile Burn,Newmont USA Limited,40.509831,-117.138273
+19-46ext,2019-05-26,NA,NA,Pile Burn,National Nuclear Security Administration,37.094071,-116.102667
+18-67,2018-07-12,NA,NA,Pile Burn,Newmont USA Limited,40.509831,-117.138273
+18-67,2018-07-26,NA,NA,Pile Burn,Newmont USA Limited,40.509831,-117.138273
+17-25,2017-12-02,NA,NA,Pile Burn,Naval Air Station Fallon,39.409407,-118.700087
+18-16a,2018-03-19,NA,NA,Pile Burn,Storey County Fire Protection District,39.305794,-119.617143
+18-51,2018-04-17,NA,NA,Pile Burn,US Fish and Wildlife Service - Las Vegas,37.262778,-115.123611
+19-55,2019-03-11,NA,NA,Pile Burn,Storey County Fire Protection District,39.375925,-119.68234
+18-16,2018-03-14,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+18-16,2018-03-21,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+18-59,2018-04-18,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657222
+18-59,2018-12-10,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657222
+18-59,2018-04-23,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657222
+19-55,2019-03-05,NA,NA,Pile Burn,Storey County Fire Protection District,39.375925,-119.68234
+18-16a,2018-03-20,NA,NA,Pile Burn,Storey County Fire Protection District,39.305794,-119.617143
+18-59,2018-04-17,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657222
+APCP190029,2019-03-11,NA,NA,Pile Burn,USDA Forest Service Carson Ranger District,39.3024,-119.84
+18-16,2018-03-20,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+APCP180161,2019-12-10,NA,NA,Pile Burn,USDA FS Lake Tahoe Basin Management Unit,39.262609,-119.934344
+19-55,2019-03-14,NA,NA,Pile Burn,Storey County Fire Protection District,39.375925,-119.68234
+APCP190162,2019-12-10,NA,NA,Pile Burn,NA,39.262207,-119.929631
+18-59,2018-04-09,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6572222
+18-59,2018-05-07,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657222
+18-16a,2018-03-26,NA,NA,Pile Burn,Storey County Fire Protection District,39.305794,-119.617143
+18-16a,2018-03-27,NA,NA,Pile Burn,Storey County Fire Protection District,39.305794,-119.617143
+19-55,2019-03-13,NA,NA,Pile Burn,Storey County Fire Protection District,39.375925,-119.68234
+18-16a,2018-03-28,NA,NA,Pile Burn,Storey County Fire Protection District,39.305794,-119.617143
+19-66,2019-12-04,NA,NA,Pile Burn,Storey County Fire Protection District,39.34972,-119.6469
+19-66,2019-05-31,NA,NA,Pile Burn,Storey County Fire Protection District,39.34972,-119.6469
+18-81ext,2018-12-04,NA,NA,Pile Burn,USDA Forest Service Jarbidge Ranger District,41.72447,-115.894179
+19-66,2019-04-10,NA,NA,Pile Burn,Storey County Fire Protection District,39.34972,-119.6469
+19-66,2019-04-11,NA,NA,Pile Burn,Storey County Fire Protection District,39.34972,-119.6469
+19-66,2019-04-16,NA,NA,Pile Burn,Storey County Fire Protection District,39.34972,-119.6469
+18-49,2018-10-26,NA,NA,Pile Burn,USDA Forest Service Humboldt-Toiyabe NF,41.786111,-115.952222
+19-66,2019-04-17,NA,NA,Pile Burn,Storey County Fire Protection District,39.34972,-119.6469
+18-83,2018-10-23,NA,NA,Pile Burn,East Fork Fire Protection Disctrict,38.995356,-119.75338
+18-07,2018-10-20,NA,NA,Pile Burn,NA,37.110292,-116.231654
+18-68,2018-09-13,NA,NA,Pile Burn,Premier Magnesia,38.872405,-117.904557
+18-09,2018-11-29,NA,NA,Pile Burn,Pershing County Landfill,40.184005,-118.495257
+19-57,2019-04-02,NA,NA,Pile Burn,Nevada Division of Forestry,38.395249,-114.350688
+19-05,2019-03-30,NA,NA,Pile Burn,DAF/Tonopah Test Range Operations Office,37.110292,-116.231654
+19-66,2019-06-03,NA,NA,Pile Burn,Storey County Fire Protection District,39.34972,-119.6469
+18-59,2018-05-14,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657222
+18-59,2018-04-24,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657222
+19-82,2019-07-20,NA,NA,Pile Burn,FTLB LLC,36.132796,-115.967173
+19-04,2019-03-22,NA,NA,Pile Burn,Pershing County Landfill,40.184005,-118.495257
+18-59,2018-05-03,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657222
+19-24,2019-03-21,NA,NA,Pile Burn,Carson City Fire Department,39.185638,-119.815697
+18-59,2018-12-04,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6572222
+18-59,2018-12-05,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657222
+18-77,2018-12-06,NA,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+19-31,2019-03-20,NA,NA,Pile Burn,Nevada Department of Transportation - Winnemucca,41.698105,-118.502442
+19-05,2019-10-27,NA,NA,Pile Burn,DAF/Tonopah Test Range Operations Office,37.110292,-116.231654
+18-76,2018-12-10,NA,NA,Pile Burn,Barrick Goldstrike,40.966022,-116.38255
+APCP170115,2018-04-16,NA,NA,Pile Burn,NA,39.253887,-119.916218
+18-59,2018-04-26,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657222
+18-59,2018-04-25,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657222
+18-59,2018-05-28,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657222
+20-42,2020-01-30,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+APCP170137,2018-11-28,NA,NA,Pile Burn,USDA FS Humboldt-Toiyabe,39.40274,-119.863503
+20-41,2020-02-04,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+20-42,2020-03-05,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+18-19,2018-01-20,NA,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+18-17,2018-01-20,NA,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+20-49,2020-02-01,NA,NA,Pile Burn,Nevada Division of Forestry,38.816214,-115.288369
+20-30,2020-02-01,NA,NA,Pile Burn,Nevada Gold Mines LLC,40.575768,-116.225718
+20-42,2020-01-27,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+19-10,2019-01-22,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+20-49,2020-02-05,NA,NA,Pile Burn,Nevada Division of Forestry,38.816214,-115.288369
+19-33,2019-01-22,NA,NA,Pile Burn,Barrick Goldstrike,40.575768,-116.225718
+20-41,2020-01-29,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+19-10,2019-01-23,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+20-06,2020-01-28,NA,NA,Pile Burn,Bureau of Land Management - Battle Mountain Dist.,38.532053,-117.067246
+19-10,2019-01-24,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+20-42,2020-01-28,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+20-42,2020-02-20,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+19-33,2019-01-19,NA,NA,Pile Burn,Barrick Goldstrike,40.575768,-116.225718
+19-33,2019-01-11,NA,NA,Pile Burn,Barrick Goldstrike,40.575768,-116.225718
+19-10,2019-01-08,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+19-10,2019-01-09,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+19-26,2019-01-05,NA,NA,Pile Burn,Tahoe Douglas Fire District,38.99737,-119.944465
+20-41,2020-02-18,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+17-60,2017-12-14,NA,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+17-60,2017-12-15,NA,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+20-41,2020-02-11,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+18-16a,2018-03-12,NA,NA,Pile Burn,Storey County Fire Protection District,39.305794,-119.617143
+19-26,2019-01-04,NA,NA,Pile Burn,Tahoe Douglas Fire District,38.99737,-119.944465
+20-41,2020-03-03,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+18-76,2018-12-21,NA,NA,Pile Burn,Barrick Goldstrike,40.966022,-116.38255
+20-42,2020-02-06,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+20-60,2020-02-26,NA,NA,Pile Burn,USDA Forest Service Jarbidge Ranger District,40.177417,-115.493917
+19-10,2019-01-03,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+20-41,2020-02-26,NA,NA,Pile Burn,Storey County Fire Protection District,39.975,-119.6573
+19-10,2019-01-14,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+20-42,2020-02-27,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+19-26,2019-01-03,NA,NA,Pile Burn,Tahoe Douglas Fire District,38.99737,-119.944465
+18-59,2018-12-26,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657222
+19-42,2019-03-04,NA,NA,Pile Burn,Nevada Division of Forestry,38.82661,-115.2713
+19-39,2019-01-30,NA,NA,Pile Burn,USDA Forest Service Jarbidge Ranger District,41.72447,-115.894179
+20-42,2020-04-02,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+19-94,2020-01-15,NA,NA,Pile Burn,City of Ely Landfill,39.2853,-114.8687
+19-42,2019-02-19,NA,NA,Pile Burn,Nevada Division of Forestry,38.82661,-115.2713
+19-42,2019-02-25,NA,NA,Pile Burn,Nevada Division of Forestry,38.82661,-115.2713
+20-44,2020-04-02,NA,NA,Pile Burn,Premier Magnesia,38.872406,-117.904557
+17-28,2018-03-04,NA,NA,Pile Burn,Naval Air Station Fallon,39.42047,-118.724216
+20-42,2020-03-26,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+18-59,2018-12-11,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657222
+19-94,2020-01-16,NA,NA,Pile Burn,City of Ely Landfill,39.2853,-114.8687
+18-16a,2018-03-05,NA,NA,Pile Burn,Storey County Fire Protection District,39.305794,-119.617143
+18-16a,2018-03-06,NA,NA,Pile Burn,Storey County Fire Protection District,39.305794,-119.617143
+19-55,2019-03-04,NA,NA,Pile Burn,Storey County Fire Protection District,39.375925,-119.68234
+18-16,2018-03-07,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+18-34,2018-03-12,NA,NA,Pile Burn,US Fish and Wildlife Service - Las Vegas,37.26277778,-115.1236111
+20-41,2020-04-06,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+20-42,2020-04-09,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+19-53,2019-03-05,NA,NA,Pile Burn,Nevada Division of Forestry,38.35967,-114.4155
+18-76,2018-12-12,NA,NA,Pile Burn,Barrick Goldstrike,40.966022,-116.38255
+20-42,2020-03-16,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+18-59,2018-12-19,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657222
+20-60,2020-03-11,NA,NA,Pile Burn,USDA Forest Service Jarbidge Ranger District,40.177417,-115.493917
+18-76,2018-12-18,NA,NA,Pile Burn,Barrick Goldstrike,40.966022,-116.38255
+20-42,2020-03-11,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+20-42,2020-03-12,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+20-17,2020-03-13,NA,NA,Pile Burn,Naval Air Station Fallon,39.450837,-118.709578
+18-59,2018-12-17,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.657222
+17-49,2017-10-19,NA,NA,Pile Burn,Coeur Rochester Inc.,40.28944,-118.1419
+19-10,2019-01-15,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+20-41,2020-03-16,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+20-43,2020-03-18,NA,NA,Pile Burn,Storey County Fire Protection District,39.375925,-119.68234
+20-42,2020-03-19,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+20-42,2020-01-20,NA,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+17-01,2017-09-23,NA,NA,Pile Burn,Eureka Landfill,39.523111,-115.955906
+18-06,2018-02-27,NA,NA,Pile Burn,NA,38.951589,-117.589149
+20-41,2020-01-22,NA,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+19-29,2019-04-19,NA,2700,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+17-04,2017-10-09,NA,81,Pile Burn,Nevada Gold Mines Turquoise Ridge/Twin Creeks,41.219175,-117.247344
+20-30,2020-04-04,NA,67500,Pile Burn,Nevada Gold Mines LLC,40.966022,-116.38255
+20-01,2020-03-20,NA,270,Pile Burn,Pershing County Landfill,40.184005,-118.425257
+19-29,2019-01-17,NA,2700,Pile Burn,Storey County Fire Protection District,39.388469,-119.63091
+19-04,2019-06-01,NA,270,Pile Burn,Pershing County Landfill,40.184005,-118.495257
+18-16,2018-02-28,NA,2700,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+19-29,2019-05-01,NA,2700,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+19-29,2019-02-11,NA,2700,Pile Burn,Storey County Fire Protection District,39.388469,-119.63091
+19-29,2019-02-06,NA,2700,Pile Burn,Storey County Fire Protection District,39.388469,-119.63091
+19-30,2019-12-03,NA,2700,Pile Burn,Storey County Fire Protection District,39.305794,-119.617143
+19-04,2019-11-30,NA,2700,Pile Burn,Pershing County Landfill,40.184005,-118.425257
+19-29,2019-12-02,NA,2700,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+18-16,2018-02-27,NA,2700,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+19-29,2019-01-31,NA,2700,Pile Burn,Storey County Fire Protection District,39.388469,-119.63091
+19-29,2019-02-04,NA,2700,Pile Burn,Storey County Fire Protection District,39.388469,-119.63091
+18-68,2018-12-20,NA,135,Pile Burn,Premier Magnesia,38.872405,-117.904557
+19-29,2019-03-07,NA,2700,Pile Burn,Storey County Fire Protection District,39.388469,-119.63091
+19-29,2019-05-31,NA,2700,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+19-29,2019-05-26,NA,2700,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+19-66,2019-05-25,NA,2700,Pile Burn,Storey County Fire Protection District,39.2059,-119.3849
+19-66,2019-05-24,NA,2700,Pile Burn,Storey County Fire Protection District,39.2059,-119.3849
+18-09,2018-01-11,NA,405,Pile Burn,Pershing County Landfill,40.183845,-118.545684
+19-30,2019-01-10,NA,2700,Pile Burn,Storey County Fire Protection District,39.305794,-119.617143
+19-61,2019-04-08,3,NA,Broadcast Burn,Cyanco,40.943058,-117.862602
+18-79,2018-11-30,2,NA,Broadcast Burn,Tahoe Douglas Fire District,39.101271,-119.946428
+18-93,2018-12-11,2,NA,Broadcast Burn,Cyanco,40.944592,-117.860967
+18-78,2018-12-14,5,NA,Broadcast Burn,Tahoe Douglas Fire District,38.99737,-119.944465
+APCP190159,2019-10-14,90,NA,Broadcast Burn,North Lake Tahoe Fire Protection District,39.265726,-119.974517
+19-60,2019-03-12,5,NA,Broadcast Burn,US Fish and Wildlife Service - Las Vegas,39.5506,-118.4878
+19-65,2019-04-08,15,NA,Broadcast Burn,National Park Service - Lake Mead NRA,38.98916111,-114.2405556
+18-79,2018-12-12,6,NA,Broadcast Burn,Tahoe Douglas Fire District,39.101271,-119.946428
+18-79,2018-12-13,5,NA,Broadcast Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+19-28,2019-04-04,3,NA,Broadcast Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+18-78,2018-12-15,1,NA,Broadcast Burn,Tahoe Douglas Fire District,38.99737,-119.944465
+APCP170155,2018-12-17,16,NA,Broadcast Burn,NA,39.2587,-119.986
+18-78,2018-12-07,2,NA,Broadcast Burn,Tahoe Douglas Fire District,38.99737,-119.944465
+19-69,2019-04-03,375,NA,Broadcast Burn,US Fish and Wildlife Service - Las Vegas,40.17572,-115.4792
+19-28,2019-04-03,2,NA,Broadcast Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+18-77,2018-11-29,3,NA,Broadcast Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+17-30,2018-03-20,500,NA,Broadcast Burn,Naval Air Station Fallon,39.42047,-118.724216
+APCP190159,2019-10-07,90,NA,Broadcast Burn,North Lake Tahoe Fire Protection District,39.265726,-119.974517
+18-12a,2018-01-09,1,NA,Broadcast Burn,NA,39.128545,-119.1325
+20-36,2020-02-10,1,NA,Broadcast Burn,Hawthorne Army Depot,38.547034,-118.653925
+18-06,2018-03-06,60,NA,Broadcast Burn,NA,38.951589,-117.589149
+APCP190159,2019-10-28,90,NA,Broadcast Burn,North Lake Tahoe Fire Protection District,39.2514,-119.921
+19-96,2019-10-30,300,NA,Broadcast Burn,Bureau of Land Management - Ely District Office,38.692817,-114.742072
+18-03,2018-01-10,50,NA,Broadcast Burn,USDA Forest Service Ely Ranger District,39.638151,-114.722704
+18-57,2018-04-16,2,NA,Broadcast Burn,Cyanco,40.944592,-117.860967
+18-37,2018-04-10,1,NA,Broadcast Burn,Naval Air Station Fallon,39.450837,-118.709578
+19-87,2019-09-25,540,NA,Broadcast Burn,US Fish and Wildlife Service,37.2397222,-115.1061111
+17-28,2018-03-22,500,NA,Broadcast Burn,Naval Air Station Fallon,39.42047,-118.724216
+APCP190159,2019-10-21,90,NA,Broadcast Burn,North Lake Tahoe Fire Protection District,39.265726,-119.974517
+18-03,2018-01-11,60,NA,Broadcast Burn,USDA Forest Service Ely Ranger District,39.638151,-114.722704
+17-28,2018-03-16,300,NA,Broadcast Burn,Naval Air Station Fallon,39.42047,-118.724216
+18-03,2018-01-12,50,NA,Broadcast Burn,USDA Forest Service Ely Ranger District,39.638151,-114.722704
+18-05,2018-03-10,50,NA,Broadcast Burn,Bureau of Land Management - Battle Mountain Dist.,39.502702,-115.953465
+18-03,2018-01-17,25,NA,Broadcast Burn,USDA Forest Service Ely Ranger District,39.638151,-114.722704
+18-03,2018-01-19,50,NA,Broadcast Burn,USDA Forest Service Ely Ranger District,39.638151,-114.722704
+APCP190158,2019-10-07,99,NA,Broadcast Burn,North Lake Tahoe Fire Protection District,39.277347,-119.95285
+18-03,2018-01-28,50,NA,Broadcast Burn,USDA Forest Service Ely Ranger District,39.638151,-114.722704
+18-03,2018-01-30,20,NA,Broadcast Burn,USDA Forest Service Ely Ranger District,39.638151,-114.722704
+20-33,2020-01-15,18,NA,Broadcast Burn,US Fish and Wildlife Service - Las Vegas,36.416799,-116.293091
+18-37,2018-03-29,200,NA,Broadcast Burn,Naval Air Station Fallon,39.450837,-118.709578
+17-47,2017-12-02,18,NA,Broadcast Burn,Tahoe Douglas Fire District,39.046405,-119.942002
+20-36,2020-03-31,1,NA,Broadcast Burn,Hawthorne Army Depot,38.547034,-118.653925
+19-63,2019-04-10,5,NA,Broadcast Burn,Nevada Division of Forestry,39.12486,-119.831
+19-64,2019-04-10,5,NA,Broadcast Burn,Nevada Division of Forestry,39.10743,-119.8539
+18-87,2018-11-27,700,NA,Broadcast Burn,US Fish and Wildlife Service - Las Vegas,40.175614,-115.479444
+17-60,2017-11-17,12,NA,Broadcast Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+20-07,2020-02-25,200,NA,Broadcast Burn,Bureau of Land Management - Battle Mountain Dist.,38.568833,-115.6575
+18-01,2018-01-09,20,NA,Broadcast Burn,USDA Forest Service Ely Ranger District,39.4,-114.6333
+19-61,2019-04-16,1,NA,Broadcast Burn,Cyanco,40.943058,-117.862602
+19-23,2019-04-17,1,NA,Broadcast Burn,Round Mountain Gold Corporation,38.717619,-117.0377006
+19-23,2019-04-22,2,NA,Broadcast Burn,Round Mountain Gold Corporation,38.717619,-117.037701
+19-23,2019-04-23,2,NA,Broadcast Burn,Round Mountain Gold Corporation,38.7179619,-117.0377006
+19-77ext,2019-05-20,1,NA,Broadcast Burn,East Fork Fire Protection Disctrict,39.001029,-119.744945
+19-85,2019-09-24,2,NA,Broadcast Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+18-84,2018-11-01,190,NA,Broadcast Burn,Bureau of Land Management - Ely District Office,38.918611,-114.334722
+19-23,2019-06-04,3,NA,Broadcast Burn,Round Mountain Gold Corporation,38.717962,-117.037701
+19-47,2019-04-22,10,NA,Broadcast Burn,USDA Forest Service Carson Ranger District,39.115048,-119.8855
+18-65,2018-05-29,2,NA,Broadcast Burn,Cyanco,40.944592,-117.860967
+17-06,2017-12-05,10,NA,Broadcast Burn,USDA Forest Service Ely Ranger District,39.638151,-114.722704
+19-23,2019-04-24,1,NA,Broadcast Burn,Round Mountain Gold Corporation,38.7179619,-117.0377006
+18-65ext2,2018-06-01,2,NA,Broadcast Burn,Cyanco,40.944592,-117.860967
+17-06,2017-12-04,20,NA,Broadcast Burn,USDA Forest Service Ely Ranger District,39.638151,-114.722704
+19-23,2019-04-29,1,NA,Broadcast Burn,Round Mountain Gold Corporation,38.717962,-117.037701
+18-17,2018-02-08,4,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+18-28,2018-02-06,30,NA,Pile Burn,US Fish and Wildlife Service - Stillwater,39.595933,-118.478074
+18-19,2018-02-03,2,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+18-17,2018-02-02,10,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+18-17,2018-02-01,7,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+18-20,2018-02-01,7,NA,Pile Burn,Bureau of Land Management - Ely District Office,38.990112,-114.672996
+18-78,2018-12-20,2,NA,Pile Burn,Tahoe Douglas Fire District,38.99737,-119.944465
+18-17,2018-01-31,5,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+18-17,2018-02-09,10,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+18-19,2018-01-29,7,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+18-79,2018-12-21,2,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+18-17,2018-01-26,40,NA,Pile Burn,Tahoe Douglas Fire District,39.973646,-119.898806
+17-61,2017-12-07,2,NA,Pile Burn,Tahoe Douglas Fire District,38.99737,-119.944465
+18-77,2018-12-27,3,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+18-89,2018-12-04,17,NA,Pile Burn,Carson City Fire Department,39.160674,-119.793166
+18-29,2018-03-06,35,NA,Pile Burn,City of Winnemucca,39.185638,-119.815697
+APCP170165,2018-12-10,160,NA,Pile Burn,Bureau of Land Management - Applegate Field Office,41.930902,-119.676599
+18-17,2018-04-19,10,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+18-03,2018-12-06,10,NA,Pile Burn,USDA Forest Service Ely Ranger District,39.638151,-114.722704
+19-47,2019-03-25,2,NA,Pile Burn,USDA Forest Service Carson Ranger District,39.11505,-119.8855
+18-17,2018-03-15,1,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+18-77,2018-12-28,1,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+18-19,2018-03-09,1,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+APCP170155,2018-12-04,30,NA,Pile Burn,North Lake Tahoe Fire Protection District,39.2583,-119.987
+APCP170155,2018-12-03,9,NA,Pile Burn,NA,39.2393,-120.005
+18-70,2018-10-08,13,NA,Pile Burn,USDA FS Lake Tahoe Basin Management Unit,39.167154,-119.926242
+18-71,2018-11-05,100,NA,Pile Burn,USDA Forest Service Jarbidge Ranger District,41.86816,-115.453426
+18-85,2018-11-02,24,NA,Pile Burn,Bureau of Land Management - Ely District Office,39.724858,-114.231265
+18-89,2018-11-27,17,NA,Pile Burn,Carson City Fire Department,39.160674,-119.7931662
+18-89,2018-12-05,17,NA,Pile Burn,Carson City Fire Department,39.160674,-119.793166
+18-89,2018-12-12,15,NA,Pile Burn,Carson City Fire Department,39.160674,-119.793166
+18-17,2018-02-15,3,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+18-17,2018-02-17,3,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+18-25,2018-02-23,17,NA,Pile Burn,Bureau of Land Management - Carson City District,39.134479,-119.510212
+18-21,2018-02-26,50,NA,Pile Burn,USDA Forest Service Jarbidge Ranger District,41.8505,-115.453083
+18-29,2018-02-27,35,NA,Pile Burn,City of Winnemucca,39.185638,-119.815697
+APCP170137,2018-12-10,1,NA,Pile Burn,USDA FS Humboldt-Toiyabe,39.40274,-119.863503
+18-17,2018-02-28,5,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+18-17,2018-02-14,5,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+18-17,2018-03-01,3,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+18-25,2018-03-02,17,NA,Pile Burn,Bureau of Land Management - Carson City District,39.134479,-119.510212
+18-05,2018-03-02,50,NA,Pile Burn,Bureau of Land Management - Battle Mountain Dist.,39.502702,-115.953465
+18-17,2018-03-08,1,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+18-25,2018-03-06,67,NA,Pile Burn,Bureau of Land Management - Carson City District,39.134479,-119.510212
+APCP170155,2018-11-26,30,NA,Pile Burn,North Lake Tahoe Fire Protection District,39.253887,-119.916218
+18-25,2018-02-28,17,NA,Pile Burn,Bureau of Land Management - Carson City District,39.134479,-119.510212
+APCP180161,2020-01-20,NA,NA,Pile Burn,USDA FS Lake Tahoe Basin Management Unit,39.262609,-119.934344
+19-99,2019-12-05,40,NA,Pile Burn,USDA Forest Service Ely Ranger District,39.638151,-114.722704
+APCP180162,2020-01-09,129,NA,Pile Burn,USDA FS Lake Tahoe Basin Management Unit,39.167154,-119.926242
+20-22,2020-01-09,1,NA,Pile Burn,Tahoe Douglas Fire District,38.99732,-119.944465
+20-23,2020-01-10,1,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+19-94,2020-01-13,1,NA,Pile Burn,City of Ely Landfill,39.2853,-114.8687
+20-06,2020-01-14,20,NA,Pile Burn,Bureau of Land Management - Battle Mountain Dist.,38.532053,-117.067246
+20-24,2020-01-14,3,NA,Pile Burn,Tahoe Douglas Fire District,39.098573,-119.929657
+20-24,2020-01-15,2,NA,Pile Burn,Tahoe Douglas Fire District,39.098573,-119.929657
+APCP190047,2020-01-08,1000,NA,Pile Burn,Bureau of Land Management - Applegate Field Office,41.962569,-119.706219
+20-24,2020-01-17,7,NA,Pile Burn,Tahoe Douglas Fire District,39.098573,-119.929657
+20-22,2020-01-07,1,NA,Pile Burn,Tahoe Douglas Fire District,38.99732,-119.944465
+APCP190162,2020-01-20,4,NA,Pile Burn,NA,39.262207,-119.929631
+APCP190157,2020-01-20,20,NA,Pile Burn,North Lake Tahoe Fire Protection District,39.262884,-119.989244
+20-34,2020-01-20,1,NA,Pile Burn,Hawthorne Army Depot,38.547034,-118.653925
+20-24,2020-01-21,7,NA,Pile Burn,Tahoe Douglas Fire District,39.098573,-119.929657
+20-25,2020-01-22,35,NA,Pile Burn,Carson City Fire Department,39.185638,-119.815697
+20-24,2020-01-22,5,NA,Pile Burn,Tahoe Douglas Fire District,39.098573,-119.929657
+20-10,2020-01-22,2,NA,Pile Burn,Naval Air Station Fallon,39.1554726,-118.7364324
+20-11,2020-01-22,2,NA,Pile Burn,Naval Air Station Fallon,39.2343925,-118.284953
+20-24,2020-01-16,10,NA,Pile Burn,Tahoe Douglas Fire District,39.098573,-119.929657
+19-85,2019-12-13,5,NA,Pile Burn,Tahoe Douglas Fire District,38.97367,-119.8988
+19-29,2019-12-05,20,NA,Pile Burn,Storey County Fire Protection District,39.388407,-119.63112
+19-85,2019-12-06,10,NA,Pile Burn,Tahoe Douglas Fire District,39.973676,-119.898806
+18-79,2018-12-29,2,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+19-99,2019-12-08,40,NA,Pile Burn,USDA Forest Service Ely Ranger District,39.63815,-114.7227
+19-63,2019-03-25,11,NA,Pile Burn,Nevada Division of Forestry,39.12486,-119.831
+19-10,2019-12-09,30,NA,Pile Burn,Storey County Fire Protection District,39.375,-119.6573
+19-99,2019-12-09,20,NA,Pile Burn,USDA Forest Service Ely Ranger District,39.63815,-114.7227
+19-99,2019-12-11,40,NA,Pile Burn,USDA Forest Service Ely Ranger District,39.63815,-114.7227
+20-22,2020-01-08,1,NA,Pile Burn,Tahoe Douglas Fire District,38.99732,-119.944465
+19-85,2019-12-12,5,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+20-47,2020-01-27,14,NA,Pile Burn,National Park Service - Lake Mead NRA,39.015442,-114.234097
+19-10,2019-12-16,20,NA,Pile Burn,Storey County Fire Protection District,39.34972,-119.6469
+19-104,2019-12-16,35,NA,Pile Burn,Carson City Fire Department,39.185638,-119.815697
+19-85,2019-12-17,5,NA,Pile Burn,Tahoe Douglas Fire District,38.97367,-119.8988
+19-89,2019-12-19,3,NA,Pile Burn,USDA Forest Service Carson Ranger District,38.97367,-119.8988
+19-103,2019-12-19,27,NA,Pile Burn,Bureau of Land Management - Ely District Office,39.674504,-114.145304
+APCP190157,2020-01-06,38,NA,Pile Burn,North Lake Tahoe Fire Protection District,39.262884,-119.989244
+APCP190162,2020-01-06,10,NA,Pile Burn,NA,39.262207,-119.929631
+APCP180161,2020-01-06,NA,NA,Pile Burn,USDA FS Lake Tahoe Basin Management Unit,39.262609,-119.934344
+19-85,2019-12-11,3,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+20-24,2020-03-05,5,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+20-17,2020-02-22,40,NA,Pile Burn,Naval Air Station Fallon,39.450837,-118.709578
+APCP190157,2020-02-18,20,NA,Pile Burn,North Lake Tahoe Fire Protection District,39.262884,-119.989244
+APCP180161,2020-02-18,547,NA,Pile Burn,USDA FS Lake Tahoe Basin Management Unit,39.262604,-119.934344
+20-17,2020-02-24,40,NA,Pile Burn,Naval Air Station Fallon,39.450837,-118.709578
+APCP190047,2020-02-20,900,NA,Pile Burn,Bureau of Land Management - Applegate Field Office,41.962569,-119.706219
+20-28,2020-03-01,10,NA,Pile Burn,USDA FS Lake Tahoe Basin Management Unit,39.087346,-119.896815
+20-32,2020-03-02,5,NA,Pile Burn,USDA Forest Service Carson Ranger District,38.996724,-119.854657
+19-91,2020-03-03,10,NA,Pile Burn,USDA FS Lake Tahoe Basin Management Unit,39.101769,-119.900199
+20-06,2020-01-23,150,NA,Pile Burn,Bureau of Land Management - Battle Mountain Dist.,38.532053,-117.067246
+20-24,2020-03-04,5,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+19-98,2020-02-10,200,NA,Pile Burn,USDA Forest Service Ely Ranger District,38.11621,-115.6226
+20-24,2020-03-06,5,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+20-24,2020-03-10,4,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+20-24,2020-03-11,4,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+20-24,2020-03-12,5,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+20-24,2020-03-13,2,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+20-57,2020-03-17,7,NA,Pile Burn,Carson City Fire Department,39.156833,-119.814597
+20-24,2020-03-18,5,NA,Pile Burn,Tahoe Douglas Fire District,39.098573,-119.929657
+20-24,2020-03-19,3,NA,Pile Burn,Tahoe Douglas Fire District,39.098573,-119.292657
+20-54,2020-03-03,4,NA,Pile Burn,Nevada Division of Forestry,38.396636,-114.351043
+APCP180161,2020-02-03,547,NA,Pile Burn,USDA FS Lake Tahoe Basin Management Unit,39.262604,-119.934344
+19-99,2019-12-07,40,NA,Pile Burn,USDA Forest Service Ely Ranger District,39.63815,-114.7227
+20-32,2020-01-27,68,NA,Pile Burn,USDA Forest Service Carson Ranger District,38.996724,-119.854657
+20-24,2020-01-28,1,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+20-47,2020-01-28,12,NA,Pile Burn,National Park Service - Lake Mead NRA,39.015442,-114.234097
+20-46,2020-01-28,15,NA,Pile Burn,National Park Service - Lake Mead NRA,39.004386,-114.2314
+20-45,2020-01-29,15,NA,Pile Burn,National Park Service - Lake Mead NRA,38.960219,-114.157758
+20-24,2020-01-29,1,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+20-45,2020-01-29,25,NA,Pile Burn,National Park Service - Lake Mead NRA,38.960219,-114.157758
+19-98,2020-02-12,200,NA,Pile Burn,USDA Forest Service Ely Ranger District,38.11621,-115.6226
+20-23,2020-01-31,2,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+19-98,2020-02-11,200,NA,Pile Burn,USDA Forest Service Ely Ranger District,38.11621,-115.6226
+APCP190162,2020-02-03,129,NA,Pile Burn,NA,39.260207,-119.929631
+APCP190157,2020-02-03,20,NA,Pile Burn,North Lake Tahoe Fire Protection District,39.262884,-119.989244
+19-98,2020-02-04,20,NA,Pile Burn,USDA Forest Service Ely Ranger District,38.11621,-115.6226
+20-28,2020-02-05,7,NA,Pile Burn,USDA FS Lake Tahoe Basin Management Unit,39.087346,-119.896815
+19-98,2020-02-05,20,NA,Pile Burn,USDA Forest Service Ely Ranger District,38.11621,-115.6226
+20-28,2020-02-06,7,NA,Pile Burn,USDA FS Lake Tahoe Basin Management Unit,39.087346,-119.896815
+19-98,2020-02-07,40,NA,Pile Burn,USDA Forest Service Ely Ranger District,38.11621,-115.6226
+20-28,2020-02-10,10,NA,Pile Burn,USDA FS Lake Tahoe Basin Management Unit,39.087346,-119.896815
+20-22,2020-01-23,1,NA,Pile Burn,Tahoe Douglas Fire District,38.99732,-119.944465
+20-24,2020-01-30,1,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+19-26,2019-04-02,5,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+19-61ext,2019-03-18,40,NA,Pile Burn,Cyanco,40.943058,-117.862602
+19-47,2019-03-18,2,NA,Pile Burn,USDA Forest Service Carson Ranger District,39.11505,-119.8855
+19-47,2019-03-19,3,NA,Pile Burn,USDA Forest Service Carson Ranger District,39.11505,-119.8855
+19-47,2019-03-20,3,NA,Pile Burn,USDA Forest Service Carson Ranger District,39.11505,-119.8855
+19-28,2019-03-20,50,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+19-61ext,2019-03-21,2,NA,Pile Burn,Cyanco,40.943058,-117.862602
+19-28,2019-03-21,50,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+19-63,2019-04-16,5,NA,Pile Burn,Nevada Division of Forestry,39.12486,-119.831
+19-61ext,2019-03-26,2,NA,Pile Burn,Cyanco,40.943058,-117.862602
+19-53,2019-03-07,4,NA,Pile Burn,Nevada Division of Forestry,38.35967,-114.4155
+19-47,2019-04-08,10,NA,Pile Burn,USDA Forest Service Carson Ranger District,39.115048,-119.8855
+19-71,2019-04-09,1.4,NA,Pile Burn,USDA FS Lake Tahoe Basin Management Unit,38.96575,-119.9209
+APCP190029,2019-12-09,177,NA,Pile Burn,USDA Forest Service Carson Ranger District,39.387058,-119.865599
+19-65,2019-04-09,15,NA,Pile Burn,National Park Service - Lake Mead NRA,38.98916111,-114.2405556
+19-99,2019-12-06,50,NA,Pile Burn,USDA Forest Service Ely Ranger District,39.638151,-114.722704
+19-47,2019-04-11,10,NA,Pile Burn,USDA Forest Service Carson Ranger District,39.115048,-119.8855
+19-63,2019-04-11,2,NA,Pile Burn,Nevada Division of Forestry,39.12486,-119.831
+19-28,2019-04-11,2,NA,Pile Burn,Tahoe Douglas Fire District,39.098573,-119.929657
+19-64,2019-03-25,20,NA,Pile Burn,Nevada Division of Forestry,39.10743,-119.8534
+19-44,2019-02-06,20,NA,Pile Burn,USDA Forest Service Ely Ranger District,39.638151,-114.722704
+19-24,2019-01-02,10,NA,Pile Burn,Carson City Fire Department,39.185638,-119.825697
+19-26,2019-01-09,75,NA,Pile Burn,Tahoe Douglas Fire District,38.99737,-119.944465
+19-26,2019-01-10,5,NA,Pile Burn,Tahoe Douglas Fire District,38.99737,-119.944465
+19-26,2019-01-11,5,NA,Pile Burn,Tahoe Douglas Fire District,38.99737,-119.944465
+19-26,2019-01-12,3,NA,Pile Burn,Tahoe Douglas Fire District,38.99737,-119.944465
+19-26,2019-01-16,5,NA,Pile Burn,Tahoe Douglas Fire District,38.99737,-119.944465
+19-24,2019-01-22,10,NA,Pile Burn,Carson City Fire Department,39.185638,-119.825697
+APCP170165,2019-02-04,240,NA,Pile Burn,Bureau of Land Management - Applegate Field Office,41.930902,-119.676599
+19-61,2019-03-13,40,NA,Pile Burn,Cyanco,40.944592,-117.860967
+APCP170137,2019-02-05,NA,NA,Pile Burn,USDA FS Humboldt-Toiyabe,39.40274,-119.863503
+19-53,2019-03-11,5,NA,Pile Burn,Nevada Division of Forestry,38.35967,-114.4155
+19-03,2019-02-06,25,NA,Pile Burn,Bureau of Land Management - Battle Mountain Dist.,39.951589,-117.589149
+19-44,2019-02-07,20,NA,Pile Burn,USDA Forest Service Ely Ranger District,39.638151,-114.722704
+19-44,2019-02-08,30,NA,Pile Burn,USDA Forest Service Ely Ranger District,39.638151,-114.722704
+19-44,2019-02-12,30,NA,Pile Burn,USDA Forest Service Ely Ranger District,39.638151,-114.722704
+19-53,2019-02-26,3,NA,Pile Burn,Nevada Division of Forestry,38.35967,-114.4155
+19-53,2019-02-27,3,NA,Pile Burn,Nevada Division of Forestry,38.35967,-114.4155
+19-53,2019-03-04,3,NA,Pile Burn,Nevada Division of Forestry,38.35967,-114.4155
+19-18,2019-04-09,20,NA,Pile Burn,Naval Air Station Fallon,39.450837,-118.709578
+19-43,2019-02-06,50,NA,Pile Burn,Bureau of Land Management - Ely District Office,39.135317,-114.841116
+APCP190157,2019-11-11,125,NA,Pile Burn,North Lake Tahoe Fire Protection District,39.262884,-119.989244
+19-64,2019-04-16,5,NA,Pile Burn,Nevada Division of Forestry,39.10743,-119.8534
+19-26,2019-05-06,1,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+19-76,2019-05-08,348,NA,Pile Burn,Nevada Division of Forestry,39.108217,-119.912225
+19-28,2019-05-10,1,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+19-24,2019-05-22,35,NA,Pile Burn,Carson City Fire Department,39.185638,-119.815697
+19-27,2019-05-22,5,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+19-24,2019-05-28,35,NA,Pile Burn,Carson City Fire Department,39.185638,-119.815697
+19-85,2019-09-25,1,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+19-28,2019-04-24,2,NA,Pile Burn,Tahoe Douglas Fire District,39.098573,-119.929657
+APCP190157,2019-10-28,125,NA,Pile Burn,North Lake Tahoe Fire Protection District,39.262884,-119.989244
+19-26,2019-05-04,1,NA,Pile Burn,Tahoe Douglas Fire District,38.99737,-119.944465
+19-85,2019-11-21,2,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+19-85,2019-11-22,2,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+19-86,2019-11-26,2,NA,Pile Burn,Tahoe Douglas Fire District,39.098572,-119.929657
+19-104,2019-12-03,20,NA,Pile Burn,Carson City Fire Department,39.185638,-119.815697
+APCP190029,2019-12-02,177,NA,Pile Burn,USDA Forest Service Carson Ranger District,39.387058,-119.865599
+APCP190047,2019-12-04,150,NA,Pile Burn,Bureau of Land Management - Applegate Field Office,41.962569,-119.706219
+APCP190157,2019-12-02,75,NA,Pile Burn,North Lake Tahoe Fire Protection District,39.262884,-119.989244
+19-85,2019-12-05,4,NA,Pile Burn,Tahoe Douglas Fire District,38.973676,-119.898806
+APCP170165,2019-09-30,400,NA,Pile Burn,Bureau of Land Management - Applegate Field Office,41.930902,-119.676599
+19-63,2019-04-17,3,NA,Pile Burn,Nevada Division of Forestry,39.12486,-119.831
+19-47,2019-04-22,10,NA,Pile Burn,USDA Forest Service Carson Ranger District,39.115048,-119.8855
+19-28,2019-04-18,2,NA,Pile Burn,Tahoe Douglas Fire District,39.098573,-119.929657
+19-28,2019-04-17,2,NA,Pile Burn,Tahoe Douglas Fire District,39.098573,-119.929657
+19-67,2019-04-17,2,NA,Pile Burn,City of Winnemucca,39.10743,-119.8534
+18-38,2018-04-07,NA,NA,Pile Burn,Naval Air Station Fallon,39.412537,-118.726074
+20-36,2020-01-20,NA,NA,Pile Burn,Hawthorne Army Depot,38.547034,-118.653925
+19-73,2019-04-15,NA,NA,Pile Burn,Nevada Department of Transportation - Winnemucca,40.736982,-118.02908
+19-31,2019-04-16,NA,NA,Pile Burn,Nevada Department of Transportation - Winnemucca,41.698105,-118.502442
+19-18,2019-04-09,NA,NA,Pile Burn,Naval Air Station Fallon,39.450837,-118.709578
+17-30,2018-02-22,NA,NA,Pile Burn,Naval Air Station Fallon,39.42047,-118.724216
+19-18,2019-04-27,NA,NA,Pile Burn,Naval Air Station Fallon,39.450837,-118.709578
+19-18,2019-11-19,NA,NA,Pile Burn,Naval Air Station Fallon,39.450837,-118.709578
+18-56,2018-04-09,NA,NA,Pile Burn,Hawthorne Army Depot,38.547034,-118.653925
+20-62,2020-03-02,NA,NA,Pile Burn,Nevada Department of Transportation - Winnemucca,40.687148,-118.057502
+19-34,2019-02-07,NA,NA,Pile Burn,Hawthorne Army Depot,38.547034,-118.653925
+19-34,2019-04-17,NA,NA,Pile Burn,Hawthorne Army Depot,38.547034,-118.653925
+17-30,2018-02-26,NA,NA,Pile Burn,Naval Air Station Fallon,39.42047,-118.724216
+20-17,2020-04-01,NA,NA,Pile Burn,Naval Air Station Fallon,39.450837,-118.709578
+19-34,2019-04-16,NA,NA,Pile Burn,Hawthorne Army Depot,38.547034,-118.653925
+20-34,2020-01-27,NA,NA,Pile Burn,Hawthorne Army Depot,38.547034,-118.653925
+17-30,2018-01-22,NA,NA,Pile Burn,Naval Air Station Fallon,39.42047,-118.724216
+19-31,2019-04-22,NA,NA,Pile Burn,Nevada Department of Transportation - Winnemucca,41.698105,-118.502442
+19-31,2019-04-23,NA,NA,Pile Burn,Nevada Department of Transportation - Winnemucca,41.698105,-118.502442
+17-30,2018-01-18,NA,NA,Pile Burn,Naval Air Station Fallon,39.42047,-118.724216
+19-18,2019-03-30,NA,NA,Pile Burn,Naval Air Station Fallon,39.450837,-118.709578
+19-18,2019-03-24,NA,NA,Pile Burn,Naval Air Station Fallon,39.450837,-118.709578
+19-04,2019-10-23,NA,NA,Pile Burn,Pershing County Landfill,40.184005,-118.495257
+19-18,2019-04-22,NA,NA,Pile Burn,Naval Air Station Fallon,39.450837,-118.709578
+17-30,2018-02-05,NA,NA,Pile Burn,Naval Air Station Fallon,39.42047,-118.898806
+19-31,2019-04-02,NA,NA,Pile Burn,Nevada Department of Transportation - Winnemucca,41.698105,-118.502442
+19-31,2019-04-04,NA,NA,Pile Burn,Nevada Department of Transportation - Winnemucca,41.698105,-118.502442
+18-38,2018-09-06,NA,NA,Pile Burn,Naval Air Station Fallon,39.412537,-118.726074
+19-31,2019-04-09,NA,NA,Pile Burn,Nevada Department of Transportation - Winnemucca,41.698105,-118.502442
+17-30,2018-03-12,NA,NA,Pile Burn,Naval Air Station Fallon,39.42047,-118.724216
+20-59,2020-02-20,NA,NA,Pile Burn,Nevada Department of Transportation - Winnemucca,41.989297,-118.635371
+18-37,2018-05-10,NA,NA,Pile Burn,Naval Air Station Fallon,39.450837,-118.709578
+17-30,2018-01-29,NA,NA,Pile Burn,Naval Air Station Fallon,39.42047,-118.724216

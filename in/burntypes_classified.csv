@@ -1,0 +1,78 @@
+BURNTYPE_REPORTED,BURNTYPE_CLASSIFIED,LOGIC,NOTES
+Jackpot,Broadcast,,Jackpot burning targets high concentrations of naturally occurring downed debris. This process is in preparation for broadcast burning a larger area at a later time. https://www.blm.gov/or/resources/fire/prescribedburns/burn_terminology.php
+"Pile, Broadcast, Natural",Broadcast,,"classed based on burning larger acres, in natural area"
+Broadcast,Broadcast,,
+Broadcast Activity,Broadcast,,
+Broadcast Burn,Broadcast,,
+Broadcast Natural,Broadcast,,
+"Broadcast, Natural",Broadcast,,
+"Broadcast, Pile",Broadcast,,
+Community Open Burn,Broadcast,,
+Crop Residue Disposal and CRP on Reservations,Broadcast,,
+"Crop Residue, Pasture, and CRP burning",Broadcast,,
+Field Burn,Broadcast,,
+Natural,Broadcast,,
+"Natural, Broadcast",Broadcast,,
+"Natural, Pile",Broadcast,,
+"Pile, Broadcast",Broadcast,,
+Prescribed Burning – broadcast,Broadcast,,
+Underburn Activity,Broadcast,,
+Underburn Natural,Broadcast,,
+Understory,Broadcast,,
+Weed control along ditch banks and fence lines,Broadcast,,
+"Pile, Natural",Pile,,classed based on review of records and acres burned
+machine,Pile,,CA
+Machine,Pile,,CA
+Dozer Piles,Pile,,
+Grapple Pile,Pile,,
+Hand Pile,Pile,,
+Hand Piled Logging Slash,Pile,,
+Hand Piles,Pile,,
+Handpile,Pile,,
+Landing Only,Pile,,
+Landing Pile,Pile,,
+Landing Piles,Pile,,
+Landings,Pile,,
+Large Slash Piles (Piles larger than 10 feet high and 10 feet wide),Pile,,
+"Logging Slash, Machine Piled",Pile,,
+Machine Pile,Pile,,
+Machine Piled Logging Slash,Pile,,
+Machine Piles,Pile,,
+Medium Slash Piles (Maximum pile size 10 feet high and 10 feet wide),Pile,,
+Other Mechanical,Pile,,
+Pile,Pile,,
+Pile Burn,Pile,,
+Tractor Pile,Pile,,
+Special Use,Unknown,"if burn type classified is unknown: if is.pile = TRUE & if is.broadcast = FALSE > Pile, if is.pile = FALSE & if is.broadcast = TRUE > Broadcast, else unknown
+",These are burn permits in ID issued at special request when a statewide burn ban is in effect. No additional information is known about the type.
+Special Use (Agency permit use only),Unknown,"if burn type classified is unknown: if is.pile = TRUE & if is.broadcast = FALSE > Pile, if is.pile = FALSE & if is.broadcast = TRUE > Broadcast, else unknown
+",These are burn permits in ID issued at special request when a statewide burn ban is in effect. No additional information is known about the type.
+Multiple Fuel Types,Unknown,"if burn type classified is unknown: if is.pile = TRUE & if is.broadcast = FALSE > Pile, if is.pile = FALSE & if is.broadcast = TRUE > Broadcast, else unknown
+",CA
+Wildlife Habitat,Unknown,"if burn type classified is unknown: if is.pile = TRUE & if is.broadcast = FALSE > Pile, if is.pile = FALSE & if is.broadcast = TRUE > Broadcast, else unknown
+",MT
+Rangeland (not cultivated or seeded in the last 10 years),Unknown,"if burn type classified is unknown: if is.pile = TRUE & if is.broadcast = FALSE > Pile, if is.pile = FALSE & if is.broadcast = TRUE > Broadcast, else unknown
+",No additional information is known about the type according to state of ID.
+Range,Unknown,"if burn type classified is unknown: if is.pile = TRUE & if is.broadcast = FALSE > Pile, if is.pile = FALSE & if is.broadcast = TRUE > Broadcast, else unknown
+",type found in ID and MT. No additional information is known about the type according to state of ID.
+Rangeland,Unknown,"if burn type classified is unknown: if is.pile = TRUE & if is.broadcast = FALSE > Pile, if is.pile = FALSE & if is.broadcast = TRUE > Broadcast, else unknown
+",type found in OR
+Firefighter Training,Unknown,"if burn type classified is unknown: if is.pile = TRUE & if is.broadcast = FALSE > Pile, if is.pile = FALSE & if is.broadcast = TRUE > Broadcast, else unknown
+",
+Right of Way only,Unknown,"if burn type classified is unknown: if is.pile = TRUE & if is.broadcast = FALSE > Pile, if is.pile = FALSE & if is.broadcast = TRUE > Broadcast, else unknown
+",
+Rights of Way,Unknown,"if burn type classified is unknown: if is.pile = TRUE & if is.broadcast = FALSE > Pile, if is.pile = FALSE & if is.broadcast = TRUE > Broadcast, else unknown
+",
+UNK,Unknown,"if burn type classified is unknown: if is.pile = TRUE & if is.broadcast = FALSE > Pile, if is.pile = FALSE & if is.broadcast = TRUE > Broadcast, else unknown
+",
+Unknown,Unknown,"if burn type classified is unknown: if is.pile = TRUE & if is.broadcast = FALSE > Pile, if is.pile = FALSE & if is.broadcast = TRUE > Broadcast, else unknown
+",
+Unspecified,Unknown,"if burn type classified is unknown: if is.pile = TRUE & if is.broadcast = FALSE > Pile, if is.pile = FALSE & if is.broadcast = TRUE > Broadcast, else unknown
+",
+Multiple Fuels,Unknown,"if burn type classified is unknown: if is.pile = TRUE & if is.broadcast = FALSE > Pile, if is.pile = FALSE & if is.broadcast = TRUE > Broadcast, else unknown
+",
+Burn Barrel,Yard waste,,
+Burn Barrel (residential solid waste disposal),Yard waste,,
+Residential yard waste/Orchard Clippings,Yard waste,,
+Residential Yard Waste/Small Slash Piles (Max size 5 feet high 5 feet wide),Yard waste,,
+Yard Waste,Yard waste,,

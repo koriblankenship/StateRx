@@ -6,7 +6,7 @@ library(tidyverse)
 
 ### BRING IN THE DATA ----
 
-#all years
+# get permits for all years
 co2010 <- read_csv("in/CO_Copy of Annual Activity Summary 2010 for Public.csv")
 co2011 <- read_csv("in/CO_Copy of Annual Activity Summary 2011 for Public.csv") 
 co2012 <- read_csv("in/CO_Copy of Annual Activity Summary 2012 for Public.csv") 
@@ -155,6 +155,9 @@ process <- raw %>%
                                        PileBcst == "p" ~ "Pile",
                                        .default = PileBcst)) %>%
   # completed acres  
+  # broadcast burns with acres burned = NA are given 0 completed acres.
+  # if acres burned are not reported, it is safe to assume no burn occurred b/c burners verify these reports.
+  # piles are not always reported in acres, so if acres burned = NA for piles, completed acres = NA.
   mutate(COMPLETED_ACRES = case_when(BURNTYPE_REPORTED == "Broadcast" & is.na(Actual.Acres.Burned) ~ 0, 
                                      .default = Actual.Acres.Burned)) %>%
   # pile volume
@@ -163,6 +166,7 @@ process <- raw %>%
   # entity requesting 
   mutate(ENTITY_REQUESTING = paste(AgencyGroup, AdministrativeUnit, sep = ", ")) %>%
   # burn status
+  # the pile volume column represents actual pile volume consumed so it can be used to find status of pile burns
   mutate(BURN_STATUS = case_when(COMPLETED_ACRES > 0 | PILE_VOLUME > 0 ~ "Complete",
                                  .default = "Incomplete")) %>%
   # legal description
@@ -191,7 +195,8 @@ co_ready <- process %>%
   #rename("BURN_STATUS" = "") %>%
   #write if exists here
   select(any_of(c("SOURCE_ID", "DATE", "PERMITTED_ACRES", "COMPLETED_ACRES", "PILE_VOLUME", "BURN_NAME", "BURNTYPE_REPORTED", 
-                  "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS")))
+                  "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
+  distinct()
 
 
 ###EXPORT

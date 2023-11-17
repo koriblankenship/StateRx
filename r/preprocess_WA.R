@@ -31,32 +31,24 @@ burnpermit <- bind_rows(allexpired, allvalid) %>%
   select(PermitNumber, "Expiration Date", "Harvest Acres", "Unit Name", BurnType_permit, Agency_permit, Lat, Long, "Legal Description", 
          "Est. Permit Tonnage")
 
-#remove words in these fields: Est. Permit Tonnage, Harvest Acres
+#remove words in these fields and make them numeric: Est. Permit Tonnage, Harvest Acres
 burnpermit <- burnpermit %>%
   mutate_at("Est. Permit Tonnage", str_replace, "tons", "") %>%
   mutate_at("Est. Permit Tonnage", as.numeric) %>%
   mutate_at("Harvest Acres", str_replace, "acres", "") %>%
   mutate_at("Harvest Acres", as.numeric) 
 
-#ERROR CHECK: *****************************************************************************************************
+#****
+#ERROR CHECK: 
 #look for duplicate permits
 #ERROR CHECK: if this value equals the number of obs in the permit df then there are no duplicate permit numbers in the permit df
 CountPermitNumbers <- n_distinct(burnpermit$PermitNumber) 
-#******************************************************************************************************************
-
+#****
 
 ### SEPERATE PERMITS INTO THOSE W/ AND W/O BURN REQUESTS
 
 #join the burn requests to the permits 
 permit_request_fulljoin <- full_join(burnpermit, burnrequest, by = c("PermitNumber" = "BurnPermitNumber")) 
-
-#ERROR CHECK: does the permit_request_fulljoin have the same number of unique permits as the burnpermit df? ******
-CountPermitNumbersJoin <- n_distinct(permit_request_fulljoin$PermitNumber)
-#there are 60 additional permit numbers in the joined data
-#list distinct permit numbers
-distinct_permit_numbers <- list(unique(burnpermit$PermitNumber))
-distinct_permit_numbers_fulljoin <- list(unique(permit_request_fulljoin$PermitNumber))
-#whats in both?? does it matter? *********************************************************************************
 
 #Permits only - remove rows with burn request
 permit_only <- permit_request_fulljoin %>%
@@ -66,13 +58,25 @@ permit_only <- permit_request_fulljoin %>%
 permit_with_request <- permit_request_fulljoin %>%
   filter(BurnRequestId > 0)
 
+#****
+#ERROR CHECK: does the permit_request_fulljoin have the same number of unique permits as the burnpermit df? 
+CountPermitNumbersJoin <- n_distinct(permit_request_fulljoin$PermitNumber)
+#there are ~60 additional permit numbers in the joined data - there must be some requests for burn permit numbers that are not found in the permits df
+#the difference is small and I have no way to rectify missing data
+#count unique permits in the permits data
+CountPermitsPermits <- n_distinct(burnpermit$PermitNumber)
+#count unique permit #s in the requests 
+CountPermitsRequest <- n_distinct(burnrequest$BurnPermitNumber)
+# there are more permit numbers in permit data which makes sense b/c not every permit has requests
+#****
+
 
 ### PROCESS: permit only
 
 #xwalk to the rx database column names
 permit_only_processed <- permit_only %>%
   rename("SOURCE_ID" = "PermitNumber") %>%
-  rename("DATE" = "Expiration Date") %>%
+  rename("DATE" = "Expiration Date") %>% #this is the only date in the permit, see date below for more info
   rename("PERMITTED_ACRES" = "Harvest Acres") %>%
   rename("BURN_NAME" = "Unit Name") %>%
   rename("BURNTYPE_REPORTED" = "BurnType_permit") %>%
@@ -84,9 +88,13 @@ permit_only_processed <- permit_only %>%
   rename("LEGAL_DESCRIP" = "Legal Description") %>%
   rename("TONS" = "Est. Permit Tonnage")
 
-#mange date
+# date
+# the minimum time that a permit is valid for is generally 1 year.  
+# Burn permits for more than 100 tons are typically issued for 2 years.
+# date was set to Expiration Date above and I adjust here to estimate the issue date by subtracting 
+# 1 year from the Expiration Date. I didn't sort out permits > 100 tons which can be issued for 2 years.
 permit_only_processed$DATE <- dmy(permit_only_processed$DATE) #format the Date column as a date
-permit_only_processed$DATE <-  permit_only_processed$DATE %m-% years(1) #estimate the issue date of the permit by subtracting 1 year from the Expiration Date (DATE field was Expiration Date)
+permit_only_processed$DATE <-  permit_only_processed$DATE %m-% years(1) 
 
 #burn status 
 permit_only_processed <- permit_only_processed %>%
@@ -99,7 +107,10 @@ permit_only_processed <- permit_only_processed %>%
 #xwalk to the rx database column names
 permit_with_request_processed <- permit_with_request %>%
   rename("DATE" = "PlannedIgnitionDate") %>%
-  rename("PERMITTED_ACRES" = "ProposedBurnArea") %>%
+  rename("PERMITTED_ACRES" = "Harvest Acres") %>% 
+  # Harvest Acres comes from the permit and is the most reliable estimate of the intended acreage
+  # there are a small portion of burns that end up with completed acres that far exceed permitted 
+  # so this calculation is a the best approximation, not perfect
   rename("COMPLETED_ACRES" = "PostBurnArea") %>%
   rename("BURN_NAME" = "Unit Name") %>% 
   rename("BURNTYPE_REPORTED" = "BurnType") %>%
@@ -115,12 +126,12 @@ permit_with_request_processed <- permit_with_request %>%
 permit_with_request_processed <- permit_with_request_processed %>%
   mutate(SOURCE_ID = paste(PermitNumber, BurnRequestId, sep=","))  
 
-#manage date
+# date
 permit_with_request_processed$DATE <- mdy_hm(permit_with_request_processed$DATE) #parse the existing date format
 permit_with_request_processed <- permit_with_request_processed %>% #change date format from POSIXct to ymd
   mutate(DATE = ymd(DATE)) 
 
-#burn status 
+# burn status 
 permit_with_request_processed <- permit_with_request_processed %>%
   mutate(BURN_STATUS = case_when(is.na(COMPLETED_ACRES) ~ "Unknown", 
                                  COMPLETED_ACRES == 0 ~ "Incomplete",
@@ -130,8 +141,9 @@ permit_with_request_processed <- permit_with_request_processed %>%
 
 wa_ready <- bind_rows(permit_only_processed, permit_with_request_processed) %>%
   select(SOURCE_ID, DATE, PERMITTED_ACRES, COMPLETED_ACRES, BURN_NAME, BURNTYPE_REPORTED, ENTITY_REQUESTING, 
-         LAT_PERMIT, LON_PERMIT, LEGAL_DESCRIP, TONS, BURN_STATUS) #select only columns to transfer to Rx database
-
+         LAT_PERMIT, LON_PERMIT, LEGAL_DESCRIP, TONS, BURN_STATUS) %>% #select only columns to transfer to Rx database
+        distinct()
+  
 #"correct" clearly erroneous lat/lons
 wa_ready <- wa_ready %>%         
   mutate(LON_PERMIT = case_when(LON_PERMIT > 0 ~ LON_PERMIT * -1, #positive lon is in China, making them negatives moves them to WA
@@ -141,10 +153,6 @@ wa_ready <- wa_ready %>%
   mutate(LAT_PERMIT = na_if(LAT_PERMIT, 0)) %>% #if Lat = 0, give it a value of NA
   mutate(LON_PERMIT = na_if(LON_PERMIT, 0)) #if Lon = 0, give it a value of NA
 
-#remove legal description when a lat/long is given  [[Decide what to do with legals]]
-#wa_ready <- wa_ready %>%
-#  mutate(LEGAL_DESCRIP = replace(LEGAL_DESCRIP, which(LAT_PERMIT > 0), NA))
-
   
 ###EXPORT
 
@@ -152,6 +160,24 @@ write_csv(wa_ready, "out/wa_ready.csv")
 
 
 ### ARCHIVE
+
+#legals
+
+#remove legal description when a lat/long is given  [[Decide what to do with legals]]
+#wa_ready <- wa_ready %>%
+#  mutate(LEGAL_DESCRIP = replace(LEGAL_DESCRIP, which(LAT_PERMIT > 0), NA))
+
+
+# look at the difference between the Harvest Acres in the permit and the Sum of the reported post burn area for each distinct permit
+
+TEST2 <- permit_request_fulljoin %>%
+  rename(Harvest.Acres = "Harvest Acres") %>%
+  group_by(PermitNumber) %>%
+  mutate(SUM_BURNAREA = sum(PostBurnArea)) %>%
+  mutate(DIFF = Harvest.Acres - SUM_BURNAREA) %>%
+  ungroup() %>%
+  distinct(PermitNumber, Harvest.Acres, SUM_BURNAREA, DIFF)
+
 
 #compare lat/long between permit and request
 permit_request2 <- permit_request %>%

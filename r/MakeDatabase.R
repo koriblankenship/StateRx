@@ -1,21 +1,22 @@
 ### wtf ----
 #what does source id come in as num for mt, or and nm? I specified as character in preprocessing
+#straight line of points at ID border??????????????
 
 library(tidyverse)
 library(sf)
 
 ### BRING IN THE DATA ----
 
-
+# pre processed permit data for each state
 az <- read_csv("out/az_ready.csv") %>%
   mutate(STATE = "AZ")
 ca <- read_csv("out/ca_ready.csv") %>%
   mutate(STATE = "CA")
 co <- read_csv("out/co_ready.csv") %>%
   mutate(STATE = "CO")
-id <- read_csv("out/id_ready_DRAFT.csv") %>%
+id <- read_csv("out/id_ready_DRAFT.csv") %>% # DRAFT DATA 
   mutate(STATE = "ID")
-mt <- read_csv("out/mt_ready_DRAFT.csv") %>%
+mt <- read_csv("out/mt_ready.csv") %>% 
   mutate_at("SOURCE_ID", as.character) %>%
   mutate(STATE = "MT")
 nm <- read_csv("out/nm_ready.csv") %>%
@@ -33,72 +34,98 @@ wa <- read_csv("out/wa_ready.csv") %>%
 wy <- read_csv("out/wy_ready.csv") %>%
   mutate(STATE = "WY")
 
-binder <- bind_rows(az, ca, co, id, mt, nm, nv, or, ut, wa, wy)
+# burn type classification 
+burn_class <- read_csv("in/burntypes_classified.csv") %>%
+  select(BURNTYPE_REPORTED, BURNTYPE_CLASSIFIED)
 
-#burn type reported -- ask T if we want to do this ********************
-# binder <- binder %>%
-#   mutate(BURNTYPE_REPORTED = case_when(is.na(BURNTYPE_REPORTED) ~ "Not reported"))
 
-# burn type classified
-burntypes <- table(binder$BURNTYPE_REPORTED) 
-burntypes <- as.data.frame(burntypes) 
+### PUT ALL PERMITS INTO 1 DF ----
 
-burntype_range <- binder%>% 
-  filter(BURNTYPE_REPORTED == "Rangeland" | 
-           BURNTYPE_REPORTED == "Rangeland (not cultivated or seeded in the last 10 years)" | 
-           BURNTYPE_REPORTED == "Range")
+binder <- bind_rows(az, ca, co, id, mt, nm, nv, or, ut, wa, wy) %>%
+  mutate(burn_name_lower = tolower(BURN_NAME)) %>% # make burn name lower case 
+  mutate(YEAR = year(DATE)) # make a year column
 
-# in OR ("Rangeland") - can get more info on type from burn name
-#look at burntypes reported in OR
-burntype_or <- binder%>% 
-  filter(STATE == "OR") %>%
-  distinct(BURNTYPE_REPORTED)
-#look at rangeland burn rows in OR
-burntype_or_rangeland <- binder %>%
-  filter(STATE == "OR") %>%
-  filter(BURNTYPE_REPORTED == "Rangeland")
-#test classification
-keywords_pile <- c("pile", "piles", 
-                   "Pile", "Piles",
-                   "handpile", "handpiles",
-                   "Handpile", "Handpiles",
-                   "jackpot", "jackpots",
-                   "Jackpot", "Jackpots") #see if I can designate any case combination, upper, lower, sentence, etc
-#find one type
-burntype_or_rangeland <- burntype_or_rangeland %>%
+
+### PROCESS ----
+
+## Classify Burn Type
+
+# 1. join the xwalk to classify the burn types reported into standard classes
+binder <- left_join(binder, burn_class)
+
+# 2. use keywords found in burn name to classify rows where burn type is unknown
+
+# list the keywords for burn types
+keywords_pile <- c("pile", "piles", "handpile", "handpiles")
+keywords_broadcast <- c("broadcast", "natural fuel", "underburn", "understory", "prescribed burn", "rx burn")
+
+# find keywords in the burn name
+binder <- binder %>%
   rowwise() %>%
-  mutate(is.pile = str_detect(BURN_NAME, "Handpiles")) # this finds one
-#find list of types
-burntype_or_rangeland2 <- burntype_or_rangeland %>%
-  rowwise() %>%
-  mutate(is.pile = str_detect(BURN_NAME, paste0(keywords_pile, collapse = '|'))) 
+  mutate(is.pile = str_detect(burn_name_lower, paste0(keywords_pile, collapse = '|'))) %>%
+  mutate(is.broadcast = str_detect(burn_name_lower, paste0(keywords_broadcast, collapse = '|')))
 
+# classify unknown burn types based on the keywords in the burn name
+binder <- binder %>%
+  mutate(BURNTYPE_CLASSIFIED = case_when(
+    BURNTYPE_CLASSIFIED == "Unknown" | is.na(BURNTYPE_CLASSIFIED) & is.pile == TRUE & is.broadcast == FALSE ~ "Pile", 
+    BURNTYPE_CLASSIFIED == "Unknown" | is.na(BURNTYPE_CLASSIFIED) & is.pile == FALSE & is.broadcast == TRUE ~ "Broadcast", 
+    .default = BURNTYPE_CLASSIFIED)) 
+binder <- binder %>%
+  mutate(BURNTYPE_CLASSIFIED = case_when(is.na(BURNTYPE_CLASSIFIED) ~ "Unknown",
+                                         .default = BURNTYPE_CLASSIFIED))
 
+##########LOOK AT YARD WASTE PILES IN id*****************
+(burntypes <- table(binder$BURNTYPE_CLASSIFIED))
 
-# in ID ("Rangeland (not cultivated or seeded in the last 10 years)") - no burn name 
-burntype_id <- binder%>% 
-  filter(STATE == "ID") %>%
-  distinct(BURNTYPE_REPORTED)
+## Deal with multiple requests -- get 1 burn at a lat/lon per year and sum permit area
+# if status = complete, sum completed area????????????????
 
+# state group a: has permitted and completed
+stategroup_a <- c("CO", "NM", "WA", "WY")
+# state group b: has completed
+stategroup_b <- c("CA", "MT", "OR", "UT")
 
-write_csv(burntypes, "in/burntypes.csv")
+# permitted and completed
+binder_perm <- binder %>%
+  filter(STATE %in% stategroup_a) %>%
+  group_by(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_REPORTED, LAT_PERMIT, LON_PERMIT) %>%
+  summarise(SUM_PERMIT_ACRES = sum(PERMITTED_ACRES), across()) %>% # across retains all the rows
+  summarise(SUM_COMPLETED_ACRES = sum(COMPLETED_ACRES), across()) %>%
+  distinct(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_REPORTED, LAT_PERMIT, LON_PERMIT, .keep_all = TRUE) # distinct will remove duplicate records, .keep all keeps all columns
+# completed only
+binder_comp <- binder %>%
+  filter(STATE %in% stategroup_b) %>%
+  group_by(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_REPORTED, LAT_PERMIT, LON_PERMIT) %>%
+  summarise(SUM_COMPLETED_ACRES = sum(COMPLETED_ACRES), across()) %>%
+  distinct(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_REPORTED, LAT_PERMIT, LON_PERMIT, .keep_all = TRUE) 
+
+# put it back together
+binder_unique <- bind_rows(binder_perm, binder_comp) %>%
+  select(-c(PERMITTED_ACRES, COMPLETED_ACRES, LEGAL_DESCRIP, TONS, PILE_VOLUME, burn_name_lower, is.pile, is.broadcast))
 
 
 
 
 # look at the df
 write_csv(binder, "out/BINDER.csv")
+write_csv(binder_unique, "out/BINDER_unique.csv")
 
 
-# make it a shp
-
-binder_sf <- binder %>%
+# make it an sf object
+# all points
+binder_all <- binder %>%
+  filter(LAT_PERMIT != 0) %>% # only sites with valid lat
+  filter(LON_PERMIT != 0) %>% # only sites with valid lon
+  st_as_sf(coords = c("LON_PERMIT", "LAT_PERMIT"), crs=4326, remove=FALSE)
+# unique points
+binder_unique <- binder_unique %>%
   filter(LAT_PERMIT != 0) %>% # only sites with valid lat
   filter(LON_PERMIT != 0) %>% # only sites with valid lon
   st_as_sf(coords = c("LON_PERMIT", "LAT_PERMIT"), crs=4326, remove=FALSE)
 
 
-## MAKE A MAP GRAPHIC
+## MAKE A MAP GRAPHIC ----
 us <- map_data("state")
 world <- map_data("world")
 
@@ -112,15 +139,16 @@ ggplot()+
   coord_map("albers", lat0 = 39, lat1 = 60) + #****************************albers?????????????????
   xlab("") + ylab("")
 
+
 ## EXPORT  ***********MODIFY FOR RX
 ## png
 ggsave("./Projects/LANDFIRE/Output/nafsn_sites.png", width=7, height=5, units='in', dpi=300)
 ## shp
-# create a directory for the shp files if it doesn't already exist 
-# ifelse(!dir.exists("./Projects/LANDFIRE/Output/nafsnshp/"), 
-#        dir.create("./Projects/LANDFIRE/Output/nafsnshp/"), FALSE)
+st_write(binder_all, "out/shp/binder_all.shp", append = FALSE) #append set to overwrite existing data
+st_write(binder_unique, "out/shp/binder_unique.shp", append = FALSE) #append set to overwrite existing data
 
-st_write(binder_sf, "out/shp/binder.shp", append = FALSE) #append set to overwrite existing data
+
+
 #**********************************look at the warnings and try to address???????????????
 
 
@@ -169,6 +197,10 @@ ggplot(data = binder_plots) +
 
 
 ##########archive
+
+# get count by type error checking
+# count burn type frequency based on xwalk 
+(type_by_reported <- table(binder$BURNTYPE_CLASSIFIED))
 
 
 # permit input files

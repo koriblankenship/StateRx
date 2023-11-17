@@ -23,21 +23,12 @@ process <- raw %>%
                                      .default = Acres.Burned)) %>%
   mutate_at("COMPLETED_ACRES", as.numeric) %>%
 #tons
-  mutate(TONS = Tons.Acre * COMPLETED_ACRES)
-
-
-#Status, no burn reason? ***********************************************************?
-####once this is answered, recheck the tons calculation when completed acres is 0, should tons be 0 or -9999?
-status <- unique(process$Status)
-
-process <- process %>%
-  mutate(BURN_STATUS = case_when(Status == "Approved" ~ "Incomplete",
-                                 Status == "Completed" ~ "Complete"))
-  
-#what about completed burn w/ 0 acres that was broadcast ******************************?
-# e.g. id 173666, acres burned is 0 but status is completed, status is not in prescription
-# what does completed vs approved mean; does completed meant a burn was done?
-
+  mutate(TONS = Tons.Acre * COMPLETED_ACRES) %>%
+#burn status
+# Status can be "completed" and burned acres "0", so I'm classifying status partially based on completed acres
+  mutate(BURN_STATUS = case_when(Status == "Completed" & COMPLETED_ACRES == 0 ~ "Unknown",
+                                 COMPLETED_ACRES > 0 ~ "Complete",
+                                 .default = "Incomplete"))
 
 #xwalk to the rx database column names and formats 
 #(all rx database attributes are listed, commented out attributes are not present in the state data or do not need to be renamed)
@@ -57,9 +48,10 @@ mt_ready <- process %>%
   #rename("BURN_STATUS" = "") %>%
   #write if exists here
   select(any_of(c("SOURCE_ID", "DATE", "PERMITTED_ACRES", "COMPLETED_ACRES", "PILE_VOLUME", "BURN_NAME", "BURNTYPE_REPORTED", 
-                  "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS")))
+                  "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
+  distinct()
 
 
 ###EXPORT
 
-write_csv(mt_ready, "out/mt_ready_DRAFT.csv")
+write_csv(mt_ready, "out/mt_ready.csv")

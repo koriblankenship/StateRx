@@ -1366,7 +1366,6 @@ NA,2011-01-01,NA,NA,NA,NA,NA,"NA, NA",0,0,NA,Incomplete
 40,2013-01-01,NA,NA,23732.8,Breckenridge West,Pile,"USFS, White River National Forest",39.5,-106.05,NA,Complete
 159,2013-01-01,2500,0,0,Aldrich Lakes,Broadcast,"USFS, White River National Forest",0,0,3N 90W 4,Incomplete
 204,2013-01-01,NA,NA,4275,Frisco Peninsula,Pile,"USFS, White River National Forest",39.58,-106.06,NA,Complete
-204,2013-01-01,NA,NA,4275,Frisco Peninsula,Pile,"USFS, White River National Forest",39.58,-106.06,NA,Complete
 226,2013-01-01,NA,NA,2639,Ute Creek WRF,Pile,"USFS, White River National Forest",0,0,1N 90W 28,Complete
 242,2013-01-01,NA,NA,0,Budges,Pile,"USFS, White River National Forest",39.34,-107.34,NA,Incomplete
 249,2013-01-01,NA,NA,0,Berry Creek,Pile,"USFS, White River National Forest",0,0,4S 82W 28,Incomplete
@@ -1518,7 +1517,6 @@ NA,2011-01-01,NA,NA,NA,NA,NA,"NA, NA",0,0,NA,Incomplete
 224,2014-01-01,NA,NA,120616.75,Private Pile,Pile,"Private Land, Privately-owned land being burned by owner",40.13,-108.52,NA,Complete
 227,2014-01-01,NA,NA,5000,Private Pile,Pile,"Private Land, Privately-owned land being burned by owner",40.73,-105.39,NA,Complete
 285,2014-01-01,NA,NA,351576.96,Private Pile,Pile,"Private Land, Privately-owned land being burned by owner",38.5,-106.43,NA,Complete
-285,2014-01-01,NA,NA,351576.96,Private Pile,Pile,"Private Land, Privately-owned land being burned by owner",38.5,-106.43,NA,Complete
 311,2014-01-01,NA,NA,5510,Private Pile,Pile,"Private Land, Privately-owned land being burned by owner",40.4,-105.8,NA,Complete
 315,2014-01-01,NA,NA,7680,Private Pile,Pile,"Private Land, Privately-owned land being burned by owner",40.76,-105.51,NA,Complete
 149,2014-01-01,NA,NA,266800,Private Pile,Pile,"PVT, Blue Valley Ranch",39.94,-106.42,NA,Complete
@@ -1666,7 +1664,6 @@ NA,2011-01-01,NA,NA,NA,NA,NA,"NA, NA",0,0,NA,Incomplete
 125,2014-01-01,1100,30,0,Indian Run,Broadcast,"USFS, Routt National Forest",40.24,-107.39,NA,Complete
 126,2014-01-01,NA,NA,2850,Morrison Creek,Pile,"USFS, Routt National Forest",40.23,-106.83,NA,Complete
 213,2014-01-01,1155,60,0,Seedhouse Broadcast,Broadcast,"USFS, Routt National Forest",40.17,-106.79,NA,Complete
-216,2014-01-01,500,125,0,Big Creek,Broadcast,"USFS, Routt National Forest",40.77,-106.56,NA,Complete
 216,2014-01-01,500,125,0,Big Creek,Broadcast,"USFS, Routt National Forest",40.77,-106.56,NA,Complete
 294,2014-01-01,NA,NA,81918,Elk River,Pile,"USFS, Routt National Forest",40.75,-106.61,NA,Complete
 295,2014-01-01,NA,NA,0,Sand Mountain Pile Burn,Pile,"USFS, Routt National Forest",40.76,-106.96,NA,Incomplete
@@ -2208,7 +2205,6 @@ NA,2011-01-01,NA,NA,NA,NA,NA,"NA, NA",0,0,NA,Incomplete
 16,2016-01-01,NA,NA,27850.2,Private Piles,Pile,"Private Land, Privately-owned land being burned by owner",37.09,-106.67,NA,Complete
 45,2016-01-01,NA,NA,30076.2,Private Piles,Pile,"Private Land, Privately-owned land being burned by owner",38.47,-106.41,NA,Complete
 50,2016-01-01,NA,NA,3900,Private Piles,Pile,"Private Land, Privately-owned land being burned by owner",40.71,-105.36,NA,Complete
-50,2016-01-01,NA,NA,3900,Private Piles,Pile,"Private Land, Privately-owned land being burned by owner",40.71,-105.36,NA,Complete
 59,2016-01-01,NA,NA,0,Private Piles,Pile,"Private Land, Privately-owned land being burned by owner",37.33,-107.82,NA,Incomplete
 70,2016-01-01,NA,NA,392445,Private Piles,Pile,"Private Land, Privately-owned land being burned by owner",38.08,-105.42,NA,Complete
 71,2016-01-01,NA,NA,30875,Private Piles,Pile,"Private Land, Privately-owned land being burned by owner",40.51,-107.06,NA,Complete
@@ -2464,7 +2460,6 @@ NA,2011-01-01,NA,NA,NA,NA,NA,"NA, NA",0,0,NA,Incomplete
 191,2017-01-01,NA,NA,0,Poudre Hatchery,Pile,"DFPC, Northeast Region, Div Fire Prev & Ctrl",40.7,-105.71,NA,Incomplete
 204,2017-01-01,NA,NA,0,Bellvue Pile Project,Pile,"DFPC, Northeast Region, Div Fire Prev & Ctrl",40.63,-105.17,NA,Incomplete
 208,2017-01-01,1500,0,0,Jackson-Andrick,Broadcast,"DFPC, Northeast Region, Div Fire Prev & Ctrl",40.37,-104.09,NA,Incomplete
-208,2017-01-01,1500,0,0,Jackson-Andrick,Broadcast,"DFPC, Northeast Region, Div Fire Prev & Ctrl",40.37,-104.09,NA,Incomplete
 250,2017-01-01,NA,NA,0,Lory State Park,Pile,"DFPC, Northeast Region, Div Fire Prev & Ctrl",40.57,-105.18,NA,Incomplete
 259,2017-01-01,300,0,0,Chemical Depot Broadcast,Broadcast,"DoD, Army Chemical Depot",38.27,-104.28,NA,Incomplete
 210,2017-01-01,NA,NA,0,Fort Carson Piles,Pile,"DoD, Fort Carson Army",38.59,-104.82,NA,Incomplete
@@ -2546,7 +2541,6 @@ NA,2011-01-01,NA,NA,NA,NA,NA,"NA, NA",0,0,NA,Incomplete
 105,2017-01-01,NA,NA,0,Private Piles,Pile,"Private Land, Privately-owned land being burned by owner",40.71,-105.34,NA,Incomplete
 136,2017-01-01,NA,NA,0,Private Piles,Pile,"Private Land, Privately-owned land being burned by owner",39.52,-106.06,NA,Incomplete
 147,2017-01-01,NA,NA,0,Private Piles,Pile,"Private Land, Privately-owned land being burned by owner",40.71,-105.36,NA,Incomplete
-147,2017-01-01,NA,NA,0,Private Piles,Pile,"Private Land, Privately-owned land being burned by owner",40.71,-105.36,NA,Incomplete
 183,2017-01-01,NA,NA,0,Private Piles,Pile,"Private Land, Privately-owned land being burned by owner",40.05,-105.36,NA,Incomplete
 218,2017-01-01,NA,NA,44550,Private Piles,Pile,"Private Land, Privately-owned land being burned by owner",30.08,-105.42,NA,Complete
 240,2017-01-01,NA,NA,0,Private Piles,Pile,"Private Land, Privately-owned land being burned by owner",40.56,-106.89,NA,Incomplete
@@ -2575,11 +2569,9 @@ NA,2011-01-01,NA,NA,NA,NA,NA,"NA, NA",0,0,NA,Incomplete
 45,2017-01-01,NA,NA,0,Mad and Blue Creek Piles,Pile,"USFS, Arapaho/Roosevelt National Forests",39.76,-105.69,NA,Incomplete
 56,2017-01-01,NA,NA,0,Sugarloaf 151,Pile,"USFS, Arapaho/Roosevelt National Forests",39.97,-105.47,NA,Incomplete
 57,2017-01-01,NA,NA,0,Lump Gulch Lumpy Tung 1-9,Pile,"USFS, Arapaho/Roosevelt National Forests",39.88,-105.49,NA,Incomplete
-57,2017-01-01,NA,NA,0,Lump Gulch Lumpy Tung 1-9,Pile,"USFS, Arapaho/Roosevelt National Forests",39.88,-105.49,NA,Incomplete
 61,2017-01-01,NA,NA,7307.1,Sugarloaf 137,Pile,"USFS, Arapaho/Roosevelt National Forests",39.99,-105.45,NA,Complete
 68,2017-01-01,NA,NA,0,Kelly Dahl,Pile,"USFS, Arapaho/Roosevelt National Forests",39.93,-105.49,NA,Incomplete
 77,2017-01-01,NA,NA,1345818.6,Sulphur Machine South,Pile,"USFS, Arapaho/Roosevelt National Forests",39.91,-105.84,NA,Complete
-80,2017-01-01,NA,NA,0,Magic Sky,Pile,"USFS, Arapaho/Roosevelt National Forests",40.74,-105.52,NA,Incomplete
 80,2017-01-01,NA,NA,0,Magic Sky,Pile,"USFS, Arapaho/Roosevelt National Forests",40.74,-105.52,NA,Incomplete
 82,2017-01-01,NA,NA,0,St. Vrain Taylor SV6,Pile,"USFS, Arapaho/Roosevelt National Forests",40.2,-105.49,NA,Incomplete
 83,2017-01-01,NA,NA,0,Sugarloaf 4,Pile,"USFS, Arapaho/Roosevelt National Forests",40.05,-105.43,NA,Incomplete
@@ -3040,7 +3032,6 @@ NA,2011-01-01,NA,NA,NA,NA,NA,"NA, NA",0,0,NA,Incomplete
 68,2018-01-01,NA,NA,28805,Turkey Springs Piles,Pile,"USFS, San Juan National Forest",37.32,-107.15,NA,Complete
 69,2018-01-01,1500,0,NA,Brockover,Broadcast,"USFS, San Juan National Forest",37.33,-107.15,NA,Incomplete
 70,2018-01-01,2017,0,NA,Brockover II,Broadcast,"USFS, San Juan National Forest",37.31,-107.15,NA,Incomplete
-71,2018-01-01,1400,0,NA,Horsefly,Broadcast,"USFS, San Juan National Forest",37.3,-107.33,NA,Incomplete
 71,2018-01-01,1400,0,NA,Horsefly,Broadcast,"USFS, San Juan National Forest",37.3,-107.33,NA,Incomplete
 82,2018-01-01,2150,0,NA,Devil Creek 2,Broadcast,"USFS, San Juan National Forest",37.32,-107.18,NA,Incomplete
 131,2018-01-01,NA,NA,24924,Lake Canyon Piles,Pile,"USFS, San Juan National Forest",37.72,-108.7,NA,Complete

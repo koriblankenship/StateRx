@@ -36,6 +36,7 @@ smp1_processed <- smp1 %>%
   rename("LON_PERMIT" = "Longitude") 
 
 #mange date
+# there are many missing dates
 smp1_processed <- smp1_processed %>%
   mutate(DATE = parse_date_time(Day1Date, orders = c("dmy", "mdy"))) #parse the existing dates - data format is both dmy and mdy
 smp1_processed <- smp1_processed %>%
@@ -55,6 +56,7 @@ smp2_processed <- smp2 %>%
   mutate_at("LAT_PERMIT", as.numeric) #was character, needs to be numeric like other lat fields
 
 #mange date 
+# there are many missing dates
 smp2_processed <- smp2_processed %>%
   mutate(DATE = parse_date_time(Date1, orders = c("dmy", "mdy"))) #parse the existing dates - data format is both dmy and mdy
 smp2_processed <- smp2_processed %>%
@@ -69,10 +71,16 @@ wyo_processed <- wyo %>%
   rename("BURN_NAME" = "Burn Name") %>%
   rename("ENTITY_REQUESTING" = "CONTACT AGENCY/COMPANY") %>%
   rename("LAT_PERMIT" = "BURN LOCATION LAT") %>% 
-  rename("LON_PERMIT" = "BURN LOCATION LONG") 
-
+  rename("LON_PERMIT" = "BURN LOCATION LONG")  %>%
+# remove 2023 data
+# this dataframe has 2022 and 2023 data; I'm removing 2023 b/c its incomplete and I'm not processing that year for any state
+  mutate(year = str_sub(SOURCE_ID, 1, 4)) %>% # pull out the year from the source ID  
+  filter(year == "2022") %>%
 #mange date
-wyo_processed$DATE <- mdy(wyo_processed$Date1) #parse the existing dates - data format is mdy
+# there are many missing dates, when date is missing make date = 1/1/2022
+  mutate(DATE = case_when(is.na(Date1) ~ "01/01/2022",
+                           .default = Date1)) %>%
+  mutate(DATE = mdy(DATE))
 
 
 ### BIND ALL DATA BACK TOGETHER
@@ -80,16 +88,16 @@ wyo_processed$DATE <- mdy(wyo_processed$Date1) #parse the existing dates - data 
 wy_ready <- bind_rows(wyo_processed, smp2_processed, smp1_processed) %>%
   rename("WasBurned" = "Burned?") %>% #get rid of that pesky ?
   #completed acres
-  mutate(COMPLETED_ACRES = case_when(WasBurned == "Burned" & PERMITTED_ACRES == 0 & PILE_VOLUME == 0 ~ 0, #if it was burned but permitted acres and pile volume are 0, completed acres is 0
-                                     WasBurned == "Burned" & PERMITTED_ACRES == 0 & PILE_VOLUME > 0 ~ NA, #since these are piles, acres may not be reported
-                                     is.na(WasBurned) ~ 0, # if WasBurned is NA then the burn was not done, completed acres = 0
-                                     PERMITTED_ACRES > 0 ~ PERMITTED_ACRES)) %>% #else, completed = permitted acres 
+  # according to WY: "The "Burned?" fields indicate that the planned burn was conducted. 
+  # if that field is blank, we did not receive confirmation of the burn being conducted."
+  mutate(COMPLETED_ACRES = case_when(WasBurned == "Burned" ~ PERMITTED_ACRES)) %>%
   #burn status
   mutate(BURN_STATUS = case_when(is.na(WasBurned) ~ "Incomplete",
                                  WasBurned == "Burned" ~ "Complete")) %>%
   #select final columns
   select(any_of(c("SOURCE_ID", "DATE", "PERMITTED_ACRES", "COMPLETED_ACRES", "PILE_VOLUME", "BURN_NAME", "BURNTYPE_REPORTED", 
-                "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS")))
+                "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
+  distinct()
  
 
 ###EXPORT
@@ -99,6 +107,12 @@ write_csv(wy_ready, "out/wy_ready.csv")
 
 
 #########ARCHIVE#################
+
+### CHECKING FOR DUPLICATES
+checking <- wy_ready %>%
+  mutate(year = year(ymd(DATE))) %>%
+  distinct(SOURCE_ID, year)
+checking2 <- distinct(wy_ready)
 
 ### LAT/LON STUFF
 

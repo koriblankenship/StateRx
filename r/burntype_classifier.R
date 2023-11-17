@@ -44,11 +44,17 @@ binder <- bind_rows(az, ca, co, id, mt, nm, nv, or, ut, wa, wy) %>%
 
 # PILES
 
-keywords_pile <- c("pile", "piles", "handpile", "handpiles", "jackpot", "jackpots")
+keywords_pile <- c("pile", "piles", "handpile", "handpiles")
 #slash? could do when acres not reported and volume is but this doesn't pick up many burns
+########MOVE JACKPOT TO 
 
 keywords_broadcast <- c("broadcast", "natural fuel", "underburn", "understory")
 #tried rx but it picks up a lot of "rx piles"
+
+keywords_rx <- c("Rx", "rx", "RX")
+
+keywords_nat <- c("natural")
+#################review this considering that broadcast will trump piles
 
 #Ag was not very helpful, probably skip this
 # keywords_ag <- c(" ag ", " Ag ",
@@ -60,7 +66,8 @@ keywords_broadcast <- c("broadcast", "natural fuel", "underburn", "understory")
 binder <- binder %>%
   rowwise() %>%
   mutate(is.pile = str_detect(burn_name_lower, paste0(keywords_pile, collapse = '|'))) %>%
-  mutate(is.broadcast = str_detect(burn_name_lower, paste0(keywords_broadcast, collapse = '|'))) 
+  mutate(is.broadcast = str_detect(burn_name_lower, paste0(keywords_broadcast, collapse = '|'))) %>%
+  mutate(is.rx = str_detect(burn_name_lower, paste0(keywords_rx, collapse = '|'))) 
   
 
 
@@ -85,7 +92,10 @@ burntypes <- as.data.frame(burntypes)
 ### TEST FOR A TYPE
 
 burntype_tester <- binder%>% 
-  filter(BURNTYPE_REPORTED == "Wildlife Habitat")
+  filter(BURNTYPE_REPORTED == "Wildlife Habitat") 
+         
+           BURNTYPE_REPORTED == "Unknown" |
+           BURNTYPE_REPORTED == "Unspecified")
 
 unique(burntype_tester$STATE)
 
@@ -109,7 +119,7 @@ burntype_or_rangeland <- binder %>%
 
 # in ID ("Rangeland (not cultivated or seeded in the last 10 years)") - no burn name 
 burntype_id <- binder%>% 
-  filter(STATE == "ID") %>%
+  filter(STATE == "ID") %>%data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAWElEQVR42mNgGPTAxsZmJsVqQApgmGw1yApwKcQiT7phRBuCzzCSDSHGMKINIeDNmWQlA2IigKJwIssQkHdINgxfmBBtGDEBS3KCxBc7pMQgMYE5c/AXPwAwSX4lV3pTWwAAAABJRU5ErkJggg==
   distinct(BURNTYPE_REPORTED)
 burntype_id_range <- binder%>% 
   filter(STATE == "ID") %>%

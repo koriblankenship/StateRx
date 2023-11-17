@@ -1,6 +1,8 @@
 #This script takes CA rx permit data and processes it so it is ready to be used in the Rx database
 
-## TO DO: look at the legal description formatting, change those w/ special characters?
+## TO DO: 
+# -look at the legal description formatting, change those w/ special characters?
+#
 
 library(tidyverse)
 
@@ -19,18 +21,17 @@ names(raw) <- make.names(names(raw), unique=TRUE)
 
 process <- raw %>%
   select(-file_name) %>% #remove the file name column
-  drop_na() %>% # remove rows where all columns are NA 
+  filter_at(vars(Burn.Date, Acres.Requested, Acres.Burned, Latitude, Longitude),all_vars(!is.na(.))) %>%
+  #all_vars(!is.na(.)) means that all the variables listed need to be not NA.
 #date
   mutate(DATE = mdy(Burn.Date)) %>%
   mutate(DATE = as.Date(DATE)) %>%
 #permitted acres
   mutate(PERMITTED_ACRES = as.numeric(Acres.Requested)) %>%
-#legal description (get legal when lat/lon is 0)
-  mutate(LEGAL_DESCRIP = case_when(Latitude == 0 | Longitude == 0 ~ Legal.Location,
-                                   .default = NA)) %>%
 #burn status
-  mutate(BURN_STATUS = case_when(Acres.Burned > 0 ~ "Complete",
-                                 .default = "Incomplete")) %>%
+  mutate(BURN_STATUS = case_when(Acres.Burned == 0 ~ "Incomplete",
+                                 Acres.Burned > 0 ~ "Complete",
+                                 .default = "Unknown")) %>%
 #total tons
   mutate(TONS = as.numeric(Total.Tons)) 
 process$TONS[process$TONS < 0] <- NA #change negative tons values to NA
@@ -48,14 +49,30 @@ ca_ready <- process %>%
   rename("ENTITY_REQUESTING" = "Agency") %>%
   rename("LAT_PERMIT" = "Latitude") %>%
   rename("LON_PERMIT" = "Longitude") %>%
-  #rename("LEGAL_DESCRIP" = "") %>%
+  rename("LEGAL_DESCRIP" = "Legal.Location") %>%
   #rename("TONS" = "") %>%
   #rename("BURN_STATUS" = "") %>%
-  #write if exists here
   select(any_of(c("SOURCE_ID", "DATE", "PERMITTED_ACRES", "COMPLETED_ACRES", "PILE_VOLUME", "BURN_NAME", "BURNTYPE_REPORTED", 
-                  "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS")))
+                  "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
+  distinct()
 
 
 ###EXPORT
 
 write_csv(ca_ready, "out/ca_ready.csv")
+
+
+
+
+########## SOME CHECKING -----
+
+checking1 <- ca_ready %>%
+  mutate(year = year(ymd(DATE))) %>%
+  distinct(DATE, PERMITTED_ACRES, COMPLETED_ACRES, BURN_NAME, BURNTYPE_REPORTED, ENTITY_REQUESTING, LAT_PERMIT, LON_PERMIT)
+
+
+#check distinct for year, lat/lon
+checking2 <- ca_ready %>%
+  mutate(year = year(ymd(DATE))) %>%
+  distinct(year, BURN_NAME, LAT_PERMIT, LON_PERMIT)
+

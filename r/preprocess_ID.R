@@ -37,13 +37,32 @@ id_ready <- process %>%
   #rename("LEGAL_DESCRIP" = "") %>%
   #rename("TONS" = "") %>%
   #rename("BURN_STATUS" = "") %>%
-  #write if exists here
   select(any_of(c("SOURCE_ID", "DATE", "PERMITTED_ACRES", "COMPLETED_ACRES", "PILE_VOLUME", "BURN_NAME", "BURNTYPE_REPORTED", 
                   "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS")))
+
+###EXPORT
+
+write_csv(id_ready, "out/id_ready_DRAFT.csv")
+
+
 
 
 ### LOOKING AT DUPLICATE RECORDS
 id_unique <- distinct(id_ready) #65% of records are unique
+
+# starting in ~2013 data are most consistent
+id_ready_all_2013_2022 <- id_ready %>%
+  filter(between(as_date(DATE), as_date("2013-01-01"), as_date("2022-12-31")))
+
+id_ready_all_2013_2022 %>%
+  group_by_all() %>%
+  filter(n()>1) %>%
+  ungroup()
+
+ind <- duplicated(id_ready_all_2013_2022[,1:5])
+dat[ind,]
+print(ind) # this indicates some duplicates
+
 
 #types of burning
 burntypes <- unique(id_ready$BURNTYPE_REPORTED)
@@ -61,9 +80,6 @@ id_subset_notres <- anti_join(id_ready, id_subset_residential, by = c("DATE", "P
 #how many non res burns are distinct
 id_unique_notres <- distinct(id_subset_notres) # 52089 of 86608; 60% of records are unique
 
-# starting in ~2013 data are most consistent
-id_ready_all_2013_2022 <- id_ready %>%
-  filter(between(as_date(DATE), as_date("2013-01-01"), as_date("2022-12-31")))
 #remove ag 
 id_post2013notres <- anti_join(id_ready_all_2013_2022, id_subset_residential, by = c("DATE", "PERMITTED_ACRES", "BURNTYPE_REPORTED", 
                                                                       "LAT_PERMIT", "LON_PERMIT"))
@@ -73,8 +89,3 @@ id_post2013notres_distinct <- distinct(id_post2013notres) # 45780 of 48497; 94% 
 #suspicious lat
 id_ready_super_lat <- id_ready %>%
   filter(LAT_PERMIT == 44.24046)
-
-
-###EXPORT
-
-write_csv(id_ready, "out/id_ready_DRAFT.csv")
