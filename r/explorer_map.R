@@ -46,6 +46,7 @@ pal <- colorFactor("viridis", levels = burns_west$BURNTYPE_CLASSIFIED)
 ## basic burn type
 leaflet() %>%
   addTiles() %>%
+  setView(-114.029336, 42.087209, zoom = 4.5) %>%
   addCircleMarkers(data = burns_west,
                    #weight = 1,
                    #fillColor = "blue",
@@ -56,8 +57,7 @@ leaflet() %>%
             position = "bottomright",
             pal = pal, values = ~BURNTYPE_CLASSIFIED,
             title = "Burn Type",
-            opacity = 1)
-
+            opacity = 1) 
 # save as html
 # experot in viewer as webpage
 
