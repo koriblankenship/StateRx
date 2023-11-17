@@ -34,6 +34,11 @@ st_crs(west)==st_crs(burns_west)
 
 ###>>> https://r-charts.com/spatial/interactive-maps-leaflet/#google_vignette
 
+popup <- paste(
+  "Year", burns_west$YEAR, "<br>",
+  "Burn Name", burns_west$BURN_NAME, "<br>",
+  "Burn Type", burns_west$BURNTYPE_CLASSIFIED)
+
 # Discrete palette
 pal <- colorFactor("viridis", levels = burns_west$BURNTYPE_CLASSIFIED)
 
@@ -45,13 +50,23 @@ leaflet() %>%
                    #weight = 1,
                    #fillColor = "blue",
                    radius = .25,
-                   color = ~pal(BURNTYPE_CLASSIFIED)) %>%
+                   color = ~pal(BURNTYPE_CLASSIFIED),
+                   popup = ~popup) %>%
   addLegend(data = burns_west,
             position = "bottomright",
             pal = pal, values = ~BURNTYPE_CLASSIFIED,
             title = "Burn Type",
             opacity = 1)
 
+# save as html
+# experot in viewer as webpage
+
+# build index file
+#open a new script and save
+
+# stage comit push
+# on git for this repo, set pages settings
+# wait, then get url to share
 
 ## basic completed vs. not?
 

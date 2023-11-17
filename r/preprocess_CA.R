@@ -27,7 +27,7 @@ process <- raw %>%
   mutate(DATE = mdy(Burn.Date)) %>%
   mutate(DATE = as.Date(DATE)) %>%
 #permitted acres
-  mutate(PERMITTED_ACRES = as.numeric(Acres.Requested)) %>%
+  mutate(ACRES_REQUESTED = as.numeric(Acres.Requested)) %>%
 #burn status
   mutate(BURN_STATUS = case_when(Acres.Burned == 0 ~ "Incomplete",
                                  Acres.Burned > 0 ~ "Complete",
@@ -41,8 +41,8 @@ process$TONS[process$TONS < 0] <- NA #change negative tons values to NA
 ca_ready <- process %>%
   #rename("SOURCE_ID" = "") %>% 
   #rename("DATE" = "") %>%
-  #rename("PERMITTED_ACRES" = "") %>%
-  rename("COMPLETED_ACRES" = "Acres.Burned") %>%
+  #rename("ACRES_PERMITTED" = "") %>%
+  rename("ACRES_COMPLETED" = "Acres.Burned") %>%
   #rename("PILE_VOLUME" = "") %>%
   rename("BURN_NAME" = "Burn.Unit") %>%
   rename("BURNTYPE_REPORTED" = "Burn.Type") %>%
@@ -52,8 +52,9 @@ ca_ready <- process %>%
   rename("LEGAL_DESCRIP" = "Legal.Location") %>%
   #rename("TONS" = "") %>%
   #rename("BURN_STATUS" = "") %>%
-  select(any_of(c("SOURCE_ID", "DATE", "PERMITTED_ACRES", "COMPLETED_ACRES", "PILE_VOLUME", "BURN_NAME", "BURNTYPE_REPORTED", 
-                  "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
+  select(any_of(c("SOURCE_ID", "DATE", "ACRES_REQUESTED", "ACRES_PERMITTED", "ACRES_COMPLETED", "PILE_VOLUME", 
+                  "BURN_NAME", "BURNTYPE_REPORTED", "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", 
+                  "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
   distinct()
 
 

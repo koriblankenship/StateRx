@@ -1,5 +1,5 @@
 #This script takes UT emissions data and processes it so it is ready to be used in the Rx database
-#UT provided spreadsheets for burn permits, requests, and emsissions report. 
+#UT provided spreadsheets for burn permits, requests, and emissions report. 
 #I tried to join them based on the burn name, but this resulted in illogical combinations 
 #(e.g. dates on the requests can be in different years than the burn date and the burn date can be 
 #before the request date). I couldn't be sure that the right request was going w/ the right emissions 
@@ -50,8 +50,9 @@ process$DATE <- mdy(process$burn_date) #parse the existing date format
 ut_ready <- process %>%
   #rename("SOURCE_ID" = "") %>% 
   #rename("DATE" = "") %>%
-  #rename("PERMITTED_ACRES" = "") %>%
-  #rename("COMPLETED_ACRES" = "") %>%
+  #rename("ACRES_REQUESTED = "") %>%
+  #rename("ACRES_PERMITTED" = "") %>%
+  #rename("ACRES_COMPLETED" = "") %>%
   #rename("PILE_VOLUME" = "") %>%
   rename("BURN_NAME" = "name") %>%
   #rename("BURNTYPE_REPORTED" = "") %>%
@@ -61,8 +62,9 @@ ut_ready <- process %>%
   #rename("LEGAL_DESCRIP" = "") %>%
   #rename("TONS" = "") %>%
   #rename("BURN_STATUS" = "") %>%
-  select(any_of(c("SOURCE_ID", "DATE", "PERMITTED_ACRES", "COMPLETED_ACRES", "PILE_VOLUME", "BURN_NAME", "BURNTYPE_REPORTED", 
-                  "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
+  select(any_of(c("SOURCE_ID", "DATE", "ACRES_REQUESTED", "ACRES_PERMITTED", "ACRES_COMPLETED", "PILE_VOLUME", 
+                  "BURN_NAME", "BURNTYPE_REPORTED", "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", 
+                  "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
   distinct()
 
 ###EXPORT

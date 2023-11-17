@@ -28,8 +28,8 @@ burnpermit <- bind_rows(allexpired, allvalid) %>%
   rename("BurnType_permit" = "Burn Type(s)") %>% #distinguish from burn type field in the burnrequest data
   rename("Agency_permit" = "Agency") %>% #distinguish from the agency column in burnrequest data
   separate(LatLong, c("Lat", "Long"), sep = ",") %>% #split that lat/long field 
-  select(PermitNumber, "Expiration Date", "Harvest Acres", "Unit Name", BurnType_permit, Agency_permit, Lat, Long, "Legal Description", 
-         "Est. Permit Tonnage")
+  select("PermitNumber", "Expiration Date", "Harvest Acres", "Unit Name", "BurnType_permit", "Agency_permit", 
+         "Lat", "Long", "Legal Description", "Est. Permit Tonnage")
 
 #remove words in these fields and make them numeric: Est. Permit Tonnage, Harvest Acres
 burnpermit <- burnpermit %>%
@@ -106,6 +106,7 @@ permit_only_processed <- permit_only_processed %>%
 
 #xwalk to the rx database column names
 permit_with_request_processed <- permit_with_request %>%
+  rename("SOURCE_ID" = "PermitNumber") %>%
   rename("DATE" = "PlannedIgnitionDate") %>%
   rename("PERMITTED_ACRES" = "Harvest Acres") %>% 
   # Harvest Acres comes from the permit and is the most reliable estimate of the intended acreage
@@ -123,8 +124,8 @@ permit_with_request_processed <- permit_with_request %>%
   rename("TONS" = "TotalProposedBurnQuantity")
 
 # source id
-permit_with_request_processed <- permit_with_request_processed %>%
-  mutate(SOURCE_ID = paste(PermitNumber, BurnRequestId, sep=","))  
+#permit_with_request_processed <- permit_with_request_processed %>%
+#  mutate(SOURCE_ID = paste(PermitNumber, BurnRequestId, sep=","))  
 
 # date
 permit_with_request_processed$DATE <- mdy_hm(permit_with_request_processed$DATE) #parse the existing date format
