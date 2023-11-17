@@ -41,6 +41,7 @@ process$TONS[process$TONS < 0] <- NA #change negative tons values to NA
 ca_ready <- process %>%
   #rename("SOURCE_ID" = "") %>% 
   #rename("DATE" = "") %>%
+  #rename("ACRES_REQUESTED = "") %>%
   #rename("ACRES_PERMITTED" = "") %>%
   rename("ACRES_COMPLETED" = "Acres.Burned") %>%
   #rename("PILE_VOLUME" = "") %>%

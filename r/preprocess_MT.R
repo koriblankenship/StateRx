@@ -18,16 +18,16 @@ process <- raw %>%
 #date 
   mutate(DATE = mdy(Proposal.Date)) %>%
 #completed acres
-  mutate(COMPLETED_ACRES = case_when(Acres.Burned < 0 ~ "0",
+  mutate(ACRES_COMPLETED = case_when(Acres.Burned < 0 ~ "0",
                                      Acres.Burned == "None" ~ "0",
                                      .default = Acres.Burned)) %>%
-  mutate_at("COMPLETED_ACRES", as.numeric) %>%
+  mutate_at("ACRES_COMPLETED", as.numeric) %>%
 #tons
-  mutate(TONS = Tons.Acre * COMPLETED_ACRES) %>%
+  mutate(TONS = Tons.Acre * ACRES_COMPLETED) %>%
 #burn status
 # Status can be "completed" and burned acres "0", so I'm classifying status partially based on completed acres
-  mutate(BURN_STATUS = case_when(Status == "Completed" & COMPLETED_ACRES == 0 ~ "Unknown",
-                                 COMPLETED_ACRES > 0 ~ "Complete",
+  mutate(BURN_STATUS = case_when(Status == "Completed" & ACRES_COMPLETED == 0 ~ "Unknown",
+                                 ACRES_COMPLETED > 0 ~ "Complete",
                                  .default = "Incomplete"))
 
 #xwalk to the rx database column names and formats 
@@ -35,8 +35,9 @@ process <- raw %>%
 mt_ready <- process %>%
   rename("SOURCE_ID" = "ID") %>% 
   #rename("DATE" = "") %>%
-  rename("PERMITTED_ACRES" = "Proposed.Acres") %>%
-  #rename("COMPLETED_ACRES" = "") %>%
+  rename("ACRES_REQUESTED" = "Proposed.Acres") %>%
+  #rename("ACRES_PERMITTED" = "") %>%
+  #rename("ACRES_COMPLETED" = "") %>%
   #rename("PILE_VOLUME" = "") %>%
   rename("BURN_NAME" = "Unit.Name") %>%
   rename("BURNTYPE_REPORTED" = "Burn.Type") %>%
@@ -47,8 +48,9 @@ mt_ready <- process %>%
   #rename("TONS" = "") %>%
   #rename("BURN_STATUS" = "") %>%
   #write if exists here
-  select(any_of(c("SOURCE_ID", "DATE", "PERMITTED_ACRES", "COMPLETED_ACRES", "PILE_VOLUME", "BURN_NAME", "BURNTYPE_REPORTED", 
-                  "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
+  select(any_of(c("SOURCE_ID", "DATE", "ACRES_REQUESTED", "ACRES_PERMITTED", "ACRES_COMPLETED", "PILE_VOLUME", 
+                  "BURN_NAME", "BURNTYPE_REPORTED", "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", 
+                  "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
   distinct()
 
 

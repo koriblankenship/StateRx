@@ -16,21 +16,20 @@ raw <- read_csv("in/NM_smoke_export all.csv") %>%
   mutate_at("DB_REG_ID", as.character) #changing to character b/c that is the standard for the source id column
 
 
-### PREPROCESS 
+### PROCESS ---- 
 
-#BURN STATUS, ENTITY REQUESTING
 process <- raw %>% 
+  # burn status
   #burns are complete when the burn days is > 0 and area or volume > 0 was reported
   mutate(BURN_STATUS = case_when(T_BURN_DAYS == 0 ~ "Incomplete",
                                  T_BURN_DAYS > 0 & T_TOTAL_AREA_ACRES | T_TOTAL_VOLUME_CU_FT > 0 ~ "Complete",
                                  .default = "Unknown"))%>% 
+  # entity requesting
   mutate(ENTITY_REQUESTING = case_when(is.na(ORG_NAME) ~ OWNERSHIP,
-                                       .default = ORG_NAME))
-
-#BURNTYPE REPORTED
+                                       .default = ORG_NAME)) %>%
+# burn type reported
 #guidance from NM was if a burn was tracked in acres it was broadcast, if tracked in volume it was piles
 #first classify based on registrations (R_); if acres and volume are reported, burn type is unknown
-process <- process%>%   
   mutate(BURNTYPE_REPORTED = case_when(
     R_TOTAL_AREA_ACRES > 0 & R_TOTAL_VOLUME_CU_FT <= 0 | is.na(R_TOTAL_VOLUME_CU_FT) ~ "Broadcast", 
     R_TOTAL_VOLUME_CU_FT > 0 & R_TOTAL_AREA_ACRES <= 0 | is.na(R_TOTAL_AREA_ACRES) ~ "Pile"))
@@ -41,27 +40,18 @@ process <- process%>%
   mutate(BURNTYPE_REPORTED = ifelse(
     is.na(BURNTYPE_REPORTED) & T_TOTAL_VOLUME_CU_FT > 0 & T_TOTAL_AREA_ACRES <= 0, "Pile", BURNTYPE_REPORTED))
 
-#DATE
+# date
 process$DATE <- mdy(process$R_BURN_START) #parse the existing date format
 
-#XWALK
-nm_ready <- process %>%
-  rename(SOURCE_ID = DB_REG_ID) %>% 
-  rename(PERMITTED_ACRES = R_TOTAL_AREA_ACRES) %>% 
-  rename(COMPLETED_ACRES = T_TOTAL_AREA_ACRES) %>%
-  rename(PILE_VOLUME = T_TOTAL_VOLUME_CU_FT) %>%
-  rename(LAT_PERMIT = R_LATITUDE) %>%
-  rename(LON_PERMIT = R_LONGITUDE) %>%
-  select(SOURCE_ID, DATE, PERMITTED_ACRES, COMPLETED_ACRES, PILE_VOLUME, BURN_NAME, BURNTYPE_REPORTED, BURN_NAME, ENTITY_REQUESTING, 
-         LAT_PERMIT, LON_PERMIT, BURN_STATUS)
 
 #xwalk to the rx database column names and formats 
 #(all rx database attributes are listed, commented out attributes are not present in the state data or do not need to be renamed)
 nm_ready <- process %>%
   rename("SOURCE_ID" = "DB_REG_ID") %>% 
   #rename("DATE" = "") %>%
-  rename("PERMITTED_ACRES" = "R_TOTAL_AREA_ACRES") %>%
-  rename("COMPLETED_ACRES" = "T_TOTAL_AREA_ACRES") %>%
+  #rename("ACRES_REQUESTED = "") %>%
+  rename("ACRES_PERMITTED" = "R_TOTAL_AREA_ACRES") %>%
+  rename("ACRES_COMPLETED" = "T_TOTAL_AREA_ACRES") %>%
   rename("PILE_VOLUME" = "T_TOTAL_VOLUME_CU_FT") %>%
   #rename("BURN_NAME" = "") %>%
   #rename("BURNTYPE_REPORTED" = "") %>%
@@ -71,8 +61,9 @@ nm_ready <- process %>%
   #rename("LEGAL_DESCRIP" = "") %>%
   #rename("TONS" = "") %>%
   #rename("BURN_STATUS" = "") %>%
-  select(any_of(c("SOURCE_ID", "DATE", "PERMITTED_ACRES", "COMPLETED_ACRES", "PILE_VOLUME", "BURN_NAME", "BURNTYPE_REPORTED", 
-                  "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
+  select(any_of(c("SOURCE_ID", "DATE", "ACRES_REQUESTED", "ACRES_PERMITTED", "ACRES_COMPLETED", "PILE_VOLUME", 
+                  "BURN_NAME", "BURNTYPE_REPORTED", "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", 
+                  "LEGAL_DESCRIP", "TONS", "BURN_STATUS")))  %>%
   distinct()
 
 ###EXPORT

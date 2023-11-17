@@ -8,7 +8,9 @@ library(tidyverse)
 
 ### BRING IN THE DATA ----
 
-raw <- read_csv("in/AZ_ADEQ_Prescribed_Fire.csv") 
+raw <- read_csv("in/AZ_accomplishment_data.csv") %>%
+  select("Ignition Date", "Agency", "District", "Burn Number", "Burn Name", "Daily Burn Acres Requested", 
+         "Acres Treated", "Acres Burned", "Location")
 #remove spaces in column names
 names(raw) <- make.names(names(raw), unique=TRUE) 
 
@@ -20,7 +22,7 @@ process <- raw %>%
   mutate(DATE = mdy(Ignition.Date)) %>%
   mutate(DATE = as.Date(DATE)) %>%
   # entity requesting
-  mutate(ENTITY_REQUESTING = paste(Agency, Office, District, sep = ", ")) %>%
+  mutate(ENTITY_REQUESTING = paste(Agency, District, sep = ", ")) %>%
   # burn status
   mutate(BURN_STATUS = case_when(Acres.Burned == 0 ~ "Incomplete",
                                  Acres.Burned > 0 ~ "Complete",
@@ -42,8 +44,9 @@ process <- process%>%
 az_ready <- process %>%
   rename("SOURCE_ID" = "Burn.Number") %>% 
   #rename("DATE" = "") %>%
-  rename("PERMITTED_ACRES" = "Daily.Burn.Acres.Requested") %>%
-  rename("COMPLETED_ACRES" = "Acres.Burned") %>%
+  rename(ACRES_REQUESTED = "Daily.Burn.Acres.Requested") %>%
+  #rename("ACRES_PERMITTED" = "") %>%
+  rename("ACRES_COMPLETED" = "Acres.Burned") %>%
   #rename("PILE_VOLUME" = "") %>%
   rename("BURN_NAME" = "Burn.Name") %>%
   #rename("BURNTYPE_REPORTED" = "") %>%
@@ -53,8 +56,9 @@ az_ready <- process %>%
   #rename("LEGAL_DESCRIP" = "") %>%
   #rename("TONS" = "") %>%
   #rename("BURN_STATUS" = "") %>%
-  select(any_of(c("SOURCE_ID", "DATE", "PERMITTED_ACRES", "COMPLETED_ACRES", "PILE_VOLUME", "BURN_NAME", "BURNTYPE_REPORTED", 
-                  "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
+  select(any_of(c("SOURCE_ID", "DATE", "ACRES_REQUESTED", "ACRES_PERMITTED", "ACRES_COMPLETED", "PILE_VOLUME", 
+                  "BURN_NAME", "BURNTYPE_REPORTED", "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", 
+                  "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
   distinct()
 
 

@@ -1,4 +1,4 @@
-SOURCE_ID,DATE,PERMITTED_ACRES,COMPLETED_ACRES,PILE_VOLUME,BURN_NAME,ENTITY_REQUESTING,LAT_PERMIT,LON_PERMIT,BURN_STATUS
+SOURCE_ID,DATE,ACRES_PERMITTED,ACRES_COMPLETED,PILE_VOLUME,BURN_NAME,ENTITY_REQUESTING,LAT_PERMIT,LON_PERMIT,BURN_STATUS
 2022-07,2022-02-23,NA,NA,85500,Copper Mountain Piles - 2022,Bureau of Land Management,43.407,-108.029,Complete
 2022-08,2022-11-21,NA,NA,25500,Green Mountain Piles - 2022,Bureau of Land Management,42.33,-107.707,Complete
 2022-09,2022-04-20,500,500,NA,Hadsell Watershed Prescribed Burn - 2022,Bureau of Land Management,42.327,-107.731,Complete
@@ -167,6 +167,123 @@ SOURCE_ID,DATE,PERMITTED_ACRES,COMPLETED_ACRES,PILE_VOLUME,BURN_NAME,ENTITY_REQU
 2022-97,2022-05-17,1000,1000,NA,Pole Mtn. Vegetation Project,USDA US Forest Service,41.25138,105.35526,Complete
 2022-98,2022-03-26,3000,3000,NA,Devils Canyon Prescribed Fire,Wind River/Bighorn Basin District BLM,-44.88556,-44.88556,Complete
 2022-99,2022-01-01,NA,NA,680,Patton Creek Slash Piles,Camp Guernsey Fire Department,42.44982,-104.75207,Incomplete
+2023 -180,2022-01-01,NA,NA,15000,Cook Lake,Forest Service,44.59694,-104.39164,Incomplete
+2023-176,2022-01-01,NA,NA,293,Pine Ridge Pile Burn,WSFD,44.2822,-104.727,Incomplete
+2023-177,2023-01-04,NA,NA,NA,Wildcat,USFS,4222.11,-10539.922,Complete
+2023-178,2023-01-30,NA,NA,NA,Clay Spur,USFS,4401.717,-10428.15,Complete
+2023-179,2023-02-02,NA,NA,15000,North Bearlodge,Forest Service,44.75286,-104.3824,Complete
+2023-181,2023-01-31,NA,NA,15000,Coil,Forest Service,44.36292,-104.14865,Complete
+2023-182,2023-01-04,NA,NA,500,Fish,Forest Service,44.30501,-104.24312,Complete
+2023-183,2023-04-11,NA,NA,15000,Addition Country,Forest Service,44.46586,-104.52583,Complete
+2023-184,2023-03-10,NA,NA,15000,Stateline,Forest Service,44.4281,-104.07653,Complete
+2023-185,2022-01-01,NA,NA,122000,Stateline Piles 2022,BLM Newcastle,1044.157,43.53082,Incomplete
+2023-186,2022-01-01,1000,NA,NA,Philp Prescribed Burn - 2023,Bureau of Land Management,43.457,-107.867,Incomplete
+2023-187,2022-01-01,600,NA,NA,Hadsell Prescribed Burn - 2023,Bureau of Land Management,42.327,-107.729,Incomplete
+2023-188,2022-01-01,100,NA,NA,Ocean Lake Prescribed Burn - 2023,Bureau of Land Management,43.199,-108.55,Incomplete
+2023-189,2022-01-01,NA,NA,256585,Green Mountain Piles - Willow Creek,Bureau of Land Management,42.343,-107.606,Incomplete
+2023-190,2022-01-01,NA,NA,42764,Green Mountain Piles - Jost Creek,Bureau of Land Management,42.331,-107.707,Incomplete
+2023-191,2023-02-01,NA,NA,1710,Miner's Delight Piles,Bureau of Land Management,42.533,-108.68,Complete
+2023-192,2022-01-01,NA,NA,102634,Long Creek/Tin Cup Piles - 2023,Bureau of Land Management,42.637,-107.958,Incomplete
+2023-193,2023-01-05,NA,NA,NA,"Camp Comfort Unit 18, 19, 20",USFS,44.315,-106.88333,Complete
+2023-194,2023-01-18,NA,NA,NA,"Grommund Creek, Unit 5",USFS,44.27833,-106.86666,Complete
+2023-195,2022-01-01,NA,NA,300000,Snowy Range,Medicine Bow National Forest,41.29013,-106.27154,Incomplete
+2023-196,2022-01-01,NA,NA,300000,Sierra Madre Range,Medicine Bow National Forest,41.5471,-106.9808,Incomplete
+2023-197,2022-01-01,NA,NA,5400,Pole Mountain,Medicine Bow National Forest,41.23816,-105.39274,Incomplete
+2023-199,2022-01-01,NA,NA,NA,Dull Knife Mahogany,BLM,44.7457,106.85764,Incomplete
+2023-200,2022-01-01,NA,NA,NA,EK Mountain,BLM,43.79813,-106.8359,Incomplete
+2023-201,2022-01-01,NA,NA,NA,Sawmill Creek,BLM,43.88847,-106,Incomplete
+2023-202,2023-01-18,NA,NA,NA,Billy Creek Public Pile,BLM,44.11661,-106.87217,Complete
+2023-203,2023-01-11,NA,NA,NA,Billy Creek TSI,BLM,44.11661,-106.83179,Complete
+2023-204,2022-01-01,NA,NA,NA,Weston Hills,BLM,44.62399,-105.38312,Incomplete
+2023-205,2022-01-01,250,NA,NA,Noon Point,BLM,43.9415,-109.04997,Incomplete
+2023-206,2022-01-01,250,NA,NA,Medicine Lodge,BLM,44.35,-107.51667,Incomplete
+2023-207,2022-01-01,100,NA,NA,Hooligan Springs,BLM,44.18022,-107.37267,Incomplete
+2023-208,2022-01-01,NA,NA,7747,Markham Draw,BLM,44.17192,-107.34947,Incomplete
+2023-209,2022-01-01,NA,NA,7747,Sand Draw,BLM,44.05075,-107,Incomplete
+2023-210,2022-01-01,NA,NA,6000,Rattlesnake Butte,BLM,44.11054,-107.885,Incomplete
+2023-211,2022-01-01,NA,NA,2192932.42,Boulder Ridge Slash Pile Rx burn,Bureau of Land Management,4059.906,-10538.762,Incomplete
+2023-212,2023-01-16,NA,NA,198803,Lawler Croell,Spearfish Forest Products,44.41969,-104.64694,Complete
+2023-213,2023-01-10,NA,NA,NA,Foot Creek Units 1 & 2,USFS,44.32815,-106.91285,Complete
+2023-214,2023-01-13,NA,NA,4998.929999999999,Pinedale Field Office Programmatic Piles (FY23),Pinedale Field Office BLM,42.3535,-110.39447,Complete
+2023-215,2023-01-05,NA,NA,5734000,Quill Landing Piles,U.S.D.A./ Forest Service,44.8259,-107.843,Complete
+2023-216,2023-01-19,NA,NA,160000,NZSHF- Meeteetse (Piles),USFS- Shoshone National Forest,43.97984,-109.1169,Complete
+2023-217,2023-03-13,NA,NA,50893.8,"Pine Creek 14, 20,25, 36, 27",USFS,42.49313,-108.944922,Complete
+2023-218,2022-01-01,NA,NA,25658.5,Loop Road 28,USFS,42.52736,-108.77657,Incomplete
+2023-219,2022-01-01,NA,NA,1696.46,Loop Road 84,USFS,42.55727,-108.7666,Incomplete
+2023-220,2022-01-01,NA,NA,1570.8,Pass Creek,USFS,42.61099,-108.75575,Incomplete
+2023-221,2022-01-01,NA,NA,3141.59,Diamond 4/Dickinson Park,USFS,42.85722,-109.05101,Incomplete
+2023-222,2022-01-01,NA,NA,122000,Jackpot Piles,BLM Newcastle,44.29282,-104.48538,Incomplete
+2023-223,2022-01-01,NA,NA,154955,Eagle Ridge,Bureau of Land Management,42.6977,-106.429,Incomplete
+2023-224,2023-02-01,NA,NA,160000,RSFO Iron Mountain Fuels Treatments Pile Rx,BLM WY HDD,41.00896,-109.46059,Complete
+2023-225,2023-01-13,NA,NA,1072,Patten Creek Slash Piles,Camp Guernsey Fire Department,42.44933,-104.74501,Complete
+2023-226,2023-04-29,4236,4236,NA,Sunlight RX,USFS,44.73966,-109.52374,Complete
+2023-227,2022-01-01,1417,NA,NA,Little Hornet / Packsaddle,NA,42.418,-110.559,Incomplete
+2023-228,2022-01-01,68,NA,NA,Hams Fork - Nugent (Unit 2),USFS - BTNF,42.176,-110.805,Incomplete
+2023-229,2022-01-01,27,NA,NA,Hams Fork - Basin RX (Unit 5),USFS - BTNF,42.259,-110.767,Incomplete
+2023-230,2022-01-01,200,NA,NA,Hams Fork - Unit 6 and Unit 8,USFS - BTNF,42.303,-110.751,Incomplete
+2023-231,2022-01-01,947,NA,NA,Star valley Front - Strawberry Rx (Unit 9),USFS -BTNF,42.881,-110.807,Incomplete
+2023-232,2022-01-01,3483,NA,NA,Star Valley Front - Unit 2A,NA,42.759,-110.904,Incomplete
+2023-233,2022-01-01,5000,NA,NA,Star Valley Front - Unit 2,NA,42.759,-110.904,Incomplete
+2023-234,2023-01-24,NA,NA,88357,Rodger Croell,Spearfish Forest Products,44.3882,-104.5858,Complete
+2023-235,2022-01-01,NA,NA,NA,Boulder Ridge Pile BUrn,Wyoming State Forestry,2,2,Incomplete
+2023-236,2022-01-01,NA,NA,122000,Stateline IGO,BLM Newcastle,43.83554,-104.06485,Incomplete
+2023-237,2023-01-19,NA,NA,2000,Bates Creek Juniper Slash Pile Burn,WY State Forestry Division,42.641,-106.392,Complete
+2023-238,2022-01-01,NA,NA,NA,Billie Jean Sale Piles,USFS,44.15099,-106.9241,Incomplete
+2023-239,2022-01-01,NA,NA,NA,Caribou Sale,USFS,44.21228,-106.90199,Incomplete
+2023-240,2022-01-01,NA,NA,NA,Snyder Sale,USFS,44.22968,-106.98332,Incomplete
+2023-241,2022-01-01,2965,NA,NA,Wood River RX,USFS- Shoshone NF,43.9168,-109.1113,Incomplete
+2023-242,2022-01-01,NA,NA,NA,Boulder Ridge Pile BUrn,Wyoming State Forestry,1,1,Incomplete
+2023-243,2022-01-01,65,NA,NA,Yellowtail,BLM,44.87154,-108.29557,Incomplete
+2023-244,2023-01-24,NA,NA,3460,Mill Creek Slash Pile Burn,WY State Forestry Division,42.40792,-105.43929,Complete
+2023-245,2022-01-01,NA,NA,175000,Goldie Divide,BLM Newcastle,44.81897,-104.75684,Incomplete
+2023-246,2022-01-01,NA,NA,140000,Newcastle Fire Defense Zone,BLM Newcastle,43.8766,-104.22882,Incomplete
+2023-247,2023-01-31,NA,NA,3927,McDonald,Spearfish Forest Products,44.72598,-104.32087,Complete
+2023-248,2023-02-01,NA,NA,9425,Lincoln,Spearfish Forest Products,44.19724,-104.40475,Complete
+2023-249,2022-01-01,NA,NA,NA,Boulder Ridge slash pile burn,Wyoming state forestry division,1,1,Incomplete
+2023-250,2023-04-17,1684,1684,NA,Timber Creek,Shoshone National Forest,44.04091,-109.18326,Complete
+2023-251,2022-01-01,2722,NA,NA,Cottonwood/Gooseberry RX,Shoshone National Forest,43.8997,-109.0463,Incomplete
+2023-252,2022-01-01,660,NA,NA,Bald Ridge II,Shoshone Nat. Forest,44.7448,-109.3765,Incomplete
+2023-253,2022-01-01,NA,NA,122000,Skull Creek,BLM Newcastle,44.13729,-104,Incomplete
+2023-254,2022-01-01,NA,NA,70000,Upper Twin Creek,Wyoming State Forestry Division,42.57434,-108.66383,Incomplete
+2023-255,2022-01-01,NA,NA,5655,Davidson,Spearfish Forest Products,44.78219,-104.63745,Incomplete
+2023-256,2022-01-01,NA,NA,47000,Pine Creek,Wyoming State Forestry Division,42.48508,-108.904,Incomplete
+2023-257,2022-01-01,NA,NA,47000,Pine Creek,Wyoming State Forestry Division,42.48508,-108.904,Incomplete
+2023-258,2023-04-29,138,138,NA,Elk Creek,Shoshone National Forest,44.73722,-109.4561,Complete
+2023-259,2023-02-10,NA,NA,4500,Gray Rocks TSI Slash Pile Burn,WY State Forestry Division,42.41846,-105.44004,Complete
+2023-260,2022-01-01,NA,NA,167551,CLC,Spearfish Forest Products,44.43088,-104.50949,Incomplete
+2023-262,2022-01-01,NA,NA,19500,Teton Canyon Piles,USFS,43.75927,-110.98333,Incomplete
+2023-263,2022-01-01,NA,NA,1500,Teton Basin Piles,USFS,43.6736,-110.99528,Incomplete
+2023-264,2022-01-01,1714,NA,NA,Hill Creek Prescribed Fire,USFS,43.69623,-111.01508,Incomplete
+2023-265,2022-01-01,72,NA,NA,Alpine Prescribed Fire,USFS,43.18361,-111.01172,Incomplete
+2023-266,2022-01-01,NA,NA,13000,Alpine Piles,USFS,43.18361,-111.01172,Incomplete
+2023-267,2022-01-01,40,NA,NA,Rapid Creek Prescribed Fire,USFS,43.7169,-111.02617,Incomplete
+2023-268,2023-03-29,327,327,NA,Clay Spur RX,USDA Forest Service,44.03754,-104.41342,Complete
+2023-269,2022-01-01,500,NA,NA,Devil's Canyon,BLM,44.94393,-108.14987,Incomplete
+2023-270,2023-05-30,500,500,NA,Short Fork,BLM,44.23091,-109.10413,Complete
+2023-271,2022-01-01,NA,NA,20420,Long Creek,Wyoming State Forestry Division,43,-109.82425,Incomplete
+2023-272,2022-01-01,NA,NA,107824,Heald Road,Wyoming State Forestry Division - District 5,44.702,-105.219,Incomplete
+2023-273,2023-02-01,NA,NA,84580,Rome Hill Rd,Wyoming State Forestry Division - District 5,43.967,-107.105,Complete
+2023-274,2022-01-01,4246,NA,NA,Upper Clarks Fork RX,USFS- Shoshone National Forest,44.95361,109.75361,Incomplete
+2023-275,2022-01-01,NA,NA,80000,Twin Pine Bison Ranch,Twin Pine Bison Ranch,42.3128,-105.247,Incomplete
+2023-276,2022-01-01,1000,NA,NA,Pole Mountain RX,US Forest Service,41.113971,-105.194599,Incomplete
+2023-277,2022-01-01,2500,NA,NA,Moskee,USFS,44.23395,-104.07622,Incomplete
+2023-278,2022-01-01,NA,NA,17105.67,Loop Road 4,USFS/Washak ie Ranger District,42.54567,-108.77795,Incomplete
+2023-279,2022-01-01,NA,NA,21382.08,Loop Road 56,USFS/Washak ie Ranger District,42.5386,-108.77919,Incomplete
+2023-280,2022-01-01,NA,NA,25658.5,Loop Road 22,USFS/Washak ie Ranger District,42.5386,-108.77613,Incomplete
+2023-281,2022-01-01,NA,NA,8522.83,Loop Road 73,USFS/Washak ie Ranger District,42.69595,-108.9094,Incomplete
+2023-282,2022-01-01,NA,NA,34211.33,Loop Road 70B,USFS/Washak ie Ranger District,42.69914,-108.90316,Incomplete
+2023-283,2022-01-01,NA,NA,6414.620000000001,Loop Road 36B,USFS/Washak ie Ranger District,42.69694,-108.92409,Incomplete
+2023-284,2022-01-01,NA,NA,14967.46,Loop Road 40,USFS/Washak ie Ranger District,42.69914,-108.91035,Incomplete
+2023-285,2022-01-01,NA,NA,34211.33,Loop Road 13,USFS/Washak ie Ranger District,42.67786,-108.87257,Incomplete
+2023-286,2023-04-18,NA,NA,1250,Blackrock Admin Piles,USDA Forest Service -Bridger-Teton NF,43.82955,-110.34488,Complete
+2023-287,2022-01-01,NA,NA,NA,Beaver Creek Slope,BLM,43.70172,-106.9771,Incomplete
+2023-288,2023-04-29,NA,NA,150000,Casper Mountain Slash Pile Burn 2022,Casper Mountain Fire Dept.,42.73,-106.32,Complete
+2023-289,2023-04-28,100,100,NA,Bucket Drop 2023,Camp Guernsey Fire Department,42.42454,-104.8046,Complete
+2023-290,2022-01-01,NA,NA,20000,JHMR 2023,Jackson Hole Mountain Resort,43.6,-110.832,Incomplete
+2023-291,2022-01-01,NA,NA,125663.70999999999,Coal Creek,USFS,42.54257,-110.51023,Incomplete
+2023-292,2022-01-01,NA,NA,10000,Kelly Pit Slash,Grand Teton National Park,43.62167,110.63519,Incomplete
+2023-293,2022-01-01,NA,NA,NA,Porcupine,True companies,43.62494,-105.49439,Incomplete
+2023-294,2022-01-01,1978,NA,NA,Torrey Rim,Shoshone National Forest,43.43659,-109,Incomplete
 736,2011-10-14,250,250,NA,Pile Burning 2011,USDA-USFS-Bridger Teton NF,NA,NA,Complete
 1094,2012-11-09,290,290,NA,Pile Burning,USDA-USFS-Bridger-Teton NF-Moran RD,NA,NA,Complete
 1325,NA,5,NA,NA,Pile Burning,USDA-USFS-Caribou-Targhee NF-Driggs RD,NA,NA,Incomplete

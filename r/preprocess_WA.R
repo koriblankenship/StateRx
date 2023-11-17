@@ -15,7 +15,7 @@ allexpired <- read_csv("in/WA_AllExpiredPermits05122023.csv")
 allvalid <- read_csv("in/WA_AllValidPermits05122023.csv")
 #burn request data
 burnrequest <- read_csv("in/WA_BurnRequestExport.csv") %>%
-  select(BurnPermitNumber, BurnRequestId, PostBurnDate, PlannedIgnitionDate, ProposedBurnArea, PostBurnArea, 
+  select(BurnPermitNumber, BurnRequestId, PostBurnDate, PlannedIgnitionDate, ProposedBurnArea, BurnAcres, PostBurnArea, 
          BurnType, Agency, Latitude, Longitude, TotalProposedBurnQuantity)
 
 
@@ -77,7 +77,7 @@ CountPermitsRequest <- n_distinct(burnrequest$BurnPermitNumber)
 permit_only_processed <- permit_only %>%
   rename("SOURCE_ID" = "PermitNumber") %>%
   rename("DATE" = "Expiration Date") %>% #this is the only date in the permit, see date below for more info
-  rename("PERMITTED_ACRES" = "Harvest Acres") %>%
+  rename("ACRES_PERMITTED" = "Harvest Acres") %>%
   rename("BURN_NAME" = "Unit Name") %>%
   rename("BURNTYPE_REPORTED" = "BurnType_permit") %>%
   rename("ENTITY_REQUESTING" = "Agency_permit") %>%
@@ -108,11 +108,12 @@ permit_only_processed <- permit_only_processed %>%
 permit_with_request_processed <- permit_with_request %>%
   rename("SOURCE_ID" = "PermitNumber") %>%
   rename("DATE" = "PlannedIgnitionDate") %>%
-  rename("PERMITTED_ACRES" = "Harvest Acres") %>% 
+  rename("ACRES_REQUESTED" = "ProposedBurnArea") %>%
   # Harvest Acres comes from the permit and is the most reliable estimate of the intended acreage
   # there are a small portion of burns that end up with completed acres that far exceed permitted 
-  # so this calculation is a the best approximation, not perfect
-  rename("COMPLETED_ACRES" = "PostBurnArea") %>%
+  # so this calculation is a the best approximation, not perfect; 
+  rename("ACRES_PERMITTED" = "Harvest Acres") %>% 
+  rename("ACRES_COMPLETED" = "PostBurnArea") %>%
   rename("BURN_NAME" = "Unit Name") %>% 
   rename("BURNTYPE_REPORTED" = "BurnType") %>%
   rename("ENTITY_REQUESTING" = "Agency") %>%
@@ -123,28 +124,25 @@ permit_with_request_processed <- permit_with_request %>%
   rename("LEGAL_DESCRIP" = "Legal Description") %>%
   rename("TONS" = "TotalProposedBurnQuantity")
 
-# source id
-#permit_with_request_processed <- permit_with_request_processed %>%
-#  mutate(SOURCE_ID = paste(PermitNumber, BurnRequestId, sep=","))  
-
+# burn status 
+permit_with_request_processed <- permit_with_request_processed %>%
+  mutate(BURN_STATUS = case_when(is.na(ACRES_COMPLETED) ~ "Unknown", 
+                                 ACRES_COMPLETED == 0 ~ "Incomplete",
+                                 ACRES_COMPLETED > 0 ~ "Complete"))
 # date
 permit_with_request_processed$DATE <- mdy_hm(permit_with_request_processed$DATE) #parse the existing date format
 permit_with_request_processed <- permit_with_request_processed %>% #change date format from POSIXct to ymd
   mutate(DATE = ymd(DATE)) 
 
-# burn status 
-permit_with_request_processed <- permit_with_request_processed %>%
-  mutate(BURN_STATUS = case_when(is.na(COMPLETED_ACRES) ~ "Unknown", 
-                                 COMPLETED_ACRES == 0 ~ "Incomplete",
-                                 COMPLETED_ACRES > 0 ~ "Complete"))
 
 ### BIND PERMIT AND REQUEST DATA BACK TOGETHER
 
 wa_ready <- bind_rows(permit_only_processed, permit_with_request_processed) %>%
-  select(SOURCE_ID, DATE, PERMITTED_ACRES, COMPLETED_ACRES, BURN_NAME, BURNTYPE_REPORTED, ENTITY_REQUESTING, 
-         LAT_PERMIT, LON_PERMIT, LEGAL_DESCRIP, TONS, BURN_STATUS) %>% #select only columns to transfer to Rx database
-        distinct()
-  
+  select(any_of(c("SOURCE_ID", "DATE", "ACRES_REQUESTED", "ACRES_PERMITTED", "ACRES_COMPLETED", "PILE_VOLUME", 
+                  "BURN_NAME", "BURNTYPE_REPORTED", "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", 
+                  "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
+  distinct()
+
 #"correct" clearly erroneous lat/lons
 wa_ready <- wa_ready %>%         
   mutate(LON_PERMIT = case_when(LON_PERMIT > 0 ~ LON_PERMIT * -1, #positive lon is in China, making them negatives moves them to WA

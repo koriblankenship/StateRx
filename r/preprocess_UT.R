@@ -35,12 +35,12 @@ process <- process %>%
   # completed acres
   # "total_acres" is what is reported to dispatch 
   # "black_acres" is for emissions calculations and could be less than total acres, if it was a mosaic burn.
-  mutate(COMPLETED_ACRES = case_when(total_acres == 0 & black_acres > 0 ~ black_acres, #when total acres is not reported, use black acres
+  mutate(ACRES_COMPLETED = case_when(total_acres == 0 & black_acres > 0 ~ black_acres, #when total acres is not reported, use black acres
                                      .default = total_acres)) %>% #default is completed acres = total acres
   # burn status
   # data are for completed burns, but I classify status as unknown when there were no completed acres
-  mutate(BURN_STATUS = case_when(COMPLETED_ACRES <= 0 ~ "Unknown",  
-                                 COMPLETED_ACRES > 0 ~ "Complete"))
+  mutate(BURN_STATUS = case_when(ACRES_COMPLETED <= 0 ~ "Unknown",  
+                                 ACRES_COMPLETED > 0 ~ "Complete"))
 
 # date
 process$DATE <- mdy(process$burn_date) #parse the existing date format

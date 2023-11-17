@@ -60,8 +60,8 @@ process2 <- process2 %>%
                                        .default = Owner)) %>%
 # burn status
 # data are for completed burns, but I classify status as unknown when there were no completed acres
-mutate(BURN_STATUS = case_when(Acres <= 0 ~ "Unknown", 
-                               Acres > 0 ~ "Complete"))
+  mutate(BURN_STATUS = case_when(Acres <= 0 ~ "Unknown", 
+                               Acres > 0 ~ "Complete")) 
 
 #date 
 process2$DATE <- mdy(process2$BurnDate) 
@@ -71,8 +71,9 @@ process2$DATE <- mdy(process2$BurnDate)
 or_ready <- process2 %>%
   #rename("SOURCE_ID" = "") %>% 
   #rename("DATE" = "") %>%
-  #rename("PERMITTED_ACRES" = "") %>%
-  rename("COMPLETED_ACRES" = "Acres") %>%
+  #rename("ACRES_REQUESTED" = "") %>%
+  #rename("ACRES_PERMITTED" = "") %>%
+  rename("ACRES_COMPLETED" = "Acres") %>%
   #rename("PILE_VOLUME" = "") %>%
   rename("BURN_NAME" = "Sale Name") %>%
   #rename("BURNTYPE_REPORTED" = "") %>%
@@ -82,8 +83,9 @@ or_ready <- process2 %>%
   #rename("LEGAL_DESCRIP" = "") %>%
   rename("TONS" = "Tons") %>%
   #rename("BURN_STATUS" = "") %>%
-  select(any_of(c("SOURCE_ID", "DATE", "PERMITTED_ACRES", "COMPLETED_ACRES", "PILE_VOLUME", "BURN_NAME", "BURNTYPE_REPORTED", 
-                  "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
+  select(any_of(c("SOURCE_ID", "DATE", "ACRES_REQUESTED", "ACRES_PERMITTED", "ACRES_COMPLETED", "PILE_VOLUME", 
+                  "BURN_NAME", "BURNTYPE_REPORTED", "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", 
+                  "LEGAL_DESCRIP", "TONS", "BURN_STATUS")))  %>%
   distinct()
 
 

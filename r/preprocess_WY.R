@@ -29,7 +29,8 @@ wyo <- read_csv("in/WY_2022.csv") %>%
 #xwalk to the rx database column names and formats
 smp1_processed <- smp1 %>%
   rename("SOURCE_ID" = "BurnID") %>%
-  mutate_at("SOURCE_ID", as.character) %>% #need as character b/c wyo data have characters
+  mutate_at("SOURCE_ID", as.character) %>% # this will be character in the master RX database
+  rename("ACRES_PERMITTED" = "PERMITTED_ACRES") %>%
   rename("BURN_NAME" = "Burn Name") %>%
   rename("ENTITY_REQUESTING" = "Agency or Company") %>%
   rename("LAT_PERMIT" = "Latitude") %>%
@@ -48,8 +49,8 @@ smp1_processed <- smp1_processed %>%
 #xwalk to the rx database column names
 smp2_processed <- smp2 %>%
   rename("SOURCE_ID" = "BurnID") %>%
-  mutate_at("SOURCE_ID", as.character) %>% #need as character b/c wyo data have characters
-  rename("PERMITTED_ACRES" = "TotalArea") %>%
+  mutate_at("SOURCE_ID", as.character) %>% # this will be character in the master RX database
+  rename("ACRES_PERMITTED" = "TotalArea") %>%
   rename("PILE_VOLUME" = "TotalPileVolume") %>%
   rename("BURN_NAME" = "BurnName") %>%
   rename("ENTITY_REQUESTING" = "AgencyOrCompany") %>%
@@ -68,14 +69,15 @@ smp2_processed <- smp2_processed %>%
 #xwalk to the rx database column names
 wyo_processed <- wyo %>%
   rename("SOURCE_ID" = "BURN ID") %>%
+  rename("ACRES_PERMITTED" = "PERMITTED_ACRES") %>%
   rename("BURN_NAME" = "Burn Name") %>%
   rename("ENTITY_REQUESTING" = "CONTACT AGENCY/COMPANY") %>%
   rename("LAT_PERMIT" = "BURN LOCATION LAT") %>% 
   rename("LON_PERMIT" = "BURN LOCATION LONG")  %>%
-# remove 2023 data
+# remove 2023 data - doing this in the make database script
 # this dataframe has 2022 and 2023 data; I'm removing 2023 b/c its incomplete and I'm not processing that year for any state
-  mutate(year = str_sub(SOURCE_ID, 1, 4)) %>% # pull out the year from the source ID  
-  filter(year == "2022") %>%
+#  mutate(year = str_sub(SOURCE_ID, 1, 4)) %>% # pull out the year from the source ID  
+#  filter(year == "2022") %>%
 #mange date
 # there are many missing dates, when date is missing make date = 1/1/2022
   mutate(DATE = case_when(is.na(Date1) ~ "01/01/2022",
@@ -90,13 +92,14 @@ wy_ready <- bind_rows(wyo_processed, smp2_processed, smp1_processed) %>%
   #completed acres
   # according to WY: "The "Burned?" fields indicate that the planned burn was conducted. 
   # if that field is blank, we did not receive confirmation of the burn being conducted."
-  mutate(COMPLETED_ACRES = case_when(WasBurned == "Burned" ~ PERMITTED_ACRES)) %>%
+  mutate(ACRES_COMPLETED = case_when(WasBurned == "Burned" ~ ACRES_PERMITTED)) %>%
   #burn status
   mutate(BURN_STATUS = case_when(is.na(WasBurned) ~ "Incomplete",
                                  WasBurned == "Burned" ~ "Complete")) %>%
   #select final columns
-  select(any_of(c("SOURCE_ID", "DATE", "PERMITTED_ACRES", "COMPLETED_ACRES", "PILE_VOLUME", "BURN_NAME", "BURNTYPE_REPORTED", 
-                "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
+  select(any_of(c("SOURCE_ID", "DATE", "ACRES_REQUESTED", "ACRES_PERMITTED", "ACRES_COMPLETED", "PILE_VOLUME", 
+                  "BURN_NAME", "BURNTYPE_REPORTED", "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", 
+                  "LEGAL_DESCRIP", "TONS", "BURN_STATUS")))  %>%
   distinct()
  
 

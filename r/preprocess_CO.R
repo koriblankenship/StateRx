@@ -158,7 +158,7 @@ process <- raw %>%
   # broadcast burns with acres burned = NA are given 0 completed acres.
   # if acres burned are not reported, it is safe to assume no burn occurred b/c burners verify these reports.
   # piles are not always reported in acres, so if acres burned = NA for piles, completed acres = NA.
-  mutate(COMPLETED_ACRES = case_when(BURNTYPE_REPORTED == "Broadcast" & is.na(Actual.Acres.Burned) ~ 0, 
+  mutate(ACRES_COMPLETED = case_when(BURNTYPE_REPORTED == "Broadcast" & is.na(Actual.Acres.Burned) ~ 0, 
                                      .default = Actual.Acres.Burned)) %>%
   # pile volume
   mutate(PILE_VOLUME = case_when(BURNTYPE_REPORTED == "Pile" & is.na(Act.Pile.Vol.Consumed..FT3.) ~ 0, 
@@ -167,7 +167,7 @@ process <- raw %>%
   mutate(ENTITY_REQUESTING = paste(AgencyGroup, AdministrativeUnit, sep = ", ")) %>%
   # burn status
   # the pile volume column represents actual pile volume consumed so it can be used to find status of pile burns
-  mutate(BURN_STATUS = case_when(COMPLETED_ACRES > 0 | PILE_VOLUME > 0 ~ "Complete",
+  mutate(BURN_STATUS = case_when(ACRES_COMPLETED > 0 | PILE_VOLUME > 0 ~ "Complete",
                                  .default = "Incomplete")) %>%
   # legal description
   mutate(township = case_when(is.na(TWN) ~ NA, # concatenate township
@@ -182,8 +182,9 @@ process <- raw %>%
 co_ready <- process %>%
   rename("SOURCE_ID" = "ShortPermitNum") %>% 
   #rename("DATE" = "") %>%
-  rename("PERMITTED_ACRES" = "AcresAnnMaxPERMITTED") %>%
-  #rename("COMPLETED_ACRES" = "") %>%
+  #rename("ACRES_REQUESTED = "") %>%
+  rename("ACRES_PERMITTED" = "AcresAnnMaxPERMITTED") %>%
+  #rename("ACRES_COMPLETED" = "") %>%
   #rename("PILE_VOLUME" = "") %>%
   rename("BURN_NAME" = "BurnName") %>%
   #rename("BURNTYPE_REPORTED" = "") %>%
@@ -193,9 +194,9 @@ co_ready <- process %>%
   #rename("LEGAL_DESCRIP" = "") %>%
   #rename("TONS" = "") %>%
   #rename("BURN_STATUS" = "") %>%
-  #write if exists here
-  select(any_of(c("SOURCE_ID", "DATE", "PERMITTED_ACRES", "COMPLETED_ACRES", "PILE_VOLUME", "BURN_NAME", "BURNTYPE_REPORTED", 
-                  "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
+  select(any_of(c("SOURCE_ID", "DATE", "ACRES_REQUESTED", "ACRES_PERMITTED", "ACRES_COMPLETED", "PILE_VOLUME", 
+                  "BURN_NAME", "BURNTYPE_REPORTED", "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", 
+                  "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
   distinct()
 
 

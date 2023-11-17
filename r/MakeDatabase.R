@@ -48,6 +48,11 @@ binder <- bind_rows(az, ca, co, id, mt, nm, nv, or, ut, wa, wy) %>%
 
 ### PROCESS ----
 
+## Remove 2023 and 2024 data (some WA data had a 2024 expiration date)
+binder <- binder %>%
+  filter(YEAR != "2024") %>%
+  filter(YEAR != "2023")
+
 ## Classify Burn Type
 
 # 1. join the xwalk to classify the burn types reported into standard classes
@@ -75,16 +80,25 @@ binder <- binder %>%
   mutate(BURNTYPE_CLASSIFIED = case_when(is.na(BURNTYPE_CLASSIFIED) ~ "Unknown",
                                          .default = BURNTYPE_CLASSIFIED))
 
-##########LOOK AT YARD WASTE PILES IN id*****************
-(burntypes <- table(binder$BURNTYPE_CLASSIFIED))
 
 ## Deal with multiple requests -- get 1 burn at a lat/lon per year and sum permit area
 # if status = complete, sum completed area????????????????
 
+#######*****************2nd try
+binder_unique2 <- binder %>%
+  group_by(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_REPORTED, LAT_PERMIT, LON_PERMIT) %>%
+  summarise(SUM_PERMITTED = sum(ACRES_PERMITTED), across()) %>% # across retains all the rows
+  summarise(SUM_REQUESTED = sum(ACRES_REQUESTED), across()) %>%
+  summarise(SUM_COMPLETED = sum(ACRES_COMPLETED), across()) %>%
+  distinct(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_REPORTED, LAT_PERMIT, LON_PERMIT, .keep_all = TRUE) # distinct will remove duplicate records, .keep all keeps all columns
+# completed only
+
+#######*****************1st try
 # state group a: has permitted and completed
 stategroup_a <- c("CO", "NM", "WA", "WY")
 # state group b: has completed
 stategroup_b <- c("CA", "MT", "OR", "UT")
+# request only ************************add NV here
 
 # permitted and completed
 binder_perm <- binder %>%
@@ -109,7 +123,7 @@ binder_unique <- bind_rows(binder_perm, binder_comp) %>%
 
 # look at the df
 write_csv(binder, "out/BINDER.csv")
-write_csv(binder_unique, "out/BINDER_unique.csv")
+write_csv(binder_unique2, "out/BINDER_unique2.csv")
 
 
 # make it an sf object
@@ -119,7 +133,7 @@ binder_all <- binder %>%
   filter(LON_PERMIT != 0) %>% # only sites with valid lon
   st_as_sf(coords = c("LON_PERMIT", "LAT_PERMIT"), crs=4326, remove=FALSE)
 # unique points
-binder_unique <- binder_unique %>%
+binder_unique2 <- binder_unique2 %>%
   filter(LAT_PERMIT != 0) %>% # only sites with valid lat
   filter(LON_PERMIT != 0) %>% # only sites with valid lon
   st_as_sf(coords = c("LON_PERMIT", "LAT_PERMIT"), crs=4326, remove=FALSE)
@@ -145,7 +159,7 @@ ggplot()+
 ggsave("./Projects/LANDFIRE/Output/nafsn_sites.png", width=7, height=5, units='in', dpi=300)
 ## shp
 st_write(binder_all, "out/shp/binder_all.shp", append = FALSE) #append set to overwrite existing data
-st_write(binder_unique, "out/shp/binder_unique.shp", append = FALSE) #append set to overwrite existing data
+st_write(binder_unique2, "out/shp/binder_unique2.shp", append = FALSE) #append set to overwrite existing data
 
 
 

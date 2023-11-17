@@ -1,5 +1,5 @@
-#This script takes NV's completed burn info and processes it so it is ready to be used in the Rx database.
-#Before 2023 NV only has records on completed burns.
+#This script takes NV's burn info and processes it so it is ready to be used in the Rx database.
+#Data are for permitted burn; each row represents a request for a planned burn.
 #Data was provided in 2 spreadsheets: pre 2020 and 2020-2022.
 #This script processes the 2 spreadsheets so that they can be bound together and formatted for the RX database.
 
@@ -49,20 +49,20 @@ processed <- rbind(post2020, pre2020)
 
 # permitted acres
 processed <- processed %>%
-  mutate(COMPLETED_ACRES = case_when(BURN_UNITS == "acres" | BURN_UNITS == "acres of piles" ~ BURN_QUANTITY)) %>%
+  mutate(ACRES_REQUESTED = case_when(BURN_UNITS == "acres" | BURN_UNITS == "acres of piles" ~ BURN_QUANTITY)) %>%
   # pile volume
   mutate(PILE_VOLUME = case_when(BURN_UNITS == "cubic feet" ~ BURN_QUANTITY,
                                  #convert cubic yards to cubic feet (1 cu yd = 27 cu ft)
                                  BURN_UNITS == "cubic yards" ~ BURN_QUANTITY * 27)) %>%
   #burn status
-  # data were only provided on completed burns, but I classify status as unknown when there were no completed acres
-  mutate(BURN_STATUS2 = case_when(COMPLETED_ACRES <= 0 | is.na(COMPLETED_ACRES) ~ "Unknown", 
-                               COMPLETED_ACRES > 0 ~ "Complete"))
+  # no info on completion so status is always unknown
+  mutate(BURN_STATUS = "Unknown")
 
 # select the rx database columns
 nv_ready <- processed %>%
-  select(any_of(c("SOURCE_ID", "DATE", "PERMITTED_ACRES", "COMPLETED_ACRES", "PILE_VOLUME", "BURN_NAME", "BURNTYPE_REPORTED", 
-                "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
+  select(any_of(c("SOURCE_ID", "DATE", "ACRES_REQUESTED", "ACRES_PERMITTED", "ACRES_COMPLETED", "PILE_VOLUME", 
+                  "BURN_NAME", "BURNTYPE_REPORTED", "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", 
+                  "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
   distinct()
 
 
