@@ -9,10 +9,10 @@ library(leaflet)
 
 ### BRING IN THE DATA ----
 
-burns_unique <- read_csv("out/BINDER_unique2.csv") %>%
-  select(c(STATE, YEAR, BURN_NAME, LAT_PERMIT, LON_PERMIT,
-           SUM_COMPLETED, SUM_REQUESTED, SUM_PERMITTED, DATE, ENTITY_REQUESTING,
-           BURN_STATUS, BURNTYPE_CLASSIFIED))
+burns_unique <- read_csv("out/BINDER_unique2.csv")
+  # select(c(STATE, YEAR, BURN_NAME, LAT_PERMIT, LON_PERMIT,
+  #          SUM_COMPLETED, SUM_REQUESTED, SUM_PERMITTED, DATE, ENTITY_REQUESTING,
+  #          BURN_STATUS, BURNTYPE_CLASSIFIED))
 
 ### MAP LAYERS ----
 
@@ -39,13 +39,13 @@ st_crs(west)==st_crs(burns_west)
 ###>>> https://r-charts.com/spatial/interactive-maps-leaflet/#google_vignette
 
 popup <- paste(
-  "Year", burns_west$YEAR, "<br>",
-  "Burn Name", burns_west$BURN_NAME, "<br>",
-  "Burn Type", burns_west$BURNTYPE_CLASSIFIED, "<br>", 
-  "Burn Status", burns_west$BURN_STATUS, "<br>",
-  "Entity Requesting", burns_west$ENTITY_REQUESTING, "<br>",
-  "Acres Completed", burns_west$SUM_COMPLETED, "<br>",
-  "Acres Permitted", burns_west$SUM_PERMITTED,  "<br>")
+  "Year:", burns_west$YEAR, "<br>",
+  "Burn Name:", burns_west$BURN_NAME, "<br>",
+  "Burn Type:", burns_west$BURNTYPE_CLASSIFIED, "<br>", 
+  #"Burn Status", burns_west$BURN_STATUS, "<br>",
+  "Entity Requesting:", burns_west$ENTITY, "<br>",
+  "Acres Completed:", burns_west$SUM_COMPLETED, "<br>",
+  "Acres Permitted:", burns_west$SUM_PERMITTED,  "<br>")
 
 # Discrete palette
 pal <- colorFactor("viridis", levels = burns_west$BURNTYPE_CLASSIFIED)
@@ -54,7 +54,7 @@ pal <- colorFactor("viridis", levels = burns_west$BURNTYPE_CLASSIFIED)
 ## basic burn type
 leaflet() %>%
   addTiles() %>%
-  setView(-114.029336, 42.087209, zoom = 5.5) %>%
+  setView(-114.029336, 42.087209, zoom = 5.25) %>% #***try 5 (5.5 was too close***
   addCircleMarkers(data = burns_west,
                    #weight = 1,
                    #fillColor = "blue",

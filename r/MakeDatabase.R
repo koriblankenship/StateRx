@@ -2,6 +2,9 @@
 #what does source id come in as num for mt, or and nm? I specified as character in preprocessing
 #straight line of points at ID border??????????????
 
+#### TO DO ************* 
+# few rows in OR w/ burn status = NA
+
 library(tidyverse)
 library(sf)
 
@@ -84,47 +87,78 @@ binder <- binder %>%
 ## Deal with multiple requests -- get 1 burn at a lat/lon per year and sum permit area
 # if status = complete, sum completed area????????????????
 
-#######*****************2nd try
-binder_unique2 <- binder %>%
-  group_by(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_REPORTED, LAT_PERMIT, LON_PERMIT) %>%
+# remove lat/lon = o and NA, remove yard waste
+binder2 <- binder %>%
+  filter(LAT_PERMIT > 0) %>%
+  drop_na(LAT_PERMIT) %>%
+  drop_na(LON_PERMIT) %>%
+  filter(BURNTYPE_CLASSIFIED != "Yard waste")
+
+#######*****************3D try 
+#consider removing entity and doing the spatial combine w/ PAD
+
+binder_unique2 <- binder2 %>%
+  group_by(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_CLASSIFIED, LAT_PERMIT, LON_PERMIT) %>%
   summarise(SUM_PERMITTED = sum(ACRES_PERMITTED), across()) %>% # across retains all the rows
   summarise(SUM_REQUESTED = sum(ACRES_REQUESTED), across()) %>%
   summarise(SUM_COMPLETED = sum(ACRES_COMPLETED), across()) %>%
-  distinct(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_REPORTED, LAT_PERMIT, LON_PERMIT, .keep_all = TRUE) # distinct will remove duplicate records, .keep all keeps all columns
-# completed only
+  summarise(ENTITY = max(ENTITY_REQUESTING), across()) %>%
+  distinct(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_CLASSIFIED, LAT_PERMIT, LON_PERMIT,
+           SUM_PERMITTED, SUM_REQUESTED, SUM_COMPLETED, ENTITY)
 
-#######*****************1st try
-# state group a: has permitted and completed
-stategroup_a <- c("CO", "NM", "WA", "WY")
-# state group b: has completed
-stategroup_b <- c("CA", "MT", "OR", "UT")
-# request only ************************add NV here
-
-# permitted and completed
-binder_perm <- binder %>%
-  filter(STATE %in% stategroup_a) %>%
-  group_by(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_REPORTED, LAT_PERMIT, LON_PERMIT) %>%
-  summarise(SUM_PERMIT_ACRES = sum(PERMITTED_ACRES), across()) %>% # across retains all the rows
-  summarise(SUM_COMPLETED_ACRES = sum(COMPLETED_ACRES), across()) %>%
-  distinct(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_REPORTED, LAT_PERMIT, LON_PERMIT, .keep_all = TRUE) # distinct will remove duplicate records, .keep all keeps all columns
-# completed only
-binder_comp <- binder %>%
-  filter(STATE %in% stategroup_b) %>%
-  group_by(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_REPORTED, LAT_PERMIT, LON_PERMIT) %>%
-  summarise(SUM_COMPLETED_ACRES = sum(COMPLETED_ACRES), across()) %>%
-  distinct(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_REPORTED, LAT_PERMIT, LON_PERMIT, .keep_all = TRUE) 
-
-# put it back together
-binder_unique <- bind_rows(binder_perm, binder_comp) %>%
-  select(-c(PERMITTED_ACRES, COMPLETED_ACRES, LEGAL_DESCRIP, TONS, PILE_VOLUME, burn_name_lower, is.pile, is.broadcast))
+##############LOGIC CHECK#################
+# how many unique locations in simple?
+binder_unique5 <- binder_unique2 %>%
+  distinct(STATE, YEAR, LAT_PERMIT, LON_PERMIT) 
+# how many unique locations in binder2?
+binder_unique6 <- binder2 %>%
+  distinct(STATE, YEAR, LAT_PERMIT, LON_PERMIT)
+############ WHY ARE THESE DIFFERENT ??
 
 
+############ TEST LOGIC
+#count number of unique BURN STATUS and BURN TYPES at a given point/year
+test <- binder2 %>%
+  group_by(STATE, YEAR, LAT_PERMIT, LON_PERMIT) %>%
+  # burn status
+  mutate(status_code = 0) %>%
+  mutate(status_code = case_when(BURN_STATUS == "Complete" ~ status_code + 1000,
+                                 BURN_STATUS == "Incomplete" ~ status_code + 100,
+                                 BURN_STATUS == "Unknown" ~ status_code + 1,
+                                 .default = status_code)) %>%
+  # burn type
+  mutate(bt_code = 0) %>%
+  mutate(bt_code = case_when(BURNTYPE_CLASSIFIED == "Broadcast" ~ bt_code + 1000,
+                             BURNTYPE_CLASSIFIED == "Unknown" ~ bt_code + 100,
+                             BURNTYPE_CLASSIFIED == "Pile" ~ bt_code + 1,
+                             .default = bt_code)) %>%
+  #summarize
+  summarise(sum_status = sum(status_code), across()) %>%
+  summarise(sum_bt = sum(bt_code), across()) %>%
+  # get unique rows
+  distinct(STATE, YEAR, LAT_PERMIT, LON_PERMIT, sum_status, sum_bt)
+
+# count burns in 1 place per year 
+###****************might need a threshold for removing 
+###**** exculde ID for now?
+test2 <- binder2 %>%
+  group_by(STATE, YEAR, LAT_PERMIT, LON_PERMIT) %>%
+  summarise(count_burns = n()) 
+####################### END LOGIC CHECK #############################
+
+
+# limit by time and type
+binder_unique2 <- binder_unique2 %>%
+  filter(YEAR > 2016 & YEAR < 2023) %>% # common time for all states is 2017-2022
+  filter(BURNTYPE_CLASSIFIED != "Yard Waste") ### did this above, keep the one above until the logic checking is done; 
+# prefer removing yard waste here rather than above
+# this might be the place to remove ID???
+# clip to west????
 
 
 # look at the df
 write_csv(binder, "out/BINDER.csv")
 write_csv(binder_unique2, "out/BINDER_unique2.csv")
-
 
 # make it an sf object
 # all points
@@ -137,6 +171,29 @@ binder_unique2 <- binder_unique2 %>%
   filter(LAT_PERMIT != 0) %>% # only sites with valid lat
   filter(LON_PERMIT != 0) %>% # only sites with valid lon
   st_as_sf(coords = c("LON_PERMIT", "LAT_PERMIT"), crs=4326, remove=FALSE)
+
+
+### SUMMARY INFO
+
+
+# # permits/time
+p_permits_time <- binder_unique2 %>%
+  group_by(STATE, YEAR, BURNTYPE_CLASSIFIED) %>%
+  distinct(LAT_PERMIT, LON_PERMIT) %>%
+  summarise(count = n())
+ 
+#  box plot of permited acres for broadcast over time
+p_permited_acres_broadcast <- binder_unique2 %>%
+  group_by(STATE, YEAR) %>%
+  distinct(LAT_PERMIT, LON_PERMIT) %>%
+  filter(BURNTYPE_CLASSIFIED = "Broadcast") %>%
+  summarise(sum_ = ACRES_PERMITTED) %>%
+  summarise(max_request = max(SUM_REQUESTED))
+
+# fire size histogram for permited burns 
+# percent of area permited and number of permits by entity (public vs. pvt), bar chart
+
+
 
 
 ## MAKE A MAP GRAPHIC ----
@@ -247,3 +304,45 @@ filenames <- list.files(full.names=TRUE)
 All <- lapply(filenames,function(i){
   read.csv(i, header=TRUE, skip=4)
 })
+
+
+### figuring out unique burns
+
+#######*****************2ND try 
+binder_unique2 <- binder2 %>%
+  group_by(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_CLASSIFIED, LAT_PERMIT, LON_PERMIT) %>%
+  summarise(SUM_PERMITTED = sum(ACRES_PERMITTED), across()) %>% # across retains all the rows
+  summarise(SUM_REQUESTED = sum(ACRES_REQUESTED), across()) %>%
+  summarise(SUM_COMPLETED = sum(ACRES_COMPLETED), across()) %>%
+  distinct(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_CLASSIFIED, LAT_PERMIT, LON_PERMIT, .keep_all = TRUE) %>% # keep all columns here
+  select(c(STATE, YEAR, SOURCE_ID, BURN_NAME, LAT_PERMIT, LON_PERMIT,
+           SUM_PERMITTED, SUM_REQUESTED, SUM_COMPLETED, ENTITY_REQUESTING)) #select columns I want
+
+
+
+#######*****************1st try
+# state group a: has permitted and completed
+stategroup_a <- c("CO", "NM", "WA", "WY")
+# state group b: has completed
+stategroup_b <- c("CA", "MT", "OR", "UT")
+# request only ************************add NV here
+
+# permitted and completed
+binder_perm <- binder %>%
+  filter(STATE %in% stategroup_a) %>%
+  group_by(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_REPORTED, LAT_PERMIT, LON_PERMIT) %>%
+  summarise(SUM_PERMIT_ACRES = sum(PERMITTED_ACRES), across()) %>% # across retains all the rows
+  summarise(SUM_COMPLETED_ACRES = sum(COMPLETED_ACRES), across()) %>%
+  distinct(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_REPORTED, LAT_PERMIT, LON_PERMIT, .keep_all = TRUE) # distinct will remove duplicate records, .keep all keeps all columns
+# completed only
+binder_comp <- binder %>%
+  filter(STATE %in% stategroup_b) %>%
+  group_by(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_REPORTED, LAT_PERMIT, LON_PERMIT) %>%
+  summarise(SUM_COMPLETED_ACRES = sum(COMPLETED_ACRES), across()) %>%
+  distinct(STATE, YEAR, SOURCE_ID, BURN_NAME, BURNTYPE_REPORTED, LAT_PERMIT, LON_PERMIT, .keep_all = TRUE) 
+
+# put it back together
+binder_unique <- bind_rows(binder_perm, binder_comp) %>%
+  select(-c(PERMITTED_ACRES, COMPLETED_ACRES, LEGAL_DESCRIP, TONS, PILE_VOLUME, burn_name_lower, is.pile, is.broadcast))
+
+
