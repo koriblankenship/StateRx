@@ -44,10 +44,10 @@ popup <- paste(
   "Burn Name:", burns_west$BURN_NA, "<br>",
   "Burn Type:", burns_west$BURNTYP, "<br>", 
   "Entity Requesting:", burns_west$ENTITY, "<br>",
-  "Manager Name", burns_west$Mngr_Nm, "<br>",
-  "Cover Type", burns_west$lifefrm, "<br>",
-  "Acres Permitted:", burns_west$SUM_PERMITTED,  "<br>",
-  "Max Acres Requested", burns_west$MAX_REQ,
+  "Manager Name:", burns_west$Mngr_Nm, "<br>",
+  "Cover Type:", burns_west$lifefrm, "<br>",
+  "Acres Permitted:", burns_west$SUM_PERMITTED, "<br>",
+  "Acres Max Requested:", burns_west$MAX_REQ, "<br>",
   "Acres Completed:", burns_west$SUM_COMPLETED, "<br>")
 
 # Discrete palette
@@ -57,7 +57,8 @@ pal <- colorFactor("viridis", levels = burns_west$BURNTYP)
 ## basic burn type
 leaflet() %>%
   addTiles() %>%
-  setView(-114.029336, 42.087209, zoom = 5.25) %>% #***try 5 (5.5 was too close***
+  #setView(-114.029336, 42.087209, zoom = 5.25) %>% #***try 5 (5.5 was too close***
+  setView(-114.7358292, 41.2557021, zoom = 5) %>%
   addCircleMarkers(data = burns_west,
                    radius = .25,
                    color = ~pal(BURNTYP),
@@ -67,31 +68,16 @@ leaflet() %>%
             pal = pal, values = ~BURNTYP,
             title = "Burn Type",
             opacity = 1) 
-# save as html
-# export in viewer as webpage (map.html; ok to overwrite when I update)
+
+# STEPS FOR PUBLISHING LEAFLET MAP ONLINE
+
+# save as html:
+# In R Viewer, export as webpage (map.html; ok to overwrite when I update)
 
 # build index file (only do this the first time)
 #open a new script and save
 
 # stage comit push
 # on git for this repo, set pages settings
-# wait, then get url to share
-
-## basic completed vs. not?
-
-
-
-### ARCHIVE
-
-# conus <- states() %>%
-#   filter(STUSPS %in% c("AZ", "CA", "CO", "ID", "MT", "NV", "OR")) %>%
-#   st_transform(crs = 4326)
-
-
-# get coords
-#lass(burns_west)
-burns_west_map <- burns_west %>%
-  mutate(lng = unlist(map(burns_west$geometry,1)),
-         lat = unlist(map(burns_west$geometry,2)))
-
-#class(separated_coord)
+# go to actions & wait for "pages build and development
+# click url and add "/map.html"
