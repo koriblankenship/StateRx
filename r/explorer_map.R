@@ -46,9 +46,9 @@ popup <- paste(
   "Entity Requesting:", burns_west$ENTITY, "<br>",
   "Manager Name:", burns_west$Mngr_Nm, "<br>",
   "Cover Type:", burns_west$lifefrm, "<br>",
-  "Acres Permitted:", burns_west$SUM_PERMITTED, "<br>",
+  "Acres Permitted:", burns_west$SUM_PER, "<br>",
   "Acres Max Requested:", burns_west$MAX_REQ, "<br>",
-  "Acres Completed:", burns_west$SUM_COMPLETED, "<br>")
+  "Acres Completed:", burns_west$SUM_COM, "<br>")
 
 # Discrete palette
 pal <- colorFactor("viridis", levels = burns_west$BURNTYP)
@@ -58,7 +58,7 @@ pal <- colorFactor("viridis", levels = burns_west$BURNTYP)
 leaflet() %>%
   addTiles() %>%
   #setView(-114.029336, 42.087209, zoom = 5.25) %>% #***try 5 (5.5 was too close***
-  setView(-114.7358292, 41.2557021, zoom = 5) %>%
+  setView(-114.7358292, 41.2557021, zoom = 5.4) %>% # 5.25 is too far out
   addCircleMarkers(data = burns_west,
                    radius = .25,
                    color = ~pal(BURNTYP),
