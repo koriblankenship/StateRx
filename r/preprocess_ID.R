@@ -15,9 +15,9 @@ process <- raw %>%
   mutate(DATE = mdy_hm(IssueDate)) %>%
   mutate(DATE = as.Date(DATE)) %>%
   #permitted acres
-  mutate(PERMITTED_ACRES = case_when(BurnAcres == "NULL" ~ NA,
+  mutate(ACRES_PERMITTED = case_when(BurnAcres == "NULL" ~ NA,
                                      .default = BurnAcres)) %>%
-  mutate_at("PERMITTED_ACRES", as.numeric) %>%
+  mutate_at("ACRES_PERMITTED", as.numeric) %>%
   #burn status
   mutate(BURN_STATUS = "Unknown")
 
@@ -26,8 +26,9 @@ process <- raw %>%
 id_ready <- process %>%
   #rename("SOURCE_ID" = "") %>% 
   #rename("DATE" = "") %>%
-  #rename("PERMITTED_ACRES" = "") %>%
-  #rename("COMPLETED_ACRES" = "") %>%
+  #rename("ACRES_REQUESTED = "") %>%
+  #rename("ACRES_PERMITTED" = "") %>%
+  #rename("ACRES_COMPLETED" = "") %>%
   #rename("PILE_VOLUME" = "") %>%
   #rename("BURN_NAME" = "") %>%
   rename("BURNTYPE_REPORTED" = "BurnType") %>%
@@ -37,8 +38,11 @@ id_ready <- process %>%
   #rename("LEGAL_DESCRIP" = "") %>%
   #rename("TONS" = "") %>%
   #rename("BURN_STATUS" = "") %>%
-  select(any_of(c("SOURCE_ID", "DATE", "PERMITTED_ACRES", "COMPLETED_ACRES", "PILE_VOLUME", "BURN_NAME", "BURNTYPE_REPORTED", 
-                  "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", "LEGAL_DESCRIP", "TONS", "BURN_STATUS")))
+  select(any_of(c("SOURCE_ID", "DATE", "ACRES_REQUESTED", "ACRES_PERMITTED", "ACRES_COMPLETED", "PILE_VOLUME", 
+                  "BURN_NAME", "BURNTYPE_REPORTED", "ENTITY_REQUESTING", "LAT_PERMIT", "LON_PERMIT", 
+                  "LEGAL_DESCRIP", "TONS", "BURN_STATUS"))) %>%
+  distinct()
+
 
 ###EXPORT
 

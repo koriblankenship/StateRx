@@ -33,6 +33,9 @@ process <- process %>% select(-c(file_name, M10, M1000, Rain, Time))
 
 ### PROCESS: FORMAT FOR RX DATABASE ----
 
+# source id - remove scientific notation from the source id
+process$SOURCE_ID <- format(process$SOURCE_ID, scientific = F)
+
 #lat, lon
 process2 <- process %>%
   separate_wider_delim("Legal / LatLong", "/", names = c("Legal", "latlon")) %>%
@@ -60,8 +63,9 @@ process2 <- process2 %>%
                                        .default = Owner)) %>%
 # burn status
 # data are for completed burns, but I classify status as unknown when there were no completed acres
-  mutate(BURN_STATUS = case_when(Acres <= 0 ~ "Unknown", 
-                               Acres > 0 ~ "Complete")) 
+  mutate(BURN_STATUS = case_when(is.na(Acres) ~ "Unknown",
+                                 Acres <= 0 ~ "Unknown",
+                                 Acres > 0 ~ "Complete")) 
 
 #date 
 process2$DATE <- mdy(process2$BurnDate) 
