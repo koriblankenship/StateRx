@@ -5,11 +5,6 @@ library(tigris)
 
 ### BRING IN THE DATA ----
 
-# lifeform/pad raster 
-#lf_pad <- rast("in/raster/lf_pad.tif") 
-#raster vat
-#vat <- read_csv("in/raster/lf_pad_vat.csv")
-
 # lifeform raster 
 life <- rast("in/raster/lifeform.tif") 
 
@@ -111,6 +106,23 @@ rx_west <- rx_west %>%
   mutate(Manager_Fed = case_when(Manager_Type == "Federal" ~ Manager_Name,
                                  .default = "Not Federal"))
                               
+
+### REMOVE AG POINTS
+#> 57091
+# ag_by_state <- rx_west %>%
+#   filter(lifeform == "Agriculture") #>> 569 rows
+# identify ag burns based on lifeform and ownership
+rx_west <- rx_west %>%
+  mutate(ag_remove = case_when(STATE == "ID" & lifeform == "Agriculture" & Manager_Name == "Private" ~ "remove",
+                               STATE == "WA" & lifeform == "Agriculture" & Manager_Name == "Private" ~ "remove",
+                               .default = "keep"))
+# ag_remove <- rx_west2 %>%
+#   filter(ag_remove == "remove") %>%
+#   group_by(STATE) #>> 481 rows
+# remove the ag burns
+rx_west <- rx_west %>%
+  filter(ag_remove == "keep") %>%
+  select(-ag_remove)
 
 ### EXPORT ----  
 

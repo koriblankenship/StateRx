@@ -1,159 +1,223 @@
 library(tidyverse)
-#library(sf)
 
-# GET DATA
+### GET DATA ----
 rx_west <- read_csv("out/rx_west.csv")
-#rx_west_pad <- read_csv("in/pad/rx_west_pad.csv")
 
-# PRE PROCESS THE PAD INFO
-
-# filter out ag
-# remove if lifeform is ag and pad is private
-
-# definetly don't report: CA, CO, NV
-# dont think they report: AZ
-# do report: ID
-# probably : MT
-#? : NM, OR (review flow chart), UT, WA, WY
-
-# ag_by_state <- rx_west %>%
-#   filter(lifeform == "Agriculture") #>> 569 rows
-rx_west <- rx_west %>%
-  mutate(ag_remove = case_when(STATE == "ID" & lifeform == "Agriculture" & Manager_Na == "Private" ~ "remove",
-                               STATE == "WA" & lifeform == "Agriculture" & Manager_Na == "Private" ~ "remove",
-                               .default = "keep"))
-# ag_remove <- rx_west %>%
-#   filter(ag_remove == "remove") %>%
-#   group_by(STATE) #>> 481 rows 
-
-rx_west2 <- rx_west %>%
-  filter(ag_remove == "keep") %>%
-  select(-ag_remove)
-  
-# simplify land manager classes #######UPDATE
-rx_west <- rx_west %>%
-  mutate(manager = case_when(Manager_Ty == "Local" | Manager_Ty == "Unknown" |
-                               Manager_Ty == "NGO" | Manager_Ty == "Other"  ~ "Other",
-                             is.na(Manager_Ty) ~ "Private",
-                            .default = Manager_Ty))
- 
-
-### SUMMARY INFO - PLOTS! :) ----
-
-#colors_bt <- c("#0583D2", "#61B0B7", "grey")
-colors_bt <- c("#FB6A4A", "#FED976", "grey")
-colors_bt <- c("#20639B", "#3CAEA3", "grey")
-colors_bt <- c("#20639B", "grey", "#ED553B")
 
 ### PLANNED BURNS ----
-# # planned burns (projects, units, ignitions?)/year (permits/time) 
-# remove ID?
-# CO - missing 2022 data?
-# to do: add y axis commas, font family and size, theme improvement
+
 p_plan_burns <- rx_west %>%
-  group_by(STATE, YEAR, BURNTYPE_CLASSIFIED) %>%
+  group_by(STATE, BURNTYPE_CLASSIFIED) %>%
   summarise(count = n())
-ggplot(data = p_plan_burns) +
-  aes(x = YEAR, y = count, fill = BURNTYPE_CLASSIFIED) + 
+# calculate west * redo
+# p_plan_burns_w <- p_plan_burns %>%
+#   group_by(YEAR, BURNTYPE_CLASSIFIED) %>%
+#   summarise(count = sum(count)) %>%
+#   mutate(STATE = "West")
+
+# colors_bt <- c("#20639B", "#3CAEA3", "grey")
+# colors_bt <- c("#EF2648", "#FBC800", "#5A8A91")
+colors_bt <- c("#EF2648", "grey", "black")
+p1 <- ggplot(data = p_plan_burns) +
+#ggplot(data = p_plan_burns_w) +
+  aes(x = STATE, y = count, fill = BURNTYPE_CLASSIFIED) + 
   geom_bar(position='stack', stat='identity') +
-  facet_grid(cols = vars(STATE)) +
   scale_fill_manual(values = colors_bt) + 
-  theme(axis.text.x = element_text(angle = 45, vjust = 0.5, hjust=1)) +
   theme(panel.background = element_blank()) + #remove grey background
-  #       text = element_text(size = 11, family = "A")) + #font size and style
-  scale_x_continuous(breaks = c(2018, 2021), name = "Year") + #x breaks and label
-  scale_y_continuous("Number of planned burns") + #y label
+  theme(text = element_text(size = 6)) +
+  scale_y_continuous(
+    breaks = c(5000, 10000, 15000),
+    labels = c("5,000", "10,000", "15,000"),
+    name = "Number of planned burns") +
+  scale_x_discrete(name = "State") + # x label
   labs(fill = "Burn type")  #legend label
+p1
+ggsave(plot = p1, width = 5.5, height = 2, dpi = 300, filename = "out/plot/p1.jpg")
 
-## PLANNED V. COMPLETE ----
-# planned acres
 
-#options(scipen=999)
-p_plan_acres <- rx_west %>%
+## PLANNED/REQUESTED V. COMPLETE ----
+
+options(scipen=999)
+
+# plan/request acres 
+acre_plan <- rx_west %>%
   filter(BURNTYPE_CLASSIFIED == "Broadcast") %>%
-  group_by(STATE, YEAR) %>%
-  summarise(acre_plan = sum(ACRE_PLANNED)) 
-# ggplot(data = p_plan_acres) +
-#   aes(x = YEAR, y = acre_plan) + 
-#   geom_bar(position='stack', stat='identity') +
-#   facet_grid(cols = vars(STATE)) 
-
-#  completed acres for broadcast over time (no complete acres for nv and id)
-p_complete_broadcast <- rx_west %>%
+  mutate(acre_planned = case_when(SUM_PERMIT > 0 ~ SUM_PERMIT,
+                                  MAX_REQUEST > 0 ~ MAX_REQUEST,
+                                  .default = 0)) %>%
+  group_by(STATE) %>%
+  summarise(Planned = sum(acre_planned)) 
+# completed acres 
+acre_comp <- rx_west %>%
   filter(BURNTYPE_CLASSIFIED == "Broadcast") %>%
-  group_by(STATE, YEAR) %>%
-  summarise(acre_complete = sum(SUM_COMPLETE))  
-# ggplot(p_complete_broadcast, aes(x = STATE, y = acre_complete)) +
-#   geom_boxplot() 
+  group_by(STATE) %>%
+  summarise(Completed = sum(SUM_COMPLETE))  
+# plan + complete 
+p_plan_comp <- full_join(acre_plan, acre_comp)
+p_plan_comp <- p_plan_comp %>% 
+  filter(Planned > 0) %>%
+  filter(Completed > 0) %>%
+  pivot_longer(cols=c("Planned", "Completed"),
+               names_to = "Status",
+               values_to = "Acres") 
 
-# plan complete side by side
-p_plan_complete2 <- left_join(p_plan_acres, p_complete_broadcast)
-p_plan_complete2 <- p_plan_complete2 %>% 
-  pivot_longer(cols=c("acre_plan", "acre_complete"),
-               names_to = "status",
-               values_to = "acres") 
+# calculate west
+# p_plan_complete2_w <- p_plan_complete2 %>% 
+#   group_by(YEAR, status) %>%
+#   summarise(acres = sum(acres)) %>%
+#   mutate(STATE = "West")
 
-ggplot(data = p_plan_complete2) +
-  aes(x = YEAR, y = acres, fill = status) + 
-  geom_bar(stat='identity', width=.5, position = "dodge") +
-  facet_grid(cols = vars(STATE)) 
+# reorder to get complete at bottom
+p_plan_comp$Status <- factor(p_plan_comp$Status, levels=c('Planned', 'Completed'))
 
+colors2 <- c("#92c2cc", "#067d93")
+p2 <- ggplot(p_plan_comp) +
+  aes(x = STATE, y = Acres, fill = Status) + 
+  geom_bar(stat='identity') +
+  scale_fill_manual(values = colors2) + 
+  scale_y_continuous(
+    breaks = c(500000, 1000000, 1500000, 2000000),
+    labels = c(".5 M", "1 M", "1.5 M", "2 M")) +
+  scale_x_discrete(name = "State") + # x label
+  labs(fill = "Burn status") + #legend label
+  theme(panel.background = element_blank()) + #remove grey background
+  theme(text = element_text(size = 6)) 
+p2
+ggsave(plot = p2, width = 5.5, height = 2, dpi = 300, filename = "out/plot/p2.jpg")
 
-# plan and complete acres - stacked bar
-# OR? planned = complete? # there are not planned acres in OR - need to adjust the planned code? 
-# deal with negative values
-# double check states that report only planned or only compelted ***************
-p_plan_complete <- left_join(p_plan_acres, p_complete_broadcast)
-# PLANNED - COMPLETED 
-p_plan_complete <- p_plan_complete %>%
-  mutate(plan_not_com = acre_plan - acre_complete)
-
-p_plan_complete <- p_plan_complete %>% 
-  pivot_longer(cols=c("plan_not_com", "acre_complete"),
-               names_to = "status",
-               values_to = "acres") 
- # drop_na() ####?????? make 0?
-
-ggplot(data = p_plan_complete) +
-  aes(x = YEAR, y = acres, fill = status) + 
-  geom_bar(position='stack', stat='identity') +
-  facet_grid(cols = vars(STATE)) 
+#plot west
+# ggplot(p_plan_complete2_w) +
+#   aes(x = YEAR, y = acres, fill = status) + 
+#   geom_bar(stat='identity') +
+#   facet_grid(cols = vars(STATE)) +
+#   scale_x_continuous(breaks = c(2018, 2021), name = "Year") #x breaks and label
 
 
-### BROADCAST BURNS BY OWNERSHIP
-p_bcast_owner_countcomp <- rx_west %>%
+### BROADCAST ACRES COMPLETE BY OWNERSHIP
+
+p_owner <- rx_west %>%
   filter(BURNTYPE_CLASSIFIED == "Broadcast") %>%
   filter(SUM_COMPLETE > 0) %>%
-  group_by(STATE, Manager_Na) %>%
-  summarise(count = n())
-p_bcast_owner_accomp <- rx_west %>%
-  filter(BURNTYPE_CLASSIFIED == "Broadcast") %>%
-  filter(SUM_COMPLETE > 0) %>%
-  group_by(STATE, Manager_Na) %>%
-  summarise(ac_comp = sum(SUM_COMPLETE))
-#p_bcast_owner <- full_join(p_bcast_owner_countcomp, p_bcast_owner_accomp)
+  group_by(STATE, Manager_Type) %>%
+  summarise(acres = sum(SUM_COMPLETE))
+# add proportion
+acre_state <- p_owner %>%
+  group_by(STATE) %>%
+  summarise(acre_state = sum(acres)) 
+p_owner_percent <- left_join(p_owner, acre_state)
+p_owner_percent <- p_owner_percent %>%
+  mutate(percent = ((acres/acre_state)*100))
+            
+# calculate west
+# p_bcast_owner_accomp_w <- p_bcast_owner_accomp %>% 
+#   group_by(Manager_Type) %>%
+#   summarise(acres = sum(acres)) %>%
+#   mutate(STATE = "West")
 
-ggplot(data = p_bcast_owner_countcomp) +
-  aes(x = STATE, y = count, fill = Manager_Na) + 
-  geom_bar(position='stack', stat='identity') 
-ggplot(data = p_bcast_owner_accomp) +
-  aes(x = STATE, y = ac_comp, fill = Manager_Na) + 
-  geom_bar(position='stack', stat='identity') 
+# reorder to get complete at bottom
+p_owner_percent$Manager_Type <- factor(p_owner_percent$Manager_Type, 
+                               levels=c('Other', 'Private', 'State', 'Federal'))
+# colors
+colors3 <- c("#0F4C81", "#E9B666", "#5C9090", "#BFD0CA")
+#"#A5B2B5" 
+p3 <- ggplot(p_owner_percent) +
+  aes(x = STATE, y = percent, fill = Manager_Type) + 
+  geom_bar(stat='identity') +
+  scale_fill_manual(values = colors3) + 
+  scale_y_continuous("Area broadcast burned (%)") +
+  scale_x_discrete(name = "State") + # x label
+  labs(fill = "Manager type") + #legend label
+  theme(panel.background = element_blank()) + #remove grey background
+  theme(text = element_text(size = 6)) 
+p3
+ggsave(plot = p3, width = 4.5, height = 2, dpi = 300, filename = "out/plot/p3.jpg")
+
 
 ### AVERAGE SIZE OF COMPLETED BURNS
 # average completed fire size - bar plot
-#ID has not data on completed
+#ID and NV have not data on completed
 p_complete_firesize <- rx_west %>%
   filter(BURNTYPE_CLASSIFIED == "Broadcast") %>%
   filter(SUM_COMPLETE > 0) %>%
   group_by(STATE) 
-ggplot(p_complete_firesize, aes(x = STATE, y = SUM_COMPLETE)) +
-  geom_boxplot() 
+p4 <- ggplot(p_complete_firesize, aes(x = STATE, y = SUM_COMPLETE)) +
+  geom_boxplot(outlier.shape = NA) + # remove the outliers
+  labs(x = "State", y = "Area burned (acres)") +
+  theme(panel.background = element_blank()) + #remove grey background
+  theme(text = element_text(size = 6)) +
+  ylim(0, 1200) +
+  theme(text = element_text(size = 6)) 
+p4
+ggsave(plot = p4, width = 4.5, height = 2, dpi = 300, filename = "out/plot/p4.jpg")
+
+
+
+
+  
 
 
 
 
 #### OTHER STUFF ----
+
+### --- ownership
+
+# this is my draft graph
+ggplot(data = p_owner) +
+  aes(x = STATE, y = acres, fill = Manager_Type) + 
+  geom_bar(position='stack', stat='identity') 
+
+# started this but then thought percent by ownership would be better
+# reorder 
+p_owner$Manager_Type <- factor(p_owner$Manager_Type, 
+                               levels=c('Other', 'Private', 'State', 'Federal'))
+# colors
+colors3 <- c("#0F4C81", "#E9B666", "#A5B2B5", "#BFD0CA")
+
+p3 <- ggplot(p_owner) +
+  aes(x = STATE, y = acres, fill = Manager_Type) + 
+  geom_bar(stat='identity') +
+  scale_fill_manual(values = colors3) + 
+  scale_y_continuous(
+    breaks = c(500000, 1000000, 1500000, 2000000),
+    labels = c(".5 M", "1 M", "1.5 M", "2 M")) +
+  scale_x_discrete(name = "State") + # x label
+  labs(fill = "Burn status") + #legend label
+  theme(panel.background = element_blank()) + #remove grey background
+  theme(text = element_text(size = 6)) 
+p3
+ggsave(plot = p2, width = 5.5, height = 2, dpi = 300, filename = "out/plot/p2.jpg")
+
+
+# west
+# ggplot(data = p_bcast_owner_accomp_w) +
+#   aes(x = STATE, y = acres, fill = Manager_Type) + 
+#   geom_bar(position='stack', stat='identity') 
+
+### --- end ownership
+
+# FED
+p_bcast_fed_accomp <- rx_west %>%
+  filter(BURNTYPE_CLASSIFIED == "Broadcast") %>%
+  filter(SUM_COMPLETE > 0) %>%
+  group_by(STATE, Manager_Fed) %>%
+  summarise(ac_comp = sum(SUM_COMPLETE))
+ggplot(data = p_bcast_fed_accomp) +
+  aes(x = STATE, y = ac_comp, fill = Manager_Fed) + 
+  geom_bar(position='stack', stat='identity') 
+
+
+# Count of completed burns by ownership
+p_bcast_owner_countcomp <- rx_west %>%
+  filter(BURNTYPE_CLASSIFIED == "Broadcast") %>%
+  filter(SUM_COMPLETE > 0) %>%
+  group_by(STATE, Manager_Type) %>%
+  summarise(count = n())
+ggplot(data = p_bcast_owner_countcomp) +
+  aes(x = STATE, y = count, fill = Manager_Type) + 
+  geom_bar(position='stack', stat='identity') 
+
+
 
 # fire size, planned burns, boxplot
 p_plan_firesize <- rx_west %>%

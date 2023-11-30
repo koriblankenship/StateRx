@@ -1,0 +1,12 @@
+STATE,PERMIT,REQUEST,COMPLETE,NOTE
+CA,FALSE,TRUE,TRUE,
+UT,FALSE,FALSE,TRUE,requests and permits available but difficult to process
+CO,TRUE,FALSE,TRUE,
+MT,FALSE,TRUE,TRUE,
+NM,TRUE,FALSE,TRUE,
+OR,FALSE,FALSE,TRUE,requests available but didn't have time to process
+WA,TRUE,TRUE,TRUE,
+WY,TRUE,FALSE,TRUE,
+AZ,FALSE,TRUE,TRUE,"questionable veracity on requests, sometimes large acres requested to base emissions claculations on and give burners leaway even when they don't intend to burn that much"
+ID,TRUE,FALSE,FALSE,no info on completed
+NV,FALSE,TRUE,FALSE,no info on completed

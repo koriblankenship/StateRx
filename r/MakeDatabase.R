@@ -156,6 +156,13 @@ rx <- rx %>%
 # write out rx so it can be used in the spatial operations script
 write_csv(rx, "out/rx.csv")
 
+
+
+
+
+
+
+### THIS WAS MOVED, DELETE WHEN COMFORTABLE
 #***********************************************************************************
 ### SPATIAL OPERATIONS ----
 # To do: remove clip to west when lat/lon is fixed 
