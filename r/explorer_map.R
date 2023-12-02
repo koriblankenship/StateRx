@@ -6,7 +6,7 @@ library(leaflet)
 
 ### BRING IN THE DATA ----
 #df <- read_csv("out/rx_west.csv") #> 56,610 rows
-burns_west <- st_read("out/shp/rx_west.shp") %>% # 57,091 rows
+burns_west <- st_read("out/shp/rx_west.shp") %>% #> 56,610 rows
   st_transform(crs = 4326) # try going back to decimal degrees for mapping
 
 

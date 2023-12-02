@@ -9,33 +9,33 @@ rx_west <- read_csv("out/rx_west.csv")
 p_plan_burns <- rx_west %>%
   group_by(STATE, BURNTYPE_CLASSIFIED) %>%
   summarise(count = n())
-# calculate west * redo
-# p_plan_burns_w <- p_plan_burns %>%
-#   group_by(YEAR, BURNTYPE_CLASSIFIED) %>%
-#   summarise(count = sum(count)) %>%
-#   mutate(STATE = "West")
+#check <- sum(p_plan_burns$count)
 
-# colors_bt <- c("#20639B", "#3CAEA3", "grey")
-# colors_bt <- c("#EF2648", "#FBC800", "#5A8A91")
-colors_bt <- c("#EF2648", "grey", "black")
+# calculate west
+p_plan_burns_w <- p_plan_burns %>%
+  group_by(BURNTYPE_CLASSIFIED) %>%
+  summarise(count = sum(count)) 
+# Westwide - 8 times more pile than broadcast burn records.
+
+#colors1 <- c("#EF2648", "grey", "black")
+colors1 <- c("#F99301", "grey", "black")
 p1 <- ggplot(data = p_plan_burns) +
-#ggplot(data = p_plan_burns_w) +
   aes(x = STATE, y = count, fill = BURNTYPE_CLASSIFIED) + 
   geom_bar(position='stack', stat='identity') +
-  scale_fill_manual(values = colors_bt) + 
+  scale_fill_manual(values = colors1) + 
   theme(panel.background = element_blank()) + #remove grey background
   theme(text = element_text(size = 6)) +
   scale_y_continuous(
-    breaks = c(5000, 10000, 15000),
-    labels = c("5,000", "10,000", "15,000"),
+    breaks = c(0, 5000, 10000, 15000),
+    labels = c("0", "5,000", "10,000", "15,000"),
     name = "Number of planned burns") +
   scale_x_discrete(name = "State") + # x label
   labs(fill = "Burn type")  #legend label
 p1
-ggsave(plot = p1, width = 5.5, height = 2, dpi = 300, filename = "out/plot/p1.jpg")
+ggsave(plot = p1, width = 4.5, height = 2, dpi = 300, filename = "out/plot/p1.jpg")
 
 
-## PLANNED/REQUESTED V. COMPLETE ----
+## PLANNED/REQUESTED V. COMPLETE BROADCAST ----
 
 options(scipen=999)
 
@@ -52,6 +52,8 @@ acre_comp <- rx_west %>%
   filter(BURNTYPE_CLASSIFIED == "Broadcast") %>%
   group_by(STATE) %>%
   summarise(Completed = sum(SUM_COMPLETE))  
+#sum_broadcast_comp <- sum(acre_comp$Completed) # 1,345,896 acres westwide over 7 years
+
 # plan + complete 
 p_plan_comp <- full_join(acre_plan, acre_comp)
 p_plan_comp <- p_plan_comp %>% 
@@ -62,38 +64,35 @@ p_plan_comp <- p_plan_comp %>%
                values_to = "Acres") 
 
 # calculate west
-# p_plan_complete2_w <- p_plan_complete2 %>% 
-#   group_by(YEAR, status) %>%
-#   summarise(acres = sum(acres)) %>%
-#   mutate(STATE = "West")
+p_plan_comp_w <- p_plan_comp %>%
+  group_by(Status) %>%
+  summarise(Acres = sum(Acres)) %>%
+  mutate(TotalAcres = sum(Acres)) %>%
+  mutate(percent = Acres/TotalAcres)
+#Westwide – 23 % of planned broadcast burns are completed. 
 
 # reorder to get complete at bottom
 p_plan_comp$Status <- factor(p_plan_comp$Status, levels=c('Planned', 'Completed'))
 
-colors2 <- c("#92c2cc", "#067d93")
+#colors2 <- c("#92c2cc", "#067d93")
+colors2 <- c("#F7BC00", "#F56300")
 p2 <- ggplot(p_plan_comp) +
   aes(x = STATE, y = Acres, fill = Status) + 
   geom_bar(stat='identity') +
   scale_fill_manual(values = colors2) + 
   scale_y_continuous(
-    breaks = c(500000, 1000000, 1500000, 2000000),
-    labels = c(".5 M", "1 M", "1.5 M", "2 M")) +
+    breaks = c(0, 500000, 1000000, 1500000, 2000000),
+    labels = c("0", ".5 M", "1 M", "1.5 M", "2 M"),
+    name = "Area broadcast burned (acres)") +
   scale_x_discrete(name = "State") + # x label
   labs(fill = "Burn status") + #legend label
   theme(panel.background = element_blank()) + #remove grey background
   theme(text = element_text(size = 6)) 
 p2
-ggsave(plot = p2, width = 5.5, height = 2, dpi = 300, filename = "out/plot/p2.jpg")
-
-#plot west
-# ggplot(p_plan_complete2_w) +
-#   aes(x = YEAR, y = acres, fill = status) + 
-#   geom_bar(stat='identity') +
-#   facet_grid(cols = vars(STATE)) +
-#   scale_x_continuous(breaks = c(2018, 2021), name = "Year") #x breaks and label
+ggsave(plot = p2, width = 4.5, height = 2, dpi = 300, filename = "out/plot/p2.jpg")
 
 
-### BROADCAST ACRES COMPLETE BY OWNERSHIP
+### PROPORTION OF BROADCAST ACRES COMPLETED BY OWNERSHIP
 
 p_owner <- rx_west %>%
   filter(BURNTYPE_CLASSIFIED == "Broadcast") %>%
@@ -109,17 +108,21 @@ p_owner_percent <- p_owner_percent %>%
   mutate(percent = ((acres/acre_state)*100))
             
 # calculate west
-# p_bcast_owner_accomp_w <- p_bcast_owner_accomp %>% 
-#   group_by(Manager_Type) %>%
-#   summarise(acres = sum(acres)) %>%
-#   mutate(STATE = "West")
+p_owner_percent_w <- p_owner_percent %>%
+  group_by(Manager_Type) %>%
+  summarise(Acres = sum(acres)) %>%
+  mutate(TotalAcres = sum(Acres)) %>%
+  mutate(percent = Acres/TotalAcres)
+# Westwide - Federal lands account for 78% of the area broadcast burned. 
+# Westwide - 78% of the  area broadcast burned is on federal lands.
 
 # reorder to get complete at bottom
 p_owner_percent$Manager_Type <- factor(p_owner_percent$Manager_Type, 
                                levels=c('Other', 'Private', 'State', 'Federal'))
 # colors
-colors3 <- c("#0F4C81", "#E9B666", "#5C9090", "#BFD0CA")
-#"#A5B2B5" 
+#colors3 <- c("#0F4C81", "#E9B666", "#5C9090", "#BFD0CA")
+colors3 <- c("#0F4C81", "#778899", "#5C9090", "#BFD0CA")
+
 p3 <- ggplot(p_owner_percent) +
   aes(x = STATE, y = percent, fill = Manager_Type) + 
   geom_bar(stat='identity') +
@@ -140,14 +143,24 @@ p_complete_firesize <- rx_west %>%
   filter(BURNTYPE_CLASSIFIED == "Broadcast") %>%
   filter(SUM_COMPLETE > 0) %>%
   group_by(STATE) 
+
+# calculate west
+comp_size_w_median <- median(p_complete_firesize$SUM_COMPLETE)
+comp_size_w_mean <- mean(p_complete_firesize$SUM_COMPLETE)
+# Westwide - Median completed broadcast burn size is 70 acres.; mean is 331 acres.
+
 p4 <- ggplot(p_complete_firesize, aes(x = STATE, y = SUM_COMPLETE)) +
   geom_boxplot(outlier.shape = NA) + # remove the outliers
-  labs(x = "State", y = "Area burned (acres)") +
+  labs(x = "State", y = "Broadcast burn size (acres)") + 
   theme(panel.background = element_blank()) + #remove grey background
   theme(text = element_text(size = 6)) +
-  ylim(0, 1200) +
+  scale_y_continuous(
+    breaks = c(0, 300, 600, 900, 1200),
+    labels = c("0", "300", "600", "900", "1200"),
+    limits = c(0,1300)) +
   theme(text = element_text(size = 6)) 
 p4
+# a warning message is generated b/c I'm cutting off all the outliers above 1300 (y lim)
 ggsave(plot = p4, width = 4.5, height = 2, dpi = 300, filename = "out/plot/p4.jpg")
 
 

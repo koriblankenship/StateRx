@@ -10,6 +10,7 @@ life <- rast("in/raster/lifeform.tif")
 
 # pad raster & agency name xwalk table
 pad <- rast("in/raster/pad.tif") 
+pad_dod_tribe <- rast("in/raster/pad_dod_trib.tif")
 #agency <- read_csv("in/raster/Agency_Name.csv") %>% ### may not need this
 #  select(-c(OID_, Code, Dom))
 
@@ -77,6 +78,8 @@ extract_life <- terra::extract(life, vect(rx_buf)) %>%
   rename(lifeform = EVT_LF_1)
 
 # extract pad
+# this is the fee data and supplies most of the managment info we need.
+# a few important DOD facilities and American Indian Lands are not included.
 extract_pad <- terra::extract(pad, vect(rx_buf)) %>% 
   count(ID, Manager_Na) %>% # count pad manager by rx burn ID
   group_by(ID) %>%  #group by rx burn id
@@ -84,13 +87,31 @@ extract_pad <- terra::extract(pad, vect(rx_buf)) %>%
   ungroup() %>%
   rename(Manager_Name = Manager_Na)
 
+# extract pad - dod_trib
+# this is designation data for dod and tribal lands that are not present in the fee data
+extract_pad_dod_tribe <- terra::extract(pad_dod_tribe, vect(rx_buf)) %>% 
+  count(ID, Mang_Name) %>% # count pad manager by rx burn ID
+  group_by(ID) %>%  #group by rx burn id
+  slice(which.max(n)) %>% #retains only the row w/ the highest count for each ID/value combo
+  ungroup()
+
 #join the  attributes to rx_west
-#max pad and lifeform
+#max pad and lifeform and dod/tribe
 rx_west <- rx_west %>%
   bind_cols(extract_life %>%
               select(-ID, -n)) %>%
   bind_cols(extract_pad %>%
+              select(-ID, -n)) %>%
+  bind_cols(extract_pad_dod_tribe %>%
               select(-ID, -n))
+# update the pad manager field w/ dod and tribe only on what is considered private in pad
+rx_west <- rx_west %>%
+  mutate(Manager_Name = case_when(Manager_Name == "Private" & Mang_Name == "DOD" 
+                                 ~ "Department of Defense",
+                                 Manager_Name == "Private" & Mang_Name == "TRIB"
+                                 ~ "American Indian Lands",
+                                 .default = Manager_Name)) %>%
+  select(-Mang_Name) # get rid of the column with the dod/tribe info
 # classify manager type
 rx_west <- rx_west %>%
   mutate(Manager_Type = case_when(Manager_Name == "State" ~ "State",
@@ -99,6 +120,7 @@ rx_west <- rx_west %>%
                                     Manager_Name == "Bureau of Land Management" |
                                     Manager_Name == "Fish and Wildlife Service" |
                                     Manager_Name == "National Park Service" |
+                                    Manager_Name == "Department of Defense" |
                                     Manager_Name == "Other Federal" ~ "Federal",
                                   .default = "Other"))
 # classify manager federal
