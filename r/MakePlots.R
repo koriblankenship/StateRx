@@ -28,7 +28,7 @@ p1 <- ggplot(data = p_plan_burns) +
   scale_y_continuous(
     breaks = c(0, 5000, 10000, 15000),
     labels = c("0", "5,000", "10,000", "15,000"),
-    name = "Number of planned burns") +
+    name = "Number of reported burns") +
   scale_x_discrete(name = "State") + # x label
   labs(fill = "Burn type")  #legend label
 p1
