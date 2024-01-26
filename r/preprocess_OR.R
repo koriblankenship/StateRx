@@ -1,5 +1,7 @@
 # This script takes OR "accomplished" data and processes it so it is ready to be used in the Rx database.
-# OR also has "Planned" data, which could be added here to understand what is planned but not accomplished.
+# Accomplishments are reported daily for a unit.
+# OR also has "Planned" data, but these are daily requests, and 
+# I couldn't figure out how to calc planned acres from it.
 
 library(tidyverse)
 
@@ -96,9 +98,3 @@ or_ready <- process2 %>%
 ### EXPORT ----
 
 write_csv(or_ready, "out/or_ready.csv")
-
-
-### NOTE ----
-# the output csv contains a burn name formatted as a date in excel. 
-# the burn name is "March 22", entity requesting was "Petersen Forests LLC"
-# check that the name comes back into the RX database as "March 22"

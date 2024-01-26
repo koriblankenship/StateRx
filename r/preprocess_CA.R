@@ -26,7 +26,7 @@ process <- raw %>%
 #date
   mutate(DATE = mdy(Burn.Date)) %>%
   mutate(DATE = as.Date(DATE)) %>%
-#permitted acres
+#requested acres
   mutate(ACRES_REQUESTED = as.numeric(Acres.Requested)) %>%
 #burn status
   mutate(BURN_STATUS = case_when(Acres.Burned == 0 ~ "Incomplete",

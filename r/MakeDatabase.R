@@ -16,7 +16,10 @@ ca <- read_csv("out/ca_ready.csv") %>%
   mutate(STATE = "CA")
 co <- read_csv("out/co_ready.csv") %>%
   mutate(STATE = "CO")
-id <- read_csv("out/id_ready_DRAFT.csv") %>% # DRAFT DATA 
+# id <- read_csv("out/id_ready_DRAFT.csv") %>% # data from IDL; prefer AMS data
+#   mutate(STATE = "ID")
+id <- read_csv("out/id_AMS_ready.csv") %>% # data from ID/MT airshed
+  mutate_at("SOURCE_ID", as.character) %>%
   mutate(STATE = "ID")
 mt <- read_csv("out/mt_ready.csv") %>% 
   mutate_at("SOURCE_ID", as.character) %>%
@@ -77,7 +80,11 @@ binder <- binder %>%
 ## Classify Burn Type
 # use keywords found in burn name to classify rows where burn type is unknown
 # join the xwalk to classify the burn types reported into standard classes
-binder <- left_join(binder, burn_class)
+binder <- left_join(binder, burn_class) %>%
+  #classify the remaining NA values as Unknown
+  mutate(BURNTYPE_CLASSIFIED = case_when(is.na(BURNTYPE_CLASSIFIED) ~ "Unknown",
+                                          .default = BURNTYPE_CLASSIFIED)) 
+
 # list the keywords for burn types
 keywords_pile <- c("pile", "piles", "handpile", "handpiles")
 keywords_broadcast <- c("broadcast", "natural fuel", "underburn", "understory", "prescribed burn", "rx burn")
@@ -86,15 +93,16 @@ binder <- binder %>%
   rowwise() %>%
   mutate(is.pile = str_detect(burn_name_lower, paste0(keywords_pile, collapse = '|'))) %>%
   mutate(is.broadcast = str_detect(burn_name_lower, paste0(keywords_broadcast, collapse = '|')))
-# classify unknown burn types based on the keywords in the burn name
+# classify burn types based on the keywords in the burn name
 binder <- binder %>%
   mutate(BURNTYPE_CLASSIFIED = case_when(
-    BURNTYPE_CLASSIFIED == "Unknown" | is.na(BURNTYPE_CLASSIFIED) & is.pile == TRUE & is.broadcast == FALSE ~ "Pile", 
-    BURNTYPE_CLASSIFIED == "Unknown" | is.na(BURNTYPE_CLASSIFIED) & is.pile == FALSE & is.broadcast == TRUE ~ "Broadcast", 
+    # in ID I was told Range and Wildlife Habitat burns were broadcast, but if pile is in the name I call them pile, 
+    # else they stay as broadcast per the burn_class lookup table
+    BURNTYPE_REPORTED == "Range" & is.pile == TRUE ~ "Pile",
+    BURNTYPE_REPORTED == "Wildlife Habitat" & is.pile == TRUE ~ "Pile",
+    BURNTYPE_CLASSIFIED == "Unknown" & is.pile == TRUE & is.broadcast == FALSE ~ "Pile", 
+    BURNTYPE_CLASSIFIED == "Unknown" & is.pile == FALSE & is.broadcast == TRUE ~ "Broadcast",
     .default = BURNTYPE_CLASSIFIED)) 
-binder <- binder %>%
-  mutate(BURNTYPE_CLASSIFIED = case_when(is.na(BURNTYPE_CLASSIFIED) ~ "Unknown",
-                                         .default = BURNTYPE_CLASSIFIED))
 
 ## Adjust NA values in summary fields
 # step 1: make a field to track if a record had the info
